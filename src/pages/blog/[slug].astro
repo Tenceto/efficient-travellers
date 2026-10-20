@@ -12,6 +12,8 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const coverImage = entry.data.coverImage.startsWith('/') ? `${base}${entry.data.coverImage.replace(/^\/+/, '')}` : entry.data.coverImage;
 const { Content, headings } = await render(entry);
 const tocHeadings = headings.filter((h) => h.depth === 2);
 ---
@@ -21,11 +23,11 @@ const tocHeadings = headings.filter((h) => h.depth === 2);
   description={`Efficient travel itinerary, tips, authentic experiences, and food guide for ${entry.data.title}.`}
   activeNav="blog"
 >
-  <section class="page-hero" style={`background-image: url('${entry.data.coverImage}'); min-height: 380px;`}>
+  <section class="page-hero" style={`background-image: url('${coverImage}'); min-height: 380px;`}>
     <div class="page-hero-content">
       <div style="margin-bottom: 12px;">
         <a
-          href="/blog/"
+          href={`${base}blog/`}
           style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; border-radius: 999px; background: rgba(173, 239, 209, 0.22); color: var(--color-mint); font-size: 0.82rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em;"
         >
           &larr; {entry.data.region}
@@ -64,7 +66,7 @@ const tocHeadings = headings.filter((h) => h.depth === 2);
       )}
 
       <div style="margin-top: 24px; padding-top: 16px; border-top: 1px solid rgba(255,255,255,0.14);">
-        <a href="/blog/" style="color: var(--color-mint); font-size: 0.88rem; font-weight: 600;">
+        <a href={`${base}blog/`} style="color: var(--color-mint); font-size: 0.88rem; font-weight: 600;">
           &larr; All Destinations
         </a>
       </div>

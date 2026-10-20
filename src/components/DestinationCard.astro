@@ -18,8 +18,10 @@ interface Props {
 }
 
 const { slug, title, region, status, cardImage, highlights, hasRatings, ratings } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const imageSrc = cardImage.startsWith('/') ? `${base}${cardImage.replace(/^\/+/, '')}` : cardImage;
 const isClickable = status === 'published' || status === 'wip';
-const href = isClickable ? `/blog/${slug}/` : undefined;
+const href = isClickable ? `${base}blog/${slug}/` : undefined;
 ---
 
 <article class="dest-card" data-region={region} data-status={status}>
@@ -68,10 +70,10 @@ const href = isClickable ? `/blog/${slug}/` : undefined;
   <div class="dest-card-img-wrap">
     {href ? (
       <a href={href} tabindex="-1" aria-hidden="true">
-        <img src={cardImage} alt={title} loading="lazy" />
+        <img src={imageSrc} alt={title} loading="lazy" />
       </a>
     ) : (
-      <img src={cardImage} alt={title} loading="lazy" />
+      <img src={imageSrc} alt={title} loading="lazy" />
     )}
   </div>
 </article>

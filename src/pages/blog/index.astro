@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import DestinationCard from '../../components/DestinationCard.astro';
 import { getCollection } from 'astro:content';
 
+const base = import.meta.env.BASE_URL;
 const allDestinations = (await getCollection('destinations')).sort(
   (a, b) => a.data.order - b.data.order
 );
@@ -15,7 +16,7 @@ const regions = ['Asia', 'Europe', 'Latin America', 'United States', 'Africa'] a
   description="Browse all 21 travel itineraries and efficiency guides across Asia, Europe, Latin America, the United States, and Africa."
   activeNav="blog"
 >
-  <section class="page-hero" style="background-image: url('/images/home/destinations-hero.jpeg');">
+  <section class="page-hero" style={`background-image: url('${base}images/home/destinations-hero.jpeg');`}>
     <div class="page-hero-content">
       <h1>DESTINATIONS</h1>
       <p>Our Journey Begins Here &mdash; Make every moment count with efficient solutions</p>

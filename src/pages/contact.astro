@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL;
 ---
 
 <BaseLayout
@@ -7,7 +9,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   description="Have a question about one of our itineraries, local driver contacts, or travel recommendations? Send us a message!"
   activeNav="contact"
 >
-  <section class="page-hero" style="background-image: url('/images/home/destinations-hero.jpeg'); min-height: 260px;">
+  <section class="page-hero" style={`background-image: url('${base}images/home/destinations-hero.jpeg'); min-height: 260px;`}>
     <div class="page-hero-content">
       <h1>Contact Us</h1>
       <p>Please let us know if we can help with itineraries, local guide contacts, or travel tips!</p>

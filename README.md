@@ -25,7 +25,7 @@ npm run dev
 
 1. Create a new repository on GitHub (e.g. `efficient-travellers` or `<username>.github.io`).
 2. If deploying to a project subpath (`https://<username>.github.io/efficient-travellers/`), add `base: '/efficient-travellers'` to `astro.config.mjs`. If deploying to `<username>.github.io` or a custom domain, keep `astro.config.mjs` as-is.
-3. In your GitHub repo, go to **Settings → Pages → Build and deployment** and set **Source** to **GitHub Actions**.
+3. In the GitHub repo, go to **Settings → Pages → Build and deployment** and set **Source** to **GitHub Actions**.
 4. Push this repository:
    ```bash
    git remote add origin git@github.com:<username>/<repo>.git

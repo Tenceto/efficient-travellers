@@ -1,0 +1,77 @@
+---
+import StarRating from './StarRating.astro';
+
+interface Props {
+  slug: string;
+  title: string;
+  region: string;
+  status: 'published' | 'wip' | 'pending';
+  cardImage: string;
+  highlights: string[];
+  hasRatings: boolean;
+  ratings: {
+    budget: number;
+    adventure: number;
+    food: number;
+    overall: number;
+  };
+}
+
+const { slug, title, region, status, cardImage, highlights, hasRatings, ratings } = Astro.props;
+const isClickable = status === 'published' || status === 'wip';
+const href = isClickable ? `/blog/${slug}/` : undefined;
+---
+
+<article class="dest-card" data-region={region} data-status={status}>
+  <div class="dest-card-body">
+    <div class="dest-card-top">
+      <h3 class="dest-card-title">
+        {href ? <a href={href}>{title}</a> : title}
+      </h3>
+      {status === 'published' && <span class="status-badge status-published">Guide</span>}
+      {status === 'wip' && <span class="status-badge status-wip">WIP</span>}
+      {status === 'pending' && <span class="status-badge status-pending">Coming Soon</span>}
+    </div>
+
+    {highlights.length > 0 && (
+      <ul class="dest-highlights">
+        {highlights.map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+    )}
+
+    {hasRatings && (
+      <div class="dest-ratings">
+        <StarRating label="Budget-friendly" score={ratings.budget} />
+        <StarRating label="Adventure" score={ratings.adventure} />
+        <StarRating label="Food" score={ratings.food} />
+        <StarRating label="Overall" score={ratings.overall} />
+      </div>
+    )}
+
+    <div class="dest-card-action">
+      {status === 'published' ? (
+        <a href={href} class="btn btn-primary" id={`card-btn-${slug}`}>
+          Read Guide &rarr;
+        </a>
+      ) : status === 'wip' ? (
+        <a href={href} class="btn btn-primary" style="opacity: 0.85;" id={`card-btn-${slug}`}>
+          Preview (Work in Progress)
+        </a>
+      ) : (
+        <span style="font-size: 0.9rem; font-weight: 600; opacity: 0.75;">Pending publication</span>
+      )}
+    </div>
+  </div>
+
+  <div class="dest-card-img-wrap">
+    {href ? (
+      <a href={href} tabindex="-1" aria-hidden="true">
+        <img src={cardImage} alt={title} loading="lazy" />
+      </a>
+    ) : (
+      <img src={cardImage} alt={title} loading="lazy" />
+    )}
+  </div>
+</article>

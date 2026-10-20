@@ -1,0 +1,17 @@
+{
+  "name": "efficient-travellers",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0 --port 4321",
+    "start": "astro dev --host 0.0.0.0 --port 4321",
+    "build": "astro build",
+    "preview": "astro preview --host 0.0.0.0 --port 4321"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.0.0",
+    "astro": "^5.0.0",
+    "sharp": "^0.33.0"
+  }
+}

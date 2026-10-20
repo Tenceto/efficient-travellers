@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import DestinationCard from '../components/DestinationCard.astro';
+import { getCollection } from 'astro:content';
+
+const allDestinations = await getCollection('destinations');
+const featured = allDestinations
+  .filter((d) => d.data.status === 'published')
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 3);
+---
+
+<BaseLayout title="Home" activeNav="home">
+  <!-- Hero Section (Migrated from Odoo s_sidegrid) -->
+  <section class="hero-section">
+    <div class="container hero-grid">
+      <div class="hero-copy">
+        <h1>More than<br />just trips</h1>
+        <p class="hero-subtitle">Smart Tips for Savvy Travelers</p>
+        <p class="hero-lead">
+          This is the perfect space for those with a small budget but big dreams and a long bucket list to tackle!
+        </p>
+        <div style="display: flex; gap: 14px; flex-wrap: wrap;">
+          <a href="/blog/" class="btn btn-primary" id="hero-explore-btn">Explore All 21 Destinations &rarr;</a>
+          <a href="#about-us" class="btn btn-mint" id="hero-about-btn">Our Story</a>
+        </div>
+      </div>
+
+      <div class="hero-collage">
+        <div class="collage-item collage-1">
+          <img src="/images/home/IMG_7934.webp" alt="Travel highlight 1" />
+        </div>
+        <div class="collage-item collage-2">
+          <img src="/images/home/IMG_4916.webp" alt="Travel highlight 2" />
+        </div>
+        <div class="collage-item collage-3">
+          <img src="/images/home/IMG_2341.webp" alt="Travel highlight 3" />
+        </div>
+        <div class="collage-item collage-4">
+          <img src="/images/home/IMG_3630.webp" alt="Travel highlight 4" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- About Us Split Section (Migrated from Odoo s_color_blocks_2) -->
+  <section class="split-section" id="about-us">
+    <div class="split-navy">
+      <h2>ABOUT US</h2>
+      <p>
+        We are Carola and Martín, a couple from Italy and Argentina, two countries on opposite sides of the world, yet surprisingly similar. We chose to write this blog in English, the language we speak together and the one that unites us.
+      </p>
+      <p>
+        Our journey together began in Switzerland, during a non-stop year of travel across Europe. It was a chance for Martín to explore a new continent and for Carola to see familiar places with fresh eyes.
+      </p>
+      <p>
+        After that, we faced two years of a long-distance relationship, an incredibly challenging period. But we made the most of it by reuniting in different parts of the world, turning every reunion into a new adventure.
+      </p>
+      <p>
+        We celebrated the end of this phase with a four-month backpacking trip across South America and Asia, what an incredible experience. Now we’re finally living together in Zurich, ready for the next chapter.
+      </p>
+      <p style="font-weight: 600; color: var(--color-mint); margin-top: 8px;">
+        Join us in our lifelong journey!
+      </p>
+    </div>
+
+    <div class="split-mint">
+      <img src="/images/home/IMG_8661.webp" alt="Carola and Martín" />
+    </div>
+  </section>
+
+  <!-- About The Blog Section (Migrated from Odoo s_image_text) -->
+  <section class="about-blog-section">
+    <div class="container about-blog-grid">
+      <div class="about-blog-image">
+        <img src="/images/home/IMG_6772.webp" alt="About the blog" />
+      </div>
+
+      <div class="about-blog-copy">
+        <h2>ABOUT THE BLOG</h2>
+        <p>
+          While researching our itineraries, we often found blogs that were way too long and packed with unnecessary details, making it hard to find the useful tips we actually needed.
+        </p>
+        <p>
+          That’s why we created this blog—to be short, clear, and efficient, giving you all the essentials without the fluff. You'll find quick, easy-to-access travel guides, budget-friendly tips, and firsthand recommendations to help you make the most of every trip.
+        </p>
+        <p>
+          Our goal is to make travel planning effortless and inspire you — without spoilers — through our experiences around the world!
+        </p>
+        <div style="margin-top: 28px;">
+          <a href="/blog/" class="btn btn-primary" id="about-blog-cta">Learn More &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Destination Guides Preview -->
+  <section style="padding: 72px 0 96px; background-color: var(--color-surface);">
+    <div class="container">
+      <div style="display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 16px; margin-bottom: 36px;">
+        <div>
+          <h2 style="font-size: 2rem; color: var(--color-navy); letter-spacing: -0.02em;">Featured Guides</h2>
+          <p style="color: var(--color-text-muted);">Jump straight into our most comprehensive itineraries</p>
+        </div>
+        <a href="/blog/" class="btn btn-primary" id="view-all-guides-btn">View All 21 Destinations &rarr;</a>
+      </div>
+
+      <div class="cards-grid">
+        {featured.map((entry) => (
+          <DestinationCard
+            slug={entry.id}
+            title={entry.data.title}
+            region={entry.data.region}
+            status={entry.data.status}
+            cardImage={entry.data.cardImage}
+            highlights={entry.data.highlights}
+            hasRatings={entry.data.hasRatings}
+            ratings={entry.data.ratings}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

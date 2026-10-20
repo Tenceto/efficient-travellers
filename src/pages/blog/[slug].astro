@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StarRating from '../../components/StarRating.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('destinations');
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+const tocHeadings = headings.filter((h) => h.depth === 2);
+---
+
+<BaseLayout
+  title={entry.data.title}
+  description={`Efficient travel itinerary, tips, authentic experiences, and food guide for ${entry.data.title}.`}
+  activeNav="blog"
+>
+  <section class="page-hero" style={`background-image: url('${entry.data.coverImage}'); min-height: 380px;`}>
+    <div class="page-hero-content">
+      <div style="margin-bottom: 12px;">
+        <a
+          href="/blog/"
+          style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; border-radius: 999px; background: rgba(173, 239, 209, 0.22); color: var(--color-mint); font-size: 0.82rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em;"
+        >
+          &larr; {entry.data.region}
+        </a>
+      </div>
+      <h1>{entry.data.title}</h1>
+      <div class="post-header-meta">
+        <span>By {entry.data.author}</span>
+        {entry.data.date && <span>&bull; {entry.data.date}</span>}
+        {entry.data.highlights.length > 0 && (
+          <span>&bull; {entry.data.highlights.join(' • ')}</span>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <div class="container post-layout">
+    <aside class="toc-sidebar" aria-label="Table of Contents">
+      <div class="toc-title">Table of Contents</div>
+      <ul class="toc-list">
+        {tocHeadings.map((h) => (
+          <li>
+            <a href={`#${h.slug}`} class="toc-link">{h.text}</a>
+          </li>
+        ))}
+      </ul>
+
+      {entry.data.hasRatings && (
+        <div class="toc-ratings-card">
+          <div class="toc-title" style="margin-bottom: 10px;">Our Ratings</div>
+          <StarRating label="Budget-friendly" score={entry.data.ratings.budget} />
+          <StarRating label="Adventure" score={entry.data.ratings.adventure} />
+          <StarRating label="Food" score={entry.data.ratings.food} />
+          <StarRating label="Overall" score={entry.data.ratings.overall} />
+        </div>
+      )}
+
+      <div style="margin-top: 24px; padding-top: 16px; border-top: 1px solid rgba(255,255,255,0.14);">
+        <a href="/blog/" style="color: var(--color-mint); font-size: 0.88rem; font-weight: 600;">
+          &larr; All Destinations
+        </a>
+      </div>
+    </aside>
+
+    <article class="post-prose">
+      <Content />
+    </article>
+  </div>
+</BaseLayout>

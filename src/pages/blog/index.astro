@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import DestinationCard from '../../components/DestinationCard.astro';
+import { getCollection } from 'astro:content';
+
+const allDestinations = (await getCollection('destinations')).sort(
+  (a, b) => a.data.order - b.data.order
+);
+
+const regions = ['Asia', 'Europe', 'Latin America', 'United States', 'Africa'] as const;
+---
+
+<BaseLayout
+  title="Destinations"
+  description="Browse all 21 travel itineraries and efficiency guides across Asia, Europe, Latin America, the United States, and Africa."
+  activeNav="blog"
+>
+  <section class="page-hero" style="background-image: url('/images/home/destinations-hero.jpeg');">
+    <div class="page-hero-content">
+      <h1>DESTINATIONS</h1>
+      <p>Our Journey Begins Here &mdash; Make every moment count with efficient solutions</p>
+    </div>
+  </section>
+
+  <div class="container" style="padding-bottom: 80px;">
+    <div class="region-filter-bar" role="tablist" aria-label="Filter destinations by region">
+      <button class="filter-pill active" data-filter="all" id="filter-all">
+        All Regions ({allDestinations.length})
+      </button>
+      {regions.map((region) => {
+        const count = allDestinations.filter((d) => d.data.region === region).length;
+        return (
+          <button
+            class="filter-pill"
+            data-filter={region}
+            id={`filter-${region.toLowerCase().replace(/\s+/g, '-')}`}
+          >
+            {region} ({count})
+          </button>
+        );
+      })}
+    </div>
+
+    {regions.map((region) => {
+      const items = allDestinations.filter((d) => d.data.region === region);
+      return (
+        <section class="region-section" data-region-section={region}>
+          <div class="region-header">
+            <h2 class="region-title">{region}</h2>
+            <div class="region-line" />
+          </div>
+
+          <div class="cards-grid">
+            {items.map((entry) => (
+              <DestinationCard
+                slug={entry.id}
+                title={entry.data.title}
+                region={entry.data.region}
+                status={entry.data.status}
+                cardImage={entry.data.cardImage}
+                highlights={entry.data.highlights}
+                hasRatings={entry.data.hasRatings}
+                ratings={entry.data.ratings}
+              />
+            ))}
+          </div>
+        </section>
+      );
+    })}
+  </div>
+
+  <script is:inline>
+    const pills = document.querySelectorAll('.filter-pill');
+    const sections = document.querySelectorAll('[data-region-section]');
+
+    pills.forEach((pill) => {
+      pill.addEventListener('click', () => {
+        pills.forEach((p) => p.classList.remove('active'));
+        pill.classList.add('active');
+        const target = pill.getAttribute('data-filter');
+
+        sections.forEach((sec) => {
+          if (target === 'all' || sec.getAttribute('data-region-section') === target) {
+            sec.style.display = 'block';
+          } else {
+            sec.style.display = 'none';
+          }
+        });
+      });
+    });
+  </script>
+</BaseLayout>

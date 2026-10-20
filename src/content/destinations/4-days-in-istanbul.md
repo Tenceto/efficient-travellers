@@ -5,8 +5,8 @@ order: 12
 status: "published"
 date: "22 April 2025"
 author: "Carola & Martín"
-cardImage: "/images/cards/4-days-in-istanbul-card.webp"
-coverImage: "/images/posts/4-days-in-istanbul-cover.webp"
+cardImage: "/efficient-travellers/images/cards/4-days-in-istanbul-card.webp"
+coverImage: "/efficient-travellers/images/posts/4-days-in-istanbul-cover.webp"
 highlights: []
 hasRatings: true
 ratings: {"budget": 3, "adventure": 1, "food": 4, "overall": 3}
@@ -22,7 +22,7 @@ It’s for sure an important city that everyone should visit at least once, but 
 That being said, here’s our 4-day itinerary, which allowed us to cover pretty much all the main sights in the city.
 
 
-![4-days-in-istanbul](/images/posts/4-days-in-istanbul-img-1.webp)
+![4-days-in-istanbul](/efficient-travellers/images/posts/4-days-in-istanbul-img-1.webp)
 
 
 ## TL;DR
@@ -75,7 +75,7 @@ Plus, during the day, all the main tourist attractions (including the ferry to t
 4. Explore Fener and Balat neighborhoods, which give the most authentic vibe
 
 
-![4-days-in-istanbul](/images/posts/4-days-in-istanbul-img-2.webp)
+![4-days-in-istanbul](/efficient-travellers/images/posts/4-days-in-istanbul-img-2.webp)
 
 
 ## Itinerary
@@ -152,4 +152,4 @@ To taste them all without falling into tourist traps, here is a list of spots th
 - [Cafesehrengiz](https://maps.app.goo.gl/xgLMWtUw3wuK1M5n7): Located in the colorful neighborhood of Balat, this café is a great dedicated spot to stop and enjoy some traditional Turkish tea or coffee. The atmosphere inside the shop is awesome, making it a perfectly relaxing break from walking around the city.
 
 
-![4-days-in-istanbul](/images/posts/4-days-in-istanbul-img-3.webp)
+![4-days-in-istanbul](/efficient-travellers/images/posts/4-days-in-istanbul-img-3.webp)

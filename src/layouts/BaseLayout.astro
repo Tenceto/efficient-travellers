@@ -14,8 +14,13 @@ const {
   activeNav = 'home',
 } = Astro.props;
 
-const base = import.meta.env.BASE_URL;
-const withBase = (path) => (path.startsWith('/') ? `${base}${path.replace(/^\/+/, '')}` : path);
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
+const withBase = (path) => {
+  if (!path) return path;
+  if (path.startsWith(base)) return path;
+  if (path.startsWith('/')) return `${base}${path}`;
+  return `${base}/${path}`;
+};
 
 const allDestinations = await getCollection('destinations');
 const searchIndex = allDestinations
@@ -57,10 +62,10 @@ const searchIndex = allDestinations
               <a href={base} class={`nav-link ${activeNav === 'home' ? 'active' : ''}`} id="nav-home">Home</a>
             </li>
             <li>
-              <a href={`${base}blog/`} class={`nav-link ${activeNav === 'blog' ? 'active' : ''}`} id="nav-blog">Destinations</a>
+              <a href={`${base}/blog/`} class={`nav-link ${activeNav === 'blog' ? 'active' : ''}`} id="nav-blog">Destinations</a>
             </li>
             <li>
-              <a href={`${base}contact/`} class={`nav-link ${activeNav === 'contact' ? 'active' : ''}`} id="nav-contact">Contact Us</a>
+              <a href={`${base}/contact/`} class={`nav-link ${activeNav === 'contact' ? 'active' : ''}`} id="nav-contact">Contact Us</a>
             </li>
           </ul>
         </nav>
@@ -97,8 +102,8 @@ const searchIndex = allDestinations
         </div>
         <ul class="footer-links">
           <li><a href={base}>Home</a></li>
-          <li><a href={`${base}blog/`}>All Destinations</a></li>
-          <li><a href={`${base}contact/`}>Contact Us</a></li>
+          <li><a href={`${base}/blog/`}>All Destinations</a></li>
+          <li><a href={`${base}/contact/`}>Contact Us</a></li>
         </ul>
       </div>
     </footer>

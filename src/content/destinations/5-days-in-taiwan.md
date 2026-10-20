@@ -5,8 +5,8 @@ order: 5
 status: "published"
 date: "22 April 2025"
 author: "Carola & Martín"
-cardImage: "/images/cards/5-days-in-taiwan-card.webp"
-coverImage: "/images/posts/5-days-in-taiwan-cover.webp"
+cardImage: "/efficient-travellers/images/cards/5-days-in-taiwan-card.webp"
+coverImage: "/efficient-travellers/images/posts/5-days-in-taiwan-cover.webp"
 highlights: ["Taipei", "Jiufen"]
 hasRatings: true
 ratings: {"budget": 3, "adventure": 3, "food": 5, "overall": 4}
@@ -28,7 +28,7 @@ Taiwan has quite a complex history, and its mix of cultures can be seen everywhe
 - **When to visit:** Any season is great for visiting Taiwan because the temperature doesn’t typically reach extreme values at any point in the year. We went in December and we were walking around with just a jumper.
 
 
-![5-days-in-taiwan](/images/posts/5-days-in-taiwan-img-1.webp)
+![5-days-in-taiwan](/efficient-travellers/images/posts/5-days-in-taiwan-img-1.webp)
 
 
 ## TL;DR
@@ -77,7 +77,7 @@ Since we were staying just 5 days, we decided not to get one since you can easil
 5. Go souvenir shopping around **Ximending** and **Yongkang Street**.
 
 
-![5-days-in-taiwan](/images/posts/5-days-in-taiwan-img-2.webp)
+![5-days-in-taiwan](/efficient-travellers/images/posts/5-days-in-taiwan-img-2.webp)
 
 
 ## Itinerary
@@ -176,4 +176,4 @@ The list above is already quite long, but we still have more information for our
 - There is nothing typical about [<u>Twin Brothers Coffee</u>](https://maps.app.goo.gl/SwogfWarKzEehSsS6), but it’s too good to leave out. It’s hard to find words that describe how good this place is. First, the cinnamon roll (120 TND or 4 USD) is just LEGENDARY, and they do a limited number per day. It is (for real) the best roll we have ever had (and Carola is a self-proclaimed cinnamon roll expert). Also, the size is enormous, so if you are not too hungry, you can probably share it in 2. We also had a cappuccino and a light coffee latte (80 TND or 2.70 USD each), and they were delicious. Fast service, cozy vibe, and popular with locals. Undoubtedly an ideal spot for a non-typical breakfast in Taipei.
 
 
-![5-days-in-taiwan](/images/posts/5-days-in-taiwan-img-3.webp)
+![5-days-in-taiwan](/efficient-travellers/images/posts/5-days-in-taiwan-img-3.webp)

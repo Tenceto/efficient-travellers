@@ -5,8 +5,8 @@ order: 14
 status: "pending"
 date: "2025"
 author: "Carola & Martín"
-cardImage: "/images/cards/argentina-all-you-need-to-know-from-a-local-card.webp"
-coverImage: "/images/cards/argentina-all-you-need-to-know-from-a-local-card.webp"
+cardImage: "/efficient-travellers/images/cards/argentina-all-you-need-to-know-from-a-local-card.webp"
+coverImage: "/efficient-travellers/images/cards/argentina-all-you-need-to-know-from-a-local-card.webp"
 highlights: ["Buenos Aires", "North Argentina", "Iguazù Falls", "Cordoba and Mendoza", "Patagonia"]
 hasRatings: true
 ratings: {"budget": 3, "adventure": 4, "food": 5, "overall": 5}

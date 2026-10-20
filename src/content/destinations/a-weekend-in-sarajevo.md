@@ -5,8 +5,8 @@ order: 10
 status: "published"
 date: "22 April 2025"
 author: "Carola & Martín"
-cardImage: "/images/cards/a-weekend-in-sarajevo-card.webp"
-coverImage: "/images/posts/a-weekend-in-sarajevo-cover.webp"
+cardImage: "/efficient-travellers/images/cards/a-weekend-in-sarajevo-card.webp"
+coverImage: "/efficient-travellers/images/posts/a-weekend-in-sarajevo-cover.webp"
 highlights: []
 hasRatings: true
 ratings: {"budget": 3, "adventure": 1, "food": 4, "overall": 4}
@@ -20,7 +20,7 @@ Sarajevo is the perfect spot for a weekend getaway. What we loved most was how u
 That said, Sarajevo is pretty small, so we wouldn’t recommend staying more than a couple of days. If you’ve got more time, we’ve heard it’s worth exploring the surrounding areas—though we didn’t get the chance ourselves, we kept hearing great things about **Mostar** and **Konjic**.
 
 
-![a-weekend-in-sarajevo](/images/posts/a-weekend-in-sarajevo-img-1.webp)
+![a-weekend-in-sarajevo](/efficient-travellers/images/posts/a-weekend-in-sarajevo-img-1.webp)
 
 
 ## Efficiency tips
@@ -107,7 +107,7 @@ We spent the rest of the morning browsing the souvenir stalls in the Baščarši
 Finally, to wrap up this fantastic weekend, we grabbed a delicious lunch and hopped on the bus back to the airport.
 
 
-![a-weekend-in-sarajevo](/images/posts/a-weekend-in-sarajevo-img-2.webp)
+![a-weekend-in-sarajevo](/efficient-travellers/images/posts/a-weekend-in-sarajevo-img-2.webp)
 
 
 ## Food

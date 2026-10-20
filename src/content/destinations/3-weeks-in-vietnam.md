@@ -5,8 +5,8 @@ order: 2
 status: "published"
 date: "16 May 2025"
 author: "Carola & Martín"
-cardImage: "/images/cards/3-weeks-in-vietnam-card.webp"
-coverImage: "/images/posts/3-weeks-in-vietnam-cover.webp"
+cardImage: "/efficient-travellers/images/cards/3-weeks-in-vietnam-card.webp"
+coverImage: "/efficient-travellers/images/posts/3-weeks-in-vietnam-cover.webp"
 highlights: ["Hanoi", "Sapa", "Ha giang loop", "Lan Ha Bay", "Ninh Binh", "Hue / Hoi An", "Ho Chi Minh (Saigon)"]
 hasRatings: true
 ratings: {"budget": 5, "adventure": 4, "food": 4, "overall": 5}
@@ -29,7 +29,7 @@ If we had to summarize Vietnam in very few words, it would be “variety and nat
 - **Rainy season**: No need to stress! The weather is quite unpredictable, but at least according to our personal experience, when it rains it just consists of a quick (although maybe intense) storm that passes in about an hour.
 
 
-![3-weeks-in-vietnam](/images/posts/3-weeks-in-vietnam-img-1.webp)
+![3-weeks-in-vietnam](/efficient-travellers/images/posts/3-weeks-in-vietnam-img-1.webp)
 
 
 ## TL;DR
@@ -98,7 +98,7 @@ Always remember to bargain!
 9. Get a tailor-made suit/dress in Hoi An for an incredibly cheap price
 
 
-![3-weeks-in-vietnam](/images/posts/3-weeks-in-vietnam-img-2.webp)
+![3-weeks-in-vietnam](/efficient-travellers/images/posts/3-weeks-in-vietnam-img-2.webp)
 
 
 ## Itinerary

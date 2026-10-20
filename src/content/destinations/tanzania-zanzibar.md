@@ -5,8 +5,8 @@ order: 20
 status: "pending"
 date: "2025"
 author: "Carola & Martín"
-cardImage: "/images/cards/tanzania-zanzibar-card.webp"
-coverImage: "/images/cards/tanzania-zanzibar-card.webp"
+cardImage: "/efficient-travellers/images/cards/tanzania-zanzibar-card.webp"
+coverImage: "/efficient-travellers/images/cards/tanzania-zanzibar-card.webp"
 highlights: []
 hasRatings: false
 ratings: {"budget": 0, "adventure": 0, "food": 0, "overall": 0}

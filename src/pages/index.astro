@@ -3,7 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import DestinationCard from '../components/DestinationCard.astro';
 import { getCollection } from 'astro:content';
 
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
 const allDestinations = await getCollection('destinations');
 const featured = allDestinations
   .filter((d) => d.data.status === 'published')
@@ -22,23 +22,23 @@ const featured = allDestinations
           This is the perfect space for those with a small budget but big dreams and a long bucket list to tackle!
         </p>
         <div style="display: flex; gap: 14px; flex-wrap: wrap;">
-          <a href={`${base}blog/`} class="btn btn-primary" id="hero-explore-btn">Explore All 21 Destinations &rarr;</a>
+          <a href={`${base}/blog/`} class="btn btn-primary" id="hero-explore-btn">Explore All 21 Destinations &rarr;</a>
           <a href="#about-us" class="btn btn-mint" id="hero-about-btn">Our Story</a>
         </div>
       </div>
 
       <div class="hero-collage">
         <div class="collage-item collage-1">
-          <img src={`${base}images/home/IMG_7934.webp`} alt="Travel highlight 1" />
+          <img src={`${base}/images/home/IMG_7934.webp`} alt="Travel highlight 1" />
         </div>
         <div class="collage-item collage-2">
-          <img src={`${base}images/home/IMG_4916.webp`} alt="Travel highlight 2" />
+          <img src={`${base}/images/home/IMG_4916.webp`} alt="Travel highlight 2" />
         </div>
         <div class="collage-item collage-3">
-          <img src={`${base}images/home/IMG_2341.webp`} alt="Travel highlight 3" />
+          <img src={`${base}/images/home/IMG_2341.webp`} alt="Travel highlight 3" />
         </div>
         <div class="collage-item collage-4">
-          <img src={`${base}images/home/IMG_3630.webp`} alt="Travel highlight 4" />
+          <img src={`${base}/images/home/IMG_3630.webp`} alt="Travel highlight 4" />
         </div>
       </div>
     </div>
@@ -66,7 +66,7 @@ const featured = allDestinations
     </div>
 
     <div class="split-mint">
-      <img src={`${base}images/home/IMG_8661.webp`} alt="Carola and Martín" />
+      <img src={`${base}/images/home/IMG_8661.webp`} alt="Carola and Martín" />
     </div>
   </section>
 
@@ -74,7 +74,7 @@ const featured = allDestinations
   <section class="about-blog-section">
     <div class="container about-blog-grid">
       <div class="about-blog-image">
-        <img src={`${base}images/home/IMG_6772.webp`} alt="About the blog" />
+        <img src={`${base}/images/home/IMG_6772.webp`} alt="About the blog" />
       </div>
 
       <div class="about-blog-copy">
@@ -89,7 +89,7 @@ const featured = allDestinations
           Our goal is to make travel planning effortless and inspire you — without spoilers — through our experiences around the world!
         </p>
         <div style="margin-top: 28px;">
-          <a href={`${base}blog/`} class="btn btn-primary" id="about-blog-cta">Learn More &rarr;</a>
+          <a href={`${base}/blog/`} class="btn btn-primary" id="about-blog-cta">Learn More &rarr;</a>
         </div>
       </div>
     </div>
@@ -103,7 +103,7 @@ const featured = allDestinations
           <h2 style="font-size: 2rem; color: var(--color-navy); letter-spacing: -0.02em;">Featured Guides</h2>
           <p style="color: var(--color-text-muted);">Jump straight into our most comprehensive itineraries</p>
         </div>
-        <a href={`${base}blog/`} class="btn btn-primary" id="view-all-guides-btn">View All 21 Destinations &rarr;</a>
+        <a href={`${base}/blog/`} class="btn btn-primary" id="view-all-guides-btn">View All 21 Destinations &rarr;</a>
       </div>
 
       <div class="cards-grid">

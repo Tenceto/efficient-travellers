@@ -5,8 +5,8 @@ order: 4
 status: "published"
 date: "7 June 2025"
 author: "Carola & Martín"
-cardImage: "/images/cards/2-weeks-in-south-korea-card.webp"
-coverImage: "/images/posts/2-weeks-in-south-korea-cover.webp"
+cardImage: "/efficient-travellers/images/cards/2-weeks-in-south-korea-card.webp"
+coverImage: "/efficient-travellers/images/posts/2-weeks-in-south-korea-cover.webp"
 highlights: ["Seoul", "Busan", "Gyeongju", "Hahoe"]
 hasRatings: true
 ratings: {"budget": 3, "adventure": 3, "food": 4, "overall": 5}
@@ -30,7 +30,7 @@ In this post, we’ll share some must-have tools to make the most of your experi
 - <u>When to visit</u>: The best time to visit South Korea is in the spring or Autumn. Summer can get very hot and humid, while Winter is rather freezing. We went in April, and the weather was absolutely perfect. We even got lucky and caught the cherry blossoms in bloom! (Not as epic as Japan’s, but still very pretty.)
 
 
-![2-weeks-in-south-korea](/images/posts/2-weeks-in-south-korea-img-1.webp)
+![2-weeks-in-south-korea](/efficient-travellers/images/posts/2-weeks-in-south-korea-img-1.webp)
 
 
 ## TL; DR
@@ -100,7 +100,7 @@ South Korea, like many Asian countries, feels like a whole different world to th
 7. Take funny pictures in the massive photo booths (pick up your accessories wisely, they have infinite collections to choose from!)
 
 
-![2-weeks-in-south-korea](/images/posts/2-weeks-in-south-korea-img-2.webp)
+![2-weeks-in-south-korea](/efficient-travellers/images/posts/2-weeks-in-south-korea-img-2.webp)
 
 
 ## Itinerary

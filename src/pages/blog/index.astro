@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import DestinationCard from '../../components/DestinationCard.astro';
 import { getCollection } from 'astro:content';
 
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
 const allDestinations = (await getCollection('destinations')).sort(
   (a, b) => a.data.order - b.data.order
 );

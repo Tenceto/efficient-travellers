@@ -16,7 +16,7 @@ type Destination = CollectionEntry<'destinations'>;
 export const SITE_NAME = 'Efficient Travellers';
 export const SITE_TAGLINE = 'Short, Budget-Friendly Travel Guides & Itineraries';
 export const SITE_DESCRIPTION =
-  'Short, clear, and efficient travel guides for savvy travelers — all the essentials without the fluff or spoilers.';
+  'Short, clear, and efficient travel guides for savvy travellers — all the essentials without the fluff or spoilers.';
 export const SITE_LANG = 'en';
 export const SITE_LOCALE = 'en_US';
 export const DEFAULT_AUTHOR = 'Carola & Martín';

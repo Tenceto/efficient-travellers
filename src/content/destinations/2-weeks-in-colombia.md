@@ -6,8 +6,8 @@ status: "published"
 date: "11 July 2026"
 description: "Two-week Colombia itinerary: Medellín, Salento and the Cocora Valley, Cartagena, the Rosario Islands, Santa Marta and Tayrona, with budget tips and scams to avoid."
 author: "Carola & Martín"
-cardImage: "/efficient-travellers/images/cards/2-weeks-in-colombia-card.webp"
-coverImage: "/efficient-travellers/images/posts/2-weeks-in-colombia-cover.webp"
+cardImage: "/images/cards/2-weeks-in-colombia-card.webp"
+coverImage: "/images/posts/2-weeks-in-colombia-cover.webp"
 highlights: ["Medellin", "Salento & Cocora Valley", "Cartagena", "Rosario Islands", "Santa Marta", "Tayrona National Park"]
 hasRatings: true
 ratings: {"budget": 4, "adventure": 5, "food": 3, "overall": 4}
@@ -31,7 +31,7 @@ Like in any good South American country, the vibes are unbeatable, and locals ar
 - **When to visit:** the weather is pretty much stable and almost the same all year round. We went in September and had some random rains that lasted a maximum of one hour, usually at night. It is worth mentioning that in August in Medellín there is the “Feria de las Flores”, which everyone says is a must.
 
 
-![2-weeks-in-colombia](/efficient-travellers/images/posts/2-weeks-in-colombia-img-1.webp)
+![2-weeks-in-colombia](/images/posts/2-weeks-in-colombia-img-1.webp)
 
 
 ## Efficiency tips
@@ -87,7 +87,7 @@ If you go into the jungle, bring long clothes that protect you from insects (and
 - We skipped Bogotá on purpose, but it could be worth adding if you're into museums and history.
 
 
-![2-weeks-in-colombia](/efficient-travellers/images/posts/2-weeks-in-colombia-img-2.webp)
+![2-weeks-in-colombia](/images/posts/2-weeks-in-colombia-img-2.webp)
 
 
 ## Authentic experiences
@@ -257,4 +257,4 @@ Additionally, there are a few things you should try that you'll find pretty much
 - **Chontaduro**: a fruit locals eat with sauces and salt; an acquired taste but worth trying once (we actually loved it even on the first time!).
 
 
-![2-weeks-in-colombia](/efficient-travellers/images/posts/2-weeks-in-colombia-img-3.webp)
+![2-weeks-in-colombia](/images/posts/2-weeks-in-colombia-img-3.webp)

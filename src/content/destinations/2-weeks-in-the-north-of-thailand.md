@@ -6,8 +6,8 @@ status: "published"
 date: "22 April 2025"
 description: "Two weeks in northern Thailand: Bangkok, Chiang Mai, the Mae Hong Son Loop by car, Pai and a monastery stay, with budget tips and street food picks."
 author: "Carola & Martín"
-cardImage: "/efficient-travellers/images/cards/2-weeks-in-the-north-of-thailand-card.webp"
-coverImage: "/efficient-travellers/images/posts/2-weeks-in-the-north-of-thailand-cover.webp"
+cardImage: "/images/cards/2-weeks-in-the-north-of-thailand-card.webp"
+coverImage: "/images/posts/2-weeks-in-the-north-of-thailand-cover.webp"
 highlights: ["Bangkok", "Chiang Mai", "Mae Hong Song Loop", "Phai", "Wat Pa Tam Wua monastery"]
 hasRatings: true
 ratings: {"budget": 4, "adventure": 3, "food": 5, "overall": 4}
@@ -33,7 +33,7 @@ If you're into Buddhism or just curious about it, Thailand is a great place to d
 - **Rainy season**: No need to stress! The weather can be super unpredictable, but (according to our experience) even when it rains it’s usually just a quick storm that passes in about an hour.
 
 
-![2-weeks-in-the-north-of-thailand](/efficient-travellers/images/posts/2-weeks-in-the-north-of-thailand-img-1.webp)
+![2-weeks-in-the-north-of-thailand](/images/posts/2-weeks-in-the-north-of-thailand-img-1.webp)
 
 
 ## TL;DR
@@ -92,7 +92,7 @@ Laundry: it's full of places around. Just do a quick research on Google Maps. Pr
 9. Enjoy a psytrance night in Pai
 
 
-![2-weeks-in-the-north-of-thailand](/efficient-travellers/images/posts/2-weeks-in-the-north-of-thailand-img-2.webp)
+![2-weeks-in-the-north-of-thailand](/images/posts/2-weeks-in-the-north-of-thailand-img-2.webp)
 
 
 ## Itinerary

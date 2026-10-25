@@ -6,8 +6,8 @@ status: "published"
 date: "22 April 2025"
 description: "One-week Cambodia itinerary: Phnom Penh, Siem Reap and the temples of Angkor by scooter, sunrise at Angkor Wat, tuk-tuks, budget tips and Khmer food."
 author: "Carola & Martín"
-cardImage: "/efficient-travellers/images/cards/1-week-in-cambodia-card.webp"
-coverImage: "/efficient-travellers/images/posts/1-week-in-cambodia-cover.webp"
+cardImage: "/images/cards/1-week-in-cambodia-card.webp"
+coverImage: "/images/posts/1-week-in-cambodia-cover.webp"
 highlights: ["Phnom Penh", "Siem Reap", "Angkor"]
 hasRatings: true
 ratings: {"budget": 5, "adventure": 3, "food": 3, "overall": 4}
@@ -35,7 +35,7 @@ Despite only spending a week there, the Cambodian people left a strong impressio
 - **Rainy season**: No need to stress! The weather can be super unpredictable, but (according to our experience) even when it rains, it’s usually just a quick storm that passes in about an hour.
 
 
-![1-week-in-cambodia](/efficient-travellers/images/posts/1-week-in-cambodia-img-1.webp)
+![1-week-in-cambodia](/images/posts/1-week-in-cambodia-img-1.webp)
 
 
 ## TL; DR
@@ -101,7 +101,7 @@ If you prefer a slower pace and time to soak everything in (we skipped some temp
 4. And we must mention the obvious one: visit the Angkor Archaeological Park!
 
 
-![1-week-in-cambodia](/efficient-travellers/images/posts/1-week-in-cambodia-img-2.webp)
+![1-week-in-cambodia](/images/posts/1-week-in-cambodia-img-2.webp)
 
 
 ## Itinerary
@@ -169,7 +169,7 @@ Climbing to the top is a bit of a workout, but the panoramic view makes it total
 As you’ll see in other blogs, there are many more temples to explore, but in our experience, they start to feel quite similar after a while. It can be hard to notice their subtle differences unless you’re deeply passionate about history or architecture. The ones listed above are definitely the ones we found the most stunning and worth visiting.
 
 
-![1-week-in-cambodia](/efficient-travellers/images/posts/1-week-in-cambodia-img-3.webp)
+![1-week-in-cambodia](/images/posts/1-week-in-cambodia-img-3.webp)
 
 
 ## Food

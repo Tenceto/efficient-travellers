@@ -6,8 +6,8 @@ status: "published"
 date: "12 June 2025"
 description: "Three-week Indonesia itinerary: Bali off the beaten path, the Gili Islands, Lombok, Flores and a Komodo boat trip, with scooter, money and warung food tips."
 author: "Carola & Martín"
-cardImage: "/efficient-travellers/images/cards/3-weeks-in-indonesia-card.webp"
-coverImage: "/efficient-travellers/images/posts/3-weeks-in-indonesia-cover.webp"
+cardImage: "/images/cards/3-weeks-in-indonesia-card.webp"
+coverImage: "/images/posts/3-weeks-in-indonesia-cover.webp"
 highlights: ["Bali", "Gili Islands", "Lombok", "Flores & Komodo National Park"]
 hasRatings: true
 ratings: {"budget": 5, "adventure": 5, "food": 3, "overall": 5}
@@ -32,7 +32,7 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 - **Rainy season**: Despite being there during the weeks that correspond to the start of the rainy season (end of September), we only had one day of heavy rain in 3 weeks. There were some very short (some minutes long) showers in the other 3 or 4 days. We were probably very lucky, but in any case, the weather is super unpredictable and varies drastically in a matter of minutes, so always take a rain jacket with you (even if it’s extremely sunny when you leave your room).
 
 
-![3-weeks-in-indonesia](/efficient-travellers/images/posts/3-weeks-in-indonesia-img-1.webp)
+![3-weeks-in-indonesia](/images/posts/3-weeks-in-indonesia-img-1.webp)
 
 
 ## TL;DR
@@ -98,7 +98,7 @@ Always do gas in gas stations (unless it's urgent), because buying gas from stre
 8. Refresh in one of the thousands of waterfalls around Bali: Uman Anyar, Manuaba, Tukad Cepung (Ubud area), **Gembleng** (Sidemen), Sekumpul, Munduk (north Bali)
 
 
-![3-weeks-in-indonesia](/efficient-travellers/images/posts/3-weeks-in-indonesia-img-2.webp)
+![3-weeks-in-indonesia](/images/posts/3-weeks-in-indonesia-img-2.webp)
 
 
 ## Itinerary
@@ -261,9 +261,9 @@ Nuggalan Beach and Karang Boma Cliff for sunset.
 
 
 <div class="post-gallery">
-  <img src="/efficient-travellers/images/posts/3-weeks-in-indonesia-gallery-3.webp" alt="3-weeks-in-indonesia photo" loading="lazy" />
-  <img src="/efficient-travellers/images/posts/3-weeks-in-indonesia-gallery-4.webp" alt="3-weeks-in-indonesia photo" loading="lazy" />
-  <img src="/efficient-travellers/images/posts/3-weeks-in-indonesia-gallery-5.webp" alt="3-weeks-in-indonesia photo" loading="lazy" />
+  <img src="/images/posts/3-weeks-in-indonesia-gallery-3.webp" alt="3-weeks-in-indonesia photo" loading="lazy" />
+  <img src="/images/posts/3-weeks-in-indonesia-gallery-4.webp" alt="3-weeks-in-indonesia photo" loading="lazy" />
+  <img src="/images/posts/3-weeks-in-indonesia-gallery-5.webp" alt="3-weeks-in-indonesia photo" loading="lazy" />
 </div>
 
 

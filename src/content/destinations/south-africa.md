@@ -5,8 +5,8 @@ order: 21
 status: "pending"
 date: "2025"
 author: "Carola & Martín"
-cardImage: "/efficient-travellers/images/cards/south-africa-card.webp"
-coverImage: "/efficient-travellers/images/cards/south-africa-card.webp"
+cardImage: "/images/cards/south-africa-card.webp"
+coverImage: "/images/cards/south-africa-card.webp"
 highlights: []
 hasRatings: false
 ratings: {"budget": 0, "adventure": 0, "food": 0, "overall": 0}

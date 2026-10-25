@@ -5,8 +5,8 @@ order: 17
 status: "wip"
 date: "22 April 2025"
 author: "Carola & Martín"
-cardImage: "/efficient-travellers/images/cards/1-week-in-texas-card.webp"
-coverImage: "/efficient-travellers/images/posts/1-week-in-texas-cover.webp"
+cardImage: "/images/cards/1-week-in-texas-card.webp"
+coverImage: "/images/posts/1-week-in-texas-cover.webp"
 highlights: ["Houston", "Austin", "San Antonio"]
 hasRatings: true
 ratings: {"budget": 2, "adventure": 1, "food": 3, "overall": 2}

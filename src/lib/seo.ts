@@ -34,7 +34,7 @@ export const AUTHORS = [
 // ---------------------------------------------------------------------------
 const rawBase = import.meta.env.BASE_URL || '/';
 export const BASE = rawBase.endsWith('/') ? rawBase.slice(0, -1) : rawBase;
-const SITE_ORIGIN = (import.meta.env.SITE || 'https://tenceto.github.io').replace(/\/$/, '');
+const SITE_ORIGIN = (import.meta.env.SITE || 'https://efficienttravellers.com').replace(/\/$/, '');
 
 /** Prefixes a root-relative path with the base path (idempotent). */
 export function withBase(path: string): string {

@@ -6,8 +6,8 @@ status: "published"
 date: "22 April 2025"
 description: "Four days in Singapore on a budget: capsule hotels, free attractions like the Supertree Grove show and Botanic Gardens, Jewel at Changi, and hawker food."
 author: "Carola & Martín"
-cardImage: "/efficient-travellers/images/cards/4-days-in-singapore-card.webp"
-coverImage: "/efficient-travellers/images/posts/4-days-in-singapore-cover.webp"
+cardImage: "/images/cards/4-days-in-singapore-card.webp"
+coverImage: "/images/posts/4-days-in-singapore-cover.webp"
 highlights: []
 hasRatings: true
 ratings: {"budget": 2, "adventure": 1, "food": 2, "overall": 3}
@@ -32,7 +32,7 @@ There is a considerable contrast between the futuristic and highly aesthetic are
 - **When to visit**: Every season is great in Singapore because the temperature is stable. Be cautious because the weather is always very hot and humid. Remember to drink a lot of water and remain hydrated!
 
 
-![4-days-in-singapore](/efficient-travellers/images/posts/4-days-in-singapore-img-1.webp)
+![4-days-in-singapore](/images/posts/4-days-in-singapore-img-1.webp)
 
 
 ## TL; DR
@@ -88,7 +88,7 @@ It’s a fun experience; you will spend much less than in any other hostel!
 4. Try the durian, the most smelly fruit ever
 
 
-![4-days-in-singapore](/efficient-travellers/images/posts/4-days-in-singapore-img-2.webp)
+![4-days-in-singapore](/images/posts/4-days-in-singapore-img-2.webp)
 
 
 ## Itinerary
@@ -137,4 +137,4 @@ To try some of the Indian Muslim side of Singapore’s cuisine, **murtabak** is 
 Last, if you are courageous enough, you must try **durian**. People here are obsessed with this fruit, and it’s famous for its potent smell. People either love it or can’t stand it. In fact, durian is banned in hotels and public transport in Singapore! A good place to try it is [<u>99 Old Trees Durian</u>](https://maps.app.goo.gl/sWuNYU9wwZi5CeyL9), where they sell it in many different formats. To be honest, we could barely swallow it, but some of our friends actually loved it. You will have to try it to see which side you’re in!
 
 
-![4-days-in-singapore](/efficient-travellers/images/posts/4-days-in-singapore-img-3.webp)
+![4-days-in-singapore](/images/posts/4-days-in-singapore-img-3.webp)

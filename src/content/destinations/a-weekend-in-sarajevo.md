@@ -11,7 +11,6 @@ coverImage: "/images/posts/a-weekend-in-sarajevo-cover.webp"
 highlights: []
 hasRatings: true
 ratings: {"budget": 3, "adventure": 1, "food": 4, "overall": 4}
-odooPath: "/blog/destinations-1/a-weekend-in-sarajevo-13"
 ---
 
 ## Let’s start
@@ -36,7 +35,7 @@ Buses run every 30 minutes, and a ticket costs around €3. You can buy it at th
 
 ### Money
 
-Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange, but be aware that many activities don’t accept cards.
+Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange, but be aware that many activities don’t accept cards.
 
 For this reason, you can exchange your cash or there is one ATM without withdrawal fees: **Ziraat Bank**.
 
@@ -123,7 +122,7 @@ Here is the list of all the food-related shops we recommend in Sarajevo:
 
 - [Ćevabdžinica Hodžić](https://maps.app.goo.gl/F2LKSCJbUFGBF2jF9): Recommended by our walking tour guide, this place didn’t disappoint. We ordered the mix of ćevapi with sausages, and to go in local mode, we also had a yogurt with the meal. The whole order was 15 KM, which is quite fair. Avoid coming here if you’re a vegetarian–there won’t be many options for you!
 - [Buregdžinica Oklagija](https://maps.app.goo.gl/HsY5Cd8k6JogqA1V8): An outstanding savory pies shop. We tried a lot of stuff, and all of them were insanely good. In particular, their burek was, in our opinion, the best we tried during our trip. The prices are SUPER fair, and the lady working there is super friendly and efficient. It’s right in front of Ćevabdžinica Hodžić, so if you are in a group and some of you are vegetarian and some are not, it’s a good strategy to split between these two places to eat and join back again later.
-- [Pie shop “Forino”](https://maps.app.goo.gl/cTXM46vLDR6exvKE7): Really good burek outside of the city center for a more local, less touristy vibe. The prices are ridiculously cheap. We had slices of four different pies: meat and garlic, spinach, potato, and zucchini. The total cost was 11.50 KM in two, and both of us were more than full!
+- [Pie shop “Forino”](https://maps.app.goo.gl/cTXM46vLDR6exvKE7): Really good burek outside of the city center for a more local, less touristy vibe. The prices are ridiculously cheap. We had slices of four different pies: meat and garlic, spinach, potato, and zucchini. The total cost was 11.50 KM for two, and both of us were more than full!
 - [Staklo](https://maps.app.goo.gl/dzTASso3iC4exFwC6): We came here to try the klepe (9 KM) and we also had a kombinacija (9 KM), which we believe stands for “a combination of things”. Both dishes were great, and the flavor and portion sizes were perfect. They also gave us a lot of lepinje for free, included in the meal, which is always a nice detail.
 - [Cream Shop](https://maps.app.goo.gl/dETj6z339eYjohnd6): This is THE spot in Sarajevo to have a powerful sweet breakfast or some dessert after your lunch elsewhere. The quality of these desserts is outstanding, and the prices are so cheap it’s unbelievable. Their cakes are mind-blowing. We recommend the Ambassador cake (pistachio, chocolate, and berries–6 KM a piece), the Jaffa Cake (orange and chocolate–4.5 KM), and, of course, the baklava and the kadaif (which are good, but nothing compared to the cakes). The only issue is that they only have takeaway (at least when we went), so no coffee or tea was available, nor the possibility of eating at a table.
 - [Ministry of Ćejf](https://maps.app.goo.gl/YoQpkupUb2S6KWA67): Probably the most popular café in Sarajevo. It has a beautiful view, and the spot itself is charming. The price is 5 KM for a Bosnian coffee, which is a bit more expensive than the average price in other places.

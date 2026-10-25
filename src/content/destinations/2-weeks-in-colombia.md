@@ -11,7 +11,6 @@ coverImage: "/images/posts/2-weeks-in-colombia-cover.webp"
 highlights: ["Medellín", "Salento & Cocora Valley", "Cartagena", "Rosario Islands", "Santa Marta", "Tayrona National Park"]
 hasRatings: true
 ratings: {"budget": 4, "adventure": 5, "food": 3, "overall": 4}
-odooPath: "/blog/destinations-1/2-weeks-in-colombia-19"
 ---
 
 ## Let’s start
@@ -26,7 +25,7 @@ Like in any good South American country, the vibes are unbeatable, and locals ar
 ### Before you go
 
 
-- **Vaccines**: if you go to Tayrona National Park, it's mandatory to have the vaccination against yellow fever. To enter the country, there are no mandatory vaccinations.
+- **Vaccines**: if you go to Tayrona National Park, it's mandatory to have the vaccination against yellow fever. To enter the country, there are no mandatory vaccinations. *Requirements can change, so always check the official websites for the latest information before you go.*
 - **Visa**: Italian citizens do not need a visa for tourism.
 - **When to visit**: the weather is pretty much stable and almost the same all year round. We went in September and had some random rains that lasted a maximum of one hour, usually at night. It is worth mentioning that in August in Medellín there is the “Feria de las Flores”, which everyone says is a must.
 
@@ -59,7 +58,7 @@ Internal flights are very cheap (around 70 EUR round-trip), and there are airpor
 
 ### Money
 
-Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange, but be aware that many activities don't accept cards.
+Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange, but be aware that many activities don't accept cards.
 
 Since we had USD, we always exchanged in local shops, checking every time for the best rate. All the ATMs have a fee that varies from 18k to 28k COP.
 
@@ -123,7 +122,7 @@ Our itinerary was:
 Medellín is a very large city, full of interesting neighborhoods to explore. Contrary to what many people say, it isn't dangerous as long as you stay within the tourist areas of the center.
 
 
-### Day 1
+#### Day 1
 
 We joined a walking tour of **Comuna 13** through GuruWalk. This is an absolute must! It lasts about three hours and is super interesting. No spoilers, but it's probably one of Medellín's most iconic spots.
 
@@ -132,7 +131,7 @@ Later we visited **Pueblito Paisa**, very touristy but still charming. For dinne
 At night we explored **El Poblado**, one of the most famous districts for nightlife. Personally, we didn't love it… It might be worth a visit, but the American-style party vibe isn't really our thing.
 
 
-### Day 2
+#### Day 2
 
 We went to **Guatapé**, another very touristy but also iconic destination. There's no need to book an organized tour. The more efficient and budget-friendly option is to take the bus from Terminal del Norte, at gate 9 or 14. They leave every hour and cost around 22,000 COP or 6 EUR. A useful tip: ask both ticket counters, because sometimes if they need to fill up seats, they'll give you a lower price.
 
@@ -141,7 +140,7 @@ Once you arrive in the area, you can get off directly at La Piedra (a bit far fr
 Afterwards, you can stroll through the town, which is very charming and colorful, “colonial style” and full of souvenir shops. Overall, we think a day trip is more than enough to see everything. For those who prefer a more relaxed trip, it's worth staying overnight to enjoy some water sports on the lagoon around Guatapé.
 
 
-### Day 3
+#### Day 3
 
 We headed to **Plaza Botero** during the morning. It's quite unique and definitely a must-visit, but all the locals recommended that we avoid it at night since it can get sketchy. We then headed to wander around **Placita de Flórez**, a traditional market where you can find basically anything – from fresh flowers and souvenirs to meat and fish. We bought some fresh mango here that was hands down one of the best snacks of our trip!
 
@@ -150,7 +149,7 @@ In the evening we went to [<u>Mirador el Cielo</u>](https://maps.app.goo.gl/381t
 To wrap up the day, we went for dinner in a restaurant in **Laureles**, by far our favorite neighborhood of the city. Then, we headed to Carrera 70, looking for a salsa bar. We found [<u>El Tíbiri</u>](https://maps.app.goo.gl/gZUwAGuA5h3RMtv96), a somewhat hidden spot whose entrance is just a stair that goes underground. Incredible experience, for sure a must while visiting Medellín!
 
 
-### Day 4
+#### Day 4
 
 We actually came back to Medellín at the end of our trip to catch our flight back home, so this day is actually after all the rest of the blog, but we write it here for simplicity. We only had half a day before our flight, so we went to the last Medellín highlight missing: the **Arví Park**.
 
@@ -219,7 +218,7 @@ Consider that prices inside Tayrona are crazy. A 1L water bottle that costs 850 
 
 The next day we continued the hike towards **Cabo San Juan**, another challenging trek due to the heat, around 2.5 hours. The beach there is stunning, but make sure to arrive early, since after 11 AM boats full of tourists start showing up, and it quickly becomes overcrowded. From there, it's about a 2-hour easy, mostly flat hike to the **El Zaino exit**. There are some gorgeous panoramic viewpoints along the way.
 
-Once you reach the end, you'll need to pay 6,000 COP (1.65 EUR) for a van that takes you from the parking area of El Zaino to the main road (it's over 4 km, trust us, you won't have the will to make it by foot!). From there, you can catch the public bus, super cheap, and that runs every 15 minutes from 5 AM to 6 PM It cost us 5,000 COP (1.40 EUR) to get from El Zaino back to El Calabazo. Don't get scammed by the motorbikes outside; they charge way more, and the bus is completely fine!
+Once you reach the end, you'll need to pay 6,000 COP (1.65 EUR) for a van that takes you from the parking area of El Zaino to the main road (it's over 4 km, trust us, you won't have the will to make it by foot!). From there, you can catch the public bus, super cheap, and that runs every 15 minutes from 5 AM to 6 PM. It cost us 5,000 COP (1.40 EUR) to get from El Zaino back to El Calabazo. Don't get scammed by the motorbikes outside; they charge way more, and the bus is completely fine!
 
 
 ### 5. Kogui tribe and Sierra Nevada
@@ -246,7 +245,7 @@ Colombian food isn't necessarily the country's biggest draw compared to, say, Pe
 - [<u>MOCAFE</u>](https://maps.app.goo.gl/uEqCyFWgxpJVKeFr8) (Filandia): Next-level coffee, and even at fair prices (~2 EUR for a delicious mocha). Totally recommended.
 - [<u>Las Delicias</u>](https://maps.app.goo.gl/HuT3WPTdrv5SCt938) (Pereira): If you're looking for some grab-and-go street snacks, this is the place. They have all the Colombian snacks you can think of, and they were really good. Also, the prices were super fair, and the place seemed to be very popular among locals.
 - [<u>Restaurante Espíritu Santo</u>](https://maps.app.goo.gl/7r9KJhSAeANkToqt7) (Cartagena): The definition of optimal restaurant. Amazing food, generous portions, fast service, and ridiculously low prices. Be sure to arrive early if you want to be seated without waiting (the place was already full and with a huge queue outside at 12:10 PM, 10 minutes after opening). It's insane that they offer such low prices in a city as touristy as Cartagena and in the middle of the center (as a reference, the fried fish of the day + THREE side dishes was 9.50 EUR).
-- [<u>Vívolo Café | Cafetería en Santa Marta</u>](https://maps.app.goo.gl/MJCJ8ZkgVpUAKVEN7) (Santa Marta): A bit on the pricey side, but totally worth it. As a reference, a frappuccino with a nuts muffin was 8 EUR. The quality is very good though, so it doesn't seem that expensive either. Apart from the food and beverages, the place itself is really nice to be in. Good AC, good WiFi, cozy atmosphere. We highly recommend stopping here for a great, tasty breakfast!
+- [<u>Vívolo Café | Cafetería en Santa Marta</u>](https://maps.app.goo.gl/MJCJ8ZkgVpUAKVEN7) (Santa Marta): A bit on the pricey side, but totally worth it. As a reference, a frappuccino with a nut muffin was 8 EUR. The quality is very good though, so it doesn't seem that expensive either. Apart from the food and beverages, the place itself is really nice to be in. Good AC, good WiFi, cozy atmosphere. We highly recommend stopping here for a great, tasty breakfast!
 
 Additionally, there are a few things you should try that you'll find pretty much anywhere on the street; no specific recommendation needed:
 
@@ -254,7 +253,7 @@ Additionally, there are a few things you should try that you'll find pretty much
 - **Mango**: super refreshing as a snack, sold everywhere, and they’ll mostly be incredibly good.
 - **Arepas quesudas**: cheesy version of the classic Colombian arepa, dangerously addictive.
 - **Cholado**: a fruity, syrupy shaved-ice dessert, perfect for the heat.
-- **Chontaduro**: a fruit locals eat with sauces and salt; an acquired taste but worth trying once (we actually loved it even on the first time!).
+- **Chontaduro**: a fruit locals eat with sauces and salt; an acquired taste but worth trying once (we actually loved it even the first time!).
 
 
 ![2-weeks-in-colombia](/images/posts/2-weeks-in-colombia-img-3.webp)

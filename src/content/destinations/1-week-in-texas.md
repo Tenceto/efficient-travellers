@@ -10,7 +10,6 @@ coverImage: "/images/posts/1-week-in-texas-cover.webp"
 highlights: ["Houston", "Austin", "San Antonio"]
 hasRatings: true
 ratings: {"budget": 2, "adventure": 1, "food": 3, "overall": 2}
-odooPath: "/blog/destinations-1/1-week-in-texas-16"
 ---
 
 ## Work in Progress

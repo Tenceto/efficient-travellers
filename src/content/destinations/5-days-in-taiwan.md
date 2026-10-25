@@ -11,7 +11,6 @@ coverImage: "/images/posts/5-days-in-taiwan-cover.webp"
 highlights: ["Taipei", "Jiufen"]
 hasRatings: true
 ratings: {"budget": 3, "adventure": 3, "food": 5, "overall": 4}
-odooPath: "/blog/destinations-1/5-days-in-taiwan-11"
 ---
 
 ## Let’s start
@@ -37,7 +36,7 @@ Taiwan has quite a complex history, and its mix of cultures can be seen everywhe
 
 - Night markets are the real deal. Raohe was our favorite, but all of them are full of must-try street food.
 - Elephant Mountain at sunset and a day trip to Jiufen are unforgettable highlights.
-- Five days is enough for Taipei and the surrounding area. However, if you have more time, you can head South for beaches, nature, and a more in-depth experience of this beautiful island.
+- Five days is enough for Taipei and the surrounding area. However, if you have more time, you can head south for beaches, nature, and a more in-depth experience of this beautiful island.
 
 
 ## Efficiency tips
@@ -50,7 +49,7 @@ Both terminals are connected to Taipei Main Station in the city center via the A
 
 ### Money
 
-Always use your Wise or [<u>Revolut</u>](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange rate, but be aware that you'll need cash for most things (mainly the night markets).
+Always use your Wise or [<u>Revolut</u>](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate, but be aware that you'll need cash for most things (mainly the night markets).
 
 No-fee ATMs: **Cathay Bank** and **Taiwan Cooperative Bank**.
 
@@ -83,7 +82,7 @@ Since we were staying just 5 days, we decided not to get one since you can easil
 
 ## Itinerary
 
-Taiwan is a fantastic island with so much more to offer beyond Taipei. If you’ve got more time than we did, we recommend heading down South to places like Tainan, Kaohsiung, or even the East coast for more nature and beaches.
+Taiwan is a fantastic island with so much more to offer beyond Taipei. If you’ve got more time than we did, we recommend heading down south to places like Tainan, Kaohsiung, or even the east coast for more nature and beaches.
 
 If you’re working with a shorter schedule like ours, here’s our **5-day itinerary, mainly around Taipei**.
 
@@ -170,7 +169,7 @@ The list above is already quite long, but we still have more information for our
 
 - The only typical thing to eat that we tried but didn’t make it to the list is the taro pastry (芋頭酥). We didn’t put it there because we tried it in a random place and it was not that good. No idea if the stall was bad, or if the taro is just not to our taste. In any case, you must try it to cross out all the typical food from your list!
 
-- Another thing we ate that didn’t make it to the list because we are not sure if it’s a Taiwanese staple or not are the [<u>Crispy Milk Donuts</u>](https://maps.app.goo.gl/fyeABFequt3C7RHe9). This donut is incredible; it has perfect flavor and texture, and is still warm when you get it. At 40 NTD (1.35 USD), it’s well-priced despite the hype. The line looks infinite, but moves quickly; we waited about 15 minutes. Definitely worth it.
+- Another thing we ate that didn’t make it to the list because we are not sure if it’s a Taiwanese staple or not is the [<u>Crispy Milk Donuts</u>](https://maps.app.goo.gl/fyeABFequt3C7RHe9). This donut is incredible; it has perfect flavor and texture, and is still warm when you get it. At 40 NTD (1.35 USD), it’s well-priced despite the hype. The line looks infinite, but moves quickly; we waited about 15 minutes. Definitely worth it.
 
 - **The boiled dumplings** (水餃) are also a classic, but we found the must-visit spot not in Taipei but in Jiufen. [<u>安迪藥燉排骨/老街美食/小吃/restaurants/吃的/附近美食/推薦晚餐</u>](https://maps.app.goo.gl/cizaq8y4Mj6wHJhd6) is the best place to have a homemade, cheap, and tasty meal in the area. We ordered 10 pork dumplings for 60 NTD (2 USD), while in any other place in the touristy street, the prices were double for even smaller portions. Apart from the price, the dumplings were heavenly. The place was full of locals, which is always the green flag we look for.
 

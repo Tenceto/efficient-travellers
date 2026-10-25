@@ -11,7 +11,6 @@ coverImage: "/images/posts/4-days-in-istanbul-cover.webp"
 highlights: []
 hasRatings: true
 ratings: {"budget": 3, "adventure": 1, "food": 4, "overall": 3}
-odooPath: "/blog/destinations-1/4-days-in-istanbul-14"
 ---
 
 ## Let’s start
@@ -48,7 +47,7 @@ Just a heads up, though: based on our experience, be prepared for a bit of a sca
 
 ### Money
 
-Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange rate.
+Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate.
 
 Be aware that many activities don’t accept cards, but they often accept euros.
 
@@ -104,6 +103,8 @@ Be careful: it always looks like there’s a super long line, and you’ll proba
 After that, we headed over to **Topkapı Palace**, but we only checked it out from the outside. We’re not huge history fans, so the €20 ticket didn’t feel worth it for us.
 
 Instead, we decided to visit the **Basilica Cistern** (around €15), and it was definitely worth it! It’s a really unique and fascinating underground historical site with a mysterious vibe.
+
+*Ticket prices change often, so always check the official websites for the latest prices before you go.*
 
 **DAY 3**
 

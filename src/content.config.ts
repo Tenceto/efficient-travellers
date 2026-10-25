@@ -26,7 +26,6 @@ const destinations = defineCollection({
       food: z.number().min(0).max(5).default(0),
       overall: z.number().min(0).max(5).default(0),
     }),
-    odooPath: z.string().optional(),
   }),
 });
 

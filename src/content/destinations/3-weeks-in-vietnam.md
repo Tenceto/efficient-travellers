@@ -11,7 +11,6 @@ coverImage: "/images/posts/3-weeks-in-vietnam-cover.webp"
 highlights: ["Hanoi", "Sapa", "Ha Giang Loop", "Lan Ha Bay", "Ninh Binh", "Hue / Hoi An", "Ho Chi Minh (Saigon)"]
 hasRatings: true
 ratings: {"budget": 5, "adventure": 4, "food": 4, "overall": 5}
-odooPath: "/blog/destinations-1/3-weeks-in-vietnam-3"
 ---
 
 ## Let's start
@@ -55,7 +54,7 @@ Beware: you can pay only with cash.
 
 ### Money
 
-Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card to have the best exchange rate, but be aware that a lot of activities don’t accept cards. It's not convenient to exchange cash since there are ATMs with no withdrawal fees, like **TP Bank** and **VP Bank**.
+Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card to have the best exchange rate, but be aware that a lot of activities don’t accept cards. It's not convenient to exchange cash since there are ATMs with no withdrawal fees, like **TP Bank** and **VP Bank**.
 
 
 ### SIM card
@@ -95,7 +94,7 @@ Always remember to bargain!
 5. Have a meal on a minuscule bench on the streets of Hanoi
 6. Get a haircut on the street for €2
 7. Visit Son Doong Cave, the largest in the world (we regret not doing it!)
-8. Join the Lantern Festival in Hoi An (every 14th of the month)
+8. Join the Lantern Festival in Hoi An (every 14th of the lunar month)
 9. Get a tailor-made suit/dress in Hoi An for an incredibly cheap price
 
 
@@ -106,12 +105,12 @@ Always remember to bargain!
 
 Ideally, you’d need four weeks to travel all of Vietnam, it's so big! That’s why, in this itinerary, we had to skip a few places in central Vietnam, which we regret—like **Son Doong Cave**.
 
-**The** **north** is definitely the most diverse in terms of both nature and cities, and it was by far our favorite part of the country!
+**The north** is definitely the most diverse in terms of both nature and cities, and it was by far our favorite part of the country!
 
 
 - 2 days in Hanoi
 - 4 days in Sa Pa
-- 4 days doing the Ha Giang loop
+- 3 days doing the Ha Giang loop (+ 1 day in Ha Giang)
 - 2 days in Cat Ba (to visit Lan Ha Bay)
 - 3 days in Ninh Binh
 - 2 days in Hue
@@ -124,7 +123,7 @@ Hanoi is definitely a chaotic city, but maybe that’s part of its charm. That s
 
 If you’re a shopping lover, then the **Old Quarter** is your paradise–it’s packed with shops and street food spots everywhere.
 
-The city has several tourist landmarks, such as Ho Chi Minh’s Mausoleum, the One Pillar Pagoda, the Tran Quoc Pagoda, the Temple of Literature, Hoan Kiem Lake, and the Ngoc Son Temple. However, we believe that they are not anything mindblowing. Instead, the real fun of staying in Hanoi is trying all the food you can find and finding the best shopping deals (especially the “fake” clothes, particularly sporty ones) you can get. Maybe the gloomy weather didn’t help when we were there, and that’s why the landmarks didn’t catch our attention that much, but we still believe that wandering around with no real plan is actually the best way to experience Hanoi.
+The city has several tourist landmarks, such as Ho Chi Minh’s Mausoleum, the One Pillar Pagoda, the Tran Quoc Pagoda, the Temple of Literature, Hoan Kiem Lake, and the Ngoc Son Temple. However, we believe that they are not anything mind-blowing. Instead, the real fun of staying in Hanoi is trying all the food you can find and finding the best shopping deals (especially the “fake” clothes, particularly sporty ones) you can get. Maybe the gloomy weather didn’t help when we were there, and that’s why the landmarks didn’t catch our attention that much, but we still believe that wandering around with no real plan is actually the best way to experience Hanoi.
 
 One place that totally lives up to the hype is **Train Street**—super cool and definitely worth a visit, even if it's super touristy. We caught the train passing at **11:50 AM**, and all the cafés along the tracks are pretty similar in price and vibe. The train timings may change with time, so make sure to check out the most recent timetable when you’re there.
 
@@ -157,10 +156,10 @@ Quick & Honest Guide:
 - Solo vs Group? → 100% Solo! It's absolutely worth doing it on your own. It’s not dangerous at all—just drive slowly and pay attention to your surroundings. However, do check the forecast before, since the bad weather may not only make it riskier but also ruin the sightseeing. Many people write that doing it solo is dangerous and stuff, but don’t let these blogs scare you! Check out this [Reddit post](https://www.reddit.com/r/VietNam/comments/1gqc23b/the_truth_about_the_ha_giang_loop/) to learn about our experience!
 
 
-#### Day 1 – The Toughest but Most Stunning
+#### Day 1 – The Longest but Most Stunning
 
 Route: Ha Giang → Heaven’s Gate → Yen Minh (with several stops in between) → Dong Van (overnight).
-Road conditions: Super easy, fully paved. Views: Insane, especially towards the end! The best part of the loop is from Yen Minh to Meo Vac.
+Road conditions: Very good, fully paved. Views: Insane, especially towards the end! The best part of the loop is from Yen Minh to Meo Vac.
 
 #### Day 2
 

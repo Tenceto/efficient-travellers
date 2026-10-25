@@ -10,7 +10,6 @@ coverImage: "/images/cards/japan-card.webp"
 highlights: []
 hasRatings: false
 ratings: {"budget": 0, "adventure": 0, "food": 0, "overall": 0}
-odooPath: ""
 ---
 
 ## Work in Progress

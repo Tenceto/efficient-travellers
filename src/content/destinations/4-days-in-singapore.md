@@ -11,7 +11,6 @@ coverImage: "/images/posts/4-days-in-singapore-cover.webp"
 highlights: []
 hasRatings: true
 ratings: {"budget": 2, "adventure": 1, "food": 2, "overall": 3}
-odooPath: "/blog/destinations-1/4-days-in-singapore-12"
 ---
 
 ## Let’s start
@@ -55,7 +54,7 @@ The airport is easily connected to the city center via metro for a super conveni
 
 ### Money
 
-Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange rate, since you will need cash only in local markets.
+Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate, since you will need cash only in local markets.
 
 Fee-free ATMs: **UOB** or **OCBC**.
 
@@ -97,7 +96,7 @@ It’s a fun experience; you will spend much less than in any other hostel!
 
 We started the day walking around **Chinatown**. Then we wandered through the **Central Business District** (CBD), **Boat Quay**, and **Clarke Quay**: cute spots by the river, full of bars and chill vibes. We went to **Maxwell Food Centre** for lunch, a cheap and authentic hawker center. Don’t expect fancy, but that’s part of the charm. After lunch, the jet lag hit us hard, so we crashed at the hostel for a quick nap.
 
-In the afternoon, we headed to **Gardens by the Bay** and walked around the **Flower Dome** and **Cloud Forest**. We only saw them from the outside (the entrance was around €17, and we were rather budget-conscious about the following months of our backpacking trip), but they looked stunning. We also crossed the **Helix Bridge**, which is beautiful and has a very cool design.
+In the afternoon, we headed to **Gardens by the Bay** and walked around the **Flower Dome** and **Cloud Forest**. We only saw them from the outside (the entrance was around €17, and we were rather budget-conscious about the following months of our backpacking trip), but they looked stunning. We also crossed the **Helix Bridge**, which is beautiful and has a very cool design. *Ticket prices change often, so always check the official Gardens by the Bay website for the latest prices.*
 
 At night, we caught the light show at the **Supertree Grove** (definitely a must!) and then walked over to **Marina Bay Sands** for Spectra, the fountain light show. We then had dinner at **Lau Pa Sat**, another food court. The vibe here is much more touristy than Maxwell Food Centre, but still very good!
 

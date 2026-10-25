@@ -10,7 +10,6 @@ coverImage: "/images/posts/4-days-in-morocco-cover.webp"
 highlights: ["Marrakech", "Merzouga desert"]
 hasRatings: true
 ratings: {"budget": 4, "adventure": 5, "food": 4, "overall": 5}
-odooPath: "/blog/destinations-1/4-days-in-morocco-1"
 ---
 
 ## Work in Progress

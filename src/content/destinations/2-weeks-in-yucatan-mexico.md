@@ -10,7 +10,6 @@ coverImage: "/images/posts/2-weeks-in-yucatan-mexico-cover.webp"
 highlights: ["Playa del Carmen", "Tulum", "Bacalar", "Merida", "Vallalolid and Chichen Itza", "Holbox island"]
 hasRatings: true
 ratings: {"budget": 3, "adventure": 4, "food": 5, "overall": 5}
-odooPath: "/blog/destinations-1/2-weeks-in-yucatan-mexico-15"
 ---
 
 ## Work in Progress

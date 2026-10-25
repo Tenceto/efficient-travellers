@@ -10,7 +10,6 @@ coverImage: "/images/posts/california-nevada-utah-on-the-road-2-weeks-cover.webp
 highlights: ["San Francisco", "Big Sur", "Paso Robles", "Las Vegas", "Zion National Park", "Grand Canyon", "San Diego", "Los Angeles"]
 hasRatings: true
 ratings: {"budget": 1, "adventure": 5, "food": 2, "overall": 5}
-odooPath: "/blog/destinations-1/california-nevada-utah-on-the-road-2-weeks-17"
 ---
 
 ## Work in Progress

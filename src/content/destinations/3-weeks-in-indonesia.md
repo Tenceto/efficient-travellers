@@ -11,7 +11,6 @@ coverImage: "/images/posts/3-weeks-in-indonesia-cover.webp"
 highlights: ["Bali", "Gili Islands", "Lombok", "Flores & Komodo National Park"]
 hasRatings: true
 ratings: {"budget": 5, "adventure": 5, "food": 3, "overall": 5}
-odooPath: "/blog/destinations-1/3-weeks-in-indonesia-7"
 ---
 
 ## Let's start
@@ -27,7 +26,7 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 - **Vaccines**: No special vaccinations are required—just the standard ones.
 - **Visa**: When we went, a 30-day visa cost around €30. The rules seem to have changed since then (the official site now lists a 60-day tourist e-visa), so check the current official details [here](https://evisa.imigrasi.go.id/front/faq/dd5c2220-28a7-4024-9a10-82f30a09e0d2) before you go.
 - **Bali Tourist Tax**: In recent years, there’s a €10 entry tax for Bali. It seems that no one checks it, but in my opinion, it’s a small and fair contribution considering the impact of mass tourism. You can pay for it [here](https://lovebali.baliprov.go.id/).
-- **Dengue**: Dengue fever is a real risk and the consequences can be really bothering, so always carry a reliable insect repellent.
+- **Dengue**: Dengue fever is a real risk and the consequences can be really bothersome, so always carry a reliable insect repellent.
 - **Bali Belly**: The infamous "Bali belly" is often exaggerated. Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: Despite being there during the weeks that correspond to the start of the rainy season (end of September), we only had one day of heavy rain in 3 weeks. There were some very short (some minutes long) showers in the other 3 or 4 days. We were probably very lucky, but in any case, the weather is super unpredictable and varies drastically in a matter of minutes, so always take a rain jacket with you (even if it’s extremely sunny when you leave your room).
 
@@ -40,7 +39,7 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 
 - The variety of activities and experiences is crazy: you can swim with sharks, hike a volcano at 2 AM, sleep for 4 days on the deck of a boat, and see pseudo-dragons on remote islands.
 - Try to bargain for everything that is not food, since they will typically shoot prices up – in markets, when hiring tours and excursions, or when buying clothes.
-- Eat only at warungs unless you are dying for Western food. The food is delicious, although it can get a bit monotonous, but the prices are so ridiculously cheap (between 1€ and 2€ for a normal dish) that you can’t complain.
+- Eat only at warungs unless you are dying for Western food. The food is delicious, and although it can get a bit monotonous, the prices are so ridiculously cheap (between 1€ and 2€ for a normal dish) that you can’t complain.
 - Local people are some of the most friendly you’ll meet in your life, particularly in Bali.
 - Forget about living the full experience if you don't rent a scooter—it's vital.
 - Avoid massively touristic places, since they get really packed and tend to be pricey. Our best experiences were typically in unexplored small villages.
@@ -59,7 +58,7 @@ Be aware that in remote places in the north of Bali and Lombok, these apps don't
 
 ### Money
 
-Almost everywhere you will need to pay in cash. Avoid exchanging cash in your currency (USD, EUR, or whatever). Instead, use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card in ATMs to have the best exchange rate.
+Almost everywhere you will need to pay in cash. Avoid exchanging cash in your currency (USD, EUR, or whatever). Instead, use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card in ATMs to have the best exchange rate.
 
 ATMs with no withdrawal fee: Mandiri, BNI.
 
@@ -73,7 +72,7 @@ The only company that is not a tourist trap is [Telkomsel](https://www.telkomsel
 
 The weather is really humid, so it's good to have fresh clothes that dry fast. Always have in your daily backpack a pair of long trousers for the temples.
 
-Regarding laundry, it's full of places around every island. Just do a quick research on Google Maps. Prices could vary from 1 to 2€ per kilo.
+Regarding laundry, it's full of places around every island. Just do a quick search on Google Maps. Prices could vary from 1 to 2€ per kilo.
 
 
 ### Scooter
@@ -130,7 +129,7 @@ We didn't have time, but you could fit a one- or two-day trip to **Nusa Penida**
 Ubud is the heart and soul of Bali. We loved staying in a guesthouse outside the city, completely immersed in the island’s lush nature, surrounded by small houses and temples that can only be found here.
 
 
-### Day 1
+#### Day 1
 
 Monkey Forest – Despite being a tourist hotspot, we really enjoyed it and think it’s worth visiting. (Entrance: €4)
 
@@ -139,7 +138,7 @@ Ubud Palace (Free Entry) & Market – The market is right in front of the palace
 Tukad Cepung Waterfall – A stunning spot, though quite far by scooter. The north of the island is full of incredible waterfalls. If you visit a well-known one, go early in the morning to avoid crowds—or better yet, ask the locals about lesser-known spots.
 
 
-### Day 2
+#### Day 2
 
 Tegallalang Rice Terraces – Though very touristy, they were absolutely EPIC. It’s essential to go early in the morning to truly enjoy the experience. (Entrance: €2)
 
@@ -150,13 +149,13 @@ Tirta Empul – In our opinion, this is a bit of a tourist trap. Either go at 8 
 Yoga & Meditation at Alchemy – An amazing place with a fantastic class, of course created for foreigners. (€10) Highly recommended!
 
 
-### Day 3
+#### Day 3
 
 Ubud City – half a day is completely worth it to spend wandering through the non-touristy streets of Ubud and soaking in the local atmosphere.
 
 Mengwi – The ride there by scooter is beautiful, and Taman Ayun Temple was our favorite! (Entrance: ~€2)
 
-Tanah Lot – A stunning temple in the middle of the sea, a must-see. Best visited at sunset for an unforgettable view. (Entrance €5)
+Tanah Lot – A stunning temple in the middle of the sea, a must-see. Best visited at sunset for an unforgettable view. (Entrance: €5)
 
 
 ### 2. Sidemen
@@ -170,7 +169,7 @@ Gembleng waterfalls – possibly the best we’ve seen! (entrance fee by donatio
 
 ### 3. Amed
 
-Amed didn’t really impress us. The beach is just black pebbles, and the water is so-so. The main activities here are diving (PADI certification available), gym, and massages. For diving, we recommend White Sands Amed—fantastic instructors! We did a single dive (13m) for around €80, while the PADI certification costs about €400—way cheaper than anywhere else in the world. That said, if I had to choose, I’d get certified in the Gili Islands, where the reef is much nicer.
+Amed didn’t really impress us. The beach is just black pebbles, and the water is so-so. The main activities here are diving (PADI certification available) and massages. For diving, we recommend White Sands Amed—fantastic instructors! We did a single dive (13m) for around €80, while the PADI certification costs about €400—way cheaper than anywhere else in the world. That said, if I had to choose, I’d get certified in the Gili Islands, where the reef is much nicer.
 
 
 ### 4. Gili Air
@@ -250,7 +249,7 @@ In the area, you can do diving, boat trips, or visit caves and waterfalls. For a
 This area is known for its surf vibe, and it's a must-see. It’s a bit unusual since there’s not an actual “town center”. Having a scooter is a must to go beach hopping.
 
 
-### Day 1
+#### Day 1
 
 Suluban Beach – absolutely stunning, go early in the morning.
 
@@ -259,7 +258,7 @@ Padang Padang Beach – beautiful, with intermediate-level surfing.
 Nunggalan Beach and Karang Boma Cliff for sunset.
 
 
-### Day 2
+#### Day 2
 
 Shopping in town (on Sundays, there are some amazing markets). In the afternoon, I took a surf lesson at Kala Surf Camp (€25)—did it with a friend in a great spot, but you could probably find a cheaper option.
 

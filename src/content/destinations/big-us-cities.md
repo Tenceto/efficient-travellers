@@ -10,7 +10,6 @@ coverImage: "/images/cards/big-us-cities-card.webp"
 highlights: ["New York", "Washington", "Boston", "Chicago"]
 hasRatings: false
 ratings: {"budget": 0, "adventure": 0, "food": 0, "overall": 0}
-odooPath: ""
 ---
 
 ## Work in Progress

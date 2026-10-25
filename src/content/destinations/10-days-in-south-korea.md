@@ -6,12 +6,11 @@ status: "published"
 date: "7 June 2025"
 description: "10-day South Korea itinerary: Seoul, Busan, Gyeongju and Hahoe village, with transport and app tips, street food, cozy cafés and budget advice."
 author: "Carola & Martín"
-cardImage: "/images/cards/2-weeks-in-south-korea-card.webp"
-coverImage: "/images/posts/2-weeks-in-south-korea-cover.webp"
+cardImage: "/images/cards/10-days-in-south-korea-card.webp"
+coverImage: "/images/posts/10-days-in-south-korea-cover.webp"
 highlights: ["Seoul", "Busan", "Gyeongju", "Hahoe"]
 hasRatings: true
 ratings: {"budget": 3, "adventure": 3, "food": 4, "overall": 5}
-odooPath: "/blog/destinations-1/2-weeks-in-south-korea-9"
 ---
 
 ## Let’s start
@@ -27,11 +26,11 @@ In this post, we’ll share some must-have tools to make the most of your experi
 
 
 - <u>Vaccines</u>: No special vaccinations are required, just the standard ones.
-- <u>Visa</u>: EU citizens do not need a visa for tourist or short-term business visits lasting up to 90 days. Before arriving, though, you have to apply to the Korean Electronic Travel Authorization ([<u>K-ETA</u>](https://www.k-eta.go.kr/portal/newapply/index.do)), which costs around €5.
+- <u>Visa</u>: EU citizens do not need a visa for tourist or short-term business visits lasting up to 90 days. Before arriving, though, you have to apply for the Korean Electronic Travel Authorization ([<u>K-ETA</u>](https://www.k-eta.go.kr/portal/newapply/index.do)), which costs around €5. *Rules and fees can change, so always check the official K-ETA website for the latest information before you travel.*
 - <u>When to visit</u>: The best time to visit South Korea is in the spring or autumn. Summer can get very hot and humid, while winter is rather freezing. We went in April, and the weather was absolutely perfect. We even got lucky and caught the cherry blossoms in bloom! (Not as epic as Japan’s, but still very pretty.)
 
 
-![2-weeks-in-south-korea](/images/posts/2-weeks-in-south-korea-img-1.webp)
+![10-days-in-south-korea](/images/posts/10-days-in-south-korea-img-1.webp)
 
 
 ## TL;DR
@@ -50,12 +49,12 @@ In this post, we’ll share some must-have tools to make the most of your experi
 
 ### Transportation from the airport
 
-The airport is seamlessly connected to the city center via a fast train, [<u>Klook AREX</u>](http://www.arex.or.kr/main.do), at a cost of around €7.
+The airport is seamlessly connected to the city center via a fast train, [<u>AREX</u>](http://www.arex.or.kr/main.do), at a cost of around €7.
 
 
 ### Money
 
-Always use your Wise or [<u>Revolut</u>](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange rate.
+Always use your Wise or [<u>Revolut</u>](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate.
 
 You will need cash only to buy and recharge the T-money card, but don’t worry, there are always currency exchanges right next to it.
 
@@ -72,7 +71,7 @@ Getting around in Korea is super easy and efficient, at least in big cities like
 
 You can buy and recharge the T-money only with cash, so always have some on you!
 
-The best way to move around cities is by train. Since they can get very busy, we suggest buying the tickets in advance through [<u>Korail</u>](https://www.korail.com/global/eng/intro).
+The best way to move between cities is by train. Since they can get very busy, we suggest buying the tickets in advance through [<u>Korail</u>](https://www.korail.com/global/eng/intro).
 
 ### Taxi and Uber
 
@@ -96,12 +95,12 @@ South Korea, like many Asian countries, feels like a whole different world to th
 2. Go to a [<u>noraebang room</u>](https://www.bbc.com/travel/article/20231228-a-tour-of-seouls-five-best-karaoke-venues-with-singer-neon-bunny) for a K-pop night out
 3. Sleep in a hanok (traditional house)
 4. Explore a tea house or themed café (and go to all the cafés in general, they are very cozy and probably the best ones you’ll see in your life!)
-5. Do some beauty shopping and try a facial treatment (or, for a cheap version, buy a DIY skin care kit at home)
+5. Do some beauty shopping and try a facial treatment (or, for a cheap version, buy a DIY skin care kit to use at home)
 6. Go to the disco in Hongdae to experience the real Korean nightlife
-7. Take funny pictures in the massive photo booths (pick up your accessories wisely, they have infinite collections to choose from!)
+7. Take funny pictures in the massive photo booths (pick your accessories wisely, they have infinite collections to choose from!)
 
 
-![2-weeks-in-south-korea](/images/posts/2-weeks-in-south-korea-img-2.webp)
+![10-days-in-south-korea](/images/posts/10-days-in-south-korea-img-2.webp)
 
 
 ## Itinerary
@@ -144,7 +143,7 @@ We ended the day at **Namseong Sagye Market**, a very local, low-key spot for di
 
 **DAY 3**
 
-In the morning, we visited the traditional neighborhood of **Bukchon Hanok Village**. Yes, it's super touristy… but 100% worth it. The vibe is very unique, the hanok houses are beautiful, and it’s the perfect spot to take some great photos.
+In the morning, we visited the traditional neighborhood of **Bukchon Hanok Village**. Yes, it’s super touristy… but 100% worth it. The vibe is very unique, the hanok houses are beautiful, and it’s the perfect spot to take some great photos.
 
 In the afternoon, we went on a long walk, getting lost across the city, with **Ihwa Mural Village** as our final destination. The view from up there is amazing!
 
@@ -242,8 +241,8 @@ Desserts:
 
 
 - [<u>Yangji Dabang</u>](https://maps.app.goo.gl/ma8EToyeNPGbLPGt5) (Gyeongju): We came here to try the popular **soufflé pancake**, which, despite being Japanese, is very popular here as well. It’s definitely worth trying!
-- [<u>Sulbing</u>](https://maps.app.goo.gl/qAgHFs5q7MMLa96K6) (Seoul): A famous chain specializing in **bingsu.** They have many options to choose from, and they’re indeed a must-try while you’re in Korea. The portion seems huge, but it’s shaved ice in the end, so it’s okay to share it between two people.
-- [<u>Seoul Hotteok</u>](https://maps.app.goo.gl/qnB6Fm6NHqPhbNVK9) (Seoul): This shop serves one of the most beloved street snacks: the **hotteok.** It’s probably the most important dessert to try while visiting this amazing country, and this shop really nails it!
+- [<u>Sulbing</u>](https://maps.app.goo.gl/qAgHFs5q7MMLa96K6) (Seoul): A famous chain specializing in **bingsu**. They have many options to choose from, and they’re indeed a must-try while you’re in Korea. The portion seems huge, but it’s shaved ice in the end, so it’s okay to share it between two people.
+- [<u>Seoul Hotteok</u>](https://maps.app.goo.gl/qnB6Fm6NHqPhbNVK9) (Seoul): This shop serves one of the most beloved street snacks: the **hotteok**. It’s probably the most important dessert to try while visiting this amazing country, and this shop really nails it!
 
 Some other random stuff:
 

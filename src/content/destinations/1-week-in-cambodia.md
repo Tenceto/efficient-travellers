@@ -11,7 +11,6 @@ coverImage: "/images/posts/1-week-in-cambodia-cover.webp"
 highlights: ["Phnom Penh", "Siem Reap", "Angkor"]
 hasRatings: true
 ratings: {"budget": 5, "adventure": 3, "food": 3, "overall": 4}
-odooPath: "/blog/destinations-1/1-week-in-cambodia-10"
 ---
 
 ## Let’s start
@@ -29,7 +28,7 @@ Despite only spending a week there, the Cambodian people left a strong impressio
 
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
-- **Visa**: You can do your e-visa [here](https://www.evisa.gov.kh/) at the cost of 27€. We arrived in the country by bus from Vietnam, and they asked for the visa at the border. Remember to print it.
+- **Visa**: You can do your e-visa [here](https://www.evisa.gov.kh/) at the cost of 27€. We arrived in the country by bus from Vietnam, and they asked for the visa at the border. Remember to print it. *Fees and requirements can change, so always check the official e-visa website for the latest information before applying.*
 - **Dengue**: Dengue fever is a real risk, and the consequences can be really bothersome, so always carry a reliable insect repellent.
 - **Stomach flu**: Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: No need to stress! The weather can be super unpredictable, but (according to our experience) even when it rains, it’s usually just a quick storm that passes in about an hour.
@@ -63,7 +62,7 @@ Watch out: the bus companies often offer the service of doing the visa with them
 
 ### Money
 
-Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange, but remember that they don’t accept cards in many places.
+Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange, but remember that they don’t accept cards in many places.
 
 All ATMs have a withdrawal fee, so we suggest exchanging large amounts or having cash of your currency with you to change.
 
@@ -145,7 +144,7 @@ To plan your route and decide which temples to visit (and in what order), we rec
 
 
 - [Three Days in Angkor Wat](https://chaivuriti.com/cambodia/three-days-in-angkor-wat/)
-- [Visitare Angkor: tutto quello da sapere](https://www.freesoulontheroad.com/2019/11/10/visitare-angkor-da-sapere/)
+- [Visitare Angkor: tutto quello che devi sapere](https://www.freesoulontheroad.com/2019/11/10/visitare-angkor-da-sapere/)
 
 However, we decided to do only one day and picked only the most popular temples.
 
@@ -182,13 +181,13 @@ Khmer cuisine has a lot of intersections with cuisines from other countries in t
 - **Samlor machu** (the Khmer version of sour soups–nothing mind-blowing to us, but still a classic)
 - **Num banhchok** (a dish based on rice noodles–delicious, but it may be challenging to find since they typically have it for breakfast!)
 
-As additional information, we spent several days trying to find where to eat **sankhya lapov**, which we had come across on the Internet as a “coconut-pumpkin custard”, a very auspicious translation. We asked every local where to find it, and after several failed attempts, we finally found a lady selling it inside the [Toultumpong Market](https://maps.app.goo.gl/5TkgzShP87MK7X3E8) in Phnom Penh. It’s a strange combination of flavors, but quite good and unique. Definitely worth trying!
+As additional information, we spent several days trying to find where to eat **sankhya lapov**, which we had come across on the Internet as a “coconut-pumpkin custard”. We asked every local where to find it, and after several failed attempts, we finally found a lady selling it inside the [Toultumpong Market](https://maps.app.goo.gl/5TkgzShP87MK7X3E8) in Phnom Penh. It’s a strange combination of flavors, but quite good and unique. Definitely worth trying!
 
 The specific spots that we recommend to sit down and enjoy a meal in Cambodia are:
 
 
 - [David’s Restaurant Homemade Noodles](https://maps.app.goo.gl/1GnFLPgQnkXiN2oR7) (Phnom Penh): As the name suggests, the specialty of this place is **noodles**, which you can see being made by David himself at the shop’s entrance. The noodles were heavenly, probably the best in Southeast Asia. Apart from that, they also have an insanely good **amok fish**. The price depends on what you order, but every dish is around 5 USD–quite affordable for such a high quality, although a bit more expensive than the average.
-- [Nak's Restaurant](https://maps.app.goo.gl/CcYWxBHaz1pn8x488) (Siem Reap): What a glorious place to eat. It is perfect from every possible aspect. The food was terrific (the **amok fish** was not only delicious but also had an incredible amount of fish), the prices are super cheap (3.50 USD for the fish, but some are even cheaper), and the staff is among the most genuinely friendly and nice people. Highly recommendable spot (and talk to Nak if you have the chance, he is the best!).
+- [Nak’s Restaurant](https://maps.app.goo.gl/CcYWxBHaz1pn8x488) (Siem Reap): What a glorious place to eat. It is perfect from every possible aspect. The food was terrific (the **amok fish** was not only delicious but also had an incredible amount of fish), the prices are super cheap (3.50 USD for the fish, but some are even cheaper), and the staff is among the most genuinely friendly and nice people. Highly recommendable spot (and talk to Nak if you have the chance, he is the best!).
 - [The Brother Bong Restaurant](https://maps.app.goo.gl/UkxaYPWpYt8jbdtNA) (Siem Reap): Family-run restaurant with great food at extremely low prices. We had one of the best **lok lak beef** here for just 2.50 USD! Also, the place is by the river, so the atmosphere is quite lovely, too.
 - [3 spoons restaurant](https://maps.app.goo.gl/mpQXrrDnpDh2pq218) (Siem Reap): Every dish on the menu is 2.50 USD and the portions are very big. In particular, the **Khmer curry** (not sure what it specifically contained) was amazing! Also the family that runs the place is lovely and kind. Surely an outstanding spot to eat cheap, local, and tasty food.
 - [S&Z Steak Burger](https://maps.app.goo.gl/hhLmmusHspkdBJT46) (Siem Reap): If you are looking for a good burger to have a break from the Asian flavors, there you will find the only one that we have enjoyed in Asia for such a cheap price (you can find good burgers of course, but not in places that adjust to our budget!). The beef cheeseburger is 2 USD, and the (very) large portion of french fries is 2 USD as well. Super tasty food! And it seems really popular among locals: in 10 minutes, we saw seven people buying food for take-away.

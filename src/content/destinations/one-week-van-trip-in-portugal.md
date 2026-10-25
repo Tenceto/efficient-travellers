@@ -10,7 +10,6 @@ coverImage: "/images/posts/one-week-van-trip-in-portugal-cover.webp"
 highlights: ["Porto", "Coimbra and Nazarè", "Sintra and Lisbon", "Ericeira and Obidos", "Peniche and Aveiro", "Arouca and Routa scenica N222"]
 hasRatings: true
 ratings: {"budget": 3, "adventure": 3, "food": 4, "overall": 4}
-odooPath: "/blog/destinations-1/one-week-van-trip-in-portugal-18"
 ---
 
 ## Work in Progress

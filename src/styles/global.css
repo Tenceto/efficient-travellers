@@ -301,8 +301,10 @@ a {
 .hero-copy h1 {
   font-size: clamp(2.6rem, 5vw, 4.2rem); /* fallback for older browsers */
   /* Scale with the column so "Smart Tips for / Savvy Travellers" stays on
-     exactly two lines ("Savvy Travellers" is ~7.8em wide in Poppins Bold). */
-  font-size: min(4.2rem, 12.5cqi);
+     exactly two lines ("Savvy Travellers" is ~8.04em wide in Poppins Bold;
+     12cqi leaves room for it). Only the <br> may break the line. */
+  font-size: min(4.2rem, 12cqi);
+  white-space: nowrap;
   line-height: 1.08;
   font-weight: 700;
   color: var(--color-navy);

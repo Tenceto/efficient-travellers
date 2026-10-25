@@ -51,16 +51,16 @@ export function absoluteUrl(path = '/'): string {
 }
 
 export const HOME_URL = absoluteUrl('/');
-export const BLOG_URL = absoluteUrl('/blog/');
+export const BLOG_URL = absoluteUrl('/destinations/');
 
 export function guidePath(entry: Destination): string {
-  return `/blog/${entry.id}/`;
+  return `/destinations/${entry.id}/`;
 }
 export function guideUrl(entry: Destination): string {
   return absoluteUrl(guidePath(entry));
 }
 export function guideMarkdownUrl(entry: Destination): string {
-  return absoluteUrl(`/blog/${entry.id}.md`);
+  return absoluteUrl(`/destinations/${entry.id}.md`);
 }
 
 // ---------------------------------------------------------------------------

@@ -10,7 +10,7 @@ export const GET: APIRoute = async () => {
 
   const urls: { loc: string; lastmod?: string; image?: string; priority: string }[] = [
     { loc: absoluteUrl('/'), lastmod: latest, priority: '1.0' },
-    { loc: absoluteUrl('/blog/'), lastmod: latest, priority: '0.9' },
+    { loc: absoluteUrl('/destinations/'), lastmod: latest, priority: '0.9' },
     ...guides.map((entry) => ({
       loc: guideUrl(entry),
       lastmod: modifiedDate(entry),

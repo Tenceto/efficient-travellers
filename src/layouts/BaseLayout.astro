@@ -13,7 +13,7 @@ import {
 interface Props {
   title: string;
   description?: string;
-  activeNav?: 'home' | 'blog' | 'contact';
+  activeNav?: 'home' | 'destinations' | 'contact';
   /** Full <title> override (otherwise "{title} | Efficient Travellers"). */
   fullTitle?: string;
   /** Adds <meta name="robots" content="noindex"> (used for unfinished guides). */
@@ -72,7 +72,7 @@ const searchIndex = allDestinations
     status: entry.data.status,
     highlights: entry.data.highlights.join(', '),
     thumb: withBase(entry.data.cardImage),
-    url: withBase(entry.data.status !== 'published' ? '/blog/' : `/blog/${entry.id}/`),
+    url: withBase(entry.data.status !== 'published' ? '/destinations/' : `/destinations/${entry.id}/`),
   }));
 ---
 
@@ -129,7 +129,7 @@ const searchIndex = allDestinations
               <a href={`${base}/`} class={`nav-link ${activeNav === 'home' ? 'active' : ''}`} id="nav-home">Home</a>
             </li>
             <li>
-              <a href={`${base}/blog/`} class={`nav-link ${activeNav === 'blog' ? 'active' : ''}`} id="nav-blog">Destinations</a>
+              <a href={`${base}/destinations/`} class={`nav-link ${activeNav === 'destinations' ? 'active' : ''}`} id="nav-blog">Destinations</a>
             </li>
             <li>
               <a href={`${base}/contact/`} class={`nav-link ${activeNav === 'contact' ? 'active' : ''}`} id="nav-contact">Contact Us</a>
@@ -169,7 +169,7 @@ const searchIndex = allDestinations
         </div>
         <ul class="footer-links">
           <li><a href={`${base}/`}>Home</a></li>
-          <li><a href={`${base}/blog/`}>All Destinations</a></li>
+          <li><a href={`${base}/destinations/`}>All Destinations</a></li>
           <li><a href={`${base}/contact/`}>Contact Us</a></li>
         </ul>
       </div>

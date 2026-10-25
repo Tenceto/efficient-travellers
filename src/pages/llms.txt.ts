@@ -27,7 +27,7 @@ ${sections.join('\n\n')}
 ## Site
 
 - [Home](${absoluteUrl('/')}): About the authors and the blog.
-- [All destinations](${absoluteUrl('/blog/')}): Every guide, grouped by region.
+- [All destinations](${absoluteUrl('/destinations/')}): Every guide, grouped by region.
 - [Contact](${absoluteUrl('/contact/')}): Questions about itineraries, local guides or travel tips.
 - [Sitemap](${absoluteUrl('/sitemap.xml')})
 - [RSS feed](${absoluteUrl('/rss.xml')})

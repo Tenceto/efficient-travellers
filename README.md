@@ -9,8 +9,8 @@ Migrated from `https://efficienttravellers.odoo.com/` to a fully customizable **
 - `src/components/StarRating.astro`: Reusable star rating bar component.
 - `src/layouts/BaseLayout.astro`: Global header, instant client-side search bar, and footer.
 - `src/pages/index.astro`: Homepage (Hero collage, About Us split block, About the Blog, Featured Guides).
-- `src/pages/blog/index.astro`: Destinations Hub with interactive region filtering (`Asia`, `Europe`, `Latin America`, `United States`, `Africa`).
-- `src/pages/blog/[slug].astro`: Individual destination guide layout with auto-generated sticky Table of Contents and sidebar ratings.
+- `src/pages/destinations/index.astro`: Destinations Hub with interactive region filtering (`Asia`, `Europe`, `Latin America`, `United States`, `Africa`).
+- `src/pages/destinations/[slug].astro`: Individual destination guide layout with auto-generated sticky Table of Contents and sidebar ratings.
 - `public/images/`: All high-resolution `.webp` and `.jpeg` images downloaded from Odoo.
 - `.github/workflows/deploy.yml`: Automated GitHub Actions deployment to GitHub Pages.
 
@@ -44,7 +44,7 @@ Everything below is generated automatically from each guide's frontmatter — wh
 | RSS feed | `/rss.xml` | `src/pages/rss.xml.ts` |
 | llms.txt index for AI agents | `/llms.txt` | `src/pages/llms.txt.ts` |
 | Full text of all guides for AI agents | `/llms-full.txt` | `src/pages/llms-full.txt.ts` |
-| Markdown copy of each guide | `/blog/<slug>.md` | `src/pages/blog/[slug].md.ts` |
+| Markdown copy of each guide | `/destinations/<slug>.md` | `src/pages/destinations/[slug].md.ts` |
 | Lazy loading, sizes and alt text for article images | article `<img>` tags | `src/lib/rehype-article-images.mjs` |
 
 ### Writing a new guide

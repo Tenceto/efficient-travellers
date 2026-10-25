@@ -1,0 +1,28 @@
+---
+// Minimal page that sends visitors (and search engines) to a new address.
+// GitHub Pages can't do server-side redirects, so this uses a meta refresh
+// plus a canonical link, which search engines treat as a permanent move.
+import { absoluteUrl } from '../lib/seo';
+
+interface Props {
+  /** Path inside the site, without the base, e.g. "/destinations/". */
+  to: string;
+}
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const target = `${base}${Astro.props.to}`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <meta http-equiv="refresh" content={`0;url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={absoluteUrl(Astro.props.to)} />
+  </head>
+  <body>
+    <p>This page has moved to <a href={target}>{target}</a>.</p>
+  </body>
+</html>

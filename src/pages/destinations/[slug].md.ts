@@ -1,4 +1,4 @@
-// Generates /blog/<slug>.md — a clean Markdown copy of each published guide for LLMs.
+// Generates /destinations/<slug>.md — a clean Markdown copy of each published guide for LLMs.
 import type { APIRoute, GetStaticPaths } from 'astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { isIndexable } from '../../lib/seo';

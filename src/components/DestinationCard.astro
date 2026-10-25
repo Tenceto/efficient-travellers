@@ -21,7 +21,7 @@ const { slug, title, region, status, cardImage, highlights, hasRatings, ratings 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
 const imageSrc = cardImage.startsWith(base) ? cardImage : cardImage.startsWith('/') ? `${base}${cardImage}` : cardImage;
 const isClickable = status === 'published';
-const href = isClickable ? `${base}/blog/${slug}/` : undefined;
+const href = isClickable ? `${base}/destinations/${slug}/` : undefined;
 ---
 
 <article class="dest-card" data-region={region} data-status={status}>

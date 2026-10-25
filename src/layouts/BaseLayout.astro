@@ -72,7 +72,7 @@ const searchIndex = allDestinations
     status: entry.data.status,
     highlights: entry.data.highlights.join(', '),
     thumb: withBase(entry.data.cardImage),
-    url: withBase(entry.data.status === 'pending' ? '/blog/' : `/blog/${entry.id}/`),
+    url: withBase(entry.data.status !== 'published' ? '/blog/' : `/blog/${entry.id}/`),
   }));
 ---
 

@@ -13,7 +13,8 @@ import {
 } from '../../lib/seo';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('destinations');
+  // Only published guides get a page; "wip" and "pending" stay unreachable.
+  const entries = (await getCollection('destinations')).filter(isIndexable);
   return entries.map((entry) => ({
     params: { slug: entry.id },
     props: { entry },

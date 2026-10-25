@@ -67,9 +67,9 @@ export function guideMarkdownUrl(entry: Destination): string {
 // Indexing rules
 // ---------------------------------------------------------------------------
 /**
- * Only finished guides are indexed. "wip" and "pending" pages still exist for
- * visitors but carry noindex and are left out of the sitemap, RSS and llms.txt.
- * They become indexable automatically when their status is set to "published".
+ * Only finished guides are published. "wip" and "pending" entries get no page
+ * at all and are left out of the sitemap, RSS and llms.txt.
+ * They get a page automatically when their status is set to "published".
  */
 export function isIndexable(entry: Destination): boolean {
   return entry.data.status === 'published';

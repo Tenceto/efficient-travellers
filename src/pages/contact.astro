@@ -25,7 +25,7 @@ const contactJsonLd = {
 
 <BaseLayout
   title="Contact Us"
-  description="Have a question about one of our itineraries, local driver contacts, or travel recommendations? Send us a message!"
+  description="Have a question about one of our itineraries, local driver contacts, or travel recommendations? Send us a DM on Instagram!"
   activeNav="contact"
   ogImage="/images/home/destinations-hero.jpeg"
   jsonLd={[contactJsonLd]}
@@ -40,39 +40,18 @@ const contactJsonLd = {
   <section class="contact-section">
     <div class="container">
       <div class="contact-card">
-        <form
-          id="contact-form"
-          action="https://formspree.io/f/your-form-id"
-          method="POST"
-        >
-          <div class="form-group">
-            <label for="contact-name">Your Name *</label>
-            <input type="text" id="contact-name" name="name" class="form-control" required placeholder="Carola & Martín" />
-          </div>
+        <p style="text-align: center; margin-bottom: 24px;">
+          The easiest way to reach us is to send us a DM on Instagram. We're happy to help with itineraries, local guide contacts, or any travel questions!
+        </p>
 
-          <div class="form-group">
-            <label for="contact-email">Your Email *</label>
-            <input type="email" id="contact-email" name="email" class="form-control" required placeholder="you@example.com" />
-          </div>
-
-          <div class="form-group">
-            <label for="contact-subject">Subject *</label>
-            <input type="text" id="contact-subject" name="subject" class="form-control" required placeholder="Question about Indonesia / Rinjani guide contact" />
-          </div>
-
-          <div class="form-group">
-            <label for="contact-message">Your Question *</label>
-            <textarea id="contact-message" name="message" rows="5" class="form-control" required placeholder="Write your message here..."></textarea>
-          </div>
-
-          <button type="submit" class="btn btn-primary" id="contact-submit-btn" style="width: 100%;">
-            Send Message
-          </button>
-
-          <p style="margin-top: 16px; font-size: 0.82rem; color: var(--color-text-muted); text-align: center;">
-            Static site form ready for GitHub Pages (connects to Formspree / Web3Forms in one line).
-          </p>
-        </form>
+        <div style="display: flex; flex-direction: column; gap: 12px;">
+          <a href="https://www.instagram.com/martinsevilla_/" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="width: 100%; text-align: center;">
+            Martín &middot; @martinsevilla_
+          </a>
+          <a href="https://www.instagram.com/caroisella/" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="width: 100%; text-align: center;">
+            Carola &middot; @caroisella
+          </a>
+        </div>
       </div>
     </div>
   </section>

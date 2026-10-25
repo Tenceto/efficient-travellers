@@ -20,7 +20,7 @@ interface Props {
 const { slug, title, region, status, cardImage, highlights, hasRatings, ratings } = Astro.props;
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
 const imageSrc = cardImage.startsWith(base) ? cardImage : cardImage.startsWith('/') ? `${base}${cardImage}` : cardImage;
-const isClickable = status === 'published' || status === 'wip';
+const isClickable = status === 'published';
 const href = isClickable ? `${base}/blog/${slug}/` : undefined;
 ---
 
@@ -30,9 +30,6 @@ const href = isClickable ? `${base}/blog/${slug}/` : undefined;
       <h3 class="dest-card-title">
         {href ? <a href={href}>{title}</a> : title}
       </h3>
-      {status === 'published' && <span class="status-badge status-published">Guide</span>}
-      {status === 'wip' && <span class="status-badge status-wip">WIP</span>}
-      {status === 'pending' && <span class="status-badge status-pending">Coming Soon</span>}
     </div>
 
     {highlights.length > 0 && (
@@ -56,10 +53,6 @@ const href = isClickable ? `${base}/blog/${slug}/` : undefined;
       {status === 'published' ? (
         <a href={href} class="btn btn-primary" id={`card-btn-${slug}`}>
           Read Guide &rarr;
-        </a>
-      ) : status === 'wip' ? (
-        <a href={href} class="btn btn-primary" style="opacity: 0.85;" id={`card-btn-${slug}`}>
-          Preview (Work in Progress)
         </a>
       ) : (
         <span style="font-size: 0.9rem; font-weight: 600; opacity: 0.75;">Pending publication</span>

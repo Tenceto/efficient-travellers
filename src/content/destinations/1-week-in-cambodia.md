@@ -4,6 +4,7 @@ region: "Asia"
 order: 6
 status: "published"
 date: "22 April 2025"
+description: "One-week Cambodia itinerary: Phnom Penh, Siem Reap and the temples of Angkor by scooter, sunrise at Angkor Wat, tuk-tuks, budget tips and Khmer food."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/1-week-in-cambodia-card.webp"
 coverImage: "/efficient-travellers/images/posts/1-week-in-cambodia-cover.webp"

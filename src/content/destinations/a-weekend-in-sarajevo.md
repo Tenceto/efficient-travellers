@@ -4,6 +4,7 @@ region: "Europe"
 order: 10
 status: "published"
 date: "22 April 2025"
+description: "A weekend in Sarajevo: itinerary through Baščaršija old town, Bosnian coffee and food, airport transfer, money and SIM tips for an untouristy capital."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/a-weekend-in-sarajevo-card.webp"
 coverImage: "/efficient-travellers/images/posts/a-weekend-in-sarajevo-cover.webp"

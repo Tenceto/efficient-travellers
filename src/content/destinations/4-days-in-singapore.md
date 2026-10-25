@@ -4,6 +4,7 @@ region: "Asia"
 order: 7
 status: "published"
 date: "22 April 2025"
+description: "Four days in Singapore on a budget: capsule hotels, free attractions like the Supertree Grove show and Botanic Gardens, Jewel at Changi, and hawker food."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/4-days-in-singapore-card.webp"
 coverImage: "/efficient-travellers/images/posts/4-days-in-singapore-cover.webp"

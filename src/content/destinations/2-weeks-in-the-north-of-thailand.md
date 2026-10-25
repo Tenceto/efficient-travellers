@@ -4,6 +4,7 @@ region: "Asia"
 order: 3
 status: "published"
 date: "22 April 2025"
+description: "Two weeks in northern Thailand: Bangkok, Chiang Mai, the Mae Hong Son Loop by car, Pai and a monastery stay, with budget tips and street food picks."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/2-weeks-in-the-north-of-thailand-card.webp"
 coverImage: "/efficient-travellers/images/posts/2-weeks-in-the-north-of-thailand-cover.webp"

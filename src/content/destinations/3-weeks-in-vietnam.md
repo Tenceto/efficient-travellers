@@ -4,6 +4,7 @@ region: "Asia"
 order: 2
 status: "published"
 date: "16 May 2025"
+description: "Three-week Vietnam itinerary from Hanoi to Saigon: Sapa, the Ha Giang Loop by motorbike, Lan Ha Bay, Ninh Binh, Hue and Hoi An, with night bus and food tips."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/3-weeks-in-vietnam-card.webp"
 coverImage: "/efficient-travellers/images/posts/3-weeks-in-vietnam-cover.webp"

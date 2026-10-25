@@ -4,6 +4,7 @@ region: "Asia"
 order: 4
 status: "published"
 date: "7 June 2025"
+description: "Two-week South Korea itinerary: Seoul, Busan, Gyeongju and Hahoe village, with transport and app tips, street food, cozy cafés and budget advice."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/2-weeks-in-south-korea-card.webp"
 coverImage: "/efficient-travellers/images/posts/2-weeks-in-south-korea-cover.webp"

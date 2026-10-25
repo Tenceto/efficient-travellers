@@ -2,17 +2,57 @@
 import '../styles/global.css';
 import { getCollection } from 'astro:content';
 
+import {
+  SITE_NAME,
+  SITE_DESCRIPTION,
+  SITE_LOCALE,
+  DEFAULT_OG_IMAGE,
+  absoluteUrl,
+} from '../lib/seo';
+
 interface Props {
   title: string;
   description?: string;
   activeNav?: 'home' | 'blog' | 'contact';
+  /** Full <title> override (otherwise "{title} | Efficient Travellers"). */
+  fullTitle?: string;
+  /** Adds <meta name="robots" content="noindex"> (used for unfinished guides). */
+  noindex?: boolean;
+  /** Social preview image (root-relative path or absolute URL). */
+  ogImage?: string;
+  ogImageAlt?: string;
+  ogType?: 'website' | 'article';
+  /** Extra article metadata for social previews. */
+  article?: { published?: string; modified?: string; section?: string; tags?: string[]; authors?: string[] };
+  /** schema.org JSON-LD objects to embed. */
+  jsonLd?: object[];
+  /** URL of a plain Markdown copy of the page (for LLMs). */
+  markdownUrl?: string;
 }
 
 const {
   title,
-  description = 'Short, clear, and efficient travel guides for savvy travelers — all the essentials without the fluff or spoilers.',
+  description = SITE_DESCRIPTION,
   activeNav = 'home',
+  fullTitle,
+  noindex = false,
+  ogImage = DEFAULT_OG_IMAGE,
+  ogImageAlt,
+  ogType = 'website',
+  article,
+  jsonLd = [],
+  markdownUrl,
 } = Astro.props;
+
+const pageTitle = fullTitle ?? `${title} | ${SITE_NAME}`;
+const pathname = Astro.url.pathname.endsWith('/') || /\.[a-z0-9]+$/i.test(Astro.url.pathname)
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const canonicalUrl = new URL(pathname, Astro.site).href;
+const ogImageUrl = absoluteUrl(ogImage);
+const robots = noindex
+  ? 'noindex, follow'
+  : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
 const withBase = (path) => {
@@ -41,17 +81,43 @@ const searchIndex = allDestinations
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title} | Efficient Travellers</title>
+    <title>{pageTitle}</title>
     <meta name="description" content={description} />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content={`${title} | Efficient Travellers`} />
+    <meta name="robots" content={robots} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta name="author" content={article?.authors?.join(', ') ?? 'Carola & Martín'} />
+
+    <!-- Open Graph / social previews -->
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content={SITE_LOCALE} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImageUrl} />
+    {ogImageAlt && <meta property="og:image:alt" content={ogImageAlt} />}
+    {article?.published && <meta property="article:published_time" content={article.published} />}
+    {article?.modified && <meta property="article:modified_time" content={article.modified} />}
+    {article?.section && <meta property="article:section" content={article.section} />}
+    {article?.tags?.map((tag) => <meta property="article:tag" content={tag} />)}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    <!-- Discovery for crawlers and AI agents -->
+    <link rel="sitemap" type="application/xml" href={withBase('/sitemap.xml')} />
+    <link rel="alternate" type="application/rss+xml" title={`${SITE_NAME} — new guides`} href={withBase('/rss.xml')} />
+    <link rel="alternate" type="text/plain" title="llms.txt" href={withBase('/llms.txt')} />
+    {markdownUrl && <link rel="alternate" type="text/markdown" title="Markdown version" href={markdownUrl} />}
+
     <link rel="icon" type="image/x-icon" href={withBase('/images/home/favicon.ico')} />
+    {jsonLd.map((data) => <script type="application/ld+json" set:html={JSON.stringify(data)} />)}
   </head>
   <body>
     <header class="site-header">
       <div class="container header-inner">
-        <a href={base} class="brand-logo" id="nav-logo">
+        <a href={`${base}/`} class="brand-logo" id="nav-logo">
           <img src={withBase('/images/home/logo.webp')} alt="Efficient Travellers Logo" width="95" height="40" />
           <span>Efficient Travellers</span>
         </a>
@@ -59,7 +125,7 @@ const searchIndex = allDestinations
         <nav aria-label="Main Navigation">
           <ul class="nav-links">
             <li>
-              <a href={base} class={`nav-link ${activeNav === 'home' ? 'active' : ''}`} id="nav-home">Home</a>
+              <a href={`${base}/`} class={`nav-link ${activeNav === 'home' ? 'active' : ''}`} id="nav-home">Home</a>
             </li>
             <li>
               <a href={`${base}/blog/`} class={`nav-link ${activeNav === 'blog' ? 'active' : ''}`} id="nav-blog">Destinations</a>
@@ -101,7 +167,7 @@ const searchIndex = allDestinations
           <span>Efficient Travellers &mdash; Carola &amp; Martín</span>
         </div>
         <ul class="footer-links">
-          <li><a href={base}>Home</a></li>
+          <li><a href={`${base}/`}>Home</a></li>
           <li><a href={`${base}/blog/`}>All Destinations</a></li>
           <li><a href={`${base}/contact/`}>Contact Us</a></li>
         </ul>

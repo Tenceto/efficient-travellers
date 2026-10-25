@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DestinationCard from '../../components/DestinationCard.astro';
 import { getCollection } from 'astro:content';
+import { BLOG_URL, HOME_URL, SITE_NAME, breadcrumbNode, guideUrl, isIndexable } from '../../lib/seo';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
 const allDestinations = (await getCollection('destinations')).sort(
@@ -9,14 +10,47 @@ const allDestinations = (await getCollection('destinations')).sort(
 );
 
 const regions = ['Asia', 'Europe', 'Latin America', 'United States', 'Africa'] as const;
+
+const description =
+  'Browse all 21 travel itineraries and efficiency guides across Asia, Europe, Latin America, the United States, and Africa.';
+const blogJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': ['CollectionPage', 'Blog'],
+      '@id': `${BLOG_URL}#blog`,
+      url: BLOG_URL,
+      name: `Travel Itineraries & Destination Guides | ${SITE_NAME}`,
+      description,
+      isPartOf: { '@id': `${HOME_URL}#website` },
+      publisher: { '@id': `${HOME_URL}#organization` },
+      mainEntity: {
+        '@type': 'ItemList',
+        itemListElement: allDestinations.filter(isIndexable).map((entry, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: guideUrl(entry),
+          name: entry.data.title,
+        })),
+      },
+    },
+    breadcrumbNode([
+      { name: 'Home', url: HOME_URL },
+      { name: 'Destinations', url: BLOG_URL },
+    ]),
+  ],
+};
 ---
 
 <BaseLayout
   title="Destinations"
-  description="Browse all 21 travel itineraries and efficiency guides across Asia, Europe, Latin America, the United States, and Africa."
+  fullTitle={`All Destinations: Travel Itineraries & Guides | ${SITE_NAME}`}
+  description={description}
   activeNav="blog"
+  ogImage="/images/home/destinations-hero.jpeg"
+  jsonLd={[blogJsonLd]}
 >
-  <section class="page-hero" style={`background-image: url('${base}images/home/destinations-hero.jpeg');`}>
+  <section class="page-hero" style={`background-image: url('${base}/images/home/destinations-hero.jpeg');`}>
     <div class="page-hero-content">
       <h1>DESTINATIONS</h1>
       <p>Our Journey Begins Here &mdash; Make every moment count with efficient solutions</p>

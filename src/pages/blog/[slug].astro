@@ -2,6 +2,15 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import StarRating from '../../components/StarRating.astro';
 import { getCollection, render } from 'astro:content';
+import {
+  getDescription,
+  getSeoTitle,
+  guideJsonLd,
+  guideMarkdownUrl,
+  isIndexable,
+  modifiedDate,
+  publishedDate,
+} from '../../lib/seo';
 
 export async function getStaticPaths() {
   const entries = await getCollection('destinations');
@@ -20,12 +29,29 @@ const coverImage = entry.data.coverImage.startsWith(base)
     : entry.data.coverImage;
 const { Content, headings } = await render(entry);
 const tocHeadings = headings.filter((h) => h.depth === 2);
+
+// SEO (all derived from the frontmatter — see src/lib/seo.ts)
+const indexable = isIndexable(entry);
 ---
 
 <BaseLayout
   title={entry.data.title}
-  description={`Efficient travel itinerary, tips, authentic experiences, and food guide for ${entry.data.title}.`}
+  fullTitle={getSeoTitle(entry)}
+  description={getDescription(entry)}
   activeNav="blog"
+  noindex={!indexable}
+  ogType="article"
+  ogImage={entry.data.coverImage}
+  ogImageAlt={entry.data.title}
+  article={{
+    published: publishedDate(entry),
+    modified: modifiedDate(entry),
+    section: entry.data.region,
+    tags: entry.data.highlights,
+    authors: [entry.data.author],
+  }}
+  jsonLd={indexable ? [guideJsonLd(entry)] : []}
+  markdownUrl={indexable ? guideMarkdownUrl(entry) : undefined}
 >
   <section class="page-hero" style={`background-image: url('${coverImage}'); min-height: 380px;`}>
     <div class="page-hero-content">

@@ -4,6 +4,7 @@ region: "Europe"
 order: 12
 status: "published"
 date: "22 April 2025"
+description: "Four days in Istanbul: the Basilica Cistern, Fatih, Fener and Balat, the Asian side by local ferry, how to avoid taxi scams, and what to eat."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/4-days-in-istanbul-card.webp"
 coverImage: "/efficient-travellers/images/posts/4-days-in-istanbul-cover.webp"

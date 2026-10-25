@@ -4,6 +4,7 @@ region: "Asia"
 order: 1
 status: "published"
 date: "12 June 2025"
+description: "Three-week Indonesia itinerary: Bali off the beaten path, the Gili Islands, Lombok, Flores and a Komodo boat trip, with scooter, money and warung food tips."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/3-weeks-in-indonesia-card.webp"
 coverImage: "/efficient-travellers/images/posts/3-weeks-in-indonesia-cover.webp"

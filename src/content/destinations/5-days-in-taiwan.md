@@ -4,6 +4,7 @@ region: "Asia"
 order: 5
 status: "published"
 date: "22 April 2025"
+description: "Five days in Taiwan: Taipei's night markets, Elephant Mountain at sunset and a day trip to Jiufen, with transport, money and street food tips."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/5-days-in-taiwan-card.webp"
 coverImage: "/efficient-travellers/images/posts/5-days-in-taiwan-cover.webp"

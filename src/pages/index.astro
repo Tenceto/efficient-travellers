@@ -2,6 +2,16 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import DestinationCard from '../components/DestinationCard.astro';
 import { getCollection } from 'astro:content';
+import {
+  SITE_NAME,
+  SITE_TAGLINE,
+  SITE_DESCRIPTION,
+  HOME_URL,
+  BLOG_URL,
+  websiteNode,
+  organizationNode,
+  personNodes,
+} from '../lib/seo';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL.slice(0, -1) : import.meta.env.BASE_URL;
 const allDestinations = await getCollection('destinations');
@@ -9,9 +19,34 @@ const featured = allDestinations
   .filter((d) => d.data.status === 'published')
   .sort((a, b) => a.data.order - b.data.order)
   .slice(0, 3);
+
+const homeJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    websiteNode,
+    { ...organizationNode, founder: personNodes().map((p) => ({ '@id': p['@id'] })) },
+    ...personNodes(),
+    {
+      '@type': 'WebPage',
+      '@id': `${HOME_URL}#webpage`,
+      url: HOME_URL,
+      name: `${SITE_NAME}: ${SITE_TAGLINE}`,
+      description: SITE_DESCRIPTION,
+      isPartOf: { '@id': `${HOME_URL}#website` },
+      about: { '@id': `${HOME_URL}#organization` },
+      significantLink: BLOG_URL,
+    },
+  ],
+};
 ---
 
-<BaseLayout title="Home" activeNav="home">
+<BaseLayout
+  title="Home"
+  fullTitle={`${SITE_NAME}: ${SITE_TAGLINE}`}
+  activeNav="home"
+  ogImageAlt="Carola and Martín in front of Angkor Wat at sunset, Cambodia"
+  jsonLd={[homeJsonLd]}
+>
   <!-- Hero Section (Migrated from Odoo s_sidegrid) -->
   <section class="hero-section">
     <div class="container hero-grid">
@@ -29,16 +64,16 @@ const featured = allDestinations
 
       <div class="hero-collage">
         <div class="collage-item collage-1">
-          <img src={`${base}/images/home/IMG_7934.webp`} alt="Travel highlight 1" />
+          <img src={`${base}/images/home/IMG_7934.webp`} alt="Carola and Martín leaning on palm trees on a tropical beach" />
         </div>
         <div class="collage-item collage-2">
-          <img src={`${base}/images/home/IMG_4916.webp`} alt="Travel highlight 2" />
+          <img src={`${base}/images/home/IMG_4916.webp`} alt="Carola and Martín in front of Angkor Wat at sunset, Cambodia" />
         </div>
         <div class="collage-item collage-3">
-          <img src={`${base}/images/home/IMG_2341.webp`} alt="Travel highlight 3" />
+          <img src={`${base}/images/home/IMG_2341.webp`} alt="Camel caravan crossing desert sand dunes at sunset" />
         </div>
         <div class="collage-item collage-4">
-          <img src={`${base}/images/home/IMG_3630.webp`} alt="Travel highlight 4" />
+          <img src={`${base}/images/home/IMG_3630.webp`} alt="Carola and Martín riding a scooter through green karst mountains" />
         </div>
       </div>
     </div>
@@ -66,7 +101,7 @@ const featured = allDestinations
     </div>
 
     <div class="split-mint">
-      <img src={`${base}/images/home/IMG_8661.webp`} alt="Carola and Martín" />
+      <img src={`${base}/images/home/IMG_8661.webp`} alt="Carola and Martín with their backpacks at the airport, ready for a trip" />
     </div>
   </section>
 
@@ -74,7 +109,7 @@ const featured = allDestinations
   <section class="about-blog-section">
     <div class="container about-blog-grid">
       <div class="about-blog-image">
-        <img src={`${base}/images/home/IMG_6772.webp`} alt="About the blog" />
+        <img src={`${base}/images/home/IMG_6772.webp`} alt="Carola writing a travel guide on her laptop at an airport gate" />
       </div>
 
       <div class="about-blog-copy">

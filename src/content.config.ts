@@ -9,6 +9,12 @@ const destinations = defineCollection({
     order: z.number(),
     status: z.enum(['published', 'wip', 'pending']),
     date: z.string().optional(),
+    // Optional: date of the last significant update, same format as `date`.
+    updated: z.string().optional(),
+    // Optional SEO fields (never shown on the page). If omitted they are
+    // generated automatically from the title, highlights and TL;DR.
+    description: z.string().optional(),
+    seoTitle: z.string().optional(),
     author: z.string().default('Carola & Martín'),
     cardImage: z.string(),
     coverImage: z.string(),

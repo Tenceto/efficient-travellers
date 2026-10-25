@@ -794,6 +794,7 @@ a {
 
 .post-prose img {
   width: 100%;
+  height: auto; /* keeps aspect ratio now that images carry width/height attributes */
   max-height: 520px;
   object-fit: cover;
   border-radius: var(--radius-md);

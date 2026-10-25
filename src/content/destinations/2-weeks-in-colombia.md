@@ -4,6 +4,7 @@ region: "Latin America"
 order: 15
 status: "published"
 date: "11 July 2026"
+description: "Two-week Colombia itinerary: Medellín, Salento and the Cocora Valley, Cartagena, the Rosario Islands, Santa Marta and Tayrona, with budget tips and scams to avoid."
 author: "Carola & Martín"
 cardImage: "/efficient-travellers/images/cards/2-weeks-in-colombia-card.webp"
 coverImage: "/efficient-travellers/images/posts/2-weeks-in-colombia-cover.webp"

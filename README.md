@@ -31,3 +31,32 @@ npm run dev
    git remote add origin git@github.com:<username>/<repo>.git
    git push -u origin main
    ```
+
+## SEO & AI discoverability
+
+Everything below is generated automatically from each guide's frontmatter — when you add a new guide in `src/content/destinations/`, you don't need to touch any other file.
+
+| Output | URL | Source |
+| --- | --- | --- |
+| Meta tags, canonical, Open Graph / Twitter cards | every page `<head>` | `src/layouts/BaseLayout.astro` |
+| Structured data (JSON-LD: BlogPosting, BreadcrumbList, WebSite, Organization, Person) | every page `<head>` | `src/lib/seo.ts` |
+| Sitemap (submit this in Google Search Console) | `/sitemap.xml` | `src/pages/sitemap.xml.ts` |
+| RSS feed | `/rss.xml` | `src/pages/rss.xml.ts` |
+| llms.txt index for AI agents | `/llms.txt` | `src/pages/llms.txt.ts` |
+| Full text of all guides for AI agents | `/llms-full.txt` | `src/pages/llms-full.txt.ts` |
+| Markdown copy of each guide | `/blog/<slug>.md` | `src/pages/blog/[slug].md.ts` |
+| Lazy loading, sizes and alt text for article images | article `<img>` tags | `src/lib/rehype-article-images.mjs` |
+
+### Writing a new guide
+
+Use the usual frontmatter. These fields drive SEO:
+
+- `title`, `region`, `highlights`, `date`, `author`, `coverImage`, `ratings`: reused everywhere (title tag, structured data, sitemap, llms.txt…). Write them once.
+- `status`: only `"published"` guides are indexed. `"wip"` and `"pending"` pages get `noindex` and are left out of the sitemap, RSS and llms.txt. Switching to `"published"` makes them indexable automatically.
+- `description` *(optional, recommended)*: the ~150-character snippet shown under your link in Google. If omitted, one is generated from the title, highlights and first TL;DR bullet.
+- `seoTitle` *(optional)*: overrides the browser-tab / Google title. Default: `"<title>: Itinerary & Travel Tips | Efficient Travellers"`.
+- `updated` *(optional)*: date of a significant update (same format as `date`, e.g. `"3 March 2027"`). Used as "last modified" in the sitemap and structured data.
+
+Keep the `## TL;DR` section: its bullets become the article summary (`abstract`) in the structured data. Images whose alt text is just the file slug (e.g. `![3-weeks-in-indonesia](...)`) automatically get a descriptive alt; write a real alt text in Markdown if you want something specific.
+
+Site-wide values (site name, tagline, authors, default share image) live at the top of `src/lib/seo.ts`.

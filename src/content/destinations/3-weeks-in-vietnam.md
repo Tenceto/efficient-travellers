@@ -24,7 +24,7 @@ If we had to summarize Vietnam in very few words, it would be “variety and nat
 
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
-- **Visa**: No need for less than 30 days (with our Italian passports).
+- **Visa**: When we went, no visa was needed for stays of up to 30 days (with our Italian passports). Check the most current official information before you travel.
 - **Dengue**: Dengue fever is a real risk, and the consequences can be quite bad. Always carry a reliable insect repellent.
 - **Stomach flu**: Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: No need to stress! The weather is quite unpredictable, but at least according to our personal experience, when it rains it just consists of a quick (although maybe intense) storm that passes in about an hour.

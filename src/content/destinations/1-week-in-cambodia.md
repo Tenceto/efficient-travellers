@@ -127,7 +127,7 @@ Still, there are a few things in the city we definitely recommend:
 - The Central and Russian Markets
 - The Royal Palace (entrance around €8)
 
-Outside the city, we highly recommend visiting **Wat Phnom**, the **Killing Fields**, and the **Tuol Sleng Genocide Museum**.
+Apart from the city center, we highly recommend visiting **Wat Phnom**, the **Killing Fields**, and the **Tuol Sleng Genocide Museum**.
 
 These last two places tell a part of Cambodia’s history that is rarely known in the West, but it’s profoundly moving. We strongly suggest getting the audio guide to understand the historical context better.
 

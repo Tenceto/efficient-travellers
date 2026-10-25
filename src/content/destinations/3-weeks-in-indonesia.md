@@ -25,9 +25,9 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
-- **Visa**: A 30-day visa costs around €30. You can check the official details [here](https://evisa.imigrasi.go.id/front/faq/dd5c2220-28a7-4024-9a10-82f30a09e0d2).
+- **Visa**: When we went, a 30-day visa cost around €30. The rules seem to have changed since then (the official site now lists a 60-day tourist e-visa), so check the current official details [here](https://evisa.imigrasi.go.id/front/faq/dd5c2220-28a7-4024-9a10-82f30a09e0d2) before you go.
 - **Bali Tourist Tax**: In recent years, there’s a €10 entry tax for Bali. It seems that no one checks it, but in my opinion, it’s a small and fair contribution considering the impact of mass tourism. You can pay for it [here](https://lovebali.baliprov.go.id/).
-- **Dengue**: Dengue fever is a real risk and the consequences can be really bothering, so always carry a reliable insect repellent. (affiliate link)
+- **Dengue**: Dengue fever is a real risk and the consequences can be really bothering, so always carry a reliable insect repellent.
 - **Bali Belly**: The infamous "Bali belly" is often exaggerated. Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: Despite being there during the weeks that correspond to the start of the rainy season (end of September), we only had one day of heavy rain in 3 weeks. There were some very short (some minutes long) showers in the other 3 or 4 days. We were probably very lucky, but in any case, the weather is super unpredictable and varies drastically in a matter of minutes, so always take a rain jacket with you (even if it’s extremely sunny when you leave your room).
 
@@ -90,11 +90,11 @@ Always get gas at gas stations (unless it's urgent), because buying gas from str
 
 1. Surf in Uluwatu or Kuta Lombok
 2. If you can, go to Bali during **Galungan**, the biggest religious festivity that shows the true essence of the island
-3. Go to a Balinese temple and try to have a real ritual of purification (Melukat)
+3. Go to a Balinese temple and try to have a real ritual of purification
 4. Do yoga in Ubud
 5. Hike a volcano (**Bromo, Ijen, Batur,** or **Rinjani** - check the difficulty)
 6. Horseback riding on the beach in Gili Air
-7. Craft a personal silver ring in Amed
+7. Craft a personal silver ring in Sidemen
 8. Refresh in one of the thousands of waterfalls around Bali: Uman Anyar, Manuaba, Tukad Cepung (Ubud area), **Gembleng** (Sidemen), Sekumpul, Munduk (north Bali)
 
 

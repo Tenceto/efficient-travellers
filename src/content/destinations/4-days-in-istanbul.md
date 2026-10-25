@@ -62,7 +62,7 @@ Since we were only there for a few days, we didn’t get a SIM card. Instead, we
 
 ### Where to sleep
 
-We stayed in the Kabataş area, and honestly, we really liked it. It’s full of bars and little restaurants, so it’s super easy to walk around and find a nice spot for dinner or drinks in the evening.
+We stayed in the Asmalı Mescit area, and honestly, we really liked it. It’s full of bars and little restaurants, so it’s super easy to walk around and find a nice spot for dinner or drinks in the evening.
 
 Plus, during the day, all the main tourist attractions (including the ferry to the Asian side) are within walking distance.
 
@@ -85,7 +85,7 @@ In just four days (and despite dealing with a stomach flu), we still managed to 
 
 **DAY 1**
 
-After landing, we had lunch near our hotel and then wandered around Kabataş, the neighborhood behind **Galata Tower** (which, by the way, looks especially beautiful at sunset).
+After landing, we had lunch near our hotel and then wandered around Asmalı Mescit, the neighborhood just behind **Galata Tower** (which, by the way, looks especially beautiful at sunset).
 
 We decided not to go up the tower itself, as there are plenty of other spots in the city where you can get great panoramic views for free.
 

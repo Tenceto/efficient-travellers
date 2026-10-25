@@ -73,7 +73,7 @@ Bring clothes that dry fast and are very, VERY light. The heat and humidity are 
 ### Where to sleep
 
 You must sleep in a capsule hotel if you want a cheap option. There are both single and double capsules, and they are in shared spaces with shared bathrooms.
-We chose [<u>CapsulePod@Aljunied</u>](https://www.booking.com/hotel/sg/capsulepod-aljunied.it.html?aid=311091&label=capsulepod-aljunied-PlQCKGpFbAnYm9LS0txlKgS409965724924%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-831192950086%3Alp9187363%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ybz4KBg0DTFCP4A_3wThGDs&sid=f6ad5b6da5cdd489b342027486d936cd&all_sr_blocks=511673802_380522964_0_0_0%2C511673801_380522964_0_0_0&checkin=2025-10-02&checkout=2025-10-05&dest_id=-73635&dest_type=city&dist=0&group_adults=3&group_children=0&hapos=1&highlighted_blocks=511673802_380522964_0_0_0%2C511673801_380522964_0_0_0&hpos=1&matching_block_id=511673802_380522964_0_0_0&no_rooms=1&req_adults=3&req_children=0&room1=A%2CA%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=511673802_380522964_0_0_0__21000%2C511673801_380522964_0_0_0__13000&srepoch=1748959274&srpvid=df5e6292c2280a57&type=total&ucfs=1&), cheaper than the other capsule hotels since it’s a bit out of the center, and the reviews were pretty good.
+We chose [<u>CapsulePod@Aljunied</u>](https://www.booking.com/Share-qGO7B4), cheaper than the other capsule hotels since it’s a bit out of the center, and the reviews were pretty good.
 The AC worked perfectly and the rooms were spotless. The bad part was that the bathroom was very warm and not very clean since many people used it.
 
 It’s a fun experience; you will spend much less than in any other hostel!

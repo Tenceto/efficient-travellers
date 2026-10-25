@@ -31,7 +31,7 @@ That said, Sarajevo is pretty small, so we wouldn’t recommend staying more tha
 
 A regular bus line called **Centrotrans** connects the terminal to the central station downtown at a very low price compared to taxis. The bus stop is just a 5-minute walk outside the airport. You can find the timetable [at this link](https://sarajevo-airport.ba/Page/Autobus).
 
-Buses run every 30 minutes, and a ticket costs around €5. You can buy it at the counter inside the terminal or directly from the driver. You can only pay with cash (either euros or the local currency), so make sure you have some small change.
+Buses run every 30 minutes, and a ticket costs around €3. You can buy it at the counter inside the terminal or directly from the driver. You can only pay with cash (either euros or the local currency), so make sure you have some small change.
 
 
 ### Money

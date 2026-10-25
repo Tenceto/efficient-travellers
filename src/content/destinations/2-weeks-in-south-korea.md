@@ -1,10 +1,10 @@
 ---
-title: "2 weeks in South Korea"
+title: "10 days in South Korea"
 region: "Asia"
 order: 4
 status: "published"
 date: "7 June 2025"
-description: "Two-week South Korea itinerary: Seoul, Busan, Gyeongju and Hahoe village, with transport and app tips, street food, cozy cafés and budget advice."
+description: "10-day South Korea itinerary: Seoul, Busan, Gyeongju and Hahoe village, with transport and app tips, street food, cozy cafés and budget advice."
 author: "Carola & Martín"
 cardImage: "/images/cards/2-weeks-in-south-korea-card.webp"
 coverImage: "/images/posts/2-weeks-in-south-korea-cover.webp"
@@ -144,7 +144,7 @@ We ended the day at **Namseong Sagye Market**, a very local, low-key spot for di
 
 **DAY 3**
 
-In the morning, we visited the traditional neighborhoods of **Bukchon Hanok Village**. Yes, they’re both super touristy… but 100% worth it. The vibe is very unique, the hanok houses are beautiful, and it’s the perfect spot to take some great photos.
+In the morning, we visited the traditional neighborhood of **Bukchon Hanok Village**. Yes, it's super touristy… but 100% worth it. The vibe is very unique, the hanok houses are beautiful, and it’s the perfect spot to take some great photos.
 
 In the afternoon, we went on a long walk, getting lost across the city, with **Ihwa Mural Village** as our final destination. The view from up there is amazing!
 

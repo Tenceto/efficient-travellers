@@ -111,15 +111,16 @@ const searchIndex = allDestinations
     <link rel="alternate" type="text/plain" title="llms.txt" href={withBase('/llms.txt')} />
     {markdownUrl && <link rel="alternate" type="text/markdown" title="Markdown version" href={markdownUrl} />}
 
-    <link rel="icon" type="image/x-icon" href={withBase('/images/home/favicon.ico')} />
+    <link rel="icon" href={withBase('/favicon.ico')} sizes="any" />
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    <link rel="apple-touch-icon" href={withBase('/apple-touch-icon.png')} />
     {jsonLd.map((data) => <script type="application/ld+json" set:html={JSON.stringify(data)} />)}
   </head>
   <body>
     <header class="site-header">
       <div class="container header-inner">
         <a href={`${base}/`} class="brand-logo" id="nav-logo">
-          <img src={withBase('/images/home/logo.webp')} alt="Efficient Travellers Logo" width="95" height="40" />
-          <span>Efficient Travellers</span>
+          <img src={withBase('/images/logo/svg/02-isologotype-reduced-horizontal-light.svg')} alt="Efficient Travellers" width="243" height="42" />
         </a>
 
         <nav aria-label="Main Navigation">
@@ -163,7 +164,7 @@ const searchIndex = allDestinations
     <footer class="site-footer">
       <div class="container footer-inner">
         <div class="footer-brand">
-          <img src={withBase('/images/home/logo.webp')} alt="Efficient Travellers" width="72" height="30" style="filter: brightness(0) invert(1);" />
+          <img src={withBase('/images/logo/svg/01-isotype-dark.svg')} alt="" width="30" height="30" />
           <span>Efficient Travellers &mdash; Carola &amp; Martín</span>
         </div>
         <ul class="footer-links">

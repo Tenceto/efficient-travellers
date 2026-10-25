@@ -21,7 +21,7 @@ export const SITE_LANG = 'en';
 export const SITE_LOCALE = 'en_US';
 export const DEFAULT_AUTHOR = 'Carola & Martín';
 export const DEFAULT_OG_IMAGE = '/images/home/IMG_4916.webp';
-export const LOGO_IMAGE = '/images/home/logo.webp';
+export const LOGO_IMAGE = '/images/logo/png/01-isotype-light.png';
 
 /** People behind the blog, used in structured data. */
 export const AUTHORS = [

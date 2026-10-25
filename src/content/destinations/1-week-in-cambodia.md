@@ -29,7 +29,7 @@ Despite only spending a week there, the Cambodian people left a strong impressio
 
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
-- **Visa**: You can do your e-visa [here](https://www.evisa.gov.kh/) at the cost of 27€. We arrived in the country by a bus from Vietnam, and they asked for the visa at the border. Remember to print it.
+- **Visa**: You can do your e-visa [here](https://www.evisa.gov.kh/) at the cost of 27€. We arrived in the country by bus from Vietnam, and they asked for the visa at the border. Remember to print it.
 - **Dengue**: Dengue fever is a real risk, and the consequences can be really bothersome, so always carry a reliable insect repellent.
 - **Stomach flu**: Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: No need to stress! The weather can be super unpredictable, but (according to our experience) even when it rains, it’s usually just a quick storm that passes in about an hour.
@@ -38,14 +38,14 @@ Despite only spending a week there, the Cambodian people left a strong impressio
 ![1-week-in-cambodia](/images/posts/1-week-in-cambodia-img-1.webp)
 
 
-## TL; DR
+## TL;DR
 
 
 - The most important thing about Cambodia is the people. They are incredibly kind and welcoming, with a warmth that reminded us of Bali—genuine smiles and unmatched hospitality.
 - Cambodia blew us away in just one week—Angkor’s temples are some of the most breathtaking places we’ve ever seen.
 - Don’t miss sunrise AND sunset at Angkor Wat, explore the unique jungle-covered Ta Prohm, and lose yourself in the details of the Bayon temple.
-- Move around using tuc tucs–not only are they unique, but also extremely cheap!
-- Visit some museums if you can, since the country's history is very interesting and it’s fundamental to understand much of their culture and how the people live and behave.
+- Move around using tuk-tuks—not only are they unique, but also extremely cheap!
+- Visit some museums if you can, since the country’s history is very interesting and it’s fundamental to understand much of their culture and how the people live and behave.
 - Tour Angkor independently on a scooter and hire guides at specific temples if you are interested. It’s way more affordable and flexible for making the most of a packed day.
 
 
@@ -56,7 +56,7 @@ Despite only spending a week there, the Cambodian people left a strong impressio
 
 This time we didn’t arrive by plane, so we don’t know how the transportation from the airport works.
 
-We took a 6-hour bus from Ho Chi Minh City to Phnom Penh for 17€ and did our VISA online.
+We took a 6-hour bus from Ho Chi Minh City to Phnom Penh for 17€ and did our visa online.
 
 Watch out: the bus companies often offer the service of doing the visa with them, but it costs more than doing it yourself.
 
@@ -72,18 +72,18 @@ Interestingly, Cambodia uses two coexisting currencies. You can pay in US dollar
 
 ### SIM card
 
-Don't get the SIM card at the airport, which is super expensive.
+Don’t get the SIM card at the airport, which is super expensive.
 
-Go to the company [SMART](https://www.smart.com.kh/) that you find in several shops in every city and get the local package. It works perfectly and only costs €1.5 per month,
+Go to the company [SMART](https://www.smart.com.kh/) that you find in several shops in every city and get the local package. It works perfectly and only costs €1.5 per month.
 
 
 ### Clothes
 
 Bring clothes that dry fast, and always have a pair of long trousers for the temples in your daily backpack.
 
-Laundry: it's full of places. Just do a quick search on Google Maps. Prices could vary from €1 to €3 per kilo.
+Laundry: it’s full of places. Just do a quick search on Google Maps. Prices could vary from €1 to €3 per kilo.
 
-**Angkor ticket**
+### Angkor ticket
 
 Not just Angkor Wat, but all the stunning temples in the area require a pass (yes, it gets checked often, so there’s no way around it). You can purchase it [here](https://www.angkorenterprise.gov.kh/). 
 You can choose between a 1-day, 3-day, or 7-day pass. The best choice really depends on your personal preference.
@@ -112,7 +112,7 @@ As a result, we only managed to visit the more touristy spots and couldn’t exp
 
 
 - 2 days in Phnom Penh
-- 3 days Siem Reap
+- 3 days in Siem Reap
 
 **Phnom Penh**
 
@@ -156,13 +156,13 @@ Alternatively, almost all hostels offer guided tours, or you can rent a tuk-tuk 
 Our day was like this:
 
 
-- Woke up at 4.30 am to be in **Angkor Wat** at 5 am for **sunrise**, trying to arrive before the mass of tourists (although it’s inevitable). 
+- Woke up at 4:30 AM to be in **Angkor Wat** at 5 AM for **sunrise**, trying to arrive before the mass of tourists (although it’s inevitable). 
 After the sunrise, we decided to take a guided tour inside the temple, which was very interesting. 
-There are a lot of guides, and many of them are truly desperate—entire families rely on the income from a single tour, and it can take days before they manage to get one. We’d suggest not bargaining too hard over the price since they genuinely need the money. We paid $20 (directly in USD) for the two of us, which is still really cheap for a guided tour in such a massive tourist attraction, but meant a good amount of money to him.
+There are a lot of guides, and many of them are truly desperate—entire families rely on the income from a single tour, and it can take days before they manage to get one. We’d suggest not bargaining too hard over the price since they genuinely need the money. We paid $20 (directly in USD) for the two of us, which is still really cheap for a guided tour in such a massive tourist attraction, but meant a good amount of money to our guide.
 - After that, we drove to **Ta Prohm**, “the jungle temple”. It is one of the most magical temples in Angkor, full of ancient walls of stone wrapped in massive tree roots. Unlike others, it’s been left almost entirely as it was found, making it a really unique place. No surprise that Tomb Raider was filmed right there!
 - Then we went to **Ta Keo**, a massive temple that feels more like a climbable mountain than a sacred ruin. Legend has it that lightning struck the temple during construction, which was seen as a bad omen and led to it being left unfinished. 
 Climbing to the top is a bit of a workout, but the panoramic view makes it totally worth it.
-- Passing through the **Victory Gate**, we then went to the Bayon Temple. Its 54 towers are carved with over 200 smiling stone faces. The details are just breathtaking. These serene faces seem to follow you wherever you stand. It’s a surreal and unforgettable experience, full of spiritual power.
+- Passing through the **Victory Gate**, we then went to the **Bayon Temple**. Its 54 towers are carved with over 200 smiling stone faces. The details are just breathtaking. These serene faces seem to follow you wherever you stand. It’s a surreal and unforgettable experience, full of spiritual power.
 - We decided to go away from the primary temple circuits to **Banteay Srei**, a small temple but a stunning masterpiece. Known as the “Citadel of Women,” it’s carved from pink sandstone and features some of the most detailed and delicate artwork.
 - We wrapped up our tour by returning to **Angkor Wat**, but this time for sunset. Although the sun isn’t directly behind the temple, we still highly recommend visiting Angkor Wat at this time of day. Fewer people are around, and the light beautifully illuminates the temple, offering a completely different view.
 
@@ -179,7 +179,7 @@ Khmer cuisine has a lot of intersections with cuisines from other countries in t
 
 - **Amok trei** (a fish curry–in our opinion, the best Khmer dish)
 - **Lok lak** (small pieces of very tender, marinated beef)
-- **Samlor machu** (the Khmer version of sour soups–nothing mindblowing to us, but still a classic)
+- **Samlor machu** (the Khmer version of sour soups–nothing mind-blowing to us, but still a classic)
 - **Num banhchok** (a dish based on rice noodles–delicious, but it may be challenging to find since they typically have it for breakfast!)
 
 As additional information, we spent several days trying to find where to eat **sankhya lapov**, which we had come across on the Internet as a “coconut-pumpkin custard”, a very auspicious translation. We asked every local where to find it, and after several failed attempts, we finally found a lady selling it inside the [Toultumpong Market](https://maps.app.goo.gl/5TkgzShP87MK7X3E8) in Phnom Penh. It’s a strange combination of flavors, but quite good and unique. Definitely worth trying!
@@ -187,8 +187,8 @@ As additional information, we spent several days trying to find where to eat **s
 The specific spots that we recommend to sit down and enjoy a meal in Cambodia are:
 
 
-- [David's Restaurant Homemade Noodles](https://maps.app.goo.gl/1GnFLPgQnkXiN2oR7) (Phnom Penh): As the name suggests, the specialty of this place is **noodles**, which you can see being made by David himself at the shop's entrance. The noodles were heavenly, probably the best in Southeast Asia. Apart from that, they also have an insanely good **amok fish**. The price depends on what you order, but every dish is around 5 USD–quite affordable for such a high quality, although a bit more expensive than the average.
+- [David’s Restaurant Homemade Noodles](https://maps.app.goo.gl/1GnFLPgQnkXiN2oR7) (Phnom Penh): As the name suggests, the specialty of this place is **noodles**, which you can see being made by David himself at the shop’s entrance. The noodles were heavenly, probably the best in Southeast Asia. Apart from that, they also have an insanely good **amok fish**. The price depends on what you order, but every dish is around 5 USD–quite affordable for such a high quality, although a bit more expensive than the average.
 - [Nak's Restaurant](https://maps.app.goo.gl/CcYWxBHaz1pn8x488) (Siem Reap): What a glorious place to eat. It is perfect from every possible aspect. The food was terrific (the **amok fish** was not only delicious but also had an incredible amount of fish), the prices are super cheap (3.50 USD for the fish, but some are even cheaper), and the staff is among the most genuinely friendly and nice people. Highly recommendable spot (and talk to Nak if you have the chance, he is the best!).
 - [The Brother Bong Restaurant](https://maps.app.goo.gl/UkxaYPWpYt8jbdtNA) (Siem Reap): Family-run restaurant with great food at extremely low prices. We had one of the best **lok lak beef** here for just 2.50 USD! Also, the place is by the river, so the atmosphere is quite lovely, too.
 - [3 spoons restaurant](https://maps.app.goo.gl/mpQXrrDnpDh2pq218) (Siem Reap): Every dish on the menu is 2.50 USD and the portions are very big. In particular, the **Khmer curry** (not sure what it specifically contained) was amazing! Also the family that runs the place is lovely and kind. Surely an outstanding spot to eat cheap, local, and tasty food.
-- [S&Z Steak Burger](https://maps.app.goo.gl/hhLmmusHspkdBJT46) (Sieam Reap): If you are looking for a good burger to have a break from the Asian flavors, there you will find the only one that we have enjoyed in Asia for such a cheap price (you can find good burgers of course, but not in places that adjust to our budget!). The beef cheeseburger is 2 USD, and the (very) large portion of french fries is 2 USD as well. Super tasty food! And it seems really popular among locals: in 10 minutes, we saw seven people buying food for take-away.
+- [S&Z Steak Burger](https://maps.app.goo.gl/hhLmmusHspkdBJT46) (Siem Reap): If you are looking for a good burger to have a break from the Asian flavors, there you will find the only one that we have enjoyed in Asia for such a cheap price (you can find good burgers of course, but not in places that adjust to our budget!). The beef cheeseburger is 2 USD, and the (very) large portion of french fries is 2 USD as well. Super tasty food! And it seems really popular among locals: in 10 minutes, we saw seven people buying food for take-away.

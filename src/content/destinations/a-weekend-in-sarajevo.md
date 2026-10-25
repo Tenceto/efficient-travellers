@@ -16,7 +16,7 @@ odooPath: "/blog/destinations-1/a-weekend-in-sarajevo-13"
 
 ## Let’s start
 
-Sarajevo is the perfect spot for a weekend getaway. What we loved most was how untouristy it still is. It’s one of those rare European cities where you can still experience authentic local life and authenticity, mainly because it’s not one of the usual must-visit capitals in Europe.
+Sarajevo is the perfect spot for a weekend getaway. What we loved most was how untouristy it still is. It’s one of those rare European cities where you can still experience authentic local life, mainly because it’s not one of the usual must-visit capitals in Europe.
 
 That said, Sarajevo is pretty small, so we wouldn’t recommend staying more than a couple of days. If you’ve got more time, we’ve heard it’s worth exploring the surrounding areas—though we didn’t get the chance ourselves, we kept hearing great things about **Mostar** and **Konjic**.
 
@@ -38,7 +38,7 @@ Buses run every 30 minutes, and a ticket costs around €5. You can buy it at th
 
 Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card for the best exchange, but be aware that many activities don’t accept cards.
 
-For this reason, you can exchange your cash or there is one ATM without withdrawal fees: **Ziraat bank**.
+For this reason, you can exchange your cash or there is one ATM without withdrawal fees: **Ziraat Bank**.
 
 
 ### SIM card
@@ -50,16 +50,7 @@ Since we were only there for the weekend, we didn’t get a SIM card. Instead, w
 
 ### Where to sleep
 
-The best area to stay is the old town, **Bašcaršija**, where you’ll find plenty of B&Bs, hotels, and budget-friendly guesthouses.
-
-
-## Authentic experiences
-
-
-1. Get lost walking around Baščaršija, the heart of the old town
-2. Try all the typical Bosnian dishes
-3. Catch a traditional Bosnian coffee experience
-4. Do a free walking tour to learn about the country’s history
+The best area to stay is the old town, **Baščaršija**, where you’ll find plenty of B&Bs, hotels, and budget-friendly guesthouses.
 
 
 ## Authentic experiences
@@ -83,13 +74,13 @@ We walked through **Baščaršija**, where we saw **Sebilj**, an Ottoman-style w
 
 Next, we passed by the **Sarajevo City Council**, admired the **Emperor’s Mosque**, and continued toward one of the city’s most popular landmarks: the **Latin Bridge**. This is a famous spot because it’s close to where the assassination of Archduke Franz Ferdinand took place, an event that supposedly triggered the start of World War I.
 
-Then we walked to the **Gazi Husrev-begov Bezistan market** and saw the Gazi Husrev-beg mosque. We discovered the story of Hotel Europa, the Catholic Church of **Theotokos**, and **Sarajevska Cathedral**.
+Then we walked to the **Gazi Husrev-begov Bezistan market** and saw the Gazi Husrev-beg mosque. We discovered the story of Hotel Europa, the Orthodox Cathedral of the **Theotokos**, and the Catholic **Sarajevo Cathedral**.
 
-Finally, we saw the **rose of Sarajevo**, a memorial of a mortar shell's explosion that was later filled with red resin. Near here, you’ll find the **Genocide Museum**, which we unfortunately didn’t have time to visit, but it’s highly recommended.
+Finally, we saw the **rose of Sarajevo**, a memorial of a mortar shell’s explosion that was later filled with red resin. Near here, you’ll find the **Genocide Museum**, which we unfortunately didn’t have time to visit, but it’s highly recommended.
 
 Since we had already explored the historic, Ottoman side of the city, we decided to head towards the newer part, which has a much more European vibe in terms of architecture.
 
-We passed by the **Gradska** **Trznica**, a big and nice food market.
+We passed by the **Gradska Tržnica**, a big and nice food market.
 
 We walked the “shopping street” of **Ferhadija** to the **Dolac Malta** area, stopping at the iconic **Café Tito**.
 
@@ -99,7 +90,7 @@ Of course, you can’t say you lived the full experience if you don’t wrap up 
 
 **DAY 2**
 
-We started our day at a café that every local recommends: **Ministry of Ćejf.**
+We started our day at a café that every local recommends: **Ministry of Ćejf**.
 
 Then we walked up to the **Yellow Fortress**, passing by the **cemetery of Kovači**. After that, we quickly stopped at **Kamarija**—a cozy little café with a great view.
 
@@ -132,9 +123,9 @@ Here is the list of all the food-related shops we recommend in Sarajevo:
 
 - [Ćevabdžinica Hodžić](https://maps.app.goo.gl/F2LKSCJbUFGBF2jF9): Recommended by our walking tour guide, this place didn’t disappoint. We ordered the mix of ćevapi with sausages, and to go in local mode, we also had a yogurt with the meal. The whole order was 15 KM, which is quite fair. Avoid coming here if you’re a vegetarian–there won’t be many options for you!
 - [Buregdžinica Oklagija](https://maps.app.goo.gl/HsY5Cd8k6JogqA1V8): An outstanding savory pies shop. We tried a lot of stuff, and all of them were insanely good. In particular, their burek was, in our opinion, the best we tried during our trip. The prices are SUPER fair, and the lady working there is super friendly and efficient. It’s right in front of Ćevabdžinica Hodžić, so if you are in a group and some of you are vegetarian and some are not, it’s a good strategy to split between these two places to eat and join back again later.
-- [Pie shop " Forino "](https://maps.app.goo.gl/cTXM46vLDR6exvKE7): Really good burek outside of the city center for a more local, less touristy vibe. The prices are ridiculously cheap. We had slices of four different pies: meat and garlic, spinach, potato, and zucchini. The total cost was 11.50 KM in two, and both of us were more than full!
-- [Staklo](https://maps.app.goo.gl/dzTASso3iC4exFwC6): We came here to try the keple (9 KM) and we also had a kombinacija (9 KM), which we believe stands for “a combination of things”. Both dishes were great, and the flavor and portion sizes were perfect. They also gave us a lot of lepinje for free, included in the meal, which is always a nice detail.
-- [Cream Shop](https://maps.app.goo.gl/dETj6z339eYjohnd6): This is THE spot in Sarajevo to have a powerful sweet breakfast or some dessert after your lunch elsewhere. The quality of these desserts is outstanding, and the prices are so cheap it’s unbelievable. Their cakes are mind-blowing. We recommend the Ambassador cake (pistachio, chocolate, and berries–6 KM a piece), the Jagfa Cake (orange and chocolate–4.5 KM), and, of course, the baklava and the kadaif (which are good, but nothing compared to the cakes). The only issue is that they only have takeaway (at least when we went), so no coffee or tea was available, nor the possibility of eating at a table.
+- [Pie shop “Forino”](https://maps.app.goo.gl/cTXM46vLDR6exvKE7): Really good burek outside of the city center for a more local, less touristy vibe. The prices are ridiculously cheap. We had slices of four different pies: meat and garlic, spinach, potato, and zucchini. The total cost was 11.50 KM in two, and both of us were more than full!
+- [Staklo](https://maps.app.goo.gl/dzTASso3iC4exFwC6): We came here to try the klepe (9 KM) and we also had a kombinacija (9 KM), which we believe stands for “a combination of things”. Both dishes were great, and the flavor and portion sizes were perfect. They also gave us a lot of lepinje for free, included in the meal, which is always a nice detail.
+- [Cream Shop](https://maps.app.goo.gl/dETj6z339eYjohnd6): This is THE spot in Sarajevo to have a powerful sweet breakfast or some dessert after your lunch elsewhere. The quality of these desserts is outstanding, and the prices are so cheap it’s unbelievable. Their cakes are mind-blowing. We recommend the Ambassador cake (pistachio, chocolate, and berries–6 KM a piece), the Jaffa Cake (orange and chocolate–4.5 KM), and, of course, the baklava and the kadaif (which are good, but nothing compared to the cakes). The only issue is that they only have takeaway (at least when we went), so no coffee or tea was available, nor the possibility of eating at a table.
 - [Ministry of Ćejf](https://maps.app.goo.gl/YoQpkupUb2S6KWA67): Probably the most popular café in Sarajevo. It has a beautiful view, and the spot itself is charming. The price is 5 KM for a Bosnian coffee, which is a bit more expensive than the average price in other places.
-- [Teahouse Džirlo](https://maps.app.goo.gl/pVBHhR7U87yfnamP6): This teahouse offers a unique experience. They have a HUGE variety of teas (all of them for 5.50 KM), and you can order Bosnian coffee (4 KM) as well. The place is beautiful, and the guy who prepared the beverages for us was super kind and friendly. Unless you don't mind waiting, head here early because the place is tiny and there are few available tables.
-- [Bakery Alifakovac](https://maps.app.goo.gl/UKCLvwYtv7UzQfWE6): If you’re a pita bread lover, you must pass by this bakery. They only sell Bosnian pita bread (lepinje). We saw a big queue outside this place while visiting Sarajevo due to the fasting times during Ramadan. Their bread is delicious and freshly made, so it's no wonder everyone wants to break their fasts by buying bread there.
+- [Teahouse Džirlo](https://maps.app.goo.gl/pVBHhR7U87yfnamP6): This teahouse offers a unique experience. They have a HUGE variety of teas (all of them for 5.50 KM), and you can order Bosnian coffee (4 KM) as well. The place is beautiful, and the guy who prepared the beverages for us was super kind and friendly. Unless you don’t mind waiting, head here early because the place is tiny and there are few available tables.
+- [Bakery Alifakovac](https://maps.app.goo.gl/UKCLvwYtv7UzQfWE6): If you’re a pita bread lover, you must pass by this bakery. They only sell Bosnian pita bread (lepinje). We saw a big queue outside this place while visiting Sarajevo due to the fasting times during Ramadan. Their bread is delicious and freshly made, so it’s no wonder everyone wants to break their fasts by buying bread there.

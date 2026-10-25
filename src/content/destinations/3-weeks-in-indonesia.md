@@ -26,7 +26,7 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
 - **Visa**: A 30-day visa costs around €30. You can check the official details [here](https://evisa.imigrasi.go.id/front/faq/dd5c2220-28a7-4024-9a10-82f30a09e0d2).
-- **Bali Tourist Tax**: Since recent years, there’s a €10 entry tax for Bali. It seems that no one checks it, but in my opinion, it’s a small and fair contribution considering the impact of mass tourism. You can pay for it [here](https://lovebali.baliprov.go.id/).
+- **Bali Tourist Tax**: In recent years, there’s a €10 entry tax for Bali. It seems that no one checks it, but in my opinion, it’s a small and fair contribution considering the impact of mass tourism. You can pay for it [here](https://lovebali.baliprov.go.id/).
 - **Dengue**: Dengue fever is a real risk and the consequences can be really bothering, so always carry a reliable insect repellent. (affiliate link)
 - **Bali Belly**: The infamous "Bali belly" is often exaggerated. Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: Despite being there during the weeks that correspond to the start of the rainy season (end of September), we only had one day of heavy rain in 3 weeks. There were some very short (some minutes long) showers in the other 3 or 4 days. We were probably very lucky, but in any case, the weather is super unpredictable and varies drastically in a matter of minutes, so always take a rain jacket with you (even if it’s extremely sunny when you leave your room).
@@ -38,13 +38,13 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 ## TL;DR
 
 
-- The variety of activities and experiences is crazy: you can swim with sharks, hike a volcano at 2 a.m., sleep for 4 days on the deck of a boat, and see pseudo-dragons on remote islands.
+- The variety of activities and experiences is crazy: you can swim with sharks, hike a volcano at 2 AM, sleep for 4 days on the deck of a boat, and see pseudo-dragons on remote islands.
 - Try to bargain for everything that is not food, since they will typically shoot prices up – in markets, when hiring tours and excursions, or when buying clothes.
-- Eat only at warungs unless you are dying for Western food. The food is delicious, although it can get a bit monotonous, but the prices are so ridiculously cheap (between 1€ to 2€ for a normal dish) that you can’t complain.
+- Eat only at warungs unless you are dying for Western food. The food is delicious, although it can get a bit monotonous, but the prices are so ridiculously cheap (between 1€ and 2€ for a normal dish) that you can’t complain.
 - Local people are some of the most friendly you’ll meet in your life, particularly in Bali.
-- Forget about living the full experience if you don't rent a scooter–it's vital.
+- Forget about living the full experience if you don't rent a scooter—it's vital.
 - Avoid massively touristic places, since they get really packed and tend to be pricey. Our best experiences were typically in unexplored small villages.
-- Be ready for a really warm and humid weather. Try to rest during the hottest hours (around noon), or to be on the road with the scooter to get some fresh air.
+- Be ready for really warm and humid weather. Try to rest during the hottest hours (around noon), or to be on the road with the scooter to get some fresh air.
 
 
 ## Efficiency tips
@@ -71,7 +71,7 @@ The only company that is not a tourist trap is [Telkomsel](https://www.telkomsel
 
 ### Clothes
 
-The weather is really humid, so it's good to have fresh clothes and that dry fast. Always have in your daily backpack a pair of long trousers for the temples.
+The weather is really humid, so it's good to have fresh clothes that dry fast. Always have in your daily backpack a pair of long trousers for the temples.
 
 Regarding laundry, it's full of places around every island. Just do a quick research on Google Maps. Prices could vary from 1 to 2€ per kilo.
 
@@ -82,16 +82,16 @@ I highly recommend renting one to explore the island (you can do it directly in 
 
 If you pop a tire, fixing it shouldn't cost more than 1€.
 
-Always do gas in gas stations (unless it's urgent), because buying gas from street vendors is more expensive.
+Always get gas at gas stations (unless it's urgent), because buying gas from street vendors is more expensive.
 
 
 ## Authentic experiences
 
 
-1. Surf in Uluwatu o Kuta Lombok
+1. Surf in Uluwatu or Kuta Lombok
 2. If you can, go to Bali during **Galungan**, the biggest religious festivity that shows the true essence of the island
-3. Go to a Balinese temple and try to have a real ritual of purification (Bailan)
-4. Do yoga in Ubud.
+3. Go to a Balinese temple and try to have a real ritual of purification (Melukat)
+4. Do yoga in Ubud
 5. Hike a volcano (**Bromo, Ijen, Batur,** or **Rinjani** - check the difficulty)
 6. Horseback riding on the beach in Gili Air
 7. Craft a personal silver ring in Amed
@@ -109,23 +109,23 @@ Indonesia is huge, and you’d need months to see it all. Here, you'll find an i
 
 We chose to skip **Java**, as we weren’t particularly drawn to its big cities and preferred to focus on nature, adventure, and sports. While **Mount Bromo** and **Ijen** look incredible, we heard that mass tourism has taken over, so we decided they weren’t worth the visit.
 
-For the same reason, we also skipped **Canggu, Kuta**, and S**eminyak** in Bali.
+For the same reason, we also skipped **Canggu, Kuta**, and **Seminyak** in Bali.
 
-We didn't have time, but you could fit a one or two-day trip to **Nusa Penida** or **Nusa Lembongan** into this itinerary. The first has incredible landscapes but is very touristy, while the second is perfect for diving.
+We didn't have time, but you could fit a one- or two-day trip to **Nusa Penida** or **Nusa Lembongan** into this itinerary. The first has incredible landscapes but is very touristy, while the second is perfect for diving.
 
 
 - 3 days Ubud
 - 1 day Sidemen
 - 2 days Amed
 - 3 days Gili Air
-- 2 days Rinjani Vulcano
+- 2 days Rinjani Volcano
 - 1 day Mataram
 - 2 days Kuta Lombok
 - 4 days boat tour (whale sharks, Komodo Island, Pink Beach, Padar Island)
 - 1 day Labuan Bajo
 - 3 days Uluwatu
 
-**1.Ubud: The True Essence of Bali**
+### 1. Ubud: The True Essence of Bali
 
 Ubud is the heart and soul of Bali. We loved staying in a guesthouse outside the city, completely immersed in the island’s lush nature, surrounded by small houses and temples that can only be found here.
 
@@ -141,9 +141,9 @@ Tukad Cepung Waterfall – A stunning spot, though quite far by scooter. The nor
 
 ### Day 2
 
-Tegallalang Rice Terrace – Though very touristy, they were absolutely EPIC. It’s essential to go early in the morning to truly enjoy the experience. (Entrance: €2)
+Tegallalang Rice Terraces – Though very touristy, they were absolutely EPIC. It’s essential to go early in the morning to truly enjoy the experience. (Entrance: €2)
 
-There is also the option to go to less touristic ones, like Jatiluwih rice terrace.
+There is also the option to go to less touristic ones, like Jatiluwih rice terraces.
 
 Tirta Empul – In our opinion, this is a bit of a tourist trap. Either go at 8 AM sharp or prepare to be surrounded by tourists taking part in what often feels like a staged purification ritual scam.
 
@@ -165,7 +165,7 @@ This little village is tiny and can easily be explored in a day, but it’s tota
 
 The area is famous for its silver, and a super fun experience to try for a unique souvenir is making your own engraved ring at Adi Silver (costs around €15-20 per ring).
 
-Gembleng waterfalls - possibly the best we’ve seen! (entrance fee by donation). The surrounding nature and rice fields are also worth exploring by scooter.
+Gembleng waterfalls – possibly the best we’ve seen! (entrance fee by donation). The surrounding nature and rice fields are also worth exploring by scooter.
 
 
 ### 3. Amed
@@ -175,7 +175,7 @@ Amed didn’t really impress us. The beach is just black pebbles, and the water 
 
 ### 4. Gili Air
 
-Getting there: We took a local driver from Amed to Padang Bai (port) for €15 total, then hopped on the Ekajaya boat (2h trip). Despite the bad reviews, the ride was super smooth—maybe we got lucky! It costs €30 per person, but apparently, Golden Queen is just as good and half the price.
+Getting there: We took a local driver from Amed to Padang Bai (port) for €15 total, then hopped on the Eka Jaya boat (2h trip). Despite the bad reviews, the ride was super smooth—maybe we got lucky! It costs €30 per person, but apparently, Golden Queen is just as good and half the price.
 
 Which Gili to choose? We picked Gili Air—a perfect middle ground, not too wild but still with things to do.
 
@@ -184,7 +184,7 @@ How long to stay? 3 days max! The islands are tiny, and unless you're diving, th
 What to do? Just classic chill beach life! Best sunsets? Southwest coast, where all the beach bars are. Want to see turtles? Head to Turtle Beach, rent a snorkel for €2, and go explore—no need for overpriced tours, you can totally do it on your own!
 
 
-### 5. Lombok e Rinjani volcano
+### 5. Lombok and Rinjani volcano
 
 From Gili Air to Lombok: We took the local boat instead of the tourist one—only €1 instead of €20! The one in the morning leaves at 8 AM, but it only departs once there are at least 40 people. Luckily, we didn’t have to wait long, and it left right away.
 
@@ -196,7 +196,7 @@ Important! Leave a good tip for the porters—they carry 20-25 kg on their backs
 
 Overall? An unforgettable experience! Probably the hardest trek we’ve ever done because of the elevation and sandy terrain, but 100% worth it. Just be ready to rough it a bit!
 
-If you want our guide’s direct contact DM us!
+If you want our guide’s direct contact, DM us!
 
 
 ### 6. Mataram
@@ -240,9 +240,9 @@ In summary, 4 unforgettable days!
 
 ### 9. Labuan Bajo
 
-Honestly, there’s not much to do in this city—you can easily just stay one night as a stopover. The center has a bit of a Cancun vibe, with luxury hotels and tourist-oriented restaurants right next to really underprivileged areas.
+Honestly, there’s not much to do in this city—you can easily just stay one night as a stopover. The center has a bit of a Cancún vibe, with luxury hotels and tourist-oriented restaurants right next to really underprivileged areas.
 
-In the area, you can do diving, boat trips, or visit caves and waterfalls. For anything you need—scooter rentals, taxis, tours—write us for a contact of a super trustable and wonderful guy.
+In the area, you can do diving, boat trips, or visit caves and waterfalls. For anything you need—scooter rentals, taxis, tours—write us for a contact of a super trustworthy and wonderful guy.
 
 
 ### 10. Uluwatu
@@ -250,14 +250,18 @@ In the area, you can do diving, boat trips, or visit caves and waterfalls. For a
 This area is known for its surf vibe, and it's a must-see. It’s a bit unusual since there’s not an actual “town center”. Having a scooter is a must to go beach hopping.
 
 
-### Day 1: Suluban Beach – absolutely stunning, go early in the morning.
+### Day 1
+
+Suluban Beach – absolutely stunning, go early in the morning.
 
 Padang Padang Beach – beautiful, with intermediate-level surfing.
 
-Nuggalan Beach and Karang Boma Cliff for sunset.
+Nunggalan Beach and Karang Boma Cliff for sunset.
 
 
-### Day 2: Shopping in town (on Sundays, there are some amazing markets). In the afternoon, I took a surf lesson at Kala Surf Camp (€25)—did it with a friend in a great spot, but you could probably find a cheaper option.
+### Day 2
+
+Shopping in town (on Sundays, there are some amazing markets). In the afternoon, I took a surf lesson at Kala Surf Camp (€25)—did it with a friend in a great spot, but you could probably find a cheaper option.
 
 
 <div class="post-gallery">
@@ -283,14 +287,14 @@ Other dishes that you must try while in Indonesia:
 - **Dadar Gulung** (a really good and particular dessert).
 - **Tipat Cantok** (our favorite Indonesian dish, you can probably only find it in Bali).
 - **Chicken Curry** (not really from Indonesia, but they know how to do it well).
-- **Gado Gado.**
+- **Gado Gado**.
 - **Pisang Goreng** (fried bananas, a tasty but heavy dessert).
 
 The best bet to have delicious food for ridiculously cheap prices is warungs. These are generally small family-owned shops. However, some places just call themselves “warungs” because, probably, they attract more tourists calling themselves like that. In any case, here is a list of warungs (and maybe some not-so-warungs) that really stood out because of the food, the friendliness of their staff, and the really good prices. (Note: the list is not in any particular order.)
 
 
 - [Sun Sun Warung](https://maps.app.goo.gl/Bvrp1xNpMNuLLAyv7) (Ubud). Definitely not an actual warung, but the food there was SO good that it earned a spot in this list. The place is beautiful too since it’s quite touristy. Nasi Campur is really good here (45k IDR or 2.5€ for the one with chicken), and also Dadar Gulung was really good.
-- [Murni's Warung](https://maps.app.goo.gl/xyiqw2BXmZS1L96G6) (Ubud). In theory oldest warung in the city – although not very warung-like looking, and with the menu fully in English, so quite touristy. However, here we had Tipat Cantok. A must-try, hands down life-changing dish. And here it cost only 35k IDR (2€).
+- [Murni's Warung](https://maps.app.goo.gl/xyiqw2BXmZS1L96G6) (Ubud). In theory the oldest warung in the city – although not very warung-like looking, and with the menu fully in English, so quite touristy. However, here we had Tipat Cantok. A must-try, hands down life-changing dish. And here it cost only 35k IDR (2€).
 - [Warung Ole](https://maps.app.goo.gl/zZU9GSdWqhezyxRZ9) (Amed). Totally family-owned, this place may be a bit slow since there are only two people cooking, and the place gets quite packed. But there’s a reason for this: the food is amazing, the prices are incredible (almost every dish is 30k IDR or 1.70€), and there is a really large variety of dishes. You can even have burgers or pasta there if you want, although, of course, we encourage you to try the authentic Balinese options.
 - [Warung Makan Pak Dikin](https://maps.app.goo.gl/5Jc6U5jE7n2xBu4cA) (Labuan Bajo). We found this place completely by chance when starving while going around. We stopped and found that here not only the Nasi Goreng was 15k IDR (0.85€, absurd), but also it was the best we had on our trip. The hygienic conditions of the place were not the best, but well… You can’t have it all!
 - [zZz Warung](https://maps.app.goo.gl/DEkUH1CPZey9ZSJx5) (Gili Air). Our favorite place in all of Indonesia. We went here like 5 times in 3 days. Almost every dish is 30k IDR (1.70€), and the food is OUTSTANDING. Shoutout to the chicken curry – one of the best we have had. Also, Gado Gado is a must-try! And you can wrap up your dinner with some nice Pisang Goreng.

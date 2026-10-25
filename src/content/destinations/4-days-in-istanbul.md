@@ -32,7 +32,7 @@ That being said, here’s our 4-day itinerary, which allowed us to cover pretty 
 - Istanbul didn’t blow our minds. Maybe it was the rain or the high expectations, but it didn’t feel like a 10/10 city to us. Still worth visiting once, though.
 - Taxi = potential scam. Agree on the price before getting in, but don’t be surprised if the driver pulls a last-minute “extra charge”.
 - Don’t miss the Basilica Cistern, it’s totally worth the entry fee.
-- The asian side is a must to have a more local vibe of the city. Take the cheap local ferry from Ortaköy!
+- The Asian side is a must to have a more local vibe of the city. Take the cheap local ferry from Ortaköy!
 - Fatih, Fener and Balat were by far our favorite part of the trip, don’t skip them!
 
 
@@ -62,7 +62,7 @@ Since we were only there for a few days, we didn’t get a SIM card. Instead, we
 
 ### Where to sleep
 
-We stayed in the Kabatas area, and honestly, we really liked it. It’s full of bars and little restaurants, so it’s super easy to walk around and find a nice spot for dinner or drinks in the evening.
+We stayed in the Kabataş area, and honestly, we really liked it. It’s full of bars and little restaurants, so it’s super easy to walk around and find a nice spot for dinner or drinks in the evening.
 
 Plus, during the day, all the main tourist attractions (including the ferry to the Asian side) are within walking distance.
 
@@ -85,22 +85,23 @@ In just four days (and despite dealing with a stomach flu), we still managed to 
 
 **DAY 1**
 
-After landing, we had lunch near our hotel and then wandered around Kabatas, the neighborhood behind **Galata Tower** (which, by the way, looks especially beautiful at sunset).
+After landing, we had lunch near our hotel and then wandered around Kabataş, the neighborhood behind **Galata Tower** (which, by the way, looks especially beautiful at sunset).
 
 We decided not to go up the tower itself, as there are plenty of other spots in the city where you can get great panoramic views for free.
 
-After that, we walked to I**stiklal Street** until **Taksim Square**, which is basically the shopping street. Honestly… nothing too special. It’s super touristy and feels quite Western, pretty similar to shopping streets you’ll find in many other cities.
+After that, we walked along **Istiklal Street** up to **Taksim Square**, which is basically the shopping street. Honestly… nothing too special. It’s super touristy and feels quite Western, pretty similar to shopping streets you’ll find in many other cities.
 
-To finish the day, we went for a first round of shopping at the **Grand Bazaar** and the nearby **Egyptian Bazaar**, the latter being better for food and spices. It’s definitely a place you need to see, super colorful and full of atmosphere. But if you actually want to buy something, get ready to bargain hard and know the real value of what you’re buying, you’ll definitely get ripped off!
+To finish the day, we went for a first round of shopping at the **Grand Bazaar** and the nearby **Egyptian Bazaar**, the latter being better for food and spices. It’s definitely a place you need to see, super colorful and full of atmosphere. But if you actually want to buy something, get ready to bargain hard and know the real value of what you’re buying, otherwise you’ll definitely get ripped off!
 
 **DAY 2**
 
-On our second day, we explored the most touristy part of the city: **Sultanahmet.**
+On our second day, we explored the most touristy part of the city: **Sultanahmet**.
 
 We saw the **Blue Mosque** only from the outside because, unfortunately, it was under maintenance, but we did manage to go inside the impressive **Hagia Sophia**, the biggest one.
+
 Be careful: it always looks like there’s a super long line, and you’ll probably get approached by someone trying to sell you an overpriced “skip-the-line” tour. But honestly, the line moves really quickly. We got in within 15–20 minutes. Hagia Sophia is absolutely stunning and totally worth a visit!
 
-After that, we headed over to **Topkapi Palace**, but we only checked it out from the outside. We’re not huge history fans, so the €20 ticket didn’t feel worth it for us.
+After that, we headed over to **Topkapı Palace**, but we only checked it out from the outside. We’re not huge history fans, so the €20 ticket didn’t feel worth it for us.
 
 Instead, we decided to visit the **Basilica Cistern** (around €15), and it was definitely worth it! It’s a really unique and fascinating underground historical site with a mysterious vibe.
 
@@ -108,7 +109,7 @@ Instead, we decided to visit the **Basilica Cistern** (around €15), and it was
 
 On our third day, we explored the area around our hotel again (Galata), then walked all the way to **Ortaköy** to catch the ferry to the Asian side.
 
-The ferry from here was super extremely cheap (around €1), since it’s the one that locals take to commute. Even if the walk is pretty long, for this reason and for the fact that you get to pass through some less touristy neighborhoods right along the water, we definitely recommend it. It’s a great way to see a different side of the city.
+The ferry from here was extremely cheap (around €1), since it’s the one that locals take to commute. Even if the walk is pretty long, for this reason and for the fact that you get to pass through some less touristy neighborhoods right along the water, we definitely recommend it. It’s a great way to see a different side of the city.
 
 Along the way, you’ll also come across the **Dolmabahçe Palace** and the nice neighborhood of **Ortaköy**, where you can stop to check out the beautiful Ortaköy Mosque.
 
@@ -120,7 +121,7 @@ We recommend just wandering around on foot. Our favorite neighborhoods were **Ka
 
 On our last day, we explored some less touristy neighborhoods and, honestly, we ended up liking them the most. Definitely our favorite areas in the whole city!
 
-We started with a nice walk through the **Fatih** district, with its impressive mosque and the local market area, **Malta Çarşı**.
+We started with a nice walk through the **Fatih** district, with its impressive mosque and the local market area, **Malta Çarşısı**.
 
 From there, we walked to **Fener**, the historic Greek neighborhood. It’s super colorful, a bit of a maze, and full of charm.
 
@@ -135,7 +136,7 @@ Dishes and treats that you absolutely must try while in Istanbul:
 
 
 - **Kuzu Pirzola**: Legendary Turkish lamb chops usually found at traditional grills.
-- **Kokoreç**: One of Turkey's most famous street foods. It’s basically lamb’s intestines (tastes better than it sounds).
+- **Kokoreç**: One of Turkey’s most famous street foods. It’s basically lamb’s intestines (tastes better than it sounds).
 - **Kebab skewers**: You can’t say you’ve visited Istanbul if you don’t get a kebab skewer.
 - **Menemen**: A classic Turkish breakfast dish that is also great for lunch if you aren’t used to having dishes like this in the morning.
 - **Turkish delights and Baklava**: The quintessential local sweets. Make sure to try different types of baklava, such as chocolate, walnut, and pistachio.

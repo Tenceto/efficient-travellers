@@ -16,7 +16,7 @@ odooPath: "/blog/destinations-1/2-weeks-in-south-korea-9"
 
 ## Let’s start
 
-We ended up in South Korea completely by chance; it wasn’t part of our trip plans. But since Martin had to go there for work, we took the opportunity.
+We ended up in South Korea completely by chance; it wasn’t part of our trip plans. But since Martín had to go there for work, we took the opportunity.
 
 From the very first moment, we fell in love with Seoul, and honestly, it’s still one of our favorite cities in the world. We even said we could totally see ourselves living there for a few years. We were completely fascinated by the South Korean culture, so different from ours, yet so welcoming and fascinating.
 
@@ -28,19 +28,19 @@ In this post, we’ll share some must-have tools to make the most of your experi
 
 - <u>Vaccines</u>: No special vaccinations are required, just the standard ones.
 - <u>Visa</u>: EU citizens do not need a visa for tourist or short-term business visits lasting up to 90 days. Before arriving, though, you have to apply to the Korean Electronic Travel Authorization ([<u>K-ETA</u>](https://www.k-eta.go.kr/portal/newapply/index.do)), which costs around €5.
-- <u>When to visit</u>: The best time to visit South Korea is in the spring or Autumn. Summer can get very hot and humid, while Winter is rather freezing. We went in April, and the weather was absolutely perfect. We even got lucky and caught the cherry blossoms in bloom! (Not as epic as Japan’s, but still very pretty.)
+- <u>When to visit</u>: The best time to visit South Korea is in the spring or autumn. Summer can get very hot and humid, while winter is rather freezing. We went in April, and the weather was absolutely perfect. We even got lucky and caught the cherry blossoms in bloom! (Not as epic as Japan’s, but still very pretty.)
 
 
 ![2-weeks-in-south-korea](/images/posts/2-weeks-in-south-korea-img-1.webp)
 
 
-## TL; DR
+## TL;DR
 
 
 - South Korea is still one of our favorite countries that we have ever visited. Its mix of traditional culture and crazy modernity is so beautiful.
 - Download the apps Papago and Kakao Maps: you will definitely need them.
 - Public transportation is extremely reliable and efficient.
-- Don’t forget to add Hahoe in your travel itinerary!
+- Don’t forget to add Hahoe to your travel itinerary!
 - Street food is very iconic in South Korea, so make sure to try everything you find, but avoid getting ripped off in highly touristy markets.
 - The “cozy café” culture is crazy here. Even though many of them are very touristy, they deserve the hype. Visit as many as you can (they typically have very high coffee and bakery quality).
 
@@ -64,23 +64,23 @@ You will need cash only to buy and recharge the T-money card, but don’t worry,
 
 We used a local package from [<u>LG U+</u>](https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data). You can choose a package based on how many days you will stay there, at a fair price (we spent €25 for one month, but there was an ongoing offer, so make sure to check out what the best price is at the moment of your visit).
 
-You can get the SIM card at the airport, and it will also work as a T-money card, so you won't have to purchase one (they even gift you something like €2/3 to use for transportation).
+You can get the SIM card at the airport, and it will also work as a T-money card, so you won’t have to purchase one (they even gift you something like €2/3 to use for transportation).
 
-**Public transport**
+### Public transport
 
-Getting around in Korea is super easy and efficient, at least in big cities like Seoul and Busan. You can pay for tickets with cash, but the best move is to get a T-money card; you can just tap it on trains and buses, and you’re good to go (Apple Pay doesn't work).
+Getting around in Korea is super easy and efficient, at least in big cities like Seoul and Busan. You can pay for tickets with cash, but the best move is to get a T-money card; you can just tap it on trains and buses, and you’re good to go (Apple Pay doesn’t work).
 
 You can buy and recharge the T-money only with cash, so always have some on you!
 
-The best way to move around cities is by train. Since they can get very busy, we suggest buying the tickets in advance through [<u>Korail</u>](https://www.korail.com/global/eng/intro)<u>.</u>
+The best way to move around cities is by train. Since they can get very busy, we suggest buying the tickets in advance through [<u>Korail</u>](https://www.korail.com/global/eng/intro).
 
-**Taxi and Uber**
+### Taxi and Uber
 
 If you don’t want to use public transport (it can be tricky to orient, but we will give you some useful tools in the next paragraphs), we strongly suggest using Uber over normal taxis. It’s for sure more expensive, but anyway affordable.
 
-The advantage of Uber is that you will know the price before, and also you won't have to communicate the destination to the driver (which can be really tricky since they often don't speak English).
+The advantage of Uber is that you will know the price before, and also you won’t have to communicate the destination to the driver (which can be really tricky since they often don’t speak English).
 
-**Fundamental apps**
+### Fundamental apps
 
 South Korea, like many Asian countries, feels like a whole different world to those who come from the West. Fortunately, there are a few apps that will make it easy for you during your trip:
 
@@ -95,7 +95,7 @@ South Korea, like many Asian countries, feels like a whole different world to th
 1. Try all the street food in markets, but avoid the tourist traps!
 2. Go to a [<u>noraebang room</u>](https://www.bbc.com/travel/article/20231228-a-tour-of-seouls-five-best-karaoke-venues-with-singer-neon-bunny) for a K-pop night out
 3. Sleep in a hanok (traditional house)
-4. Explore a tea house or themed café (and go to all the cafes in general, they are very cozy and probably the best ones you’ll see in your life!)
+4. Explore a tea house or themed café (and go to all the cafés in general, they are very cozy and probably the best ones you’ll see in your life!)
 5. Do some beauty shopping and try a facial treatment (or, for a cheap version, buy a DIY skin care kit at home)
 6. Go to the disco in Hongdae to experience the real Korean nightlife
 7. Take funny pictures in the massive photo booths (pick up your accessories wisely, they have infinite collections to choose from!)
@@ -120,17 +120,17 @@ South Korea is such a beautiful country that we think between 2 and 3 weeks are 
 
 On our first day, we explored some of the city’s most famous neighborhoods, including the shopping district of **Insadong** and the stunning streets of **Myeongdong**.
 
-Insadong quickly became one of our favorite areas in all of Seoul. The cafes and little shops are absolutely stunning, and the traditional vibe tucked between the city’s skyscrapers feels surreal. Then we passed by **Ssamziegil handicraft shopping complex**, the perfect place for souvenirs, and where we also had a portrait done by a local painter.
+Insadong quickly became one of our favorite areas in all of Seoul. The cafés and little shops are absolutely stunning, and the traditional vibe tucked between the city’s skyscrapers feels surreal. Then we passed by **Ssamziegil handicraft shopping complex**, the perfect place for souvenirs, and where we also had a portrait done by a local painter.
 
 Myeongdong, on the other hand, is much more touristy and less charming, but it’s the perfect place if you’re in the mood for some serious shopping.
 
-In the evening, we had dinner at **M****angwon Market**, then headed over to **Hongdae**, a student-filled neighborhood that’s ideal for a fun night out. This is the place to go if you’re looking for some **noraebang** (karaoke) or a night out at a dance club!
+In the evening, we had dinner at **Mangwon Market**, then headed over to **Hongdae**, a student-filled neighborhood that’s ideal for a fun night out. This is the place to go if you’re looking for some **noraebang** (karaoke) or a night out at a dance club!
 
 **DAY 2**
 
 We started the day with breakfast in Insadong again. It was close to our hotel, and honestly, the cafés in that area are just too pretty to resist.
 
-Then we spent the whole day exploring the royal palaces: **Jongmyo Shrine, Changgyeonggung Palace, Changdeokgung Palace, Gyeongbokgung Palace**, and the**Secret Garden** (which was by far our favorite part!).
+Then we spent the whole day exploring the royal palaces: **Jongmyo Shrine, Changgyeonggung Palace, Changdeokgung Palace, Gyeongbokgung Palace**, and the **Secret Garden** (which was by far our favorite part!).
 
 Even though this area is pretty touristy, it’s totally worth it; it’s super charming and full of history.
 
@@ -138,7 +138,7 @@ You can find all the info and ticket prices [<u>here</u>](https://www.kh.or.kr/c
 
 Also nearby is the **Jogyesa Temple**, which is really lovely, and the whole neighborhood around it is worth a visit.
 
-In the afternoon, we checked out the famous**Starfield COEX Library**, cool to see, but a little overhyped.
+In the afternoon, we checked out the famous **Starfield COEX Library**, cool to see, but a little overhyped.
 
 We ended the day at **Namseong Sagye Market**, a very local, low-key spot for dinner (check out the “Food” section for more info!).
 
@@ -168,7 +168,7 @@ As soon as we arrived, we headed to the **Jagalchi Market**, a market specializi
 
 Then we made our way to the famous **Gamcheon Culture Village** with all the colorful houses. Yes, it’s very touristy and definitely set up for visitors, but still a fun and unique spot to explore.
 
-In the afternoon, we wandered around **Seomyeon-ro**, a lively downtown neighborhood really close to the cute **Jeonpo Cafe Street**.
+In the afternoon, we wandered around **Seomyeon**, a lively downtown neighborhood really close to the cute **Jeonpo Cafe Street**.
 
 In the evening, we explored more of the city center, especially around **BIFF Square**: full of lights, food, and local vibes.
 
@@ -188,9 +188,9 @@ We got to Gyeongju with a super quick and efficient 1-hour KTX train ride.
 
 We only stayed for a day and a half, but honestly, that was more than enough. The city is really cute and full of character, definitely worth a stop, but it’s also pretty small, so you can easily explore it in a short time.
 
-The must-visit spots are the **Daereungwon Tumuli Park**, the **Bomunjeong Pavilion**, the **Gyochon Hanok Village**, and the**Hwangnidan Street**. They are all very close, and you can do a long walk visiting them all together.
+The must-visit spots are the **Daereungwon Tumuli Park**, the **Bomunjeong Pavilion**, the **Gyochon Hanok Village**, and the **Hwangnidan Street**. They are all very close, and you can do a long walk visiting them all together.
 
-In the evening, we went to**Donggung Palace** (there’s a small entrance fee). To be honest, it’s way more beautiful at night. The whole place is lit up, and it looks magical, so we totally recommend going when it gets dark!
+In the evening, we went to **Donggung Palace** (there’s a small entrance fee). To be honest, it’s way more beautiful at night. The whole place is lit up, and it looks magical, so we totally recommend going when it gets dark!
 
 **Andong / Hahoe**
 
@@ -211,7 +211,7 @@ Before talking about local dishes, as we always do, South Korea deserves a speci
 - [<u>Thanks, Oat</u>](https://maps.app.goo.gl/U14KZR2SZUNGjFX1A) (Seoul): Very good spot for breakfast, mainly for their bowls (both savory and sweet).
 - [<u>Rami Scone Cafe</u>](https://maps.app.goo.gl/P4PshEfkAgJt6KGy5) (Seoul): This place is stuck in our minds forever thanks to their fruit infusions. They are, without any doubt, the best infusion drinks we had in our lives (special recommendation for the lemon and raspberry ones!).
 - [<u>Cafe Onion</u>](https://maps.app.goo.gl/3H8JFcHuSrowa5AS8) (Seoul): Definitely a spot created for tourists to post on Instagram, but it’s very aesthetic, and the food is good, too.
-- [Soha Salt Pond](https://maps.app.goo.gl/fScVUfk4NcTAhdns7) (Seoul): A very uniquely decorated café, and kind of viral for their salt bread. As always, good bakery items.
+- [<u>Soha Salt Pond</u>](https://maps.app.goo.gl/fScVUfk4NcTAhdns7) (Seoul): A very uniquely decorated café, and kind of viral for their salt bread. As always, good bakery items.
 - [<u>보노베리 (Bono Berry)</u>](https://maps.app.goo.gl/BwamexphQhUYMBEL6) (Busan): This place had a particular item that didn’t seem as common to find around, a **matcha cookie** that actually tasted like matcha. Definitely not for everyone, but a must-try if you’re a matcha person!
 - [<u>Grain</u>](https://maps.app.goo.gl/PUxaoyP122oXBmSa8) (Seoul): Quite on the expensive side, but it had an amazing and vast list of Western-like dishes in case you need a break from trying local street food!
 - [<u>Fritz Coffee Company</u>](https://maps.app.goo.gl/4ZcXSQtfPnx13Kan6) (Seoul): Probably the place in this list that is the most attended by actual locals. Their coffee is excellent, and their bakery items are delicious. Definitely not a cozy spot like the others to hang out, but our top choice quality-wise.
@@ -220,7 +220,7 @@ Before talking about local dishes, as we always do, South Korea deserves a speci
 As in many Asian countries, street food is incredible in South Korea. There is a crazy amount of street markets you can go to. Here is our selection to see the most variety while keeping the to-do list short (all of them in Seoul and surroundings).
 
 
-- The [Gwangjang Market](https://maps.app.goo.gl/hDpHJBcNn76aPNHA9) is the most famous one. You can find a massive amount of options here, but it has become so touristy that the prices are quite high, and it’s as busy as it gets. In particular, it became very famous for its “[Netflix stall](https://maps.app.goo.gl/rE3LJc4ybw8qbpzh9)”. Probably your best choice if you care about posting on Instagram, but not for an authentic, local experience.
+- The [<u>Gwangjang Market</u>](https://maps.app.goo.gl/hDpHJBcNn76aPNHA9) is the most famous one. You can find a massive amount of options here, but it has become so touristy that the prices are quite high, and it’s as busy as it gets. In particular, it became very famous for its “[<u>Netflix stall</u>](https://maps.app.goo.gl/rE3LJc4ybw8qbpzh9)”. Probably your best choice if you care about posting on Instagram, but not for an authentic, local experience.
 - For a more authentic and local experience, we really liked [<u>Namseong Sagye Market</u>](https://maps.app.goo.gl/pcrJnonQsLFhPSRV8). It’s not as popular among tourists, and you can see a lot of locals doing their daily shopping here. Much cheaper than Gwangjang, you can find incredible street food snacks here. Hunt for **eomuk, tteokbokki, and Korean corn dogs**!
 - For an open-air, more generic market (not just food-oriented), [<u>Dongmyo Flea Market</u>](https://maps.app.goo.gl/j7jauxRQCWNuafpR8) is where to go. You can find whatever you want here; it’s filled with second-hand and vintage goods. It also has a lot of street snack carts, and we actually had the best bungeoppang here!
 
@@ -242,7 +242,7 @@ Desserts:
 
 
 - [<u>Yangji Dabang</u>](https://maps.app.goo.gl/ma8EToyeNPGbLPGt5) (Gyeongju): We came here to try the popular **soufflé pancake**, which, despite being Japanese, is very popular here as well. It’s definitely worth trying!
-- [<u>Sulbing</u>](https://maps.app.goo.gl/qAgHFs5q7MMLa96K6) (Seoul): A famous chain specializing in **bingsu.** They have many options to choose from, and they’re indeed a must-try while you’re in Korea. The portion seems hugebut it’s shaved ice in the end, so it’s okay to share it between two people.
+- [<u>Sulbing</u>](https://maps.app.goo.gl/qAgHFs5q7MMLa96K6) (Seoul): A famous chain specializing in **bingsu.** They have many options to choose from, and they’re indeed a must-try while you’re in Korea. The portion seems huge, but it’s shaved ice in the end, so it’s okay to share it between two people.
 - [<u>Seoul Hotteok</u>](https://maps.app.goo.gl/qnB6Fm6NHqPhbNVK9) (Seoul): This shop serves one of the most beloved street snacks: the **hotteok.** It’s probably the most important dessert to try while visiting this amazing country, and this shop really nails it!
 
 Some other random stuff:

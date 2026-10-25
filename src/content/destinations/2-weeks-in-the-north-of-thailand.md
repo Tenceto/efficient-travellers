@@ -8,7 +8,7 @@ description: "Two weeks in northern Thailand: Bangkok, Chiang Mai, the Mae Hong 
 author: "Carola & Martín"
 cardImage: "/images/cards/2-weeks-in-the-north-of-thailand-card.webp"
 coverImage: "/images/posts/2-weeks-in-the-north-of-thailand-cover.webp"
-highlights: ["Bangkok", "Chiang Mai", "Mae Hong Song Loop", "Phai", "Wat Pa Tam Wua monastery"]
+highlights: ["Bangkok", "Chiang Mai", "Mae Hong Son Loop", "Pai", "Wat Pa Tam Wua monastery"]
 hasRatings: true
 ratings: {"budget": 4, "adventure": 3, "food": 5, "overall": 4}
 odooPath: "/blog/destinations-1/2-weeks-in-the-north-of-thailand-8"
@@ -18,7 +18,7 @@ odooPath: "/blog/destinations-1/2-weeks-in-the-north-of-thailand-8"
 
 Thailand was part of our three-month backpacking trip around Southeast Asia. We had just spent three weeks in Indonesia, so we decided to skip the south of Thailand since it’s mostly beaches and island life, and we were ready for something different.
 
-Out of all the countries we visited, Thailand definitely felt like the most developed and tourist-friendly. But there’s so much more than just the chaos and charm of Bangkok. Head North and you’ll find smaller cities and towns that are still pretty off the beaten path.
+Out of all the countries we visited, Thailand definitely felt like the most developed and tourist-friendly. But there’s so much more than just the chaos and charm of Bangkok. Head north and you’ll find smaller cities and towns that are still pretty off the beaten path.
 
 If you're into Buddhism or just curious about it, Thailand is a great place to dive deeper into it and even learn directly from monks about their traditions and beliefs.
 
@@ -27,8 +27,8 @@ If you're into Buddhism or just curious about it, Thailand is a great place to d
 
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
-- **Visa**: no need for less than 30 days (Italian passport).
-- **Dengue**: Dengue fever is a real risk and the consequences can be really bothering, so always carry a reliable insect repellent.
+- **Visa**: No need for less than 30 days (Italian passport).
+- **Dengue**: Dengue fever is a real risk and the consequences can be really bothersome, so always carry a reliable insect repellent.
 - **Stomach flu**: Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: No need to stress! The weather can be super unpredictable, but (according to our experience) even when it rains it’s usually just a quick storm that passes in about an hour.
 
@@ -44,7 +44,7 @@ If you're into Buddhism or just curious about it, Thailand is a great place to d
 - The country tends to be more expensive than the others in the Southeast Asia region, so don’t be surprised if your costs increase while visiting Thailand.
 - Renting a car to drive along the Mae Hong Son Loop is a must.
 - Make sure to try all the street food you can get your eyes on, and make sure to visit 7eleven whenever you need a break from local food to get some comfort-zone snacks.
-- Be ready for a warm and humid weather, which can be a burden when hiking or walking long distances.
+- Be ready for warm and humid weather, which can be a burden when hiking or walking long distances.
 
 
 ## Efficiency tips
@@ -54,12 +54,12 @@ If you're into Buddhism or just curious about it, Thailand is a great place to d
 
 In Bangkok there is a very cheap train (**Airport Rail Link**) that goes to the center in about 30 minutes, just outside Suvarnabhumi airport (BKK).
 
-Getting from Don Muang Airport (DMK) is a bit trickier, so this time we actually recommend taking a taxi. It usually costs no more than €8 to get to the city center, and it'll save you a lot of time.
+Getting from Don Mueang Airport (DMK) is a bit trickier, so this time we actually recommend taking a taxi. It usually costs no more than €8 to get to the city center, and it'll save you a lot of time.
 
 
 ### Money
 
-Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card to have the best change, but be aware that a lot of activities don’t accept cards.
+Always use your Wise or [Revolut](https://www.revolut.com/referral/?referral-code=carola1eoc!APR2-25-AR-L2) card to get the best exchange rate, but be aware that a lot of activities don’t accept cards.
 
 All ATMs (as far as we know) have a €6 withdrawal fee, so we suggest exchanging big amounts or having cash of your own currency with you to change.
 
@@ -75,7 +75,7 @@ Be careful that also in 7eleven there is a tourist package but it’s more expen
 
 Take with you clothes that dry fast and always have in your daily backpack a pair of long trousers for the temples.
 
-Laundry: it's full of places around. Just do a quick research on Google Maps. Prices could vary from €2 to €3 per kilo.
+Laundry: it's full of places around. Just do a quick search on Google Maps. Prices could vary from €2 to €3 per kilo.
 
 
 ## Authentic experiences
@@ -106,22 +106,31 @@ Our full itinerary was like this:
 
 - 3 days in Bangkok
 - 3 days in Chiang Mai
-- Road trip: 6 days in the Mae Hong Son loopDoi Inthanon and Mae SariangMueang Mae Hong Son Ban Rak Thai Pai Wat Pa Tam Wua monastery
+- Road trip: 6 days in the Mae Hong Son loop
+    - Doi Inthanon and Mae Sariang
+    - Mueang Mae Hong Son
+    - Ban Rak Thai
+    - Pai
+    - Wat Pa Tam Wua monastery
 
 
-1. **Bangkok**
+### 1. Bangkok
 
 
-### Day 1 : We kicked off the day exploring Sukhumvit . We recommend staying in this neighborhood. It’s super convenient since it’s well connected to the whole city by metro.
+### Day 1
 
-Recommended stops: **Pratunam** **Market** and **Platinum Mall**, two local markets for some souvenir shopping.
+We kicked off the day exploring Sukhumvit. We recommend staying in this neighborhood. It’s super convenient since it’s well connected to the whole city by metro.
 
-In the afternoon, we wandered around **Chinatown** and checked out Wat Traimit, that was pretty nice. Then hopped on a taxi boat (only €0.80!) to cross the river and visit **ICONSIAM**. It’s a super famous mall, but honestly… nothing incredible about it—just a bunch of high-end brands.
+Recommended stops: **Pratunam Market** and **Platinum Mall**, two local markets for some souvenir shopping.
+
+In the afternoon, we wandered around **Chinatown** and checked out Wat Traimit, which was pretty nice. Then hopped on a taxi boat (only €0.80!) to cross the river and visit **ICONSIAM**. It’s a super famous mall, but honestly… nothing incredible about it—just a bunch of high-end brands.
 
 Then we headed back to Sukhumvit for what turned out to be the best Thai massage ever at **My Raku Massage**. Seriously amazing, and only €10.
 
 
-### Day 2 : On our second day, we headed to the most touristy area to check out the Grand Palace complex—absolutely stunning and totally worth the €13.
+### Day 2
+
+On our second day, we headed to the most touristy area to check out the Grand Palace complex—absolutely stunning and totally worth the €13.
 
 Then we visited Wat Pho, home of the giant reclining Buddha (€8, also very cool).
 
@@ -130,35 +139,43 @@ After that, we crossed the river again by taxi boat and had lunch at a local spo
 Later we went back to the hotel to chill for a bit, then spent the evening around Sukhumvit and Nana Plaza—one of Bangkok’s many red-light districts.
 
 
-### Day 3 : We started the day at the Japanese-style mall DONKI, then took a stroll through Lumpini Park where we spotted a giant monitor lizard just casually hanging out, which was wild.
+### Day 3
+
+We started the day at the Japanese-style mall DONKI, then took a stroll through Lumpini Park where we spotted a giant monitor lizard just casually hanging out, which was wild.
 
 In the afternoon, we went to the Chatuchak Market (only open on weekends, so we got lucky) and later checked out Patpong, another one of Bangkok’s red-light districts.
 
 
 ### 2. Chiang Mai
 
-We took a **night train** from Bangkok to Chiang Mai in second class for just €25. It’s a bit complicated to book the trains because [the website](https://dticket.railway.co.th/DTicketPublicWeb/home/Home) works quite bad, but the service was amazing. The train was really comfortable and clean. Remember to bring a hoodie because the AC can get really cold, and maybe some snacks since there's no food service on board.
+We took a **night train** from Bangkok to Chiang Mai in second class for just €25. It’s a bit complicated to book the trains because [the website](https://dticket.railway.co.th/DTicketPublicWeb/home/Home) works quite badly, but the service was amazing. The train was really comfortable and clean. Remember to bring a hoodie because the AC can get really cold, and maybe some snacks since there's no food service on board.
 
 
-### Day 1: We arrived at 7 AM and, right away, the city made a great impression. We did a walking tour of the city center with a former monk (DM us if you want the contact info for the guide). It was nice, but the guide was pretty old, so the tour was a bit slow and very historical. It's interesting if you want to learn more about Buddhism.
+### Day 1
+
+We arrived at 7 AM and, right away, the city made a great impression. We did a walking tour of the city center with a former monk (DM us if you want the contact info for the guide). It was nice, but the guide was pretty old, so the tour was a bit slow and very historical. It's interesting if you want to learn more about Buddhism.
 
 In the afternoon, we went back to the city's main temple to catch the monks' chanting at 5 PM and to see the temple lit up at night.
 
 We walked around the center and ended up at the **Kalare Night Bazaar** for dinner. It's very touristy, but definitely worth it! Avoid eating those giant cooked insects they offer though—things like scorpions and spiders are a huge tourist trap! (Although larvae and small bugs are actually snacks some Thai people eat.)
 
-In the bazaar it’s also possible to see some Thai boxing fights for €17. It’s not as nice as in the stadium in Bangkok, the crowd are just tourists and the fights seemed a bit fake, but if you want to have a glimpse on how it works it’s definitely a comfortable option.
+In the bazaar it’s also possible to see some Thai boxing fights for €17. It’s not as nice as in the stadium in Bangkok, the crowd are just tourists and the fights seemed a bit fake, but if you want to have a glimpse of how it works it’s definitely a comfortable option.
 
 
-### Day 2 : We left early at 7 AM for the Monk's Trail , which I definitely recommend because it gets hot and humid later on.
+### Day 2
+
+We left early at 7 AM for the Monk's Trail, which I definitely recommend because it gets hot and humid later on.
 
 First stop was **Wat Pha Lat**, super cute and unique. Then we hiked up to **Doi Suthep** (a must-see!).
 
 The hike has about 600 meters of elevation gain, and you can do it in about two hours.
 
-In the afternoon, we did some yoga, relaxed, and did some “cafe hooping”. This was the best activity in the neighborhood we were staying, **Nimman**. In fact, we totally recommend sleeping there!
+In the afternoon, we did some yoga, relaxed, and did some “cafe hopping”. This was the best activity in the neighborhood we were staying in, **Nimman**. In fact, we totally recommend sleeping there!
 
 
-### Day 3 : We dedicated our last day to seeing the elephants. We did a lot of research because we didn’t want to support any places that exploit animals for tourism, but luckily we found Elephant Sanctuary Chai Lai Orchid (€70). It was beautiful and definitely worth it. It’s a whole day tour where you get to feed the elephants, touch them, and even bathe with them.
+### Day 3
+
+We dedicated our last day to seeing the elephants. We did a lot of research because we didn’t want to support any places that exploit animals for tourism, but luckily we found Elephant Sanctuary Chai Lai Orchid (€70). It was beautiful and definitely worth it. It’s a whole day tour where you get to feed the elephants, touch them, and even bathe with them.
 
 Of course, no place is 100% ethical since it’s always a tourist attraction anyway, but the elephants here really seemed comfortable with the sanctuary owners and weren’t bothered by the visitors. They say they rescue them from exploitation situations in Thailand… impossible to know if it’s true, but we chose to believe!
 
@@ -166,11 +183,12 @@ Of course, no place is 100% ethical since it’s always a tourist attraction any
 ### 3. Mae Hong Son loop
 
 
-### Day 1 : Doi Inthanon
+### Day 1: Doi Inthanon
 
-We rented a car in Chiang Mai (we found [BudgetCatcher](https://maps.app.goo.gl/7ZDeqyiTbseDJioX6) to offer an outstanding and trustworthy service) to being our road trip around the Mae Hong Son Loop. We rented a Toyota Yaris for €25 per day.
+We rented a car in Chiang Mai (we found [BudgetCatcher](https://maps.app.goo.gl/7ZDeqyiTbseDJioX6) to offer an outstanding and trustworthy service) to begin our road trip around the Mae Hong Son Loop. We rented a Toyota Yaris for €25 per day.
 
-We started with the **Doi Inthanon National Park**, which is stunning, but a bit of a rip-off – you pay 10€ to get in, and then most of the attractions inside have an extra fee.
+We started with the **Doi Inthanon National Park**, which is stunning, but a bit of a rip-off – you pay €10 to get in, and then most of the attractions inside have an extra fee.
+
 Still, it’s worth it for the short, easy hikes, some beautiful waterfalls, and a gorgeous temple.
 
 We ended the day by crashing at a beautiful house with a garden in Mae Chaem, right off the road. Here we could actually experience some real Thailand vibes.
@@ -180,7 +198,7 @@ We ended the day by crashing at a beautiful house with a garden in Mae Chaem, ri
 
 We continued the road trip heading to **Mae Sariang** (our stop for the night).
 
-Along the way, we pulled over Bo Kaeo Pine Tree Garden and then stopped at an insanely beautiful local temple—seriously, the most beautiful one we've seen in Thailand (**War Kiew Lom**).
+Along the way, we pulled over at Bo Kaeo Pine Tree Garden and then stopped at an insanely beautiful local temple—seriously, the most beautiful one we've seen in Thailand (**Wat Kiew Lom**).
 
 We grabbed lunch at a roadside spot in the middle of nowhere (check out the Food section later!), then went for a hike to a really nice viewpoint (**Doi Wah Kluejo Pha Wihok**).
 
@@ -193,7 +211,7 @@ Lots of driving this day, but the scenery was amazing so it didn’t feel heavy 
 
 We started the day wandering around **Mueang Mae Hong Son**, checked out the [local food market](https://maps.app.goo.gl/WreWnkeyxHKVRDB26) and a couple of temples.
 
-In the afternoon/evening we made it to **Ban Rak Thai,** right by the Myanmar border. This place was absolutely stunning! It’s touristy, sure, but still really worth visiting. Honestly, it’s one of the most beautiful spots we’ve seen in the north. We suggest to search for your stay not inside the city, but near the lake Pang Ung that is really close by car and very peaceful.
+In the afternoon/evening we made it to **Ban Rak Thai**, right by the Myanmar border. This place was absolutely stunning! It’s touristy, sure, but still really worth visiting. Honestly, it’s one of the most beautiful spots we’ve seen in the north. We suggest searching for your stay not inside the city, but near the lake Pang Ung that is really close by car and very peaceful.
 
 
 ### Day 4
@@ -202,7 +220,7 @@ Since the area around Ban Rak Thai was so beautiful, we took it slow in the morn
 
 Then we hit the road again and stopped for lunch at an epic viewpoint at **Ban Jabo village**.
 
-After that, we visited the**Nam Lod caves**. It was pretty cool, but a heads up: if you go during rainy season like we did, only 1 out of 3 caves is accessible. Entry is about €5 per person.
+After that, we visited the **Nam Lod caves**. It was pretty cool, but a heads up: if you go during rainy season like we did, only 1 out of 3 caves is accessible. Entry is about €5 per person.
 
 Finally we made it to Pai, our stop for the night.
 
@@ -211,19 +229,21 @@ Finally we made it to Pai, our stop for the night.
 
 **Pai** is seriously such a cute town and totally perfect for digital nomads — you could easily stay a few extra days here doing yoga classes, joining hippie events, and even some psytrance parties. You can wander around the Pai Walking Street to experience the hippie vibes this town offers. It’s full of international people and the atmosphere is super chill, we really enjoyed it.
 
-Not far from town there’s the **Bamboo Bridge**, where you can get to do chill walk and take some nice shots in the rice fields.
+Not far from town there’s the **Bamboo Bridge**, where you can take a chill walk and take some nice shots in the rice fields.
 
 We highly recommend checking out **Pai Canyon** and the **White Buddha** for sunset, both absolutely stunning spots!
 
 There are also some hot springs nearby, but we skipped them because the weather was way too hot for that.
 
-**Day 6 and more**
+
+### Day 6 and more
+
 
 We were curious about Buddhism and its vibe across Southeast Asia, so we decided to try staying at the [Wat Pa Tam Wua Monastery](https://www.wattamwua.com/). You can stay from 2 to 10 days for free (just leave a donation if you want) and join daily practices like walking meditation, chores, monk chats, and rituals.
 
 For us, it was a pretty intense experience. The meditations aren’t guided, so it was difficult for us to keep up. Plus, we found it a little too ceremonial and religious for what we were looking for, so we decided not to stay long.
 
-Still, it’s a very interesting to experience, and the location is absolutely beautiful!
+Still, it’s a very interesting experience, and the location is absolutely beautiful!
 
 
 ## Food
@@ -233,7 +253,7 @@ Thai food is probably one of the most popular around the world. Since we spent m
 
 - **Phat kaphrao** (a staple and one of the best, a nationally beloved dish).
 - **Khao soi** (hard to find outside Northern Thailand, and our favorite Thai dish by far).
-- **Pad see ew** (popular stir-fried noodles dish).
+- **Pad see ew** (popular stir-fried noodle dish).
 - **Tom yum** (a class of soups, they can be quite spicy and they can be very different from one another).
 - **Pad thai** (probably the most famous abroad, which turns out not to be as popular among locals as one may think… but a must-try anyway!).
 - **Crispy pork belly** (can be found in different formats and with different sauces).
@@ -258,8 +278,8 @@ Our favorite spots where to try these dishes (and other things too!) were these,
 - [ร้านโรตีรักไทย](https://maps.app.goo.gl/gbuCVtKFFGnNHB8o9) (Ban Rak Thai): Best prices you will find for local Thai food in such a touristy area. The food is quite decent and the prices are cheap.
 - [หมูกรอบย่างเตาถ่าน เจ๊ใหญ่ นิมมาน ซอย 8](https://maps.app.goo.gl/JJjDkTWzPj1sWZc57) (Chiang Mai): The specialty of this spot is crispy pork belly. The stir-fried crispy pork with chili paste was one of the best flavors we tried in Thailand, and you find it here for a really good price (€2.15 for the medium dish, which was quite generous).
 - [Chai Tea Shop](https://maps.app.goo.gl/mn5RnagZNS92otH59) (Pai): This place is just magnificent. If there is a perfect coffee shop in the world, it has to be this one. You MUST stop by here and try their chai tea. The best we’ve ever tried in our lives, and for just €1.20.
-- [Thai Grandma's](https://maps.app.goo.gl/TDJp7kTeopttq79m9) (Mae Hong Son): This spot is completely in the middle of nowhere. Here we had the best pad kaprao, hands down. The woman that cooks speaks no English whatsoever, which is, of course, a positive thing when looking for authentic cuisine. All dishes were €1.35 (as far as we could understand from our erratic communication with the lady).
+- [Thai Grandma's](https://maps.app.goo.gl/TDJp7kTeopttq79m9) (Mae Hong Son): This spot is completely in the middle of nowhere. Here we had the best phat kaphrao, hands down. The woman that cooks speaks no English whatsoever, which is, of course, a positive thing when looking for authentic cuisine. All dishes were €1.35 (as far as we could understand from our erratic communication with the lady).
 - [Vegan Meals Chiang Mai](https://maps.app.goo.gl/D64SCmusC4jFb5DT7) (Chiang Mai): Not authentic at all, but a nice spot if you’re looking for some different flavors during your trip. Most places like this are really expensive, but this one has really fair prices. Everything in the menu is around €3.25, which is quite cheap considering the average price of western food in Asia.
 - [Joy’s place](https://maps.app.goo.gl/CfH8VXB631tjdiQW9) (Pai): Awesome local food, super low prices (almost everything is €1), and huge portions. Here we had the best pad thai of our trip. It’s really a miracle that a spot like this exists in such a touristy town.
-- [Charin Pie](https://maps.app.goo.gl/QGK2R2KqrJffRdEe8) (Chiang Mai): Not very Thai, but definitely a must-visit if you’re closeby. This cozy cafe offers a wide variety of pie flavors, and they were all incredibly good. A very good option if you’re looking for a sweet treat!
+- [Charin Pie](https://maps.app.goo.gl/QGK2R2KqrJffRdEe8) (Chiang Mai): Not very Thai, but definitely a must-visit if you’re close by. This cozy cafe offers a wide variety of pie flavors, and they were all incredibly good. A very good option if you’re looking for a sweet treat!
 - [Noodle Soup House Ban Jabo](https://maps.app.goo.gl/M2hXhTuqiZUH7Grf6) (Ban Jabo): The place to go to have an amazing tom yum noodle soup with pork with a stunning view and for the unbelievable price of €1.35. You can literally have your tasty Thai dish with your legs dangling over the edge and a mind-blowing landscape in front of you. Surely a one-of-a-kind experience you shouldn’t miss!

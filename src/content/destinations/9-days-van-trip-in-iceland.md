@@ -2,7 +2,7 @@
 title: "9-day van trip in Iceland"
 region: "Europe"
 order: 22
-status: "wip"
+status: "published"
 date: "26 October 2026"
 description: "A 9-day camper van trip around Iceland in June: the Golden Circle, the south coast, glacier kayaking, the East Fjords, the Diamond Circle and Snæfellsnes."
 author: "Carola & Martín"

@@ -12,7 +12,7 @@ const allDestinations = (await getCollection('destinations')).sort(
 const regions = ['Asia', 'Europe', 'Latin America', 'United States', 'Africa'] as const;
 
 const description =
-  'Browse all 21 travel itineraries and efficiency guides across Asia, Europe, Latin America, the United States, and Africa.';
+  `Browse all ${allDestinations.length} travel itineraries and efficiency guides across Asia, Europe, Latin America, the United States, and Africa.`;
 const blogJsonLd = {
   '@context': 'https://schema.org',
   '@graph': [

@@ -56,7 +56,7 @@ const homeJsonLd = {
           This is the perfect space for those with a small budget but big dreams and a long bucket list to tackle!
         </p>
         <div style="display: flex; gap: 14px; flex-wrap: wrap;">
-          <a href={`${base}/destinations/`} class="btn btn-primary" id="hero-explore-btn">Explore All 21 Destinations &rarr;</a>
+          <a href={`${base}/destinations/`} class="btn btn-primary" id="hero-explore-btn">Explore All {allDestinations.length} Destinations &rarr;</a>
           <a href="#about-us" class="btn btn-mint" id="hero-about-btn">Our Story</a>
         </div>
       </div>
@@ -136,7 +136,7 @@ const homeJsonLd = {
         <div>
           <h2 style="font-size: 2rem; color: var(--color-navy); letter-spacing: -0.02em;">Our Guides</h2>
         </div>
-        <a href={`${base}/destinations/`} class="btn btn-primary" id="view-all-guides-btn">View All 21 Destinations &rarr;</a>
+        <a href={`${base}/destinations/`} class="btn btn-primary" id="view-all-guides-btn">View All {allDestinations.length} Destinations &rarr;</a>
       </div>
 
       <div class="cards-grid">

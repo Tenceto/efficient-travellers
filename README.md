@@ -4,7 +4,7 @@ Migrated from `https://efficienttravellers.odoo.com/` to a fully customizable **
 
 ## Project Structure
 
-- `src/content/destinations/*.md`: All **21 destinations** with typed frontmatter (`title`, `region`, `status`, `highlights`, `ratings`, `cardImage`, `coverImage`) and full Markdown content.
+- `src/content/destinations/*.md`: All **destinations** (one Markdown file each) with typed frontmatter (`title`, `region`, `status`, `highlights`, `ratings`, `cardImage`, `coverImage`) and full Markdown content.
 - `src/components/DestinationCard.astro`: Renders the destination card with bullet highlights and 4 star-rating bars (`Budget-friendly`, `Adventure`, `Food`, `Overall`).
 - `src/components/StarRating.astro`: Reusable star rating bar component.
 - `src/layouts/BaseLayout.astro`: Global header, instant client-side search bar, and footer.

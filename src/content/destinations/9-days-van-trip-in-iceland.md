@@ -9,8 +9,8 @@ author: "Carola & Martín"
 cardImage: "/images/cards/9-days-van-trip-in-iceland-card.webp"
 coverImage: "/images/posts/9-days-van-trip-in-iceland-cover.webp"
 highlights: ["Golden Circle", "South coast", "Fjallsárlón", "East Fjords", "Diamond Circle", "Snæfellsnes", "Reykjavík"]
-hasRatings: false
-ratings: {"budget": 0, "adventure": 0, "food": 0, "overall": 0}
+hasRatings: true
+ratings: {"budget": 2, "adventure": 5, "food": 1, "overall": 5}
 ---
 
 ## Let’s start
@@ -32,6 +32,9 @@ While visiting in winter to see the Northern Lights must be an incredible experi
   The van we chose was VERY basic, without bathrooms or comforts, but there are fancier options for sure.
 - **Campsites**: In recent years, it has become **mandatory** to sleep in a campsite; you can’t free-camp anymore. The cost varies between €10 and €20 per person per night.  
   You typically don't have to book them in advance, although it’s a good idea to book at least on the same day.
+
+![On the trail above the Reykjadalur valley](/images/posts/9-days-van-trip-in-iceland-img-1.webp)
+
 
 ## TL;DR
 
@@ -88,6 +91,9 @@ Pay them! There are cameras everywhere and you will definitely get a fine if you
 - Whale watching (we didn’t do it but it’s quite popular)
 - Icelandic horse riding (same as whale watching)
 
+![Kayaking among the icebergs at Fjallsárlón](/images/posts/9-days-van-trip-in-iceland-img-2.webp)
+
+
 ## Itinerary
 
 - Day 1: Golden Circle
@@ -131,7 +137,7 @@ We then explored the black sand beaches and towering basalt columns of **Reynisf
 
 We then drove through Vík without stopping, since it’s not so nice. It’s a town built as a stop for tourists.
 
-For the last activity of the day we drove to **Fjaðrárgljúfur Canyon**. This has been the set for many movies and it’s definitely unique and worth a visit.
+For the last activity of the day we drove to **Fjaðrárgljúfur Canyon**. It has appeared on screen more than once, and it’s definitely unique and worth a visit.
 
 ### Day 3
 
@@ -203,11 +209,18 @@ Our last day was in **Reykjavík** for some food and shopping. We had low expect
 
 Walking through downtown Reykjavík feels like exploring a living art gallery. We suggest just getting lost in the city and enjoying its magic.
 
+<div class="post-gallery">
+  <img src="/images/posts/9-days-van-trip-in-iceland-gallery-3.webp" alt="In front of Seljalandsfoss waterfall" loading="lazy" />
+  <img src="/images/posts/9-days-van-trip-in-iceland-gallery-4.webp" alt="Walking through the Hverir geothermal area" loading="lazy" />
+  <img src="/images/posts/9-days-van-trip-in-iceland-gallery-5.webp" alt="Soaking in the Grettislaug hot spring" loading="lazy" />
+</div>
+
+
 ## Food
 
 Iceland is not particularly famous for its gastronomy, yet there are some classic staples you need to try. Since we were on the road all the time, we were always eating in the van or in the middle of nowhere; hence, all the recommendations are in Reykjavík, which was the only time we actually spent time in a city with diverse restaurant options.
 
-- [Bæjarins Beztu Pylsur](https://maps.app.goo.gl/UyMiDR65ACkDL3wv8). The **Icelandic hot dog** is, for some reason, very famous. Also, for some reason, this spot is (by far) the most popular one. It's a good hot dog, but it’s just that… a hot dog. Also, you can likely find the same one for a lower price elsewhere (~€6.50 here). While the sauce and crispy onions in it are really, really good, I guess that's just standard for the Icelandic style. Not really sure what’s the reason behind this spot’s massive hype, but it’s worth a try! (We didn’t have time to try other ones since we were in the city for a very short time, but it would be cool to compare different hot dogs for sure!)
+- [Bæjarins Beztu Pylsur](https://maps.app.goo.gl/UyMiDR65ACkDL3wv8). The **Icelandic hot dog** is, for some reason, very famous. Also, for some reason, this spot is (by far) the most popular one. It's a good hot dog, but it’s just that… a hot dog. Also, you can likely find the same one for a lower price elsewhere (~€6.50 here). While the sauce and crispy onions in it are really, really good, probably that's just standard for the Icelandic style. Not really sure what’s the reason behind this spot’s massive hype, but it’s worth a try! (We didn’t have time to try other ones since we were in the city for a very short time, but it would be cool to compare different hot dogs for sure!)
 - [Icelandic Street Food](https://maps.app.goo.gl/JEuj3xE7yz12Jpej9). The price (~€23) is quite high for a **lamb soup**, but it becomes interesting when you learn that you get unlimited refills. Martín had 5 bowls, so ~€4.50 per bowl is actually quite good! And the soup is great: generous amounts of lamb, a tasty broth, and you even get it in a bread bowl. Fun fact: if you have 14 or more refills, you get your Polaroid picture taken and immortalized on the wall. Make sure to arrive hungry if you want to make it into the Hall of Fame!
 - [Íslenski Barinn - The Icelandic Bar](https://maps.app.goo.gl/HxjF83pttMQ4MMT59). The ultimate spot if you want to try anything from traditional Icelandic cuisine. You can find every single staple on their menu. Recommendation: the **plokkfiskur** (a popular Icelandic fish stew) for ~€29. Portions were very generous, and food was great. Of course, prices are kind of high but that's normal by Icelandic standards. A nice tip: you get tap water for free without even asking for it, and at the end, they gave us a small chocolate candy that was very tasty too, as a mini dessert, for free. Highly recommended restaurant!
 - [Brauð & Co](https://maps.app.goo.gl/zw3cpH2JU1o3dzGL6). A hyped bakery with what many consider the best cinnamon rolls in the world. And yes, the pastry lives up to the hype. It’s surely in the top 3 cinnamon rolls we’ve had in our lives ([number one was in Taiwan](/destinations/5-days-in-taiwan/)). Just incredible, although ~€6 seems a bit excessive for a pastry, but well that's how Icelandic prices go. The spot is small so just grab one to take away while walking around the beautiful city of Reykjavík. Definitely a must-try (and as a bonus, the facade of the building is super cool, too).

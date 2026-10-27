@@ -52,7 +52,8 @@ Everything below is generated automatically from each guide's frontmatter — wh
 Use the usual frontmatter. These fields drive SEO:
 
 - `title`, `region`, `highlights`, `date`, `author`, `coverImage`, `ratings`: reused everywhere (title tag, structured data, sitemap, llms.txt…). Write them once.
-- `status`: only `"published"` guides are indexed. `"wip"` and `"pending"` pages get `noindex` and are left out of the sitemap, RSS and llms.txt. Switching to `"published"` makes them indexable automatically.
+- `date`: also decides where the guide appears — guides are always listed newest first (the three most recent are featured on the homepage). There is no manual ordering, and counts like "Explore all N destinations" are computed from the published guides.
+- `status`: only `"published"` guides are shown. `"wip"` and `"pending"` guides are hidden everywhere (destinations page, homepage, search, sitemap, RSS and llms.txt), and regions with no published guide are hidden too. Switching to `"published"` makes them indexable automatically.
 - `description` *(optional, recommended)*: the ~150-character snippet shown under your link in Google. If omitted, one is generated from the title, highlights and first TL;DR bullet.
 - `seoTitle` *(optional)*: overrides the browser-tab / Google title. Default: `"<title>: Itinerary & Travel Tips | Efficient Travellers"`.
 - `updated` *(optional)*: date of a significant update (same format as `date`, e.g. `"3 March 2027"`). Used as "last modified" in the sitemap and structured data.

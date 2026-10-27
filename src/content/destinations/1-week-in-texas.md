@@ -1,7 +1,6 @@
 ---
 title: "1 week in Texas"
 region: "United States"
-order: 17
 status: "wip"
 date: "22 April 2025"
 author: "Carola & Martín"

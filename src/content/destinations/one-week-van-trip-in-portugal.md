@@ -1,7 +1,6 @@
 ---
 title: "One-week van trip in Portugal"
 region: "Europe"
-order: 11
 status: "wip"
 date: "21 December 2025"
 author: "Carola & Martín"

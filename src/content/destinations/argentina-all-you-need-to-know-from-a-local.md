@@ -1,7 +1,6 @@
 ---
 title: "Argentina - all you need to know from a local"
 region: "Latin America"
-order: 14
 status: "pending"
 date: "2025"
 author: "Carola & Martín"

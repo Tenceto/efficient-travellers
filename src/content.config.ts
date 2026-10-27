@@ -6,7 +6,6 @@ const destinations = defineCollection({
   schema: z.object({
     title: z.string(),
     region: z.enum(['Asia', 'Europe', 'Latin America', 'United States', 'Africa']),
-    order: z.number(),
     status: z.enum(['published', 'wip', 'pending']),
     date: z.string().optional(),
     // Optional: date of the last significant update, same format as `date`.
@@ -21,8 +20,10 @@ const destinations = defineCollection({
     highlights: z.array(z.string()).default([]),
     hasRatings: z.boolean().default(false),
     // Optional: places shown on the interactive map of the guide.
-    // `day` links the pin to the matching "Day N" section and colours it;
+    // `day` (or `group`) links the pin to its section and colours/filters it;
     // pins are numbered in the order they appear in this list.
+    // Optional: join the map pins with a dashed line in trip order (road trips).
+    mapRoute: z.boolean().default(false),
     places: z
       .array(
         z.object({
@@ -30,6 +31,8 @@ const destinations = defineCollection({
           lat: z.number(),
           lng: z.number(),
           day: z.number().optional(),
+          // Optional: label used to colour/filter pins instead of the day (e.g. "Hanoi").
+          group: z.string().optional(),
           type: z.enum(['sight', 'nature', 'waterfall', 'hot-spring', 'activity', 'town', 'food']).default('sight'),
           note: z.string().optional(),
           // Optional: id of the heading to link to (defaults to the day's section, or "food").

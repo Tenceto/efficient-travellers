@@ -1,7 +1,6 @@
 ---
 title: "South Africa"
 region: "Africa"
-order: 21
 status: "pending"
 date: "2025"
 author: "Carola & Martín"

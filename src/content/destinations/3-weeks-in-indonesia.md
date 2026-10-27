@@ -1,7 +1,6 @@
 ---
 title: "3 weeks in Indonesia"
 region: "Asia"
-order: 1
 status: "published"
 date: "12 June 2025"
 description: "Three-week Indonesia itinerary: Bali off the beaten path, the Gili Islands, Lombok, Flores and a Komodo boat trip, with scooter, money and warung food tips."
@@ -10,6 +9,47 @@ cardImage: "/images/cards/3-weeks-in-indonesia-card.webp"
 coverImage: "/images/posts/3-weeks-in-indonesia-cover.webp"
 highlights: ["Bali", "Gili Islands", "Lombok", "Flores & Komodo National Park"]
 hasRatings: true
+places:
+  - { name: "Monkey Forest", lat: -8.5188, lng: 115.2585, group: "Ubud", type: "sight", note: "Touristy, but we really enjoyed it and think it's worth visiting (entrance: €4)." }
+  - { name: "Ubud Palace & Market", lat: -8.5069, lng: 115.2625, group: "Ubud", type: "sight", note: "Free palace with the market right in front. Bargain hard, aim for about one-third of the first price." }
+  - { name: "Tukad Cepung Waterfall", lat: -8.4386, lng: 115.3881, group: "Ubud", type: "waterfall", note: "A stunning spot, though quite far by scooter. Go early to avoid crowds." }
+  - { name: "Tegallalang Rice Terraces", lat: -8.4319, lng: 115.2793, group: "Ubud", type: "nature", note: "Very touristy but absolutely EPIC. Go early in the morning (entrance: €2)." }
+  - { name: "Jatiluwih Rice Terraces", lat: -8.3707, lng: 115.1313, group: "Ubud", type: "nature", note: "A less touristy alternative to Tegallalang." }
+  - { name: "Tirta Empul", lat: -8.4153, lng: 115.3153, group: "Ubud", type: "sight", note: "A bit of a tourist trap: go at 8 AM sharp or expect crowds and a staged purification ritual." }
+  - { name: "Alchemy Yoga & Meditation", lat: -8.5085, lng: 115.2510, group: "Ubud", type: "activity", note: "Amazing place with a fantastic class, made for foreigners (€10). Highly recommended!" }
+  - { name: "Taman Ayun Temple", lat: -8.5418, lng: 115.1726, group: "Ubud", type: "sight", note: "Our favorite temple, and the scooter ride to Mengwi is beautiful (entrance: ~€2)." }
+  - { name: "Tanah Lot", lat: -8.6212, lng: 115.0868, group: "Ubud", type: "sight", note: "A stunning temple in the middle of the sea. Best at sunset (entrance: €5)." }
+  - { name: "Sidemen", lat: -8.4809, lng: 115.4412, group: "Sidemen", type: "town", note: "Tiny village famous for silver: make your own engraved ring at Adi Silver (€15-20)." }
+  - { name: "Gembleng Waterfall", lat: -8.4927, lng: 115.4609, group: "Sidemen", type: "waterfall", note: "Possibly the best waterfall we've seen! Entrance by donation." }
+  - { name: "Amed", lat: -8.3380, lng: 115.6580, group: "Amed", type: "town", note: "Didn't really impress us: black pebble beach, so-so water. Mainly diving and massages." }
+  - { name: "White Sand Divers Amed", lat: -8.3540, lng: 115.6720, group: "Amed", type: "activity", note: "Fantastic instructors. A single 13m dive was ~€80, PADI about €400." }
+  - { name: "Padang Bai port", lat: -8.5306, lng: 115.5099, group: "Gili Air", type: "town", note: "Local driver from Amed for €15, then the Eka Jaya boat to Gili Air (2h, €30)." }
+  - { name: "Gili Air southwest coast", lat: -8.3570, lng: 116.0762, group: "Gili Air", type: "nature", note: "Chill beach life and the best sunsets, where all the beach bars are." }
+  - { name: "Gili Air turtle spot", lat: -8.3650, lng: 116.0840, group: "Gili Air", type: "activity", note: "Rent a snorkel for €2 and look for turtles on your own, no need for tours." }
+  - { name: "Mount Rinjani (Sembalun trailhead)", lat: -8.3600, lng: 116.5280, group: "Rinjani", type: "nature", note: "Pin at the usual 2-day trek start. Guided only, ~€180; the 2D1N trek is the one we recommend. Tip the porters!" }
+  - { name: "Mataram", lat: -8.5833, lng: 116.1167, group: "Mataram", type: "town", note: "You can skip it: only useful for big shops or a break on a long scooter ride." }
+  - { name: "Sade Village", lat: -8.8393, lng: 116.2925, group: "Kuta Lombok", type: "sight", note: "Traditional village that feels a bit staged. We bargained the tour down to €5 for two." }
+  - { name: "Kuta Lombok", lat: -8.8934, lng: 116.2776, group: "Kuta Lombok", type: "town", note: "Super cute, with great cafes, cool shops, a chill surfer vibe and good nightlife." }
+  - { name: "Bukit Merese (sunset hill)", lat: -8.9060, lng: 116.3160, group: "Kuta Lombok", type: "nature", note: "Breathtaking panoramic sunset with vendors selling drinks. One of the best spots in Indonesia." }
+  - { name: "Selong Belanak Beach", lat: -8.8720, lng: 116.1650, group: "Kuta Lombok", type: "activity", note: "Great for surf beginners, full of surf schools (lessons around €15)." }
+  - { name: "Mawi Beach", lat: -8.8878, lng: 116.1607, group: "Kuta Lombok", type: "nature", note: "Beautiful, for experienced surfers only but worth watching. Rough road, good bike skills needed." }
+  - { name: "Tanjung Aan Beach", lat: -8.9080, lng: 116.3220, group: "Kuta Lombok", type: "nature", note: "Nice but touristy. Walk to the far end to find locals." }
+  - { name: "Whale sharks (Saleh Bay)", lat: -8.7400, lng: 117.9000, group: "Boat tour", type: "activity", note: "A 5:30 AM sunrise swim with whale sharks on day 2 of the Wanua Adventure tour. Absolutely unreal." }
+  - { name: "Komodo Island", lat: -8.5700, lng: 119.5020, group: "Boat tour", type: "nature", note: "Guided tour to see the Komodo dragons on day 3." }
+  - { name: "Pink Beach", lat: -8.6000, lng: 119.5160, group: "Boat tour", type: "nature", note: "Snorkeling stop on day 3 of the boat tour." }
+  - { name: "Padar Island", lat: -8.6555, lng: 119.5782, group: "Boat tour", type: "nature", note: "Short sunset hike with an incredible view of three different-colored beaches." }
+  - { name: "Labuan Bajo", lat: -8.4964, lng: 119.8877, group: "Labuan Bajo", type: "town", note: "Not much to do, one night as a stopover is enough." }
+  - { name: "Suluban Beach", lat: -8.8151, lng: 115.0880, group: "Uluwatu", type: "nature", note: "Absolutely stunning, go early in the morning." }
+  - { name: "Padang Padang Beach", lat: -8.8110, lng: 115.1035, group: "Uluwatu", type: "nature", note: "Beautiful, with intermediate-level surfing." }
+  - { name: "Nunggalan Beach", lat: -8.8380, lng: 115.1000, group: "Uluwatu", type: "nature", note: "Go here for sunset." }
+  - { name: "Karang Boma Cliff", lat: -8.8340, lng: 115.0910, group: "Uluwatu", type: "nature", note: "Another great sunset spot." }
+  - { name: "Kala Surf Camp", lat: -8.8169, lng: 115.0929, group: "Uluwatu", type: "activity", note: "Surf lesson for €25 at a great spot, though you could probably find cheaper." }
+  - { name: "Sun Sun Warung", lat: -8.5091, lng: 115.2668, group: "Ubud", type: "food", note: "Not a real warung, but SO good. Nasi Campur with chicken 45k IDR, and great Dadar Gulung." }
+  - { name: "Murni's Warung", lat: -8.5053, lng: 115.2546, group: "Ubud", type: "food", note: "The oldest warung in town. Have the life-changing Tipat Cantok (35k IDR)." }
+  - { name: "Warung Ole", lat: -8.3356, lng: 115.6484, group: "Amed", type: "food", note: "Family-owned, slow but amazing, almost every dish 30k IDR. Try the Balinese options." }
+  - { name: "zZz Warung", lat: -8.3549, lng: 116.0783, group: "Gili Air", type: "food", note: "Our favorite place in Indonesia. Chicken curry, Gado Gado and Pisang Goreng, ~30k IDR." }
+  - { name: "Warung Makan Pak Dikin", lat: -8.5230, lng: 119.8723, group: "Labuan Bajo", type: "food", note: "Best Nasi Goreng of our trip for 15k IDR. Hygiene not the best, but you can't have it all!" }
+  - { name: "Mrs Widya's Campur-Campur", lat: -8.8034, lng: 115.1598, group: "Uluwatu", type: "food", note: "By far the best Nasi Campur, build your own plate. The owner is super kind." }
 ratings: {"budget": 5, "adventure": 5, "food": 3, "overall": 5}
 ---
 
@@ -123,6 +163,8 @@ We didn't have time, but you could fit a one- or two-day trip to **Nusa Penida**
 - 4 days boat tour (whale sharks, Komodo Island, Pink Beach, Padar Island)
 - 1 day Labuan Bajo
 - 3 days Uluwatu
+
+<div data-trip-map></div>
 
 ### 1. Ubud: The True Essence of Bali
 

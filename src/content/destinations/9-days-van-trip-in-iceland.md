@@ -1,7 +1,6 @@
 ---
 title: "9-day van trip in Iceland"
 region: "Europe"
-order: 22
 status: "published"
 date: "26 October 2026"
 description: "A 9-day camper van trip around Iceland in June: the Golden Circle, the south coast, glacier kayaking, the East Fjords, the Diamond Circle and Snæfellsnes."
@@ -10,6 +9,7 @@ cardImage: "/images/cards/9-days-van-trip-in-iceland-card.webp"
 coverImage: "/images/posts/9-days-van-trip-in-iceland-cover.webp"
 highlights: ["Golden Circle", "South coast", "Fjallsárlón", "East Fjords", "Diamond Circle", "Snæfellsnes", "Reykjavík"]
 hasRatings: true
+mapRoute: true
 places:
   - { name: "Þingvellir National Park", lat: 64.2559, lng: -21.1300, day: 1, type: "nature", note: "Walk between the tectonic plates. Snorkeling at Silfra is possible but pricey." }
   - { name: "Geysir & Strokkur", lat: 64.3104, lng: -20.3024, day: 1, type: "nature", note: "Very touristy, but Strokkur erupts every few minutes." }

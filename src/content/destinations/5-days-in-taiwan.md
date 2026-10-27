@@ -1,7 +1,6 @@
 ---
 title: "5 days in Taiwan"
 region: "Asia"
-order: 5
 status: "published"
 date: "22 April 2025"
 description: "Five days in Taiwan: Taipei's night markets, Elephant Mountain at sunset and a day trip to Jiufen, with transport, money and street food tips."
@@ -10,6 +9,45 @@ cardImage: "/images/cards/5-days-in-taiwan-card.webp"
 coverImage: "/images/posts/5-days-in-taiwan-cover.webp"
 highlights: ["Taipei", "Jiufen"]
 hasRatings: true
+places:
+  - { name: "Chuanzi Scallion Cake", lat: 25.0569, lng: 121.5149, day: 1, type: "food", note: "Surprisingly delicious scallion pancakes: ham with egg for 60 NTD, veggie with egg for 55 NTD." }
+  - { name: "Longshan Temple", lat: 25.0372, lng: 121.4999, day: 1, type: "sight", note: "A must-see temple in the city.", section: "itinerary" }
+  - { name: "Herb Lane", lat: 25.0369, lng: 121.4993, day: 1, type: "sight", note: "Don't miss this lane if you're a tea fan.", section: "itinerary" }
+  - { name: "Bangka Park", lat: 25.0360, lng: 121.5003, day: 1, type: "sight", note: "Right next to Longshan Temple.", section: "itinerary" }
+  - { name: "Bopiliao Historical Block", lat: 25.0365, lng: 121.5021, day: 1, type: "sight", note: "One of Taiwan's earliest commercial districts, with old-school buildings, murals and photo spots.", section: "itinerary" }
+  - { name: "Huaxi Street Night Market", lat: 25.0386, lng: 121.4985, day: 1, type: "sight", note: "Not-so-touristic night market, but it wasn't very lively when we went.", section: "itinerary" }
+  - { name: "Guangzhou Street Night Market", lat: 25.0366, lng: 121.4978, day: 1, type: "sight", note: "Not touristy, full of people and packed with stalls of Taiwanese snacks.", section: "itinerary" }
+  - { name: "Ningxia Night Market", lat: 25.0563, lng: 121.5155, day: 1, type: "sight", note: "One of Taipei's most popular street markets, where we wrapped up our first evening.", section: "itinerary" }
+  - { name: "Shi Jia Gua Bao", lat: 25.0573, lng: 121.5165, day: 1, type: "food", note: "A local's tip and one of the best things we ate in Asia, for 65 NTD (not veggie-friendly)." }
+  - { name: "Sweet potato balls stall", lat: 25.0573, lng: 121.5163, day: 1, type: "food", note: "Trendy but disappointing: just fried dough with a long, slow line, 55 NTD. The stall has moved to Minsheng West Road 209." }
+  - { name: "Master An's Ice Fire Pineapple Bun", lat: 25.0559, lng: 121.5151, day: 1, type: "food", note: "Don't miss the cheese and butter bun for 55 NTD; the local queue moves fast." }
+  - { name: "228 Peace Memorial Park", lat: 25.0402, lng: 121.5152, day: 2, type: "sight", note: "Start of our free Guruwalk Old Town tour, a great way to learn Taiwan's history.", section: "itinerary" }
+  - { name: "Liu Shandong Beef Noodles", lat: 25.0457, lng: 121.5138, day: 2, type: "food", note: "Noodles on another level for 220 NTD; arrive early, we queued 15 minutes at 11.15 am." }
+  - { name: "Zhuji Pie Congee (Taipei Main Station)", lat: 25.0459, lng: 121.5153, day: 2, type: "food", note: "Beef and veggie pies at 50 NTD each plus millet congee; decent but underwhelming and a long wait." }
+  - { name: "Ximending", lat: 25.0421, lng: 121.5079, day: 2, type: "town", note: "Vibrant shopping district that reminded us of Myeong-dong in Seoul; great for souvenirs.", section: "itinerary" }
+  - { name: "The Red House", lat: 25.0420, lng: 121.5068, day: 2, type: "sight", note: "Cool spot with indie vendors, close to Ximending.", section: "itinerary" }
+  - { name: "Yi Zhu Mai Ice Shop", lat: 25.0439, lng: 121.5078, day: 2, type: "food", note: "Soft, creamy snowflake ice; the enormous chocolate Oreo one was 180 NTD, perfect to share." }
+  - { name: "Wangji Fucheng Zongzi", lat: 25.0424, lng: 121.5058, day: 2, type: "food", note: "The star of our trip: incredible pork zongzi for 80 NTD with super friendly staff." }
+  - { name: "Shi Yun Crispy Salted Fried Chicken (Ximen)", lat: 25.0425, lng: 121.5067, day: 2, type: "food", note: "Frying paradise: chicken, fish cake and cauliflower for 160 NTD; mostly take-out." }
+  - { name: "Crispy Milk Donuts", lat: 25.0429, lng: 121.5058, day: 2, type: "food", note: "Warm, perfect donuts for 40 NTD; the line looks infinite but we waited about 15 minutes." }
+  - { name: "Taipei 101", lat: 25.0340, lng: 121.5645, day: 2, type: "sight", note: "The iconic tower; find a good photo spot nearby.", section: "itinerary" }
+  - { name: "Chiang Kai-shek Memorial Hall", lat: 25.0346, lng: 121.5218, day: 2, type: "sight", note: "Worth checking out together with Liberty Square.", section: "itinerary" }
+  - { name: "Liberty Square Arch", lat: 25.0361, lng: 121.5189, day: 2, type: "sight", note: "The massive arch at the entrance of Liberty Square.", section: "itinerary" }
+  - { name: "Elephant Mountain (Xiangshan)", lat: 25.0273, lng: 121.5707, day: 2, type: "nature", note: "Pin at the trailhead. Short but steep stairs; go for sunset, the view is 100% worth it.", section: "itinerary" }
+  - { name: "Huashan 1914 Creative Park", lat: 25.0441, lng: 121.5294, day: 3, type: "sight", note: "Where we started our third day.", section: "itinerary" }
+  - { name: "50 Lan", lat: 25.0449, lng: 121.5239, day: 3, type: "food", note: "Classic big bubble oolong milk tea for 50 NTD; nothing mind-blowing but enjoyable." }
+  - { name: "Dihua Street", lat: 25.0560, lng: 121.5101, day: 3, type: "sight", note: "Taipei's oldest street and our favorite, packed with tea shops; come back at night too.", section: "itinerary" }
+  - { name: "Dadaocheng Braised Pork Rice", lat: 25.0510, lng: 121.5146, day: 3, type: "food", note: "Flavorful large braised pork rice for 45 NTD, though too fatty for our taste." }
+  - { name: "Twin Brothers Coffee", lat: 25.0498, lng: 121.5180, day: 3, type: "food", note: "Legendary cinnamon roll for 120 NTD (limited daily, big enough to share) and great coffee." }
+  - { name: "Yongkang Street", lat: 25.0330, lng: 121.5297, day: 3, type: "town", note: "Another Taiwanese gem, excellent for souvenir shopping and a nice walk.", section: "itinerary" }
+  - { name: "SUNMERRY Dongmen Shop", lat: 25.0335, lng: 121.5299, day: 3, type: "food", note: "Bakery packed with locals: 5 pineapple cakes for 100 NTD and an amazing walnut croissant." }
+  - { name: "Daan Park", lat: 25.0302, lng: 121.5357, day: 3, type: "nature", note: "Lovely green space to relax, with groups of older folks doing gymnastics.", section: "itinerary" }
+  - { name: "Dadaocheng Wharf Container Market", lat: 25.0566, lng: 121.5083, day: 3, type: "sight", note: "Pleasant at night with live music and river views, but the food isn't local.", section: "itinerary" }
+  - { name: "Jiufen", lat: 25.1097, lng: 121.8445, day: 4, type: "town", note: "Misty mountainside village reached directly by bus 965; very touristy, so be patient with the crowds.", section: "itinerary" }
+  - { name: "Andy's dumplings (Jiufen)", lat: 25.1091, lng: 121.8444, day: 4, type: "food", note: "Homemade boiled dumplings full of locals: 10 pork dumplings for 60 NTD, half the old street prices." }
+  - { name: "Raohe Night Market", lat: 25.0508, lng: 121.5770, day: 4, type: "sight", note: "Hands down the best night market we went to.", section: "itinerary" }
+  - { name: "Fuzhou Pepper Buns", lat: 25.0510, lng: 121.5775, day: 4, type: "food", note: "Good but not as memorable as the hype, 60 NTD each; watching the team work is a show." }
+  - { name: "Whatever GG Crispy Egg Pancake", lat: 25.0502, lng: 121.5748, day: 4, type: "food", note: "Amazing, loaded egg pancake for about 90 NTD; the queue moves super fast." }
 ratings: {"budget": 3, "adventure": 3, "food": 5, "overall": 4}
 ---
 
@@ -85,6 +123,8 @@ Since we were staying just 5 days, we decided not to get one since you can easil
 Taiwan is a fantastic island with so much more to offer beyond Taipei. If you’ve got more time than we did, we recommend heading down south to places like Tainan, Kaohsiung, or even the east coast for more nature and beaches.
 
 If you’re working with a shorter schedule like ours, here’s our **5-day itinerary, mainly around Taipei**.
+
+<div data-trip-map></div>
 
 **DAY 1**
 

@@ -1,11 +1,10 @@
 // Generates /llms-full.txt — the full text of every published guide in one file.
 import type { APIRoute } from 'astro';
-import { getCollection } from 'astro:content';
-import { SITE_NAME, absoluteUrl, isIndexable, sortByOrder } from '../lib/seo';
+import { SITE_NAME, absoluteUrl, getPublishedGuides } from '../lib/seo';
 import { ABOUT, guideMarkdown } from '../lib/llms';
 
 export const GET: APIRoute = async () => {
-  const guides = sortByOrder((await getCollection('destinations')).filter(isIndexable));
+  const guides = await getPublishedGuides();
   const body = `# ${SITE_NAME} — full guides
 
 > ${ABOUT}

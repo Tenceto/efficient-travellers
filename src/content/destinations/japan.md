@@ -1,7 +1,6 @@
 ---
 title: "Japan"
 region: "Asia"
-order: 9
 status: "pending"
 date: "2025"
 author: "Carola & Martín"

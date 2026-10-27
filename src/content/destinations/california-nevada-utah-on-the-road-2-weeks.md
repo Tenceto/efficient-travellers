@@ -1,7 +1,6 @@
 ---
 title: "2-week West Coast roadtrip"
 region: "United States"
-order: 16
 status: "wip"
 date: "22 April 2025"
 author: "Carola & Martín"

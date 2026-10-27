@@ -1,7 +1,6 @@
 ---
 title: "China"
 region: "Asia"
-order: 8
 status: "pending"
 date: "2025"
 author: "Carola & Martín"

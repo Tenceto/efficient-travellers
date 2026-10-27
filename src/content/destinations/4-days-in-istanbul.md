@@ -1,7 +1,6 @@
 ---
 title: "4 days in Istanbul"
 region: "Europe"
-order: 12
 status: "published"
 date: "22 April 2025"
 description: "Four days in Istanbul: the Basilica Cistern, Fatih, Fener and Balat, the Asian side by local ferry, how to avoid taxi scams, and what to eat."
@@ -10,6 +9,33 @@ cardImage: "/images/cards/4-days-in-istanbul-card.webp"
 coverImage: "/images/posts/4-days-in-istanbul-cover.webp"
 highlights: []
 hasRatings: true
+places:
+  - { name: "Asmalı Mescit", lat: 41.0310, lng: 28.9748, day: 1, type: "town", section: "itinerary", note: "We stayed here and loved it: full of bars and little restaurants, and the main sights are within walking distance." }
+  - { name: "Galata Tower", lat: 41.0256, lng: 28.9742, day: 1, type: "sight", section: "itinerary", note: "Especially beautiful at sunset. We skipped going up, since there are plenty of free panoramic views in the city." }
+  - { name: "Istiklal Street", lat: 41.0336, lng: 28.9778, day: 1, type: "sight", section: "itinerary", note: "The main shopping street. Super touristy and quite Western, nothing too special." }
+  - { name: "Taksim Square", lat: 41.0369, lng: 28.9850, day: 1, type: "sight", section: "itinerary", note: "The end of our walk up Istiklal Street." }
+  - { name: "Grand Bazaar", lat: 41.0107, lng: 28.9681, day: 1, type: "sight", section: "itinerary", note: "Super colorful and full of atmosphere. Bargain hard and know the real value of what you buy." }
+  - { name: "Egyptian Bazaar", lat: 41.0165, lng: 28.9706, day: 1, type: "sight", section: "itinerary", note: "The spice bazaar, better than the Grand Bazaar for food and spices." }
+  - { name: "Blue Mosque", lat: 41.0054, lng: 28.9768, day: 2, type: "sight", section: "itinerary", note: "We only saw it from the outside because it was under maintenance." }
+  - { name: "Hagia Sophia", lat: 41.0086, lng: 28.9802, day: 2, type: "sight", section: "itinerary", note: "Absolutely stunning. The line looks long but moves fast (15 to 20 minutes), so skip the overpriced skip-the-line offers." }
+  - { name: "Topkapı Palace", lat: 41.0115, lng: 28.9834, day: 2, type: "sight", section: "itinerary", note: "We only saw it from the outside, as the €20 ticket did not feel worth it for us." }
+  - { name: "Basilica Cistern", lat: 41.0084, lng: 28.9779, day: 2, type: "sight", section: "itinerary", note: "Definitely worth the around €15 ticket: a unique underground site with a mysterious vibe." }
+  - { name: "Dolmabahçe Palace", lat: 41.0391, lng: 29.0004, day: 3, type: "sight", section: "itinerary", note: "You pass it on the long but recommended waterfront walk from Galata to Ortaköy." }
+  - { name: "Ortaköy", lat: 41.0470, lng: 29.0258, day: 3, type: "town", section: "itinerary", note: "Catch the local commuter ferry to the Asian side from here, around €1." }
+  - { name: "Ortaköy Mosque", lat: 41.0473, lng: 29.0270, day: 3, type: "sight", section: "itinerary", note: "A beautiful mosque worth a stop in Ortaköy." }
+  - { name: "Üsküdar", lat: 41.0266, lng: 29.0150, day: 3, type: "town", section: "itinerary", note: "One of our favorite neighborhoods on the Asian side, with a much more local vibe." }
+  - { name: "Kadıköy", lat: 40.9905, lng: 29.0250, day: 3, type: "town", section: "itinerary", note: "Our other favorite on the Asian side. Spend at least half a day just wandering on foot." }
+  - { name: "Fatih Mosque", lat: 41.0195, lng: 28.9497, day: 4, type: "sight", section: "itinerary", note: "Start your walk through the less touristy Fatih district at its impressive mosque." }
+  - { name: "Malta Çarşısı", lat: 41.0176, lng: 28.9440, day: 4, type: "sight", section: "itinerary", note: "The local market area of Fatih." }
+  - { name: "Fener", lat: 41.0295, lng: 28.9515, day: 4, type: "town", section: "itinerary", note: "The historic Greek neighborhood: super colorful, a bit of a maze and full of charm." }
+  - { name: "Balat", lat: 41.0335, lng: 28.9480, day: 4, type: "town", section: "itinerary", note: "Our absolute favorite: the old Jewish quarter, full of cute little cafés and aesthetic corners." }
+  - { name: "Zübeyir Ocakbaşı", lat: 41.0365, lng: 28.9821, day: 1, type: "food", note: "A famous traditional grill. The Kuzu Pirzola (lamb chops) here are legendary." }
+  - { name: "Kral Kokoreç Sirkeci", lat: 41.0151, lng: 28.9733, day: 2, type: "food", note: "A phenomenal spot for authentic, perfectly seasoned kokoreç with a casual local street-food vibe." }
+  - { name: "Balıkçı Lokantası", lat: 40.9938, lng: 29.0257, day: 3, type: "food", note: "Super local seafood spot on the Asian side. The salmon is next level, with fair prices and big portions." }
+  - { name: "Balcan Lokantası", lat: 41.0363, lng: 28.9820, day: 1, type: "food", note: "Buffet-style typical food at very low prices, open until very late. Beware of the spice!" }
+  - { name: "Şehzade Cağ Kebap", lat: 41.0140, lng: 28.9753, day: 2, type: "food", note: "We tried our kebab skewer here and it did not disappoint." }
+  - { name: "Lades Menemen", lat: 41.0346, lng: 28.9808, day: 1, type: "food", note: "A famous, historic spot in Beyoğlu for excellent menemen. So good!" }
+  - { name: "Cafesehrengiz", lat: 41.0299, lng: 28.9508, day: 4, type: "food", note: "A great café in Balat for traditional Turkish tea or coffee, with an awesome atmosphere." }
 ratings: {"budget": 3, "adventure": 1, "food": 4, "overall": 3}
 ---
 
@@ -81,6 +107,8 @@ Plus, during the day, all the main tourist attractions (including the ferry to t
 ## Itinerary
 
 In just four days (and despite dealing with a stomach flu), we still managed to see pretty much the whole city.
+
+<div data-trip-map></div>
 
 **DAY 1**
 

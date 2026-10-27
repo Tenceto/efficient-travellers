@@ -1,7 +1,6 @@
 ---
 title: "2 weeks in Yucatan, Mexico"
 region: "Latin America"
-order: 13
 status: "wip"
 date: "22 April 2025"
 author: "Carola & Martín"

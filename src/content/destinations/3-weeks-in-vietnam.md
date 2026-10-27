@@ -1,7 +1,6 @@
 ---
 title: "3 weeks in Vietnam"
 region: "Asia"
-order: 2
 status: "published"
 date: "16 May 2025"
 description: "Three-week Vietnam itinerary from Hanoi to Saigon: Sapa, the Ha Giang Loop by motorbike, Lan Ha Bay, Ninh Binh, Hue and Hoi An, with night bus and food tips."
@@ -10,6 +9,41 @@ cardImage: "/images/cards/3-weeks-in-vietnam-card.webp"
 coverImage: "/images/posts/3-weeks-in-vietnam-cover.webp"
 highlights: ["Hanoi", "Sapa", "Ha Giang Loop", "Lan Ha Bay", "Ninh Binh", "Hue / Hoi An", "Ho Chi Minh (Saigon)"]
 hasRatings: true
+places:
+  - { name: "Hanoi Old Quarter", lat: 21.0340, lng: 105.8500, group: "Hanoi", type: "town", note: "A shopping paradise packed with shops and street food; wandering with no plan is the best way to experience Hanoi." }
+  - { name: "Hanoi Train Street", lat: 21.0275, lng: 105.8433, group: "Hanoi", type: "sight", note: "Touristy but totally lives up to the hype; we caught the train at 11:50 AM, but check the latest timetable." }
+  - { name: "Cà Phê Lâm", lat: 21.0337, lng: 105.8545, group: "Hanoi", type: "food", note: "Old-school spot for the best, super creamy egg coffee (cà phê trứng), 40k VND." }
+  - { name: "Mr Bảy Miền Tây - Bánh Xèo", lat: 21.0321, lng: 105.8469, group: "Hanoi", type: "food", note: "Among our best meals in Vietnam: out-of-this-world bánh xèo (145k VND); expect to queue." }
+  - { name: "Phở Xào Phú Mỹ", lat: 21.0336, lng: 105.8466, group: "Hanoi", type: "food", note: "Hidden gem with a huge phở xào bò for 65k VND and absolutely no tourists." }
+  - { name: "Sa Pa town", lat: 22.3364, lng: 103.8438, group: "Sa Pa", type: "town", note: "Nice mountain town with fresh air, but really just a stopover; one night is enough." }
+  - { name: "Muong Hoa Valley rice-field trek", lat: 22.3050, lng: 103.8750, group: "Sa Pa", type: "activity", note: "Trek through the rice fields with local Hmong guides; we recommend the 3-day homestay trek (around 80€). Best June to September." }
+  - { name: "Ha Giang City", lat: 22.8233, lng: 104.9836, group: "Ha Giang Loop", type: "town", note: "Nothing to do here, just a place to sleep the night before starting the loop and rent a semi-automatic bike (5-7€/day)." }
+  - { name: "Heaven's Gate (Quan Ba)", lat: 23.0660, lng: 104.9990, group: "Ha Giang Loop", type: "nature", note: "First big viewpoint on Day 1 of the loop, on a fully paved road.", section: "day-1--the-longest-but-most-stunning" }
+  - { name: "Yen Minh", lat: 23.1210, lng: 105.1370, group: "Ha Giang Loop", type: "town", note: "The best part of the loop is the stretch from Yen Minh to Meo Vac.", section: "day-1--the-longest-but-most-stunning" }
+  - { name: "Dong Van", lat: 23.2780, lng: 105.3610, group: "Ha Giang Loop", type: "town", note: "Our overnight stop after the longest but most stunning day of the loop.", section: "day-1--the-longest-but-most-stunning" }
+  - { name: "Ma Pi Leng Pass", lat: 23.2390, lng: 105.4120, group: "Ha Giang Loop", type: "nature", note: "We drove down the pass and stopped for a long trek; then take the DT181 shortcut and avoid DT176.", section: "day-2" }
+  - { name: "Duong Thuong Eco House", lat: 23.0580, lng: 105.0730, group: "Ha Giang Loop", type: "town", note: "A random but super beautiful valley to spend the second night; bring repellent for the huge mosquitoes.", section: "day-2" }
+  - { name: "Cat Ba town", lat: 20.7230, lng: 107.0480, group: "Cat Ba", type: "town", note: "Mainly a jumping-off point for Lan Ha Bay tours; the island itself is nothing special." }
+  - { name: "Lan Ha Bay", lat: 20.7650, lng: 107.0900, group: "Cat Ba", type: "nature", note: "Day boat tour with Beka Travel (30€); kayaking was the highlight and there are far fewer boats than in Ha Long Bay." }
+  - { name: "Tam Coc", lat: 20.2160, lng: 105.9370, group: "Ninh Binh", type: "town", note: "Stay here rather than in Ninh Binh city, and rent a motorbike (4€/day) since everything is spread out." }
+  - { name: "Bai Dinh Pagoda", lat: 20.2750, lng: 105.8640, group: "Ninh Binh", type: "sight", note: "Massive Buddhist complex (5€), manageable on foot with the walking ticket; the mountain caves were the best part.", section: "day-1" }
+  - { name: "Mua Cave Viewpoint", lat: 20.2295, lng: 105.9320, group: "Ninh Binh", type: "nature", note: "500 steps (4€) to a touristy but definitely worth-it sunset view.", section: "day-1" }
+  - { name: "Van Long Wetland Reserve", lat: 20.3700, lng: 105.8700, group: "Ninh Binh", type: "nature", note: "Not special in itself, but riding through the non-touristy villages felt very authentic.", section: "day-2-1" }
+  - { name: "Trang An boat tour", lat: 20.2550, lng: 105.9150, group: "Ninh Binh", type: "activity", note: "River tour (10€); we chose the shorter Tour 2, with landscapes, caves and temples.", section: "day-2-1" }
+  - { name: "Bich Dong Pagoda", lat: 20.2160, lng: 105.9180, group: "Ninh Binh", type: "sight", note: "Small, charming pagoda with a lovely, peaceful atmosphere.", section: "day-3" }
+  - { name: "Ninh Binh city", lat: 20.2539, lng: 105.9750, group: "Ninh Binh", type: "town", note: "Not great to stay in; we explored it on a rainy afternoon.", section: "day-3" }
+  - { name: "Ninh Loan Rose Restaurant", lat: 20.2152, lng: 105.9359, group: "Ninh Binh", type: "food", note: "Eat in a family's living room and try the rare stuffed tofu with meat (đậu phụ nhồi thịt), 60k VND." }
+  - { name: "Hue Imperial City", lat: 16.4698, lng: 107.5786, group: "Hue", type: "sight", note: "Absolutely stunning (10€ entry); take a guided or free walking tour to understand its history." }
+  - { name: "Bún Bò Thủy", lat: 16.4713, lng: 107.5970, group: "Hue", type: "food", note: "Only locals and lightning-fast service: THE spot for traditional bún bò Huế at 50k VND." }
+  - { name: "Hoi An Ancient Town riverside", lat: 15.8770, lng: 108.3275, group: "Hoi An", type: "town", note: "Get lost in the little streets on foot; the riverside is most beautiful at night. Great for a custom-made suit." }
+  - { name: "The Seeds Plant-Based Foods & Desserts", lat: 15.8790, lng: 108.3300, group: "Hoi An", type: "food", note: "Great quality vegan food at fair prices; the entrance is hard to find, so check the Google Maps reviews." }
+  - { name: "The Café Apartment (42 Nguyen Hue)", lat: 10.7737, lng: 106.7038, group: "Ho Chi Minh", type: "sight", note: "Breakfast at Apartment 42: super touristy but a cool concept." }
+  - { name: "War Remnants Museum", lat: 10.7795, lng: 106.6921, group: "Ho Chi Minh", type: "sight", note: "Really interesting and well worth a visit." }
+  - { name: "Book Street", lat: 10.7807, lng: 106.6995, group: "Ho Chi Minh", type: "sight", note: "Pair it with the Notre Dame Cathedral right next to it." }
+  - { name: "Notre Dame Cathedral", lat: 10.7798, lng: 106.6990, group: "Ho Chi Minh", type: "sight", note: "One of the Saigon highlights, next to Book Street." }
+  - { name: "Bánh Mì Huỳnh Hoa", lat: 10.7713, lng: 106.6925, group: "Ho Chi Minh", type: "food", note: "Probably the best bánh mì in the country (68k VND), so big you can share it; the takeaway queue moves fast." }
+  - { name: "Cộng Cà Phê", lat: 10.7832, lng: 106.6958, group: "Ho Chi Minh", type: "food", note: "Our favourite coconut coffee (65k VND, pricey); it's a chain, so go to the closest one." }
+  - { name: "Cu Chi Tunnels", lat: 11.0610, lng: 106.5280, group: "Ho Chi Minh", type: "activity", note: "A must-do tour (we booked on GetYourGuide); the war history and stories are mind-blowing." }
 ratings: {"budget": 5, "adventure": 4, "food": 4, "overall": 5}
 ---
 
@@ -116,6 +150,8 @@ Ideally, you’d need four weeks to travel all of Vietnam, it's so big! That’s
 - 2 days in Hue
 - 3 days in Hoi An
 - 3 days in Ho Chi Minh City (a.k.a. Saigon)
+
+<div data-trip-map></div>
 
 ### 1. Hanoi
 

@@ -1,7 +1,6 @@
 ---
 title: "1 week in Cambodia"
 region: "Asia"
-order: 6
 status: "published"
 date: "22 April 2025"
 description: "One-week Cambodia itinerary: Phnom Penh, Siem Reap and the temples of Angkor by scooter, sunrise at Angkor Wat, tuk-tuks, budget tips and Khmer food."
@@ -10,6 +9,26 @@ cardImage: "/images/cards/1-week-in-cambodia-card.webp"
 coverImage: "/images/posts/1-week-in-cambodia-cover.webp"
 highlights: ["Phnom Penh", "Siem Reap", "Angkor"]
 hasRatings: true
+places:
+  - { name: "Riverside", lat: 11.5700, lng: 104.9310, group: "Phnom Penh", type: "sight", note: "A walk along the Riverside area is one of our top picks in the city.", section: "itinerary" }
+  - { name: "Royal Palace", lat: 11.5637, lng: 104.9310, group: "Phnom Penh", type: "sight", note: "Recommended visit in the center, entrance around 8€.", section: "itinerary" }
+  - { name: "Central Market", lat: 11.5694, lng: 104.9211, group: "Phnom Penh", type: "sight", note: "Head to the markets to try some unique fruits and desserts.", section: "itinerary" }
+  - { name: "Russian Market (Toultumpong Market)", lat: 11.5408, lng: 104.9178, group: "Phnom Penh", type: "sight", note: "After days of searching, we finally found sankhya lapov (coconut-pumpkin custard) from a lady inside this market.", section: "itinerary" }
+  - { name: "Wat Phnom", lat: 11.5762, lng: 104.9230, group: "Phnom Penh", type: "sight", note: "Highly recommended outside the city center sights.", section: "itinerary" }
+  - { name: "Tuol Sleng Genocide Museum", lat: 11.5494, lng: 104.9176, group: "Phnom Penh", type: "sight", note: "Profoundly moving history of the Khmer Rouge; get the audio guide for context.", section: "itinerary" }
+  - { name: "Killing Fields (Choeung Ek)", lat: 11.4844, lng: 104.9019, group: "Phnom Penh", type: "sight", note: "A rarely known part of Cambodia's history; we strongly suggest the audio guide.", section: "itinerary" }
+  - { name: "David's Restaurant Homemade Noodles", lat: 11.5718, lng: 104.9268, group: "Phnom Penh", type: "food", note: "Heavenly handmade noodles, probably the best in Southeast Asia, and insanely good amok fish for around 5 USD a dish." }
+  - { name: "Siem Reap Old Market & Pub Street", lat: 13.3546, lng: 103.8546, group: "Siem Reap", type: "town", note: "Touristy but charming center with a big souvenir market; at night the bars come alive. Eat at street food carts, not tourist-trap restaurants.", section: "itinerary" }
+  - { name: "Angkor Wat", lat: 13.4125, lng: 103.8670, group: "Siem Reap", type: "sight", note: "Be there at 5 AM for sunrise, take a guided tour inside (we paid $20 for two) and come back for sunset when it's quieter.", section: "itinerary" }
+  - { name: "Ta Prohm", lat: 13.4349, lng: 103.8890, group: "Siem Reap", type: "sight", note: "The magical jungle temple, stone walls wrapped in massive tree roots, where Tomb Raider was filmed.", section: "itinerary" }
+  - { name: "Ta Keo", lat: 13.4444, lng: 103.8829, group: "Siem Reap", type: "sight", note: "An unfinished temple that feels like a climbable mountain; the climb is a workout but the view is worth it.", section: "itinerary" }
+  - { name: "Victory Gate", lat: 13.4468, lng: 103.8724, group: "Siem Reap", type: "sight", note: "We passed through this gate of Angkor Thom on the way to the Bayon.", section: "itinerary" }
+  - { name: "Bayon Temple", lat: 13.4412, lng: 103.8588, group: "Siem Reap", type: "sight", note: "54 towers with over 200 smiling stone faces that seem to follow you; surreal and unforgettable.", section: "itinerary" }
+  - { name: "Banteay Srei", lat: 13.5989, lng: 103.9628, group: "Siem Reap", type: "sight", note: "Small but stunning \"Citadel of Women\" in pink sandstone, away from the main circuits.", section: "itinerary" }
+  - { name: "Nak's Restaurant", lat: 13.3597, lng: 103.8621, group: "Siem Reap", type: "food", note: "Terrific amok fish for 3.50 USD and genuinely friendly staff; talk to Nak if you can!" }
+  - { name: "The Brother Bong Restaurant", lat: 13.3528, lng: 103.8541, group: "Siem Reap", type: "food", note: "Family-run spot by the river with one of the best lok lak beef for just 2.50 USD." }
+  - { name: "3 spoons restaurant", lat: 13.3576, lng: 103.8613, group: "Siem Reap", type: "food", note: "Every dish is 2.50 USD with big portions; the Khmer curry was amazing." }
+  - { name: "S&Z Steak Burger", lat: 13.3593, lng: 103.8563, group: "Siem Reap", type: "food", note: "A break from Asian flavors: 2 USD beef cheeseburger and 2 USD (very) large fries, popular with locals." }
 ratings: {"budget": 5, "adventure": 3, "food": 3, "overall": 4}
 ---
 
@@ -112,6 +131,8 @@ As a result, we only managed to visit the more touristy spots and couldn’t exp
 
 - 2 days in Phnom Penh
 - 3 days in Siem Reap
+
+<div data-trip-map></div>
 
 **Phnom Penh**
 

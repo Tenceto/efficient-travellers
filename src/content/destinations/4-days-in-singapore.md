@@ -1,7 +1,6 @@
 ---
 title: "4 days in Singapore"
 region: "Asia"
-order: 7
 status: "published"
 date: "22 April 2025"
 description: "Four days in Singapore on a budget: capsule hotels, free attractions like the Supertree Grove show and Botanic Gardens, Jewel at Changi, and hawker food."
@@ -10,6 +9,34 @@ cardImage: "/images/cards/4-days-in-singapore-card.webp"
 coverImage: "/images/posts/4-days-in-singapore-cover.webp"
 highlights: []
 hasRatings: true
+places:
+  - { name: "CapsulePod@Aljunied", lat: 1.3155, lng: 103.8820, day: 1, type: "town", section: "where-to-sleep", note: "Cheap capsule hotel a bit out of the center, spotless rooms and great AC, but the shared bathroom gets warm." }
+  - { name: "Chinatown", lat: 1.2836, lng: 103.8443, day: 1, type: "town", section: "itinerary", note: "We started our first day walking around Chinatown." }
+  - { name: "Central Business District", lat: 1.2840, lng: 103.8514, day: 1, type: "town", section: "itinerary", note: "Wander through the CBD on your way to the river." }
+  - { name: "Boat Quay", lat: 1.2867, lng: 103.8490, day: 1, type: "sight", section: "itinerary", note: "Cute spot by the river, full of bars and chill vibes." }
+  - { name: "Clarke Quay", lat: 1.2906, lng: 103.8465, day: 1, type: "sight", section: "itinerary", note: "Riverside area full of bars and chill vibes." }
+  - { name: "Maxwell Food Centre", lat: 1.2803, lng: 103.8448, day: 1, type: "food", note: "Cheap, authentic hawker center packed with locals on their lunch break." }
+  - { name: "Tian Tian Hainanese Chicken Rice", lat: 1.2805, lng: 103.8446, day: 1, type: "food", note: "Famous chicken rice stall inside Maxwell. We didn't like it much, but give it a try yourself!" }
+  - { name: "Flower Dome", lat: 1.2845, lng: 103.8645, day: 1, type: "sight", section: "itinerary", note: "We only saw it from outside (entry around €17), but it looked stunning." }
+  - { name: "Cloud Forest", lat: 1.2837, lng: 103.8659, day: 1, type: "sight", section: "itinerary", note: "Seen from outside only, check the official Gardens by the Bay website for current prices." }
+  - { name: "Supertree Grove", lat: 1.2819, lng: 103.8636, day: 1, type: "sight", section: "itinerary", note: "The free night light show is definitely a must!" }
+  - { name: "Helix Bridge", lat: 1.2876, lng: 103.8604, day: 1, type: "sight", section: "itinerary", note: "Beautiful bridge with a very cool design." }
+  - { name: "Marina Bay Sands (Spectra)", lat: 1.2836, lng: 103.8597, day: 1, type: "sight", section: "itinerary", note: "Catch Spectra, the free fountain light show, at night." }
+  - { name: "Lau Pa Sat", lat: 1.2807, lng: 103.8504, day: 1, type: "food", note: "Cleaner and more touristy than Maxwell, but still very good. We came back on Day 2 too." }
+  - { name: "Singapore Botanic Gardens", lat: 1.3138, lng: 103.8159, day: 2, type: "nature", section: "itinerary", note: "Free and absolutely worth visiting. The Orchid Garden costs around €10." }
+  - { name: "Little India", lat: 1.3066, lng: 103.8518, day: 2, type: "town", section: "itinerary", note: "Super cool neighborhood, very fun to walk around." }
+  - { name: "Kampong Glam & Arab Street", lat: 1.3020, lng: 103.8597, day: 2, type: "town", section: "itinerary", note: "Colourful neighborhood around the Sultan Mosque, great for a stroll." }
+  - { name: "Singapore Zam Zam Restaurant", lat: 1.3025, lng: 103.8584, day: 2, type: "food", note: "The best spot for murtabak, near the Sultan Mosque. No more than €8 per person." }
+  - { name: "Orchard Road", lat: 1.3040, lng: 103.8318, day: 2, type: "sight", section: "itinerary", note: "Singapore's luxury shopping street." }
+  - { name: "Fort Canning Park", lat: 1.2948, lng: 103.8460, day: 2, type: "nature", section: "itinerary", note: "Walk through the park, then follow the river down to the Merlion." }
+  - { name: "Merlion", lat: 1.2868, lng: 103.8545, day: 2, type: "sight", section: "itinerary", note: "The whole area is stunning, especially around sunset." }
+  - { name: "Buddha Tooth Relic Temple", lat: 1.2814, lng: 103.8444, day: 3, type: "sight", section: "itinerary", note: "Free and very nice!" }
+  - { name: "Sri Mariamman Temple", lat: 1.2826, lng: 103.8452, day: 3, type: "sight", section: "itinerary", note: "Hindu temple just a short walk from the Buddha Tooth Relic Temple." }
+  - { name: "Singapore City Gallery", lat: 1.2795, lng: 103.8458, day: 3, type: "sight", section: "itinerary", note: "Cute little free museum about the city's development." }
+  - { name: "99 Old Trees Durian", lat: 1.2795, lng: 103.8394, day: 3, type: "food", note: "Try durian in many formats. We could barely swallow it, but some friends loved it!" }
+  - { name: "Toast Box (Nankin Row)", lat: 1.2848, lng: 103.8471, day: 4, type: "food", note: "Kaya toast with kopi and runny eggs, though we preferred Ya Kun." }
+  - { name: "Ya Kun Kaya Toast (Paya Lebar Square)", lat: 1.3183, lng: 103.8929, day: 4, type: "food", note: "Our favourite kaya toast breakfast, the full set is around €6." }
+  - { name: "Jewel Changi Airport", lat: 1.3602, lng: 103.9894, day: 4, type: "sight", section: "itinerary", note: "Massive indoor waterfall and gardens at Terminal 1, worth it even if you're not flying." }
 ratings: {"budget": 2, "adventure": 1, "food": 2, "overall": 3}
 ---
 
@@ -91,6 +118,8 @@ It’s a fun experience; you will spend much less than in any other hostel!
 
 
 ## Itinerary
+
+<div data-trip-map></div>
 
 **DAY 1**
 

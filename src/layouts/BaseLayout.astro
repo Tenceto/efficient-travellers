@@ -1,6 +1,5 @@
 ---
 import '../styles/global.css';
-import { getCollection } from 'astro:content';
 
 import {
   SITE_NAME,
@@ -8,6 +7,7 @@ import {
   SITE_LOCALE,
   DEFAULT_OG_IMAGE,
   absoluteUrl,
+  getPublishedGuides,
 } from '../lib/seo';
 
 interface Props {
@@ -66,10 +66,8 @@ const withBase = (path) => {
   return `${base}/${path}`;
 };
 
-const allDestinations = await getCollection('destinations');
+const allDestinations = await getPublishedGuides();
 const searchIndex = allDestinations
-  .filter((entry) => entry.data.status === 'published')
-  .sort((a, b) => a.data.order - b.data.order)
   .map((entry) => ({
     slug: entry.id,
     title: entry.data.title,

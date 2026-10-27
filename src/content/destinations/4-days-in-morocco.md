@@ -1,7 +1,6 @@
 ---
 title: "4 days in Morocco"
 region: "Africa"
-order: 19
 status: "wip"
 date: "22 April 2025"
 author: "Carola & Martín"

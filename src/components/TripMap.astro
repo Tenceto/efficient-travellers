@@ -9,6 +9,7 @@ interface Place {
   lat: number;
   lng: number;
   day?: number;
+  group?: string;
   type: string;
   note?: string;
   section?: string;
@@ -21,12 +22,14 @@ interface Heading {
 interface Props {
   places: Place[];
   headings: Heading[];
+  /** Draw a dashed line joining the stops in order (good for road trips). */
+  route?: boolean;
 }
 
-const { places, headings } = Astro.props;
+const { places, headings, route = false } = Astro.props;
 
 // Spectrum that runs through the trip, so colours also show progression.
-const DAY_COLORS = ['#2563eb', '#0d9488', '#16a34a', '#a16207', '#ea580c', '#dc2626', '#db2777', '#9333ea', '#78350f', '#475569'];
+const DAY_COLORS = ['#2563eb', '#0d9488', '#16a34a', '#a16207', '#ea580c', '#dc2626', '#db2777', '#9333ea', '#78350f', '#0f172a', '#0e7490', '#4d7c0f', '#475569'];
 const TYPE_LABELS: Record<string, string> = {
   sight: 'Sight',
   nature: 'Nature',
@@ -47,41 +50,58 @@ function daySection(day?: number) {
 }
 const hasFood = headings.some((h) => h.slug === 'food');
 
-const days = [...new Set(places.map((p) => p.day).filter((d): d is number => d != null))].sort((a, b) => a - b);
-const colorFor = (day?: number) => (day == null ? DAY_COLORS[DAY_COLORS.length - 1] : DAY_COLORS[(days.indexOf(day)) % (DAY_COLORS.length - 1)]);
+// Find the heading for a group such as "Hanoi" (matches "1. Hanoi", "Hanoi & Ha Long"...).
+const norm = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+function groupSection(group?: string) {
+  if (!group) return undefined;
+  const g = norm(group);
+  const h =
+    headings.find((h) => h.depth >= 3 && norm(h.text).replace(/^[\d.\s]+/, '') === g) ??
+    headings.find((h) => h.depth >= 3 && norm(h.text).includes(g));
+  return h?.slug;
+}
+
+// Pins are grouped (coloured + filterable) by `group` if given, otherwise by day.
+const groupOf = (p: Place) => p.group ?? (p.day != null ? `Day ${p.day}` : undefined);
+const groups = [...new Set(places.map(groupOf).filter((g): g is string => !!g))];
+const PALETTE = DAY_COLORS.slice(0, -1);
+const colorFor = (g?: string) => (g == null ? DAY_COLORS[DAY_COLORS.length - 1] : PALETTE[groups.indexOf(g) % PALETTE.length]);
 
 const data = places.map((p, i) => ({
   n: i + 1,
   name: p.name,
   lat: p.lat,
   lng: p.lng,
-  day: p.day ?? null,
+  group: groupOf(p) ?? null,
   type: TYPE_LABELS[p.type] ?? p.type,
   note: p.note ?? '',
-  color: colorFor(p.day),
-  section: p.section ?? (p.type === 'food' && hasFood ? 'food' : daySection(p.day)) ?? null,
+  color: colorFor(groupOf(p)),
+  section:
+    p.section ?? (p.type === 'food' && hasFood ? 'food' : daySection(p.day) ?? groupSection(p.group)) ?? null,
 }));
 ---
 
 <section class="trip-map" id="trip-map" aria-label="Map of the places in this guide">
   <div class="trip-map-head">
     <h3 class="trip-map-title">Trip map</h3>
-    {days.length > 1 && (
-      <div class="trip-map-filters" role="group" aria-label="Show stops by day">
-        <button type="button" class="trip-map-chip is-active" data-day="all">All</button>
-        {days.map((d) => (
-          <button type="button" class="trip-map-chip" data-day={d}>
-            <span class="trip-map-dot" style={`background:${colorFor(d)}`}></span>Day {d}
+    {groups.length > 1 && (
+      <div class="trip-map-filters" role="group" aria-label="Filter the map">
+        <button type="button" class="trip-map-chip is-active" data-group="all">All</button>
+        {groups.map((g) => (
+          <button type="button" class="trip-map-chip" data-group={g}>
+            <span class="trip-map-dot" style={`background:${colorFor(g)}`}></span>{g}
           </button>
         ))}
       </div>
     )}
   </div>
-  <div class="trip-map-canvas" data-places={JSON.stringify(data)}>
+  <div class="trip-map-canvas" data-places={JSON.stringify(data)} data-route={route ? '1' : undefined}>
     <div class="trip-map-touch-hint">Tap to explore the map</div>
   </div>
   <p class="trip-map-caption">
-    Numbers follow the order of our trip; the dashed line connects the stops and isn't the actual road.
+    {route
+      ? 'Numbers follow the order of our trip; the dashed line connects the stops and isn’t the actual road.'
+      : 'Numbers follow the order of the guide.'}
     Tap a pin for our notes and directions.
   </p>
 </section>
@@ -91,7 +111,7 @@ const data = places.map((p, i) => ({
   import 'leaflet/dist/leaflet.css';
 
   type P = {
-    n: number; name: string; lat: number; lng: number; day: number | null;
+    n: number; name: string; lat: number; lng: number; group: string | null;
     type: string; note: string; color: string; section: string | null;
   };
 
@@ -132,9 +152,11 @@ const data = places.map((p, i) => ({
     map.on('popupopen', activate);
     canvas.querySelector('.trip-map-touch-hint')?.addEventListener('click', activate);
 
-    const route = L.polyline(places.map((p) => [p.lat, p.lng] as [number, number]), {
-      color: '#00203f', weight: 2, opacity: 0.35, dashArray: '4 6', interactive: false,
-    }).addTo(map);
+    const route = canvas.dataset.route
+      ? L.polyline(places.map((p) => [p.lat, p.lng] as [number, number]), {
+          color: '#00203f', weight: 2, opacity: 0.35, dashArray: '4 6', interactive: false,
+        }).addTo(map)
+      : null;
 
     const markers = places.map((p) => {
       const icon = L.divIcon({
@@ -148,7 +170,7 @@ const data = places.map((p, i) => ({
         p.section ? `<a href="#${p.section}" class="trip-pop-link">Read more</a>` : '',
         `<a href="https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lng}" target="_blank" rel="noopener" class="trip-pop-link">Directions ↗</a>`,
       ].join('');
-      const meta = [p.day != null ? `Day ${p.day}` : '', p.type].filter(Boolean).join(' · ');
+      const meta = [p.group ?? '', p.type].filter(Boolean).join(' · ');
       const m = L.marker([p.lat, p.lng], { icon, title: p.name, riseOnHover: true }).bindPopup(
         `<div class="trip-pop">
            <div class="trip-pop-meta"><span class="trip-map-dot" style="background:${p.color}"></span>${esc(meta)}</div>
@@ -172,16 +194,16 @@ const data = places.map((p, i) => ({
     const chips = section.querySelectorAll<HTMLButtonElement>('.trip-map-chip');
     chips.forEach((chip) =>
       chip.addEventListener('click', () => {
-        const d = chip.dataset.day;
+        const d = chip.dataset.group;
         chips.forEach((c) => c.classList.toggle('is-active', c === chip));
         map.closePopup();
-        const shown = markers.filter(({ p }) => d === 'all' || String(p.day) === d);
+        const shown = markers.filter(({ p }) => d === 'all' || p.group === d);
         markers.forEach(({ m, p }) => {
-          const on = d === 'all' || String(p.day) === d;
+          const on = d === 'all' || p.group === d;
           if (on && !map.hasLayer(m)) m.addTo(map);
           if (!on && map.hasLayer(m)) m.remove();
         });
-        route.setStyle({ opacity: d === 'all' ? 0.35 : 0.12 });
+        route?.setStyle({ opacity: d === 'all' ? 0.35 : 0.12 });
         fit(shown.map(({ p }) => p));
       })
     );

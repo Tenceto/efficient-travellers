@@ -1,7 +1,6 @@
 ---
 title: "Tanzania & Zanzibar"
 region: "Africa"
-order: 20
 status: "pending"
 date: "2025"
 author: "Carola & Martín"

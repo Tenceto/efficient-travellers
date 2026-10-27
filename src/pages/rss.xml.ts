@@ -1,6 +1,5 @@
 // Generates /rss.xml with every published guide (newest first).
 import type { APIRoute } from 'astro';
-import { getCollection } from 'astro:content';
 import {
   SITE_DESCRIPTION,
   SITE_NAME,
@@ -8,14 +7,12 @@ import {
   escapeXml,
   getDescription,
   guideUrl,
-  isIndexable,
+  getPublishedGuides,
   publishedDate,
 } from '../lib/seo';
 
 export const GET: APIRoute = async () => {
-  const guides = (await getCollection('destinations'))
-    .filter(isIndexable)
-    .sort((a, b) => (publishedDate(b) ?? '').localeCompare(publishedDate(a) ?? ''));
+  const guides = await getPublishedGuides();
 
   const items = guides
     .map((entry) => {

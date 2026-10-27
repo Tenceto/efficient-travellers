@@ -1,12 +1,10 @@
 // Generates /llms.txt (https://llmstxt.org) — an index of the site for AI agents.
 import type { APIRoute } from 'astro';
-import { getCollection } from 'astro:content';
-import { SITE_NAME, absoluteUrl, isIndexable, sortByOrder } from '../lib/seo';
+import { SITE_NAME, absoluteUrl, getPublishedGuides } from '../lib/seo';
 import { ABOUT, REGIONS, guideLink } from '../lib/llms';
 
 export const GET: APIRoute = async () => {
-  const all = sortByOrder(await getCollection('destinations'));
-  const guides = all.filter(isIndexable);
+  const guides = await getPublishedGuides();
 
   const sections = REGIONS.map((region) => {
     const items = guides.filter((e) => e.data.region === region);

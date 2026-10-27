@@ -6,7 +6,7 @@
  * each file in src/content/destinations/. To add a new guide you only write
  * the Markdown file as usual — nothing here needs to change.
  */
-import type { CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 
 type Destination = CollectionEntry<'destinations'>;
 
@@ -75,8 +75,18 @@ export function isIndexable(entry: Destination): boolean {
   return entry.data.status === 'published';
 }
 
-export function sortByOrder(entries: Destination[]): Destination[] {
-  return [...entries].sort((a, b) => a.data.order - b.data.order);
+/** Newest guide first (by `date`); guides with the same date are sorted by title. */
+export function sortByDate(entries: Destination[]): Destination[] {
+  return [...entries].sort(
+    (a, b) =>
+      (publishedDate(b) ?? '').localeCompare(publishedDate(a) ?? '') ||
+      a.data.title.localeCompare(b.data.title)
+  );
+}
+
+/** Every published guide, newest first. Use this wherever guides are shown to readers. */
+export async function getPublishedGuides(): Promise<Destination[]> {
+  return sortByDate((await getCollection('destinations')).filter(isIndexable));
 }
 
 // ---------------------------------------------------------------------------

@@ -1,7 +1,6 @@
 ---
 title: "10 days in South Korea"
 region: "Asia"
-order: 4
 status: "published"
 date: "7 June 2025"
 description: "10-day South Korea itinerary: Seoul, Busan, Gyeongju and Hahoe village, with transport and app tips, street food, cozy cafés and budget advice."
@@ -10,6 +9,57 @@ cardImage: "/images/cards/10-days-in-south-korea-card.webp"
 coverImage: "/images/posts/10-days-in-south-korea-cover.webp"
 highlights: ["Seoul", "Busan", "Gyeongju", "Hahoe"]
 hasRatings: true
+places:
+  - { name: "Insadong", lat: 37.5740, lng: 126.9850, group: "Seoul", type: "town", section: "itinerary", note: "One of our favourite areas in Seoul: stunning cafés and little shops with a traditional vibe between skyscrapers." }
+  - { name: "Ssamziegil", lat: 37.5743, lng: 126.9851, group: "Seoul", type: "sight", section: "itinerary", note: "Handicraft complex, perfect for souvenirs; we had a portrait done by a local painter." }
+  - { name: "Myeongdong", lat: 37.5636, lng: 126.9850, group: "Seoul", type: "town", section: "itinerary", note: "Touristy and less charming, but perfect for some serious shopping." }
+  - { name: "Mangwon Market", lat: 37.5560, lng: 126.9060, group: "Seoul", type: "food", note: "We had dinner here on our first evening." }
+  - { name: "Hongdae", lat: 37.5563, lng: 126.9236, group: "Seoul", type: "town", section: "itinerary", note: "Student neighbourhood for a fun night out: noraebang, dance clubs and shopping." }
+  - { name: "Jongmyo Shrine", lat: 37.5744, lng: 126.9940, group: "Seoul", type: "sight", section: "itinerary", note: "Part of our royal palaces day; touristy but full of history." }
+  - { name: "Changgyeonggung Palace", lat: 37.5788, lng: 126.9950, group: "Seoul", type: "sight", section: "itinerary", note: "Part of our royal palaces day; touristy but super charming." }
+  - { name: "Changdeokgung Palace", lat: 37.5794, lng: 126.9910, group: "Seoul", type: "sight", section: "itinerary", note: "Royal palace, gateway to the Secret Garden." }
+  - { name: "Secret Garden (Huwon)", lat: 37.5830, lng: 126.9920, group: "Seoul", type: "nature", section: "itinerary", note: "By far our favourite part of the palaces day." }
+  - { name: "Gyeongbokgung Palace", lat: 37.5796, lng: 126.9770, group: "Seoul", type: "sight", section: "itinerary", note: "The grandest of the royal palaces, worth it despite the crowds." }
+  - { name: "Jogyesa Temple", lat: 37.5740, lng: 126.9817, group: "Seoul", type: "sight", section: "itinerary", note: "A really lovely temple, and the neighbourhood around it is worth a visit." }
+  - { name: "Starfield COEX Library", lat: 37.5100, lng: 127.0602, group: "Seoul", type: "sight", section: "itinerary", note: "Cool to see, but a little overhyped." }
+  - { name: "Bukchon Hanok Village", lat: 37.5826, lng: 126.9836, group: "Seoul", type: "town", section: "itinerary", note: "Super touristy but 100% worth it: beautiful hanok houses and great photos." }
+  - { name: "Ihwa Mural Village", lat: 37.5776, lng: 127.0068, group: "Seoul", type: "sight", section: "itinerary", note: "End point of our long city walk; the view from up there is amazing." }
+  - { name: "Dongmyo Flea Market", lat: 37.5732, lng: 127.0176, group: "Seoul", type: "sight", section: "itinerary", note: "Super local open-air market with vintage goods and snack carts; we had the best bungeoppang here." }
+  - { name: "Hapjeong Indie Street", lat: 37.5498, lng: 126.9170, group: "Seoul", type: "town", section: "itinerary", note: "Wausan-ro 3-gil is full of stylish cafés and local design shops." }
+  - { name: "Yeouido Park Natural Eco Forest", lat: 37.5233, lng: 126.9213, group: "Seoul", type: "nature", section: "itinerary", note: "A chill area by the river, perfect for a relaxed walk." }
+  - { name: "Cheonggyecheon Stream", lat: 37.5694, lng: 126.9780, group: "Seoul", type: "nature", section: "itinerary", note: "Peaceful evening walk and takeaway dinner with the city lights all around." }
+  - { name: "Thanks, Oat", lat: 37.5788, lng: 126.9846, group: "Seoul", type: "food", note: "Very good breakfast spot, mainly for their savory and sweet bowls." }
+  - { name: "Rami Scone Cafe", lat: 37.5739, lng: 126.9903, group: "Seoul", type: "food", note: "The best infusion drinks of our lives; try the lemon and raspberry ones." }
+  - { name: "Cafe Onion Anguk", lat: 37.5776, lng: 126.9866, group: "Seoul", type: "food", note: "Made for Instagram, but very aesthetic and the food is good too." }
+  - { name: "Soha Salt Pond", lat: 37.5731, lng: 126.9897, group: "Seoul", type: "food", note: "Uniquely decorated café, kind of viral for its salt bread." }
+  - { name: "Grain", lat: 37.5662, lng: 126.9274, group: "Seoul", type: "food", note: "On the expensive side, but a vast list of Western-like dishes for a break from street food." }
+  - { name: "Fritz Coffee Company", lat: 37.5410, lng: 126.9490, group: "Seoul", type: "food", note: "The most local spot on our list: excellent coffee and our top choice quality-wise." }
+  - { name: "Cafe Layered", lat: 37.5777, lng: 126.9859, group: "Seoul", type: "food", note: "Insanely good cakes, great for a sweet treat or a powerful breakfast." }
+  - { name: "Gwangjang Market", lat: 37.5700, lng: 126.9996, group: "Seoul", type: "food", note: "The most famous market, but very touristy, busy and quite pricey." }
+  - { name: "Namseong Sagye Market", lat: 37.4881, lng: 126.9805, group: "Seoul", type: "food", note: "Local and much cheaper than Gwangjang; hunt for eomuk, tteokbokki and Korean corn dogs." }
+  - { name: "DottyDeaga (Korean BBQ)", lat: 37.5625, lng: 126.9768, group: "Seoul", type: "food", note: "We went here for Korean BBQ and it was very good." }
+  - { name: "Gossi Tteokbokki", lat: 37.5111, lng: 127.0561, group: "Seoul", type: "food", note: "Very local restaurant packed with locals; delicious tteokbokki, super recommended." }
+  - { name: "LABAB ISU", lat: 37.4875, lng: 126.9812, group: "Seoul", type: "food", note: "Great quality-to-price ratio with lots of Korean favourites on a budget." }
+  - { name: "Migadam", lat: 37.5424, lng: 127.0840, group: "Seoul", type: "food", note: "Extremely local and homemade; we ate a lot for very little, but ask for less spice." }
+  - { name: "Sulbing", lat: 37.5577, lng: 126.9367, group: "Seoul", type: "food", note: "Famous bingsu chain; one portion is fine to share between two." }
+  - { name: "Seoul Hotteok", lat: 37.5550, lng: 126.9380, group: "Seoul", type: "food", note: "This shop really nails the hotteok, the most important dessert to try." }
+  - { name: "Jagalchi Market", lat: 35.0966, lng: 129.0306, group: "Busan", type: "sight", section: "itinerary", note: "Fish market, a very nice local experience." }
+  - { name: "Gamcheon Culture Village", lat: 35.0975, lng: 129.0106, group: "Busan", type: "town", section: "itinerary", note: "Colorful houses; very touristy but still a fun and unique spot." }
+  - { name: "Seomyeon", lat: 35.1578, lng: 129.0600, group: "Busan", type: "town", section: "itinerary", note: "Lively downtown neighbourhood close to Jeonpo Cafe Street." }
+  - { name: "Jeonpo Cafe Street", lat: 35.1550, lng: 129.0640, group: "Busan", type: "town", section: "itinerary", note: "Cute café street right next to Seomyeon." }
+  - { name: "BIFF Square", lat: 35.0988, lng: 129.0280, group: "Busan", type: "sight", section: "itinerary", note: "Full of lights, food and local vibes in the evening." }
+  - { name: "Haedong Yonggungsa Temple", lat: 35.1883, lng: 129.2233, group: "Busan", type: "sight", section: "itinerary", note: "One of the highlights of our whole trip: a stunning temple right by the ocean, about 1h20 by local bus." }
+  - { name: "Haeundae", lat: 35.1587, lng: 129.1604, group: "Busan", type: "town", section: "itinerary", note: "The area and seaside walk are really cute and worth it." }
+  - { name: "Haeundae Sky Capsule", lat: 35.1614, lng: 129.1714, group: "Busan", type: "activity", section: "itinerary", note: "Totally a tourist trap (25 EUR for two), but very Korean-style and kind of fun." }
+  - { name: "Bono Berry", lat: 35.1630, lng: 129.1625, group: "Busan", type: "food", note: "Try the matcha cookie that actually tastes like matcha." }
+  - { name: "Woojung Dolsot Bibimbap", lat: 35.1562, lng: 129.0620, group: "Busan", type: "food", note: "Our pick for bibimbap: fair prices, generous portions, delicious food." }
+  - { name: "Sundori Boribap", lat: 35.1627, lng: 129.1671, group: "Busan", type: "food", note: "Pure homemade food for an incredibly low price, and the sweetest ladies." }
+  - { name: "Daereungwon Tumuli Park", lat: 35.8380, lng: 129.2120, group: "Gyeongju", type: "sight", section: "itinerary", note: "A must-visit, all walkable together with the other central sights." }
+  - { name: "Gyochon Hanok Village", lat: 35.8297, lng: 129.2149, group: "Gyeongju", type: "town", section: "itinerary", note: "A must-visit traditional village close to the tumuli park." }
+  - { name: "Hwangnidan Street", lat: 35.8364, lng: 129.2097, group: "Gyeongju", type: "town", section: "itinerary", note: "A must-visit street, easy to combine on a long walk." }
+  - { name: "Donggung Palace and Wolji Pond", lat: 35.8346, lng: 129.2265, group: "Gyeongju", type: "sight", section: "itinerary", note: "Small entrance fee; way more beautiful at night when it is all lit up." }
+  - { name: "Yangji Dabang", lat: 35.8373, lng: 129.2092, group: "Gyeongju", type: "food", note: "We came for the soufflé pancake, definitely worth trying." }
+  - { name: "Hahoe Folk Village", lat: 36.5390, lng: 128.5180, group: "Hahoe", type: "town", section: "itinerary", note: "Like stepping back in time; don't skip the Hahoe byeolsingut talnori mask dance, and stay the night in a hanok." }
 ratings: {"budget": 3, "adventure": 3, "food": 4, "overall": 5}
 ---
 
@@ -113,6 +163,8 @@ South Korea is such a beautiful country that we think between 2 and 3 weeks are 
 - 1 day in Gyeongju
 - 2 days in Andong/Hahoe
 
+<div data-trip-map></div>
+
 **Seoul**
 
 **DAY 1**
@@ -187,7 +239,7 @@ We got to Gyeongju with a super quick and efficient 1-hour KTX train ride.
 
 We only stayed for a day and a half, but honestly, that was more than enough. The city is really cute and full of character, definitely worth a stop, but it’s also pretty small, so you can easily explore it in a short time.
 
-The must-visit spots are the **Daereungwon Tumuli Park**, the **Bomunjeong Pavilion**, the **Gyochon Hanok Village**, and the **Hwangnidan Street**. They are all very close, and you can do a long walk visiting them all together.
+The must-visit spots are the **Daereungwon Tumuli Park**, the **Gyochon Hanok Village**, and the **Hwangnidan Street**. They are all very close, and you can do a long walk visiting them all together.
 
 In the evening, we went to **Donggung Palace** (there’s a small entrance fee). To be honest, it’s way more beautiful at night. The whole place is lit up, and it looks magical, so we totally recommend going when it gets dark!
 

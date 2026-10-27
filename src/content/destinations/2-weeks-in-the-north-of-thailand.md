@@ -1,7 +1,6 @@
 ---
 title: "2 weeks in the north of Thailand"
 region: "Asia"
-order: 3
 status: "published"
 date: "22 April 2025"
 description: "Two weeks in northern Thailand: Bangkok, Chiang Mai, the Mae Hong Son Loop by car, Pai and a monastery stay, with budget tips and street food picks."
@@ -10,6 +9,54 @@ cardImage: "/images/cards/2-weeks-in-the-north-of-thailand-card.webp"
 coverImage: "/images/posts/2-weeks-in-the-north-of-thailand-cover.webp"
 highlights: ["Bangkok", "Chiang Mai", "Mae Hong Son Loop", "Pai", "Wat Pa Tam Wua monastery"]
 hasRatings: true
+places:
+  - { name: "Sukhumvit", lat: 13.7380, lng: 100.5600, group: "Bangkok", type: "town", note: "We recommend staying in this neighbourhood: it's well connected to the whole city by metro.", section: "day-1" }
+  - { name: "Pratunam Market", lat: 13.7512, lng: 100.5410, group: "Bangkok", type: "sight", note: "Local market for some souvenir shopping.", section: "day-1" }
+  - { name: "Platinum Mall", lat: 13.7501, lng: 100.5396, group: "Bangkok", type: "sight", note: "Another local market-style mall for souvenir shopping.", section: "day-1" }
+  - { name: "Chinatown", lat: 13.7398, lng: 100.5101, group: "Bangkok", type: "town", note: "Nice area to wander around in the afternoon.", section: "day-1" }
+  - { name: "Wat Traimit", lat: 13.7377, lng: 100.5138, group: "Bangkok", type: "sight", note: "Temple in Chinatown, pretty nice.", section: "day-1" }
+  - { name: "ICONSIAM", lat: 13.7266, lng: 100.5103, group: "Bangkok", type: "sight", note: "Reach it by taxi boat for only €0.80. Super famous mall, but nothing incredible: just high-end brands.", section: "day-1" }
+  - { name: "Grand Palace", lat: 13.7500, lng: 100.4913, group: "Bangkok", type: "sight", note: "Absolutely stunning and totally worth the €13.", section: "day-2" }
+  - { name: "Wat Pho", lat: 13.7465, lng: 100.4931, group: "Bangkok", type: "sight", note: "Home of the giant reclining Buddha (€8, very cool).", section: "day-2" }
+  - { name: "Wat Arun", lat: 13.7437, lng: 100.4888, group: "Bangkok", type: "sight", note: "Cross the river by taxi boat. Super beautiful, €5.", section: "day-2" }
+  - { name: "Nana Plaza", lat: 13.7405, lng: 100.5547, group: "Bangkok", type: "activity", note: "One of Bangkok's many red-light districts, right in Sukhumvit.", section: "day-2" }
+  - { name: "DONKI", lat: 13.7329, lng: 100.5835, group: "Bangkok", type: "sight", note: "Japanese-style mall to start the day.", section: "day-3" }
+  - { name: "Lumpini Park", lat: 13.7314, lng: 100.5413, group: "Bangkok", type: "nature", note: "We spotted a giant monitor lizard casually hanging out here.", section: "day-3" }
+  - { name: "Chatuchak Market", lat: 13.7999, lng: 100.5506, group: "Bangkok", type: "sight", note: "Huge market, only open on weekends.", section: "day-3" }
+  - { name: "Patpong", lat: 13.7289, lng: 100.5330, group: "Bangkok", type: "activity", note: "Another of Bangkok's red-light districts.", section: "day-3" }
+  - { name: "baiboon thai food", lat: 13.7214, lng: 100.5466, group: "Bangkok", type: "food", note: "Glorious pad see ew for just €1.90, and it has AC." }
+  - { name: "Wat Arun Fried Pork Rice", lat: 13.7428, lng: 100.4880, group: "Bangkok", type: "food", note: "Local food at very low prices in a very touristy area (portions are kind of small)." }
+  - { name: "Saleethip Mango Sticky Rice", lat: 13.7394, lng: 100.4844, group: "Bangkok", type: "food", note: "The best mango sticky rice BY FAR: the small one (€2.50) can easily be shared in 2." }
+  - { name: "Chiang Mai Old City", lat: 18.7877, lng: 98.9864, group: "Chiang Mai", type: "town", note: "We did a walking tour of the centre with a former monk, interesting if you want to learn about Buddhism.", section: "day-1-1" }
+  - { name: "Kalare Night Bazaar", lat: 18.7850, lng: 99.0002, group: "Chiang Mai", type: "food", note: "Very touristy but worth it for dinner. Skip the giant insects, and Thai boxing fights here cost €17.", section: "day-1-1" }
+  - { name: "Monk's Trail (trailhead)", lat: 18.7958, lng: 98.9469, group: "Chiang Mai", type: "activity", note: "Pin is the trailhead. Start early (we left at 7 AM): about 600 m of elevation gain, two hours.", section: "day-2-1" }
+  - { name: "Wat Pha Lat", lat: 18.7978, lng: 98.9369, group: "Chiang Mai", type: "sight", note: "First stop on the Monk's Trail, super cute and unique.", section: "day-2-1" }
+  - { name: "Doi Suthep", lat: 18.8048, lng: 98.9216, group: "Chiang Mai", type: "sight", note: "A must-see at the top of the Monk's Trail.", section: "day-2-1" }
+  - { name: "Nimman", lat: 18.7980, lng: 98.9675, group: "Chiang Mai", type: "town", note: "Café hopping is the best activity here. We totally recommend sleeping in this neighbourhood.", section: "day-2-1" }
+  - { name: "Elephant Sanctuary Chai Lai Orchid", lat: 18.6390, lng: 98.6430, group: "Chiang Mai", type: "activity", note: "Whole-day tour (€70) to feed, touch and bathe with the elephants, who seemed comfortable here.", section: "day-3-1" }
+  - { name: "สุคนธ์ (khao soi)", lat: 18.7881, lng: 98.9825, group: "Chiang Mai", type: "food", note: "Huge portions, extremely good food, and the best khao soi we had for only €1.35." }
+  - { name: "หมูกรอบย่างเตาถ่าน เจ๊ใหญ่ นิมมาน ซอย 8", lat: 18.7967, lng: 98.9657, group: "Chiang Mai", type: "food", note: "Crispy pork belly specialist: the stir-fried crispy pork with chili paste is €2.15 for a generous medium dish." }
+  - { name: "Vegan Meals Chiang Mai", lat: 18.7878, lng: 98.9920, group: "Chiang Mai", type: "food", note: "Not authentic, but fair prices: everything is around €3.25." }
+  - { name: "Charin Pie", lat: 18.7949, lng: 98.9682, group: "Chiang Mai", type: "food", note: "Cozy café with a wide variety of incredibly good pies." }
+  - { name: "Doi Inthanon National Park", lat: 18.5883, lng: 98.4866, group: "Mae Hong Son Loop", type: "nature", note: "Stunning but a bit of a rip-off (€10 entry plus extra fees), still worth it for easy hikes, waterfalls and a gorgeous temple.", section: "day-1-doi-inthanon" }
+  - { name: "Mae Chaem", lat: 18.4980, lng: 98.3610, group: "Mae Hong Son Loop", type: "town", note: "We stayed in a beautiful house with a garden here and felt some real Thailand vibes.", section: "day-1-doi-inthanon" }
+  - { name: "Bo Kaeo Pine Tree Garden", lat: 18.1568, lng: 98.3885, group: "Mae Hong Son Loop", type: "nature", note: "Nice stop along the road to Mae Sariang.", section: "day-2-2" }
+  - { name: "Thai Grandma's", lat: 18.1510, lng: 98.2463, group: "Mae Hong Son Loop", type: "food", note: "In the middle of nowhere: the best phat kaphrao, hands down, with all dishes around €1.35." }
+  - { name: "Mae Sariang", lat: 18.1600, lng: 97.9340, group: "Mae Hong Son Loop", type: "town", note: "Our stop for the night, a really cute town for a chill evening.", section: "day-2-2" }
+  - { name: "Mueang Mae Hong Son", lat: 19.3013, lng: 97.9683, group: "Mae Hong Son Loop", type: "town", note: "Wander around and check out a couple of temples.", section: "day-3-2" }
+  - { name: "Mae Hong Son local food market", lat: 19.3020, lng: 97.9700, group: "Mae Hong Son Loop", type: "food", note: "Local food market worth a wander.", section: "day-3-2" }
+  - { name: "Ban Rak Thai", lat: 19.5520, lng: 97.9410, group: "Mae Hong Son Loop", type: "town", note: "Right by the Myanmar border, touristy but one of the most beautiful spots in the north.", section: "day-3-2" }
+  - { name: "ร้านโรตีรักไทย", lat: 19.5522, lng: 97.9405, group: "Mae Hong Son Loop", type: "food", note: "Best prices for decent local Thai food in such a touristy area." }
+  - { name: "Pang Ung", lat: 19.4984, lng: 97.9092, group: "Mae Hong Son Loop", type: "nature", note: "Peaceful lake close to Ban Rak Thai: we suggest staying near it and chilling there in the morning.", section: "day-4" }
+  - { name: "Noodle Soup House Ban Jabo", lat: 19.5815, lng: 98.2059, group: "Mae Hong Son Loop", type: "food", note: "Amazing tom yum noodle soup for €1.35, with your legs dangling over an epic view." }
+  - { name: "Tham Lod (Nam Lod caves)", lat: 19.5667, lng: 98.2789, group: "Mae Hong Son Loop", type: "nature", note: "Pretty cool, about €5 per person, but in rainy season only 1 of 3 caves is accessible.", section: "day-4" }
+  - { name: "Pai", lat: 19.3590, lng: 98.4410, group: "Mae Hong Son Loop", type: "town", note: "Cute, digital-nomad-friendly town: wander the Pai Walking Street for the hippie vibes.", section: "day-5" }
+  - { name: "Bamboo Bridge", lat: 19.3730, lng: 98.3930, group: "Mae Hong Son Loop", type: "nature", note: "Chill walk and nice shots over the rice fields.", section: "day-5" }
+  - { name: "Pai Canyon", lat: 19.3048, lng: 98.4548, group: "Mae Hong Son Loop", type: "nature", note: "Absolutely stunning at sunset.", section: "day-5" }
+  - { name: "White Buddha", lat: 19.3542, lng: 98.4601, group: "Mae Hong Son Loop", type: "sight", note: "Another stunning sunset spot.", section: "day-5" }
+  - { name: "Chai Tea Shop", lat: 19.3212, lng: 98.4235, group: "Mae Hong Son Loop", type: "food", note: "You MUST try their chai tea: the best we've ever had, for just €1.20." }
+  - { name: "Joy's place", lat: 19.3610, lng: 98.4397, group: "Mae Hong Son Loop", type: "food", note: "Almost everything is €1, huge portions, and the best pad thai of our trip." }
+  - { name: "Wat Pa Tam Wua Monastery", lat: 19.5288, lng: 98.0816, group: "Mae Hong Son Loop", type: "sight", note: "Stay 2 to 10 days for free (donation optional). Intense and unguided meditation, but a beautiful location.", section: "day-6-and-more" }
 ratings: {"budget": 4, "adventure": 3, "food": 5, "overall": 4}
 ---
 
@@ -112,6 +159,7 @@ Our full itinerary was like this:
     - Pai
     - Wat Pa Tam Wua monastery
 
+<div data-trip-map></div>
 
 ### 1. Bangkok
 

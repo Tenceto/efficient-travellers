@@ -1,7 +1,6 @@
 ---
 title: "A weekend in Sarajevo"
 region: "Europe"
-order: 10
 status: "published"
 date: "22 April 2025"
 description: "A weekend in Sarajevo: itinerary through Baščaršija old town, Bosnian coffee and food, airport transfer, money and SIM tips for an untouristy capital."
@@ -10,6 +9,35 @@ cardImage: "/images/cards/a-weekend-in-sarajevo-card.webp"
 coverImage: "/images/posts/a-weekend-in-sarajevo-cover.webp"
 highlights: []
 hasRatings: true
+places:
+  - { name: "Baščaršija", lat: 43.8598, lng: 18.4316, day: 1, type: "town", section: "itinerary", note: "The heart of the old town and the best area to stay, with plenty of B&Bs, hotels and budget guesthouses." }
+  - { name: "Sebilj", lat: 43.8597, lng: 18.4311, day: 1, type: "sight", section: "itinerary", note: "The Ottoman-style wooden fountain in Baščaršija, a stop on our free walking tour." }
+  - { name: "Kazandžiluk Street", lat: 43.8593, lng: 18.4325, day: 1, type: "sight", section: "itinerary", note: "Street of traditional copper shops; compare prices across shops before buying a Bosnian coffee set." }
+  - { name: "Sarajevo City Hall", lat: 43.8589, lng: 18.4350, day: 1, type: "sight", section: "itinerary", note: "We passed by the City Council building on the walking tour." }
+  - { name: "Emperor's Mosque", lat: 43.8574, lng: 18.4307, day: 1, type: "sight", section: "itinerary", note: "We admired the Emperor's Mosque on the way to the Latin Bridge." }
+  - { name: "Latin Bridge", lat: 43.8576, lng: 18.4290, day: 1, type: "sight", section: "itinerary", note: "Famous because it is close to where Archduke Franz Ferdinand was assassinated." }
+  - { name: "Gazi Husrev-begov Bezistan", lat: 43.8589, lng: 18.4281, day: 1, type: "sight", section: "itinerary", note: "The old covered market of Baščaršija." }
+  - { name: "Gazi Husrev-beg Mosque", lat: 43.8594, lng: 18.4288, day: 1, type: "sight", section: "itinerary", note: "We saw the Gazi Husrev-beg mosque right after the Bezistan." }
+  - { name: "Hotel Europe", lat: 43.8584, lng: 18.4275, day: 1, type: "sight", section: "itinerary", note: "Our guide told us the story of Hotel Europa here." }
+  - { name: "Cathedral of the Nativity of the Theotokos", lat: 43.8582, lng: 18.4249, day: 1, type: "sight", section: "itinerary", note: "The Orthodox cathedral, one of the stops on the walking tour." }
+  - { name: "Sarajevo Cathedral", lat: 43.8596, lng: 18.4255, day: 1, type: "sight", section: "itinerary", note: "The Catholic cathedral, on the walking tour route." }
+  - { name: "Sarajevo Rose", lat: 43.8591, lng: 18.4266, day: 1, type: "sight", section: "itinerary", note: "A mortar shell scar filled with red resin; the Genocide Museum nearby is highly recommended." }
+  - { name: "Gradska Tržnica", lat: 43.8589, lng: 18.4235, day: 1, type: "sight", section: "itinerary", note: "A big and nice food market on the way to the newer, more European part of the city." }
+  - { name: "Ferhadija", lat: 43.8592, lng: 18.4250, day: 1, type: "sight", section: "itinerary", note: "The shopping street we walked on the way to Dolac Malta." }
+  - { name: "Café Tito", lat: 43.8547, lng: 18.4008, day: 1, type: "food", section: "itinerary", note: "The iconic café we stopped at in the Dolac Malta area." }
+  - { name: "City Pub", lat: 43.8582, lng: 18.4273, day: 1, type: "activity", section: "itinerary", note: "Beer and live music after dinner; the surrounding Zelenih beretki street is full of bars." }
+  - { name: "Paša Doner", lat: 43.8595, lng: 18.4313, day: 1, type: "food", section: "itinerary", note: "You can't say you lived the full experience without wrapping up the night with a kebab here." }
+  - { name: "Ministry of Ćejf", lat: 43.8602, lng: 18.4322, day: 2, type: "food", note: "Probably the most popular café in Sarajevo, with a beautiful view; a Bosnian coffee is 5 KM." }
+  - { name: "Kovači Martyrs Cemetery", lat: 43.8613, lng: 18.4343, day: 2, type: "sight", section: "itinerary", note: "We passed by the cemetery of Kovači on the walk up to the Yellow Fortress." }
+  - { name: "Yellow Fortress", lat: 43.8614, lng: 18.4376, day: 2, type: "sight", section: "itinerary", note: "Walk up from Baščaršija for a view over the city." }
+  - { name: "Kamarija", lat: 43.8610, lng: 18.4386, day: 2, type: "food", section: "itinerary", note: "A cozy little café with a great view, a quick stop after the Yellow Fortress." }
+  - { name: "Ćevabdžinica Hodžić", lat: 43.8589, lng: 18.4320, group: "Food", type: "food", note: "Recommended by our guide: the ćevapi and sausage mix with a yogurt was 15 KM. Not great for vegetarians." }
+  - { name: "Buregdžinica Oklagija", lat: 43.8590, lng: 18.4321, group: "Food", type: "food", note: "The best burek of our trip, at super fair prices, right in front of Ćevabdžinica Hodžić." }
+  - { name: "Burek Forino", lat: 43.8588, lng: 18.4175, group: "Food", type: "food", note: "Really good burek outside the old town with a local vibe; four slices for two cost us 11.50 KM." }
+  - { name: "Staklo", lat: 43.8590, lng: 18.4315, group: "Food", type: "food", note: "We had the klepe (9 KM) and a kombinacija (9 KM), with lots of free lepinje." }
+  - { name: "Cream Shop", lat: 43.8591, lng: 18.4308, group: "Food", type: "food", note: "THE spot for dessert; try the Ambassador cake (6 KM) and the Jaffa Cake (4.5 KM)." }
+  - { name: "Teahouse Džirlo", lat: 43.8602, lng: 18.4322, group: "Food", type: "food", note: "A HUGE variety of teas for 5.50 KM and Bosnian coffee for 4 KM; come early, it is tiny." }
+  - { name: "Bakery Alifakovac", lat: 43.8582, lng: 18.4349, group: "Food", type: "food", note: "They only sell freshly made Bosnian pita bread (lepinje), a must for bread lovers." }
 ratings: {"budget": 3, "adventure": 1, "food": 4, "overall": 4}
 ---
 
@@ -62,6 +90,8 @@ The best area to stay is the old town, **Baščaršija**, where you’ll find pl
 
 
 ## Itinerary
+
+<div data-trip-map></div>
 
 **DAY 1**
 

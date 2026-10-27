@@ -120,7 +120,7 @@ const indexable = isIndexable(entry);
 
     <article class="post-prose">
       <Content />
-      {entry.data.places.length > 0 && <TripMap places={entry.data.places} headings={headings} />}
+      {entry.data.places.length > 0 && <TripMap places={entry.data.places} headings={headings} route={entry.data.mapRoute} />}
     </article>
   </div>
 </BaseLayout>

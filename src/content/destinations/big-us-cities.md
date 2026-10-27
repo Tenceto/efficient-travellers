@@ -1,7 +1,6 @@
 ---
 title: "Big US cities"
 region: "United States"
-order: 18
 status: "pending"
 date: "2025"
 author: "Carola & Martín"

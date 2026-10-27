@@ -1,11 +1,10 @@
 // Generates /sitemap.xml — submit this URL in Google Search Console.
 // Only finished ("published") guides are listed; see isIndexable() in src/lib/seo.ts.
 import type { APIRoute } from 'astro';
-import { getCollection } from 'astro:content';
-import { absoluteUrl, escapeXml, guideUrl, isIndexable, latestDate, modifiedDate, sortByOrder } from '../lib/seo';
+import { absoluteUrl, escapeXml, guideUrl, getPublishedGuides, latestDate, modifiedDate } from '../lib/seo';
 
 export const GET: APIRoute = async () => {
-  const guides = sortByOrder((await getCollection('destinations')).filter(isIndexable));
+  const guides = await getPublishedGuides();
   const latest = latestDate(guides);
 
   const urls: { loc: string; lastmod?: string; image?: string; priority: string }[] = [

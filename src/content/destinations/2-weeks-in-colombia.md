@@ -1,7 +1,6 @@
 ---
 title: "2 weeks in Colombia"
 region: "Latin America"
-order: 15
 status: "published"
 date: "11 July 2026"
 description: "Two-week Colombia itinerary: Medellín, Salento and the Cocora Valley, Cartagena, the Rosario Islands, Santa Marta and Tayrona, with budget tips and scams to avoid."
@@ -10,6 +9,45 @@ cardImage: "/images/cards/2-weeks-in-colombia-card.webp"
 coverImage: "/images/posts/2-weeks-in-colombia-cover.webp"
 highlights: ["Medellín", "Salento & Cocora Valley", "Cartagena", "Rosario Islands", "Santa Marta", "Tayrona National Park"]
 hasRatings: true
+places:
+  - { name: "Comuna 13", lat: 6.2556, lng: -75.6203, group: "Medellín", type: "sight", section: "day-1", note: "Join the GuruWalk walking tour (about 3 hours): an absolute must and one of Medellín's most iconic spots." }
+  - { name: "Pueblito Paisa", lat: 6.2361, lng: -75.5797, group: "Medellín", type: "sight", section: "day-1", note: "Very touristy but still charming." }
+  - { name: "Envigado", lat: 6.1713, lng: -75.5847, group: "Medellín", type: "town", section: "day-1", note: "Local, residential neighbourhood to get a feel for real life in Medellín; go by metro (shareable card 11,000 COP, 4,000 COP per trip)." }
+  - { name: "El Poblado", lat: 6.2088, lng: -75.5675, group: "Medellín", type: "town", section: "day-1", note: "Famous nightlife district, but the American-style party vibe isn't really our thing; visit for a night out, don't sleep here." }
+  - { name: "Piedra del Peñol (La Piedra)", lat: 6.2208, lng: -75.1794, group: "Medellín", type: "nature", section: "day-2", note: "Bus from Terminal del Norte (gate 9 or 14, ~22,000 COP); entrance 30,000 COP and a loooot of steps for a super nice view." }
+  - { name: "Guatapé", lat: 6.2334, lng: -75.1599, group: "Medellín", type: "town", section: "day-2", note: "Charming, colourful colonial-style town full of souvenir shops; a day trip is more than enough." }
+  - { name: "Plaza Botero", lat: 6.2524, lng: -75.5687, group: "Medellín", type: "sight", section: "day-3", note: "Unique and a must-visit in the morning; locals recommend avoiding it at night." }
+  - { name: "Placita de Flórez", lat: 6.2512, lng: -75.5588, group: "Medellín", type: "sight", section: "day-3", note: "Traditional market selling everything from flowers to fish; the fresh mango here was one of the best snacks of our trip." }
+  - { name: "Mirador el Cielo", lat: 6.2077, lng: -75.6089, group: "Medellín", type: "nature", section: "day-3", note: "Viewpoint recommended by locals: great for sunset and stunning city views at night, with food stalls for dinner." }
+  - { name: "Laureles and Carrera 70", lat: 6.2445, lng: -75.5905, group: "Medellín", type: "town", section: "day-3", note: "By far our favourite neighbourhood: residential, central, full of restaurants and cafés, with bars and salsa on Carrera 70." }
+  - { name: "El Tíbiri", lat: 6.2503, lng: -75.5887, group: "Medellín", type: "activity", section: "day-3", note: "Hidden salsa bar down a stair underground on Carrera 70; an incredible experience and a must in Medellín." }
+  - { name: "Arví Park", lat: 6.2800, lng: -75.5000, group: "Medellín", type: "nature", section: "day-4", note: "Metro cable (50,000 COP) plus entrance (30,000 COP); the cable ride itself is a highlight, and the park deserves a whole day." }
+  - { name: "Las Delicias de Martha", lat: 6.2515, lng: -75.6213, group: "Medellín", type: "food", note: "Really local spot; the huge bandeja paisa (~7.50 EUR) is enough for two after a morning in Comuna 13." }
+  - { name: "Tepuy sabores de Venezuela", lat: 6.2450, lng: -75.5922, group: "Medellín", type: "food", note: "Incredible Venezuelan food with a great atmosphere; order the Tres Leches." }
+  - { name: "Opera | Pizzeria & Restaurant", lat: 6.2479, lng: -75.5893, group: "Medellín", type: "food", note: "Outstanding Italian food with HUGE pasta portions, approved by Carola herself." }
+  - { name: "Restaurante La Gloria de Gloria", lat: 6.1677, lng: -75.5828, group: "Medellín", type: "food", note: "Famous bandeja paisa for two with 1kg of chicharrón (~22 EUR); good quality but probably overhyped." }
+  - { name: "Mercado de Laureles Gastrobar", lat: 6.2445, lng: -75.5957, group: "Medellín", type: "food", note: "Food hall with plenty of options; a full meal for around 8 EUR." }
+  - { name: "Restaurante El Remanso", lat: 6.2342, lng: -75.1578, group: "Medellín", type: "food", note: "Fair prices in touristy Guatapé, packed with locals; trout for just 8 EUR and a legendary waiter." }
+  - { name: "Salento", lat: 4.6371, lng: -75.5708, group: "Salento", type: "town", note: "Gorgeous town centre for souvenirs, packed with amazing cafés; overnight bus from Medellín's Terminal del Sur (~18 EUR)." }
+  - { name: "Finca El Recuerdo", lat: 4.6202, lng: -75.6009, group: "Salento", type: "activity", note: "Coffee farm tour from the owner plus tasting for just 9 EUR; highly recommended." }
+  - { name: "Cocora Valley", lat: 4.6378, lng: -75.4874, group: "Salento", type: "nature", note: "Pin is the trailhead where the jeeps from Salento's main square drop you; do the loop clockwise early, about 4 hours." }
+  - { name: "Filandia", lat: 4.6747, lng: -75.6583, group: "Salento", type: "town", note: "Super charming little town; buy your jeep tickets the day before as they often sell out." }
+  - { name: "Pereira", lat: 4.8137, lng: -75.6946, group: "Salento", type: "town", note: "Not the prettiest city, but an authentic one with great street food; bus from Salento about 3.50 EUR." }
+  - { name: "El Rincón de Luci", lat: 4.6398, lng: -75.5684, group: "Salento", type: "food", note: "Authentically local place packed with locals; a whole meal for ~4.5 EUR." }
+  - { name: "Son delicias", lat: 4.6387, lng: -75.5703, group: "Salento", type: "food", note: "Cheap local café (coffee 1.5 EUR) that opens super early, perfect for breakfast before Cocora." }
+  - { name: "Concreto Café", lat: 4.6388, lng: -75.5678, group: "Salento", type: "food", note: "Our favourite coffee spot in Salento: cozy, great food, and the coffee is in another league." }
+  - { name: "MOCAFE", lat: 4.6767, lng: -75.6587, group: "Salento", type: "food", note: "Next-level coffee at fair prices (~2 EUR for a delicious mocha)." }
+  - { name: "Las Delicias", lat: 4.8150, lng: -75.6975, group: "Salento", type: "food", note: "Grab-and-go Colombian street snacks at super fair prices, popular with locals." }
+  - { name: "Ciudad Amurallada", lat: 10.4225, lng: -75.5487, group: "Cartagena", type: "sight", note: "Join a free walking tour of the walled city; be careful here after dark." }
+  - { name: "Getsemaní", lat: 10.4205, lng: -75.5466, group: "Cartagena", type: "town", note: "Where we recommend staying: charming little streets that come alive at night." }
+  - { name: "Muelle de la Bodeguita (Gate 1)", lat: 10.4209, lng: -75.5476, group: "Cartagena", type: "activity", note: "Ignore the resellers and buy Rosario Islands boats only behind glass at Gate 1; we went with Mary Travel, transport only for 130,000 COP." }
+  - { name: "Isla Grande and Mantas Beach Club", lat: 10.1812, lng: -75.7318, group: "Cartagena", type: "nature", note: "Quieter, less party-oriented island; at Playa Libre, Mantas gives you a free sunbed if you order food or drinks." }
+  - { name: "Restaurante Espíritu Santo", lat: 10.4248, lng: -75.5495, group: "Cartagena", type: "food", note: "Amazing, generous and ridiculously cheap; arrive right at noon opening to avoid the queue." }
+  - { name: "Vívolo Café", lat: 11.2413, lng: -74.2156, group: "Santa Marta and Tayrona", type: "food", note: "A bit pricey but worth it for a great breakfast, with good AC and WiFi." }
+  - { name: "El Calabazo entrance", lat: 11.2855, lng: -74.0014, group: "Santa Marta and Tayrona", type: "nature", note: "Our recommended trek start: tough because of the humidity; entrance 77,500 COP plus 14,000 COP insurance, cash only." }
+  - { name: "Playa Brava Teyumakke", lat: 11.3369, lng: -73.9905, group: "Santa Marta and Tayrona", type: "nature", note: "One of the most beautiful places we've ever stayed: free-roaming horses, hardly any people; sleep in a tent, bungalow or hammock." }
+  - { name: "Cabo San Juan", lat: 11.3295, lng: -73.9646, group: "Santa Marta and Tayrona", type: "nature", note: "Stunning beach about 2.5 hours from Playa Brava; arrive before 11 AM when the tourist boats show up." }
+  - { name: "El Zaino exit", lat: 11.2899, lng: -73.8913, group: "Santa Marta and Tayrona", type: "nature", note: "Easy 2-hour hike from Cabo San Juan; van to the main road 6,000 COP, then the cheap public bus." }
 ratings: {"budget": 4, "adventure": 5, "food": 3, "overall": 4}
 ---
 
@@ -116,6 +154,7 @@ Our itinerary was:
 - 3 days in Santa Marta and Tayrona National Park
 - 2 days of volunteering in Sierra Nevada
 
+<div data-trip-map></div>
 
 ### 1. Medellín
 

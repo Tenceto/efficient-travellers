@@ -470,6 +470,17 @@ a {
   background: linear-gradient(180deg, rgba(0, 32, 63, 0.55) 0%, rgba(0, 32, 63, 0.72) 100%);
 }
 
+/* Plain banner for the Destinations and Contact pages: solid homepage blue,
+   no photo, same height everywhere. */
+.page-hero--solid {
+  min-height: 280px;
+  background-color: #17212d;
+}
+
+.page-hero--solid::before {
+  content: none;
+}
+
 .page-hero-content {
   position: relative;
   z-index: 2;

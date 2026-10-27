@@ -388,19 +388,17 @@ a {
 
 .split-mint {
   background-color: var(--color-mint);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 48px;
+  position: relative;
+  overflow: hidden;
 }
 
+/* Photo fills the whole half, edge to edge */
 .split-mint img {
+  position: absolute;
+  inset: 0;
   width: 100%;
-  max-width: 460px;
-  height: 460px;
+  height: 100%;
   object-fit: cover;
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-lg);
 }
 
 /* About The Blog Section */
@@ -435,6 +433,18 @@ a {
   color: var(--color-text-muted);
   margin-bottom: 18px;
   font-size: 1.05rem;
+}
+
+/* Featured guides preview (homepage) */
+.home-guides {
+  padding: 72px 0 96px;
+  background-color: var(--color-surface);
+}
+
+.home-guides-title {
+  font-size: 2rem;
+  color: var(--color-navy);
+  letter-spacing: -0.02em;
 }
 
 /* ==========================================================================
@@ -894,6 +904,135 @@ a {
 }
 
 /* ==========================================================================
+   Night Mode — homepage only (<BaseLayout theme="night">)
+   Base colour: #17212d. The rest of the site stays in light mode.
+   ========================================================================== */
+[data-theme='night'] {
+  --night-base: #17212d;
+  --night-deep: #111921;
+  --night-raised: #1e2a39;
+  --night-raised-hover: #253346;
+  --night-line: rgba(255, 255, 255, 0.09);
+
+  --color-text: #e6ecf2;
+  --color-text-muted: #a3b2c2;
+  --color-border: var(--night-line);
+  --color-surface: var(--night-raised);
+
+  --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.25);
+  --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.35);
+  --shadow-lg: 0 20px 45px rgba(0, 0, 0, 0.45);
+
+  color-scheme: dark;
+  background-color: var(--night-base);
+}
+
+[data-theme='night'] body {
+  background-color: var(--night-base);
+}
+
+/* Header */
+[data-theme='night'] .site-header {
+  background: rgba(23, 33, 45, 0.9);
+  border-bottom-color: var(--night-line);
+}
+
+[data-theme='night'] .nav-link:hover,
+[data-theme='night'] .nav-link.active {
+  background-color: rgba(173, 239, 209, 0.12);
+  color: var(--color-mint);
+}
+
+[data-theme='night'] .search-input {
+  background-color: var(--night-raised);
+}
+
+[data-theme='night'] .search-input:focus {
+  border-color: var(--color-mint);
+  background-color: var(--night-raised-hover);
+  box-shadow: 0 0 0 3px rgba(173, 239, 209, 0.18);
+}
+
+[data-theme='night'] .search-input::placeholder {
+  color: var(--color-text-muted);
+}
+
+[data-theme='night'] .search-dropdown {
+  background: var(--night-raised);
+}
+
+[data-theme='night'] .search-result-item:hover {
+  background: var(--night-raised-hover);
+}
+
+[data-theme='night'] .search-result-meta h6 {
+  color: var(--color-white);
+}
+
+/* Buttons: mint becomes the primary action, the secondary one is outlined */
+[data-theme='night'] .btn-primary {
+  background-color: var(--color-mint);
+  color: var(--night-base);
+}
+
+[data-theme='night'] .btn-primary:hover {
+  background-color: var(--color-white);
+  color: var(--night-base);
+}
+
+[data-theme='night'] .btn-mint {
+  background-color: transparent;
+  color: var(--color-mint);
+  box-shadow: inset 0 0 0 1.5px var(--color-mint);
+}
+
+[data-theme='night'] .btn-mint:hover {
+  background-color: rgba(173, 239, 209, 0.12);
+  color: var(--color-mint);
+}
+
+/* Hero */
+[data-theme='night'] .hero-section {
+  background: linear-gradient(180deg, var(--night-deep) 0%, var(--night-base) 100%);
+}
+
+[data-theme='night'] .hero-copy h1 {
+  color: var(--color-white);
+}
+
+/* About us */
+[data-theme='night'] .split-navy {
+  background-color: var(--night-deep);
+}
+
+/* About the blog */
+[data-theme='night'] .about-blog-section {
+  background-color: var(--night-base);
+}
+
+[data-theme='night'] .about-blog-copy h2,
+[data-theme='night'] .home-guides-title {
+  color: var(--color-white);
+}
+
+/* Destination cards keep their light mint look, so restore the navy button */
+[data-theme='night'] .dest-card .btn-primary {
+  background-color: var(--color-navy);
+  color: var(--color-white);
+}
+
+[data-theme='night'] .dest-card .btn-primary:hover {
+  background-color: var(--color-navy-soft);
+  color: var(--color-mint);
+}
+
+/* Footer */
+[data-theme='night'] .site-footer {
+  background-color: var(--night-deep);
+  border-top: 1px solid var(--night-line);
+}
+
+/* ==========================================================================
    Responsive Design
    ========================================================================== */
 @media (max-width: 992px) {
@@ -906,6 +1045,10 @@ a {
 
   .split-navy {
     padding: 56px 24px;
+  }
+
+  .split-mint {
+    min-height: 420px;
   }
 
   .toc-sidebar {

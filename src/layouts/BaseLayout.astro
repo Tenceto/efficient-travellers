@@ -28,6 +28,8 @@ interface Props {
   jsonLd?: object[];
   /** URL of a plain Markdown copy of the page (for LLMs). */
   markdownUrl?: string;
+  /** Colour scheme for the page. The homepage uses 'night'; everything else stays 'light'. */
+  theme?: 'light' | 'night';
 }
 
 const {
@@ -42,7 +44,9 @@ const {
   article,
   jsonLd = [],
   markdownUrl,
+  theme = 'light',
 } = Astro.props;
+const isNight = theme === 'night';
 
 const pageTitle = fullTitle ?? `${title} | ${SITE_NAME}`;
 const pathname = Astro.url.pathname.endsWith('/') || /\.[a-z0-9]+$/i.test(Astro.url.pathname)
@@ -77,7 +81,7 @@ const searchIndex = allDestinations
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme={theme}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -120,7 +124,7 @@ const searchIndex = allDestinations
     <header class="site-header">
       <div class="container header-inner">
         <a href={`${base}/`} class="brand-logo" id="nav-logo">
-          <img src={withBase('/images/logo/svg/02-isologotype-reduced-horizontal-light.svg')} alt="Efficient Travellers" width="243" height="42" />
+          <img src={withBase(`/images/logo/svg/02-isologotype-reduced-horizontal-${isNight ? 'dark' : 'light'}.svg`)} alt="Efficient Travellers" width="243" height="42" />
         </a>
 
         <nav aria-label="Main Navigation">
@@ -195,7 +199,7 @@ const searchIndex = allDestinations
           );
 
           if (matches.length === 0) {
-            dropdown.innerHTML = '<div style="padding:12px;font-size:0.88rem;color:#526375;">No matching destinations found.</div>';
+            dropdown.innerHTML = '<div style="padding:12px;font-size:0.88rem;color:var(--color-text-muted);">No matching destinations found.</div>';
           } else {
             dropdown.innerHTML = matches
               .map(

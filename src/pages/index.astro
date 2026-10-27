@@ -44,6 +44,7 @@ const homeJsonLd = {
   title="Home"
   fullTitle={`${SITE_NAME}: ${SITE_TAGLINE}`}
   activeNav="home"
+  theme="night"
   ogImageAlt="Carola and Martín in front of Angkor Wat at sunset, Cambodia"
   jsonLd={[homeJsonLd]}
 >
@@ -130,11 +131,11 @@ const homeJsonLd = {
   </section>
 
   <!-- Featured Destination Guides Preview -->
-  <section style="padding: 72px 0 96px; background-color: var(--color-surface);">
+  <section class="home-guides">
     <div class="container">
       <div style="display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 16px; margin-bottom: 36px;">
         <div>
-          <h2 style="font-size: 2rem; color: var(--color-navy); letter-spacing: -0.02em;">Our Guides</h2>
+          <h2 class="home-guides-title">Our Guides</h2>
         </div>
         <a href={`${base}/destinations/`} class="btn btn-primary" id="view-all-guides-btn">View All {allDestinations.length} Destinations &rarr;</a>
       </div>

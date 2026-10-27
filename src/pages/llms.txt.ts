@@ -7,7 +7,6 @@ import { ABOUT, REGIONS, guideLink } from '../lib/llms';
 export const GET: APIRoute = async () => {
   const all = sortByOrder(await getCollection('destinations'));
   const guides = all.filter(isIndexable);
-  const upcoming = all.filter((e) => !isIndexable(e));
 
   const sections = REGIONS.map((region) => {
     const items = guides.filter((e) => e.data.region === region);
@@ -31,10 +30,6 @@ ${sections.join('\n\n')}
 - [Contact](${absoluteUrl('/contact/')}): Questions about itineraries, local guides or travel tips.
 - [Sitemap](${absoluteUrl('/sitemap.xml')})
 - [RSS feed](${absoluteUrl('/rss.xml')})
-
-## Optional
-
-- Guides in preparation (not yet published): ${upcoming.map((e) => e.data.title).join('; ')}.
 `;
   return new Response(body, { headers: { 'Content-Type': 'text/plain; charset=utf-8' } });
 };

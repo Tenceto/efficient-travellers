@@ -68,6 +68,7 @@ const withBase = (path) => {
 
 const allDestinations = await getCollection('destinations');
 const searchIndex = allDestinations
+  .filter((entry) => entry.data.status === 'published')
   .sort((a, b) => a.data.order - b.data.order)
   .map((entry) => ({
     slug: entry.id,
@@ -76,7 +77,7 @@ const searchIndex = allDestinations
     status: entry.data.status,
     highlights: entry.data.highlights.join(', '),
     thumb: withBase(entry.data.cardImage),
-    url: withBase(entry.data.status !== 'published' ? '/destinations/' : `/destinations/${entry.id}/`),
+    url: withBase(`/destinations/${entry.id}/`),
   }));
 ---
 

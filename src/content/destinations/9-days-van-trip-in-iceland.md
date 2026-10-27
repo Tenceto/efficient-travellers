@@ -10,6 +10,44 @@ cardImage: "/images/cards/9-days-van-trip-in-iceland-card.webp"
 coverImage: "/images/posts/9-days-van-trip-in-iceland-cover.webp"
 highlights: ["Golden Circle", "South coast", "Fjallsárlón", "East Fjords", "Diamond Circle", "Snæfellsnes", "Reykjavík"]
 hasRatings: true
+places:
+  - { name: "Þingvellir National Park", lat: 64.2559, lng: -21.1300, day: 1, type: "nature", note: "Walk between the tectonic plates. Snorkeling at Silfra is possible but pricey." }
+  - { name: "Geysir & Strokkur", lat: 64.3104, lng: -20.3024, day: 1, type: "nature", note: "Very touristy, but Strokkur erupts every few minutes." }
+  - { name: "Gullfoss", lat: 64.3264, lng: -20.1214, day: 1, type: "waterfall", note: "Beautiful waterfall with a nice walk." }
+  - { name: "Kerið crater", lat: 64.0413, lng: -20.8853, day: 1, type: "nature", note: "Volcanic crater, worth a stop." }
+  - { name: "Reykjadalur hot river", lat: 64.0229, lng: -21.2116, day: 1, type: "hot-spring", note: "One of our favourites. Pin is the trailhead: about 1 hour's walk to a 40°C river." }
+  - { name: "Seljalandsfoss", lat: 63.6156, lng: -19.9886, day: 2, type: "waterfall", note: "Our favourite waterfall: you can walk behind it." }
+  - { name: "Skógafoss", lat: 63.5321, lng: -19.5114, day: 2, type: "waterfall", note: "Famous and worth a stop, but didn't blow our minds." }
+  - { name: "Reynisfjara", lat: 63.4044, lng: -19.0449, day: 2, type: "nature", note: "Black sand beach and basalt columns." }
+  - { name: "Dyrhólaey", lat: 63.3999, lng: -19.1287, day: 2, type: "nature", note: "Nice walk to the viewpoints." }
+  - { name: "Fjaðrárgljúfur Canyon", lat: 63.7713, lng: -18.1719, day: 2, type: "nature", note: "Unique canyon, definitely worth a visit." }
+  - { name: "Svartifoss", lat: 64.0275, lng: -16.9753, day: 3, type: "waterfall", note: "Basalt-column waterfall. Skippable if you're short on time." }
+  - { name: "Fjallsárlón", lat: 64.0186, lng: -16.3850, day: 3, type: "activity", note: "Kayaking among the icebergs. One of the greatest experiences ever." }
+  - { name: "Diamond Beach", lat: 64.0444, lng: -16.1776, day: 3, type: "nature", note: "Not like the pictures online. A quick stop, or skip it." }
+  - { name: "Vestrahorn", lat: 64.2493, lng: -14.9686, day: 3, type: "nature", note: "Dramatic mountain on the drive east." }
+  - { name: "Seyðisfjörður", lat: 65.2597, lng: -14.0080, day: 4, type: "town", note: "Very authentic fjord town, reached by a 'martian' drive." }
+  - { name: "Aldan Restaurant", lat: 65.2609, lng: -14.0096, day: 4, type: "food", note: "Hot chocolate and sweets on a rainy day.", section: "day-4" }
+  - { name: "Stuðlagil Canyon", lat: 65.1556, lng: -15.3035, day: 4, type: "nature", note: "Basalt canyon. Less impressive in fog, but very unique." }
+  - { name: "Dettifoss", lat: 65.8146, lng: -16.3846, day: 5, type: "waterfall", note: "Europe's second most powerful waterfall." }
+  - { name: "Ásbyrgi Canyon", lat: 66.0000, lng: -16.5100, day: 5, type: "nature", note: "Horseshoe-shaped canyon, with a short walk at the end." }
+  - { name: "GeoSea", lat: 66.0530, lng: -17.3594, day: 5, type: "hot-spring", note: "Beautiful thermal sea baths in Húsavík, but pricey." }
+  - { name: "Lake Mývatn", lat: 65.6040, lng: -16.9960, day: 6, type: "nature", note: "Otherworldly lake landscapes." }
+  - { name: "Hverfjall", lat: 65.6050, lng: -16.8723, day: 6, type: "nature", note: "Huge volcanic crater." }
+  - { name: "Hverir", lat: 65.6410, lng: -16.8090, day: 6, type: "nature", note: "A highlight: steaming, bubbling sulfur pits." }
+  - { name: "Grjótagjá cave", lat: 65.6262, lng: -16.8832, day: 6, type: "nature", note: "The Game of Thrones cave." }
+  - { name: "Dimmuborgir", lat: 65.5912, lng: -16.9107, day: 6, type: "nature", note: "Lava labyrinths." }
+  - { name: "Goðafoss", lat: 65.6828, lng: -17.5502, day: 7, type: "waterfall", note: "Another unique waterfall, we promise." }
+  - { name: "Akureyri", lat: 65.6835, lng: -18.0878, day: 7, type: "town", note: "Cute city centre for a little walk." }
+  - { name: "Dalvík", lat: 65.9702, lng: -18.5287, day: 7, type: "town", note: "Small fishing village with peaceful views." }
+  - { name: "Grafarkirkja", lat: 65.8697, lng: -19.3683, day: 7, type: "sight", note: "One of Iceland's oldest turf churches." }
+  - { name: "Grettislaug", lat: 65.8823, lng: -19.7369, day: 7, type: "hot-spring", note: "Authentic, off-the-beaten-path natural hot springs. A must." }
+  - { name: "Arnarstapi", lat: 64.7670, lng: -23.6250, day: 8, type: "nature", note: "Start of the coastal walk to Hellnar, our best views of the week." }
+  - { name: "Hellnar", lat: 64.7505, lng: -23.6450, day: 8, type: "nature", note: "End of the coastal walk from Arnarstapi." }
+  - { name: "Reykjavík city centre", lat: 64.1466, lng: -21.9426, day: 9, type: "town", note: "Cosy cafés, concept and vintage stores. Just get lost." }
+  - { name: "Bæjarins Beztu Pylsur", lat: 64.1484, lng: -21.9391, day: 9, type: "food", note: "The famous Icelandic hot dog (~€6.50)." }
+  - { name: "Icelandic Street Food", lat: 64.1470, lng: -21.9370, day: 9, type: "food", note: "Lamb soup in a bread bowl with unlimited refills (~€23)." }
+  - { name: "Íslenski Barinn", lat: 64.1474, lng: -21.9345, day: 9, type: "food", note: "Traditional Icelandic food. Try the plokkfiskur." }
+  - { name: "Brauð & Co", lat: 64.1446, lng: -21.9265, day: 9, type: "food", note: "Top-3 cinnamon rolls of our lives." }
 ratings: {"budget": 2, "adventure": 5, "food": 1, "overall": 5}
 ---
 
@@ -104,6 +142,8 @@ Pay them! There are cameras everywhere and you will definitely get a fine if you
 - Day 7: North
 - Day 8: Snæfellsnes Peninsula
 - Day 9: Reykjavík
+
+<div data-trip-map></div>
 
 ### Day 1
 

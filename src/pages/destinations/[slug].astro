@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import StarRating from '../../components/StarRating.astro';
+import TripMap from '../../components/TripMap.astro';
 import { getCollection, render } from 'astro:content';
 import {
   getDescription,
@@ -30,6 +31,13 @@ const coverImage = entry.data.coverImage.startsWith(base)
     : entry.data.coverImage;
 const { Content, headings } = await render(entry);
 const tocHeadings = headings.filter((h) => h.depth === 2);
+// "Map" goes in the table of contents right after the Itinerary section (or last).
+const mapTocIndex = entry.data.places.length === 0
+  ? -1
+  : (() => {
+      const i = tocHeadings.findIndex((h) => h.slug === 'itinerary');
+      return i >= 0 ? i : tocHeadings.length - 1;
+    })();
 
 // SEO (all derived from the frontmatter — see src/lib/seo.ts)
 const indexable = isIndexable(entry);
@@ -79,10 +87,17 @@ const indexable = isIndexable(entry);
     <aside class="toc-sidebar" aria-label="Table of Contents">
       <div class="toc-title">Table of Contents</div>
       <ul class="toc-list">
-        {tocHeadings.map((h) => (
-          <li>
-            <a href={`#${h.slug}`} class="toc-link">{h.text}</a>
-          </li>
+        {tocHeadings.map((h, i) => (
+          <>
+            <li>
+              <a href={`#${h.slug}`} class="toc-link">{h.text}</a>
+            </li>
+            {i === mapTocIndex && (
+              <li>
+                <a href="#trip-map" class="toc-link">Map</a>
+              </li>
+            )}
+          </>
         ))}
       </ul>
 
@@ -105,6 +120,7 @@ const indexable = isIndexable(entry);
 
     <article class="post-prose">
       <Content />
+      {entry.data.places.length > 0 && <TripMap places={entry.data.places} headings={headings} />}
     </article>
   </div>
 </BaseLayout>

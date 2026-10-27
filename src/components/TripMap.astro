@@ -1,0 +1,359 @@
+---
+/**
+ * Interactive map of the places mentioned in a guide (Leaflet + OpenStreetMap/CARTO tiles).
+ * Data comes from the guide's `places` frontmatter. Put `<div data-trip-map></div>` in the
+ * Markdown where the map should appear; without it, the map goes at the end of the article.
+ */
+interface Place {
+  name: string;
+  lat: number;
+  lng: number;
+  day?: number;
+  type: string;
+  note?: string;
+  section?: string;
+}
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+interface Props {
+  places: Place[];
+  headings: Heading[];
+}
+
+const { places, headings } = Astro.props;
+
+// Spectrum that runs through the trip, so colours also show progression.
+const DAY_COLORS = ['#2563eb', '#0d9488', '#16a34a', '#a16207', '#ea580c', '#dc2626', '#db2777', '#9333ea', '#78350f', '#475569'];
+const TYPE_LABELS: Record<string, string> = {
+  sight: 'Sight',
+  nature: 'Nature',
+  waterfall: 'Waterfall',
+  'hot-spring': 'Hot spring',
+  activity: 'Activity',
+  town: 'Town',
+  food: 'Food',
+};
+
+// Find the "Day N" / "Days N and M" heading that covers a given day.
+function daySection(day?: number) {
+  if (day == null) return undefined;
+  const h = headings.find(
+    (h) => /^days?\b/i.test(h.text) && (h.text.match(/\d+/g) ?? []).map(Number).includes(day)
+  );
+  return h?.slug;
+}
+const hasFood = headings.some((h) => h.slug === 'food');
+
+const days = [...new Set(places.map((p) => p.day).filter((d): d is number => d != null))].sort((a, b) => a - b);
+const colorFor = (day?: number) => (day == null ? DAY_COLORS[DAY_COLORS.length - 1] : DAY_COLORS[(days.indexOf(day)) % (DAY_COLORS.length - 1)]);
+
+const data = places.map((p, i) => ({
+  n: i + 1,
+  name: p.name,
+  lat: p.lat,
+  lng: p.lng,
+  day: p.day ?? null,
+  type: TYPE_LABELS[p.type] ?? p.type,
+  note: p.note ?? '',
+  color: colorFor(p.day),
+  section: p.section ?? (p.type === 'food' && hasFood ? 'food' : daySection(p.day)) ?? null,
+}));
+---
+
+<section class="trip-map" id="trip-map" aria-label="Map of the places in this guide">
+  <div class="trip-map-head">
+    <h3 class="trip-map-title">Trip map</h3>
+    {days.length > 1 && (
+      <div class="trip-map-filters" role="group" aria-label="Show stops by day">
+        <button type="button" class="trip-map-chip is-active" data-day="all">All</button>
+        {days.map((d) => (
+          <button type="button" class="trip-map-chip" data-day={d}>
+            <span class="trip-map-dot" style={`background:${colorFor(d)}`}></span>Day {d}
+          </button>
+        ))}
+      </div>
+    )}
+  </div>
+  <div class="trip-map-canvas" data-places={JSON.stringify(data)}>
+    <div class="trip-map-touch-hint">Tap to explore the map</div>
+  </div>
+  <p class="trip-map-caption">
+    Numbers follow the order of our trip; the dashed line connects the stops and isn't the actual road.
+    Tap a pin for our notes and directions.
+  </p>
+</section>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+
+  type P = {
+    n: number; name: string; lat: number; lng: number; day: number | null;
+    type: string; note: string; color: string; section: string | null;
+  };
+
+  const esc = (s: string) =>
+    s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+
+  const section = document.getElementById('trip-map');
+  const canvas = section?.querySelector<HTMLElement>('.trip-map-canvas');
+  if (section && canvas) {
+    // Move the map to where the author placed it in the article.
+    const slot = document.querySelector('[data-trip-map]');
+    if (slot) slot.replaceWith(section);
+    section.classList.add('is-ready');
+
+    const places: P[] = JSON.parse(canvas.dataset.places ?? '[]');
+    const isTouch = window.matchMedia('(pointer: coarse)').matches;
+
+    const map = L.map(canvas, {
+      scrollWheelZoom: false, // don't hijack page scrolling; enabled after a click
+      dragging: !isTouch, // on phones, one-finger scroll keeps scrolling the page until tapped
+      zoomControl: true,
+      attributionControl: true,
+    });
+    map.attributionControl.setPrefix(false);
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+      subdomains: 'abcd',
+      maxZoom: 19,
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    }).addTo(map);
+
+    const activate = () => {
+      map.scrollWheelZoom.enable();
+      map.dragging.enable();
+      canvas.classList.add('is-active');
+    };
+    map.on('click', activate);
+    map.on('popupopen', activate);
+    canvas.querySelector('.trip-map-touch-hint')?.addEventListener('click', activate);
+
+    const route = L.polyline(places.map((p) => [p.lat, p.lng] as [number, number]), {
+      color: '#00203f', weight: 2, opacity: 0.35, dashArray: '4 6', interactive: false,
+    }).addTo(map);
+
+    const markers = places.map((p) => {
+      const icon = L.divIcon({
+        className: 'trip-pin',
+        html: `<span style="background:${p.color}">${p.n}</span>`,
+        iconSize: [28, 28],
+        iconAnchor: [14, 14],
+        popupAnchor: [0, -14],
+      });
+      const links = [
+        p.section ? `<a href="#${p.section}" class="trip-pop-link">Read more</a>` : '',
+        `<a href="https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lng}" target="_blank" rel="noopener" class="trip-pop-link">Directions ↗</a>`,
+      ].join('');
+      const meta = [p.day != null ? `Day ${p.day}` : '', p.type].filter(Boolean).join(' · ');
+      const m = L.marker([p.lat, p.lng], { icon, title: p.name, riseOnHover: true }).bindPopup(
+        `<div class="trip-pop">
+           <div class="trip-pop-meta"><span class="trip-map-dot" style="background:${p.color}"></span>${esc(meta)}</div>
+           <div class="trip-pop-name">${p.n}. ${esc(p.name)}</div>
+           ${p.note ? `<p class="trip-pop-note">${esc(p.note)}</p>` : ''}
+           <div class="trip-pop-links">${links}</div>
+         </div>`,
+        { maxWidth: 260 }
+      );
+      m.addTo(map);
+      return { m, p };
+    });
+
+    const fit = (list: P[]) => {
+      const b = L.latLngBounds(list.map((p) => [p.lat, p.lng] as [number, number]));
+      map.fitBounds(b, { padding: [36, 36], maxZoom: 14 });
+    };
+    fit(places);
+
+    // Day filter chips
+    const chips = section.querySelectorAll<HTMLButtonElement>('.trip-map-chip');
+    chips.forEach((chip) =>
+      chip.addEventListener('click', () => {
+        const d = chip.dataset.day;
+        chips.forEach((c) => c.classList.toggle('is-active', c === chip));
+        map.closePopup();
+        const shown = markers.filter(({ p }) => d === 'all' || String(p.day) === d);
+        markers.forEach(({ m, p }) => {
+          const on = d === 'all' || String(p.day) === d;
+          if (on && !map.hasLayer(m)) m.addTo(map);
+          if (!on && map.hasLayer(m)) m.remove();
+        });
+        route.setStyle({ opacity: d === 'all' ? 0.35 : 0.12 });
+        fit(shown.map(({ p }) => p));
+      })
+    );
+
+    // Leaflet needs a size recalculation if the layout settles after load.
+    new ResizeObserver(() => map.invalidateSize()).observe(canvas);
+  }
+</script>
+
+<style is:global>
+  .trip-map {
+    margin: 28px 0 40px;
+    display: none;
+  }
+  .trip-map.is-ready {
+    display: block;
+  }
+  .trip-map-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+  .post-prose .trip-map-title {
+    margin: 0;
+    font-size: 1.15rem;
+  }
+  .trip-map-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .trip-map-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 11px;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: var(--color-white);
+    color: var(--color-text);
+    font: 500 0.8rem/1.2 var(--font-sans);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+  }
+  .trip-map-chip:hover {
+    border-color: var(--color-mint-dark);
+  }
+  .trip-map-chip.is-active {
+    background: var(--color-navy);
+    border-color: var(--color-navy);
+    color: var(--color-white);
+  }
+  .trip-map-dot {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    flex: none;
+  }
+  .trip-map-canvas {
+    position: relative;
+    height: 520px;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    border: 1px solid var(--color-border);
+    background: #e8eef0;
+    z-index: 0;
+  }
+  .trip-map-touch-hint {
+    display: none;
+  }
+  @media (pointer: coarse) {
+    .trip-map-touch-hint {
+      display: block;
+      position: absolute;
+      left: 50%;
+      bottom: 14px;
+      transform: translateX(-50%);
+      z-index: 500;
+      padding: 6px 14px;
+      border-radius: var(--radius-pill);
+      background: rgba(0, 32, 63, 0.82);
+      color: #fff;
+      font-size: 0.8rem;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    .trip-map-canvas.is-active .trip-map-touch-hint {
+      display: none;
+    }
+  }
+  .post-prose .trip-map-caption {
+    margin: 10px 0 0;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+  }
+  .trip-pin span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+    color: #fff;
+    font: 600 0.75rem/1 var(--font-sans);
+    transition: transform var(--transition-fast);
+  }
+  .trip-pin:hover span {
+    transform: scale(1.15);
+  }
+  .trip-map .leaflet-popup-content-wrapper {
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+  }
+  .trip-map .leaflet-popup-content {
+    margin: 12px 14px;
+    font-family: var(--font-sans);
+  }
+  .trip-pop-meta {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+  }
+  .trip-pop-name {
+    margin-top: 4px;
+    font-size: 0.98rem;
+    font-weight: 600;
+    color: var(--color-navy);
+  }
+  .post-prose .trip-pop-note {
+    margin: 6px 0 0;
+    font-size: 0.85rem;
+    line-height: 1.45;
+    color: var(--color-text);
+  }
+  .trip-pop-links {
+    display: flex;
+    gap: 14px;
+    margin-top: 10px;
+  }
+  .post-prose .trip-map a.trip-pop-link {
+    font-size: 0.82rem;
+  }
+  @media (max-width: 680px) {
+    .trip-map-head {
+      display: block;
+    }
+    .trip-map-filters {
+      margin-top: 10px;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      contain: inline-size; /* scroll inside the row instead of widening the page */
+      padding-bottom: 4px;
+      scrollbar-width: none;
+    }
+    .trip-map-chip {
+      flex: none;
+    }
+    .trip-map-canvas {
+      height: 420px;
+    }
+  }
+</style>

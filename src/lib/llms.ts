@@ -44,6 +44,7 @@ export function guideHeader(entry: Destination): string {
 /** Full guide as clean Markdown (header + original body with absolute URLs). */
 export function guideMarkdown(entry: Destination): string {
   const body = absolutizeMarkdown(entry.body ?? '')
+    .replace(/<div data-trip-map><\/div>/g, '') // map placeholder (rendered on the HTML page only)
     .replace(/\n{3,}/g, '\n\n')
     .trim();
   return `${guideHeader(entry)}\n\n---\n\n${body}\n`;

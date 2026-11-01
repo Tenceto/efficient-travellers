@@ -169,7 +169,7 @@ South Korea is such a beautiful country that we think between 2 and 3 weeks are 
 
 **DAY 1**
 
-On our first day, we explored some of the city’s most famous neighborhoods, including the shopping district of **Insadong** and the stunning streets of **Myeongdong**.
+On our first day, we explored some of the city’s most famous neighborhoods, including the shopping district of **Myeongdong** and the stunning streets of **Insadong**.
 
 Insadong quickly became one of our favorite areas in all of Seoul. The cafés and little shops are absolutely stunning, and the traditional vibe tucked between the city’s skyscrapers feels surreal. Then we passed by **Ssamziegil handicraft shopping complex**, the perfect place for souvenirs, and where we also had a portrait done by a local painter.
 

@@ -10,25 +10,25 @@ coverImage: "/images/posts/4-days-in-istanbul-cover.webp"
 highlights: []
 hasRatings: true
 places:
-  - { name: "Asmalı Mescit", lat: 41.0310, lng: 28.9748, day: 1, type: "town", section: "itinerary", note: "We stayed here and loved it: full of bars and little restaurants, and the main sights are within walking distance." }
-  - { name: "Galata Tower", lat: 41.0256, lng: 28.9742, day: 1, type: "sight", section: "itinerary", note: "Especially beautiful at sunset. We skipped going up, since there are plenty of free panoramic views in the city." }
-  - { name: "Istiklal Street", lat: 41.0336, lng: 28.9778, day: 1, type: "sight", section: "itinerary", note: "The main shopping street. Super touristy and quite Western, nothing too special." }
-  - { name: "Taksim Square", lat: 41.0369, lng: 28.9850, day: 1, type: "sight", section: "itinerary", note: "The end of our walk up Istiklal Street." }
-  - { name: "Grand Bazaar", lat: 41.0107, lng: 28.9681, day: 1, type: "sight", section: "itinerary", note: "Super colorful and full of atmosphere. Bargain hard and know the real value of what you buy." }
-  - { name: "Egyptian Bazaar", lat: 41.0165, lng: 28.9706, day: 1, type: "sight", section: "itinerary", note: "The spice bazaar, better than the Grand Bazaar for food and spices." }
-  - { name: "Blue Mosque", lat: 41.0054, lng: 28.9768, day: 2, type: "sight", section: "itinerary", note: "We only saw it from the outside because it was under maintenance." }
-  - { name: "Hagia Sophia", lat: 41.0086, lng: 28.9802, day: 2, type: "sight", section: "itinerary", note: "Absolutely stunning. The line looks long but moves fast (15 to 20 minutes), so skip the overpriced skip-the-line offers." }
-  - { name: "Topkapı Palace", lat: 41.0115, lng: 28.9834, day: 2, type: "sight", section: "itinerary", note: "We only saw it from the outside, as the €20 ticket did not feel worth it for us." }
-  - { name: "Basilica Cistern", lat: 41.0084, lng: 28.9779, day: 2, type: "sight", section: "itinerary", note: "Definitely worth the around €15 ticket: a unique underground site with a mysterious vibe." }
-  - { name: "Dolmabahçe Palace", lat: 41.0391, lng: 29.0004, day: 3, type: "sight", section: "itinerary", note: "You pass it on the long but recommended waterfront walk from Galata to Ortaköy." }
-  - { name: "Ortaköy", lat: 41.0470, lng: 29.0258, day: 3, type: "town", section: "itinerary", note: "Catch the local commuter ferry to the Asian side from here, around €1." }
-  - { name: "Ortaköy Mosque", lat: 41.0473, lng: 29.0270, day: 3, type: "sight", section: "itinerary", note: "A beautiful mosque worth a stop in Ortaköy." }
-  - { name: "Üsküdar", lat: 41.0266, lng: 29.0150, day: 3, type: "town", section: "itinerary", note: "One of our favorite neighborhoods on the Asian side, with a much more local vibe." }
-  - { name: "Kadıköy", lat: 40.9905, lng: 29.0250, day: 3, type: "town", section: "itinerary", note: "Our other favorite on the Asian side. Spend at least half a day just wandering on foot." }
-  - { name: "Fatih Mosque", lat: 41.0195, lng: 28.9497, day: 4, type: "sight", section: "itinerary", note: "Start your walk through the less touristy Fatih district at its impressive mosque." }
-  - { name: "Malta Çarşısı", lat: 41.0176, lng: 28.9440, day: 4, type: "sight", section: "itinerary", note: "The local market area of Fatih." }
-  - { name: "Fener", lat: 41.0295, lng: 28.9515, day: 4, type: "town", section: "itinerary", note: "The historic Greek neighborhood: super colorful, a bit of a maze and full of charm." }
-  - { name: "Balat", lat: 41.0335, lng: 28.9480, day: 4, type: "town", section: "itinerary", note: "Our absolute favorite: the old Jewish quarter, full of cute little cafés and aesthetic corners." }
+  - { name: "Asmalı Mescit", lat: 41.0310, lng: 28.9748, day: 1, type: "town", note: "We stayed here and loved it: full of bars and little restaurants, and the main sights are within walking distance." }
+  - { name: "Galata Tower", lat: 41.0256, lng: 28.9742, day: 1, type: "sight", note: "Especially beautiful at sunset. We skipped going up, since there are plenty of free panoramic views in the city." }
+  - { name: "Istiklal Street", lat: 41.0336, lng: 28.9778, day: 1, type: "sight", note: "The main shopping street. Super touristy and quite Western, nothing too special." }
+  - { name: "Taksim Square", lat: 41.0369, lng: 28.9850, day: 1, type: "sight", note: "The end of our walk up Istiklal Street." }
+  - { name: "Grand Bazaar", lat: 41.0107, lng: 28.9681, day: 1, type: "sight", note: "Super colorful and full of atmosphere. Bargain hard and know the real value of what you buy." }
+  - { name: "Egyptian Bazaar", lat: 41.0165, lng: 28.9706, day: 1, type: "sight", note: "The spice bazaar, better than the Grand Bazaar for food and spices." }
+  - { name: "Blue Mosque", lat: 41.0054, lng: 28.9768, day: 2, type: "sight", note: "We only saw it from the outside because it was under maintenance." }
+  - { name: "Hagia Sophia", lat: 41.0086, lng: 28.9802, day: 2, type: "sight", note: "Absolutely stunning. The line looks long but moves fast (15 to 20 minutes), so skip the overpriced skip-the-line offers." }
+  - { name: "Topkapı Palace", lat: 41.0115, lng: 28.9834, day: 2, type: "sight", note: "We only saw it from the outside, as the 20 EUR ticket did not feel worth it for us." }
+  - { name: "Basilica Cistern", lat: 41.0084, lng: 28.9779, day: 2, type: "sight", note: "Definitely worth the around 15 EUR ticket: a unique underground site with a mysterious vibe." }
+  - { name: "Dolmabahçe Palace", lat: 41.0391, lng: 29.0004, day: 3, type: "sight", note: "You pass it on the long but recommended waterfront walk from Galata to Ortaköy." }
+  - { name: "Ortaköy", lat: 41.0470, lng: 29.0258, day: 3, type: "town", note: "Catch the local commuter ferry to the Asian side from here, around 1 EUR." }
+  - { name: "Ortaköy Mosque", lat: 41.0473, lng: 29.0270, day: 3, type: "sight", note: "A beautiful mosque worth a stop in Ortaköy." }
+  - { name: "Üsküdar", lat: 41.0266, lng: 29.0150, day: 3, type: "town", note: "One of our favorite neighborhoods on the Asian side, with a much more local vibe." }
+  - { name: "Kadıköy", lat: 40.9905, lng: 29.0250, day: 3, type: "town", note: "Our other favorite on the Asian side. Spend at least half a day just wandering on foot." }
+  - { name: "Fatih Mosque", lat: 41.0195, lng: 28.9497, day: 4, type: "sight", note: "Start your walk through the less touristy Fatih district at its impressive mosque." }
+  - { name: "Malta Çarşısı", lat: 41.0176, lng: 28.9440, day: 4, type: "sight", note: "The local market area of Fatih." }
+  - { name: "Fener", lat: 41.0295, lng: 28.9515, day: 4, type: "town", note: "The historic Greek neighborhood: super colorful, a bit of a maze and full of charm." }
+  - { name: "Balat", lat: 41.0335, lng: 28.9480, day: 4, type: "town", note: "Our absolute favorite: the old Jewish quarter, full of cute little cafés and aesthetic corners." }
   - { name: "Zübeyir Ocakbaşı", lat: 41.0365, lng: 28.9821, day: 1, type: "food", note: "A famous traditional grill. The Kuzu Pirzola (lamb chops) here are legendary." }
   - { name: "Kral Kokoreç Sirkeci", lat: 41.0151, lng: 28.9733, day: 2, type: "food", note: "A phenomenal spot for authentic, perfectly seasoned kokoreç with a casual local street-food vibe." }
   - { name: "Balıkçı Lokantası", lat: 40.9938, lng: 29.0257, day: 3, type: "food", note: "Super local seafood spot on the Asian side. The salmon is next level, with fair prices and big portions." }
@@ -71,7 +71,7 @@ To go from the airport to the city center, we grabbed a taxi. Just a heads up, t
 
 ### Money
 
-Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate.
+Always use your Wise or Revolut card for the best exchange rate.
 
 Be aware that many activities don’t accept cards, but they often accept euros.
 
@@ -108,7 +108,7 @@ In just four days (and despite dealing with a stomach flu), we still managed to 
 
 <div data-trip-map></div>
 
-**DAY 1**
+### Day 1
 
 After landing, we had lunch near our hotel and then wandered around Asmalı Mescit, the neighborhood just behind **Galata Tower** (which, by the way, looks especially beautiful at sunset).
 
@@ -118,7 +118,7 @@ After that, we walked along **Istiklal Street** up to **Taksim Square**, which i
 
 To finish the day, we went for a first round of shopping at the **Grand Bazaar** and the nearby **Egyptian Bazaar**, the latter being better for food and spices. It’s definitely a place you need to see, super colorful and full of atmosphere. But if you actually want to buy something, get ready to bargain hard and know the real value of what you’re buying, otherwise you’ll definitely get ripped off!
 
-**DAY 2**
+### Day 2
 
 On our second day, we explored the most touristy part of the city: **Sultanahmet**.
 
@@ -126,17 +126,17 @@ We saw the **Blue Mosque** only from the outside because, unfortunately, it was 
 
 Be careful: it always looks like there’s a super long line, and you’ll probably get approached by someone trying to sell you an overpriced “skip-the-line” tour. But honestly, the line moves really quickly. We got in within 15–20 minutes. Hagia Sophia is absolutely stunning and totally worth a visit!
 
-After that, we headed over to **Topkapı Palace**, but we only checked it out from the outside. We’re not huge history fans, so the €20 ticket didn’t feel worth it for us.
+After that, we headed over to **Topkapı Palace**, but we only checked it out from the outside. We’re not huge history fans, so the 20 EUR ticket didn’t feel worth it for us.
 
-Instead, we decided to visit the **Basilica Cistern** (around €15), and it was definitely worth it! It’s a really unique and fascinating underground historical site with a mysterious vibe.
+Instead, we decided to visit the **Basilica Cistern** (around 15 EUR), and it was definitely worth it! It’s a really unique and fascinating underground historical site with a mysterious vibe.
 
 *Ticket prices change often, so always check the official websites for the latest prices before you go.*
 
-**DAY 3**
+### Day 3
 
 On our third day, we explored the area around our hotel again (Galata), then walked all the way to **Ortaköy** to catch the ferry to the Asian side.
 
-The ferry from here was extremely cheap (around €1), since it’s the one that locals take to commute. Even if the walk is pretty long, for this reason and for the fact that you get to pass through some less touristy neighborhoods right along the water, we definitely recommend it. It’s a great way to see a different side of the city.
+The ferry from here was extremely cheap (around 1 EUR), since it’s the one that locals take to commute. Even if the walk is pretty long, for this reason and for the fact that you get to pass through some less touristy neighborhoods right along the water, we definitely recommend it. It’s a great way to see a different side of the city.
 
 Along the way, you’ll also come across the **Dolmabahçe Palace** and the nice neighborhood of **Ortaköy**, where you can stop to check out the beautiful Ortaköy Mosque.
 
@@ -144,7 +144,7 @@ As for the Asian side, we suggest spending at least half a day there. It feels t
 
 We recommend just wandering around on foot. Our favorite neighborhoods were **Kadıköy** and **Üsküdar**.
 
-**DAY 4**
+### Day 4
 
 On our last day, we explored some less touristy neighborhoods and, honestly, we ended up liking them the most. Definitely our favorite areas in the whole city!
 

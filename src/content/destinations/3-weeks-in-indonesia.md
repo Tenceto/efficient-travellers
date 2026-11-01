@@ -10,31 +10,31 @@ coverImage: "/images/posts/3-weeks-in-indonesia-cover.webp"
 highlights: ["Bali", "Gili Islands", "Lombok", "Flores & Komodo National Park"]
 hasRatings: true
 places:
-  - { name: "Monkey Forest", lat: -8.5188, lng: 115.2585, group: "Ubud", type: "sight", note: "Touristy, but we really enjoyed it and think it's worth visiting (entrance: €4)." }
+  - { name: "Monkey Forest", lat: -8.5188, lng: 115.2585, group: "Ubud", type: "sight", note: "Touristy, but we really enjoyed it and think it's worth visiting (entrance: 4 EUR)." }
   - { name: "Ubud Palace & Market", lat: -8.5069, lng: 115.2625, group: "Ubud", type: "sight", note: "Free palace with the market right in front. Bargain hard, aim for about one-third of the first price." }
   - { name: "Tukad Cepung Waterfall", lat: -8.4386, lng: 115.3881, group: "Ubud", type: "waterfall", note: "A stunning spot, though quite far by scooter. Go early to avoid crowds." }
-  - { name: "Tegallalang Rice Terraces", lat: -8.4319, lng: 115.2793, group: "Ubud", type: "nature", note: "Very touristy but absolutely EPIC. Go early in the morning (entrance: €2)." }
+  - { name: "Tegallalang Rice Terraces", lat: -8.4319, lng: 115.2793, group: "Ubud", type: "nature", note: "Very touristy but absolutely EPIC. Go early in the morning (entrance: 2 EUR)." }
   - { name: "Jatiluwih Rice Terraces", lat: -8.3707, lng: 115.1313, group: "Ubud", type: "nature", note: "A less touristy alternative to Tegallalang." }
   - { name: "Tirta Empul", lat: -8.4153, lng: 115.3153, group: "Ubud", type: "sight", note: "A bit of a tourist trap: go at 8 AM sharp or expect crowds and a staged purification ritual." }
-  - { name: "Alchemy Yoga & Meditation", lat: -8.5085, lng: 115.2510, group: "Ubud", type: "activity", note: "Amazing place with a fantastic class, made for foreigners (€10). Highly recommended!" }
-  - { name: "Taman Ayun Temple", lat: -8.5418, lng: 115.1726, group: "Ubud", type: "sight", note: "Our favorite temple, and the scooter ride to Mengwi is beautiful (entrance: ~€2)." }
-  - { name: "Tanah Lot", lat: -8.6212, lng: 115.0868, group: "Ubud", type: "sight", note: "A stunning temple in the middle of the sea. Best at sunset (entrance: €5)." }
-  - { name: "Sidemen", lat: -8.4809, lng: 115.4412, group: "Sidemen", type: "town", note: "Tiny village famous for silver: make your own engraved ring at Adi Silver (€15-20)." }
+  - { name: "Alchemy Yoga & Meditation", lat: -8.5085, lng: 115.2510, group: "Ubud", type: "activity", note: "Amazing place with a fantastic class, made for foreigners (10 EUR). Highly recommended!" }
+  - { name: "Taman Ayun Temple", lat: -8.5418, lng: 115.1726, group: "Ubud", type: "sight", note: "Our favorite temple, and the scooter ride to Mengwi is beautiful (entrance: ~2 EUR)." }
+  - { name: "Tanah Lot", lat: -8.6212, lng: 115.0868, group: "Ubud", type: "sight", note: "A stunning temple in the middle of the sea. Best at sunset (entrance: 5 EUR)." }
+  - { name: "Sidemen", lat: -8.4809, lng: 115.4412, group: "Sidemen", type: "town", note: "Tiny village famous for silver: make your own engraved ring at Adi Silver (15-20 EUR)." }
   - { name: "Gembleng Waterfall", lat: -8.4927, lng: 115.4609, group: "Sidemen", type: "waterfall", note: "Possibly the best waterfall we've seen! Entrance by donation." }
   - { name: "Amed", lat: -8.3380, lng: 115.6580, group: "Amed", type: "town", note: "Didn't really impress us: black pebble beach, so-so water. Mainly diving and massages." }
-  - { name: "White Sand Divers Amed", lat: -8.3540, lng: 115.6720, group: "Amed", type: "activity", note: "Fantastic instructors. A single 13m dive was ~€80, PADI about €400." }
-  - { name: "Padang Bai port", lat: -8.5306, lng: 115.5099, group: "Gili Air", type: "town", note: "Local driver from Amed for €15, then the Eka Jaya boat to Gili Air (2h, €30)." }
+  - { name: "White Sands Amed (Amed White Sand Divers)", lat: -8.3540, lng: 115.6720, group: "Amed", type: "activity", note: "Fantastic instructors. A single 13m dive was ~80 EUR, PADI about 400 EUR." }
+  - { name: "Padang Bai port", lat: -8.5306, lng: 115.5099, group: "Amed", section: "4-gili-air", type: "town", note: "Local driver from Amed for 15 EUR, then the Eka Jaya boat to Gili Air (2h, 30 EUR)." }
   - { name: "Gili Air southwest coast", lat: -8.3570, lng: 116.0762, group: "Gili Air", type: "nature", note: "Chill beach life and the best sunsets, where all the beach bars are." }
-  - { name: "Gili Air turtle spot", lat: -8.3650, lng: 116.0840, group: "Gili Air", type: "activity", note: "Rent a snorkel for €2 and look for turtles on your own, no need for tours." }
-  - { name: "Mount Rinjani (Sembalun trailhead)", lat: -8.3600, lng: 116.5280, group: "Rinjani", type: "nature", note: "Pin at the usual 2-day trek start. Guided only, ~€180; the 2D1N trek is the one we recommend. Tip the porters!" }
+  - { name: "Turtle Beach", lat: -8.3650, lng: 116.0840, group: "Gili Air", type: "activity", note: "Rent a snorkel for 2 EUR and look for turtles on your own, no need for tours." }
+  - { name: "Mount Rinjani (Sembalun trailhead)", lat: -8.3600, lng: 116.5280, group: "Rinjani", type: "nature", note: "Pin at the usual 2-day trek start. Guided only, ~180 EUR; the 2D1N trek is the one we recommend. Tip the porters!" }
   - { name: "Mataram", lat: -8.5833, lng: 116.1167, group: "Mataram", type: "town", note: "You can skip it: only useful for big shops or a break on a long scooter ride." }
-  - { name: "Sade Village", lat: -8.8393, lng: 116.2925, group: "Kuta Lombok", type: "sight", note: "Traditional village that feels a bit staged. We bargained the tour down to €5 for two." }
+  - { name: "Sade Village", lat: -8.8393, lng: 116.2925, group: "Kuta Lombok", type: "sight", note: "Traditional village that feels a bit staged. We bargained the tour down to 5 EUR for two." }
   - { name: "Kuta Lombok", lat: -8.8934, lng: 116.2776, group: "Kuta Lombok", type: "town", note: "Super cute, with great cafes, cool shops, a chill surfer vibe and good nightlife." }
-  - { name: "Bukit Merese (sunset hill)", lat: -8.9060, lng: 116.3160, group: "Kuta Lombok", type: "nature", note: "Breathtaking panoramic sunset with vendors selling drinks. One of the best spots in Indonesia." }
-  - { name: "Selong Belanak Beach", lat: -8.8720, lng: 116.1650, group: "Kuta Lombok", type: "activity", note: "Great for surf beginners, full of surf schools (lessons around €15)." }
+  - { name: "Sunset View Hill (Bukit Merese)", lat: -8.9139, lng: 116.3190, group: "Kuta Lombok", type: "nature", note: "Breathtaking panoramic sunset with vendors selling drinks. One of the best spots in Indonesia." }
+  - { name: "Selong Belanak Beach", lat: -8.8720, lng: 116.1650, group: "Kuta Lombok", type: "activity", note: "Great for surf beginners, full of surf schools (lessons around 15 EUR)." }
   - { name: "Mawi Beach", lat: -8.8878, lng: 116.1607, group: "Kuta Lombok", type: "nature", note: "Beautiful, for experienced surfers only but worth watching. Rough road, good bike skills needed." }
   - { name: "Tanjung Aan Beach", lat: -8.9080, lng: 116.3220, group: "Kuta Lombok", type: "nature", note: "Nice but touristy. Walk to the far end to find locals." }
-  - { name: "Whale sharks (Saleh Bay)", lat: -8.7400, lng: 117.9000, group: "Boat tour", type: "activity", note: "A 5:30 AM sunrise swim with whale sharks on day 2 of the Wanua Adventure tour. Absolutely unreal." }
+  - { name: "Whale sharks (Saleh Bay)", lat: -8.5236, lng: 117.9906, group: "Boat tour", type: "activity", note: "A 5:30 AM sunrise swim with whale sharks on day 2 of the Wanua Adventure tour. Absolutely unreal." }
   - { name: "Komodo Island", lat: -8.5700, lng: 119.5020, group: "Boat tour", type: "nature", note: "Guided tour to see the Komodo dragons on day 3." }
   - { name: "Pink Beach", lat: -8.6000, lng: 119.5160, group: "Boat tour", type: "nature", note: "Snorkeling stop on day 3 of the boat tour." }
   - { name: "Padar Island", lat: -8.6555, lng: 119.5782, group: "Boat tour", type: "nature", note: "Short sunset hike with an incredible view of three different-colored beaches." }
@@ -43,7 +43,7 @@ places:
   - { name: "Padang Padang Beach", lat: -8.8110, lng: 115.1035, group: "Uluwatu", type: "nature", note: "Beautiful, with intermediate-level surfing." }
   - { name: "Nunggalan Beach", lat: -8.8380, lng: 115.1000, group: "Uluwatu", type: "nature", note: "Go here for sunset." }
   - { name: "Karang Boma Cliff", lat: -8.8340, lng: 115.0910, group: "Uluwatu", type: "nature", note: "Another great sunset spot." }
-  - { name: "Kala Surf Camp", lat: -8.8169, lng: 115.0929, group: "Uluwatu", type: "activity", note: "Surf lesson for €25 at a great spot, though you could probably find cheaper." }
+  - { name: "Kala Surf Camp", lat: -8.8169, lng: 115.0929, group: "Uluwatu", type: "activity", note: "Surf lesson for 25 EUR at a great spot, though you could probably find cheaper." }
   - { name: "Sun Sun Warung", lat: -8.5091, lng: 115.2668, group: "Ubud", type: "food", note: "Not a real warung, but SO good. Nasi Campur with chicken 45k IDR, and great Dadar Gulung." }
   - { name: "Murni's Warung", lat: -8.5053, lng: 115.2546, group: "Ubud", type: "food", note: "The oldest warung in town. Have the life-changing Tipat Cantok (35k IDR)." }
   - { name: "Warung Ole", lat: -8.3356, lng: 115.6484, group: "Amed", type: "food", note: "Family-owned, slow but amazing, almost every dish 30k IDR. Try the Balinese options." }
@@ -64,8 +64,8 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
-- **Visa**: When we went, a 30-day visa cost around €30. The rules seem to have changed since then (the official site now lists a 60-day tourist e-visa), so check the current official details [here](https://evisa.imigrasi.go.id/front/faq/dd5c2220-28a7-4024-9a10-82f30a09e0d2) before you go.
-- **Bali Tourist Tax**: In recent years, there’s a €10 entry tax for Bali. It seems that no one checks it, but in my opinion, it’s a small and fair contribution considering the impact of mass tourism. You can pay for it [here](https://lovebali.baliprov.go.id/).
+- **Visa**: When we went, a 30-day visa cost around 30 EUR. The rules seem to have changed since then (the official site now lists a 60-day tourist e-visa), so check the current official details [here](https://evisa.imigrasi.go.id/front/faq/dd5c2220-28a7-4024-9a10-82f30a09e0d2) before you go.
+- **Bali Tourist Tax**: In recent years, there’s a 10 EUR entry tax for Bali. It seems that no one checks it, but in my opinion, it’s a small and fair contribution considering the impact of mass tourism. You can pay for it [here](https://lovebali.baliprov.go.id/).
 - **Dengue**: Dengue fever is a real risk and the consequences can be really bothersome, so always carry a reliable insect repellent.
 - **Bali Belly**: The infamous "Bali belly" is often exaggerated. Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: Despite being there during the weeks that correspond to the start of the rainy season (end of September), we only had one day of heavy rain in 3 weeks. There were some very short (some minutes long) showers in the other 3 or 4 days. We were probably very lucky, but in any case, the weather is super unpredictable and varies drastically in a matter of minutes, so always take a rain jacket with you (even if it’s extremely sunny when you leave your room).
@@ -79,7 +79,7 @@ Before going, we had some concerns—especially about Bali. I had heard how tour
 
 - The variety of activities and experiences is crazy: you can swim with sharks, hike a volcano at 2 AM, sleep for 4 days on the deck of a boat, and see pseudo-dragons on remote islands.
 - Try to bargain for everything that is not food, since they will typically shoot prices up – in markets, when hiring tours and excursions, or when buying clothes.
-- Eat only at warungs unless you are dying for Western food. The food is delicious, and although it can get a bit monotonous, the prices are so ridiculously cheap (between 1€ and 2€ for a normal dish) that you can’t complain.
+- Eat only at warungs unless you are dying for Western food. The food is delicious, and although it can get a bit monotonous, the prices are so ridiculously cheap (between 1 and 2 EUR for a normal dish) that you can’t complain.
 - Local people are some of the most friendly you’ll meet in your life, particularly in Bali.
 - Forget about living the full experience if you don't rent a scooter—it's vital.
 - Avoid massively touristic places, since they get really packed and tend to be pricey. Our best experiences were typically in unexplored small villages.
@@ -98,28 +98,28 @@ Be aware that in remote places in the north of Bali and Lombok, these apps don't
 
 ### Money
 
-Almost everywhere you will need to pay in cash. Avoid exchanging cash in your currency (USD, EUR, or whatever). Instead, use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card in ATMs to have the best exchange rate.
+Almost everywhere you will need to pay in cash. Avoid exchanging cash in your currency (USD, EUR, or whatever). Instead, use your Wise or Revolut card in ATMs to have the best exchange rate.
 
 ATMs with no withdrawal fee: Mandiri, BNI.
 
 
 ### SIM card
 
-The only company that is not a tourist trap is [Telkomsel](https://www.telkomsel.com/shops/digital-product/package?utm_source=wec&utm_medium=quickbutton&utm_campaign=belipaket&utm_id=wec-isipaket&msisdn=&type=internet&category=Semua%20Paket&service=PraBayar&sort=&minPrice=&maxPrice=&quota=). Don't buy a SIM card at the airport. Go to a shop in a big city and take the local package, it works perfectly (6€ for one month).
+The only company that is not a tourist trap is [Telkomsel](https://www.telkomsel.com/shops/digital-product/package?utm_source=wec&utm_medium=quickbutton&utm_campaign=belipaket&utm_id=wec-isipaket&msisdn=&type=internet&category=Semua%20Paket&service=PraBayar&sort=&minPrice=&maxPrice=&quota=). Don't buy a SIM card at the airport. Go to a shop in a big city and take the local package, it works perfectly (6 EUR for one month).
 
 
 ### Clothes
 
 The weather is really humid, so it's good to have fresh clothes that dry fast. Always have in your daily backpack a pair of long trousers for the temples.
 
-Regarding laundry, it's full of places around every island. Just do a quick search on Google Maps. Prices could vary from 1 to 2€ per kilo.
+Regarding laundry, it's full of places around every island. Just do a quick search on Google Maps. Prices could vary from 1 to 2 EUR per kilo.
 
 
 ### Scooter
 
-I highly recommend renting one to explore the island (you can do it directly in every guest house, around 4-6€ per day). It’s the best way to discover small, off-the-beaten-path villages that are often overlooked by typical travel routes.
+I highly recommend renting one to explore the island (you can do it directly in every guest house, around 4-6 EUR per day). It’s the best way to discover small, off-the-beaten-path villages that are often overlooked by typical travel routes.
 
-If you pop a tire, fixing it shouldn't cost more than 1€.
+If you pop a tire, fixing it shouldn't cost more than 1 EUR.
 
 Always get gas at gas stations (unless it's urgent), because buying gas from street vendors is more expensive.
 
@@ -173,7 +173,7 @@ Ubud is the heart and soul of Bali. We loved staying in a guesthouse outside the
 
 #### Day 1
 
-Monkey Forest – Despite being a tourist hotspot, we really enjoyed it and think it’s worth visiting. (Entrance: €4)
+Monkey Forest – Despite being a tourist hotspot, we really enjoyed it and think it’s worth visiting. (Entrance: 4 EUR)
 
 Ubud Palace (Free Entry) & Market – The market is right in front of the palace. Bargain hard! Aim to negotiate down to about one-third of the initial price.
 
@@ -182,56 +182,56 @@ Tukad Cepung Waterfall – A stunning spot, though quite far by scooter. The nor
 
 #### Day 2
 
-Tegallalang Rice Terraces – Though very touristy, they were absolutely EPIC. It’s essential to go early in the morning to truly enjoy the experience. (Entrance: €2)
+Tegallalang Rice Terraces – Though very touristy, they were absolutely EPIC. It’s essential to go early in the morning to truly enjoy the experience. (Entrance: 2 EUR)
 
 There is also the option to go to less touristic ones, like Jatiluwih rice terraces.
 
 Tirta Empul – In our opinion, this is a bit of a tourist trap. Either go at 8 AM sharp or prepare to be surrounded by tourists taking part in what often feels like a staged purification ritual scam.
 
-Yoga & Meditation at Alchemy – An amazing place with a fantastic class, of course created for foreigners. (€10) Highly recommended!
+Yoga & Meditation at Alchemy – An amazing place with a fantastic class, of course created for foreigners. (10 EUR) Highly recommended!
 
 
 #### Day 3
 
 Ubud City – half a day is completely worth it to spend wandering through the non-touristy streets of Ubud and soaking in the local atmosphere.
 
-Mengwi – The ride there by scooter is beautiful, and Taman Ayun Temple was our favorite! (Entrance: ~€2)
+Mengwi – The ride there by scooter is beautiful, and Taman Ayun Temple was our favorite! (Entrance: ~2 EUR)
 
-Tanah Lot – A stunning temple in the middle of the sea, a must-see. Best visited at sunset for an unforgettable view. (Entrance: €5)
+Tanah Lot – A stunning temple in the middle of the sea, a must-see. Best visited at sunset for an unforgettable view. (Entrance: 5 EUR)
 
 
 ### 2. Sidemen
 
 This little village is tiny and can easily be explored in a day, but it’s totally worth it!
 
-The area is famous for its silver, and a super fun experience to try for a unique souvenir is making your own engraved ring at Adi Silver (costs around €15-20 per ring).
+The area is famous for its silver, and a super fun experience to try for a unique souvenir is making your own engraved ring at Adi Silver (costs around 15-20 EUR per ring).
 
 Gembleng waterfalls – possibly the best we’ve seen! (entrance fee by donation). The surrounding nature and rice fields are also worth exploring by scooter.
 
 
 ### 3. Amed
 
-Amed didn’t really impress us. The beach is just black pebbles, and the water is so-so. The main activities here are diving (PADI certification available) and massages. For diving, we recommend White Sands Amed—fantastic instructors! We did a single dive (13m) for around €80, while the PADI certification costs about €400—way cheaper than anywhere else in the world. That said, if I had to choose, I’d get certified in the Gili Islands, where the reef is much nicer.
+Amed didn’t really impress us. The beach is just black pebbles, and the water is so-so. The main activities here are diving (PADI certification available) and massages. For diving, we recommend White Sands Amed—fantastic instructors! We did a single dive (13m) for around 80 EUR, while the PADI certification costs about 400 EUR—way cheaper than anywhere else in the world. That said, if I had to choose, I’d get certified in the Gili Islands, where the reef is much nicer.
 
 
 ### 4. Gili Air
 
-Getting there: We took a local driver from Amed to Padang Bai (port) for €15 total, then hopped on the Eka Jaya boat (2h trip). Despite the bad reviews, the ride was super smooth—maybe we got lucky! It costs €30 per person, but apparently, Golden Queen is just as good and half the price.
+Getting there: We took a local driver from Amed to Padang Bai (port) for 15 EUR total, then hopped on the Eka Jaya boat (2h trip). Despite the bad reviews, the ride was super smooth—maybe we got lucky! It costs 30 EUR per person, but apparently, Golden Queen is just as good and half the price.
 
 Which Gili to choose? We picked Gili Air—a perfect middle ground, not too wild but still with things to do.
 
 How long to stay? 3 days max! The islands are tiny, and unless you're diving, there's not much else going on. We weren't so impressed.
 
-What to do? Just classic chill beach life! Best sunsets? Southwest coast, where all the beach bars are. Want to see turtles? Head to Turtle Beach, rent a snorkel for €2, and go explore—no need for overpriced tours, you can totally do it on your own!
+What to do? Just classic chill beach life! Best sunsets? Southwest coast, where all the beach bars are. Want to see turtles? Head to Turtle Beach, rent a snorkel for 2 EUR, and go explore—no need for overpriced tours, you can totally do it on your own!
 
 
 ### 5. Lombok and Rinjani volcano
 
-From Gili Air to Lombok: We took the local boat instead of the tourist one—only €1 instead of €20! The one in the morning leaves at 8 AM, but it only departs once there are at least 40 people. Luckily, we didn’t have to wait long, and it left right away.
+From Gili Air to Lombok: We took the local boat instead of the tourist one—only 1 EUR instead of 20 EUR! The one in the morning leaves at 8 AM, but it only departs once there are at least 40 people. Luckily, we didn’t have to wait long, and it left right away.
 
 Hiking Rinjani: You can only go with a guided tour, which takes care of everything—pick-up, hotel stay the night before, tents, food, all included. We did the 2-day, 1-night trek, and we highly recommend it! The 3-day, 2-night trek is tougher, plus sleeping two nights in a tent, covered in volcanic dust, is rough. And honestly, you don’t see anything extra that makes it worth the struggle.
 
-Cost? Around €180 per person. You’ll find cheaper options (and you can negotiate), but keep in mind that lower prices usually mean a terrible hotel the night before.
+Cost? Around 180 EUR per person. You’ll find cheaper options (and you can negotiate), but keep in mind that lower prices usually mean a terrible hotel the night before.
 
 Important! Leave a good tip for the porters—they carry 20-25 kg on their backs for ridiculously low pay, and their job is beyond tough.
 
@@ -247,7 +247,7 @@ Honestly, you can totally remove this city from your itinerary. It’s one of th
 
 ### 7. Kuta Lombok
 
-On our road trip to Kuta, we stopped at Sade Village, a traditional village that feels a bit staged for tourists but still has some interesting stories. Watch out—they’ll try to make you pay for a tour, but we bargained it down to €5 for two, and it’s definitely not worth more than that.
+On our road trip to Kuta, we stopped at Sade Village, a traditional village that feels a bit staged for tourists but still has some interesting stories. Watch out—they’ll try to make you pay for a tour, but we bargained it down to 5 EUR for two, and it’s definitely not worth more than that.
 
 Kuta Town – Super cute, with great cafes, cool shops, and a chill surfer vibe. Also, good nightlife.
 
@@ -255,7 +255,7 @@ Sunset Spot – We highly recommend Sunset View Hill, an incredible place with a
 
 Surfing – A Must! Whether you're a pro or a beginner.
 
-Best Beaches – Pantai Selong Belanak: great for surf beginners and full of surf schools (lessons around €15).
+Best Beaches – Pantai Selong Belanak: great for surf beginners and full of surf schools (lessons around 15 EUR).
 
 Mawi: beautiful but only for experienced surfers. It’s worth watching! Be careful—the road to arrive is rough, so you need good motorbike skills.
 
@@ -266,7 +266,7 @@ Tanjung Aan: A nice but more touristy beach. If you walk to the far end, you’l
 
 Despite the many negative reviews online, for us, this was one of the best experiences in Indonesia. Of course, you need an adventurous mindset—if you’re looking for comfort, this isn’t for you.
 
-We highly recommend Wanua Adventure, a well-organized and professional company. For around €200, everything is included: pick-up, food, activities, and sleeping arrangements. We chose the mattress on the deck, but you can upgrade to a private cabin with AC. Honestly, the deck is the better option—more of an adventure, and cabins are near the engine, making them noisier and hotter. Instead, the deck is super ventilated thanks to the air circulation.
+We highly recommend Wanua Adventure, a well-organized and professional company. For around 200 EUR, everything is included: pick-up, food, activities, and sleeping arrangements. We chose the mattress on the deck, but you can upgrade to a private cabin with AC. Honestly, the deck is the better option—more of an adventure, and cabins are near the engine, making them noisier and hotter. Instead, the deck is super ventilated thanks to the air circulation.
 
 Day 1 started with them picking us up in Mataram, doing the check-in near Bangsal, and then driving us to the port in East Lombok. Lunch was included, and it was huge! Then we had a 2-hour boat ride to a deserted island for a swim and sunset. The first night was open-sea navigation—if you get seasick, bring meds. I had a couple of rough hours.
 
@@ -302,7 +302,7 @@ Nunggalan Beach and Karang Boma Cliff for sunset.
 
 #### Day 2
 
-Shopping in town (on Sundays, there are some amazing markets). In the afternoon, I took a surf lesson at Kala Surf Camp (€25)—did it with a friend in a great spot, but you could probably find a cheaper option.
+Shopping in town (on Sundays, there are some amazing markets). In the afternoon, I took a surf lesson at Kala Surf Camp (25 EUR)—did it with a friend in a great spot, but you could probably find a cheaper option.
 
 
 <div class="post-gallery">
@@ -334,9 +334,9 @@ Other dishes that you must try while in Indonesia:
 The best bet to have delicious food for ridiculously cheap prices is warungs. These are generally small family-owned shops. However, some places just call themselves “warungs” because, probably, they attract more tourists calling themselves like that. In any case, here is a list of warungs (and maybe some not-so-warungs) that really stood out because of the food, the friendliness of their staff, and the really good prices. (Note: the list is not in any particular order.)
 
 
-- [Sun Sun Warung](https://maps.app.goo.gl/Bvrp1xNpMNuLLAyv7) (Ubud). Definitely not an actual warung, but the food there was SO good that it earned a spot in this list. The place is beautiful too since it’s quite touristy. Nasi Campur is really good here (45k IDR or 2.5€ for the one with chicken), and also Dadar Gulung was really good.
-- [Murni's Warung](https://maps.app.goo.gl/xyiqw2BXmZS1L96G6) (Ubud). In theory the oldest warung in the city – although not very warung-like looking, and with the menu fully in English, so quite touristy. However, here we had Tipat Cantok. A must-try, hands down life-changing dish. And here it cost only 35k IDR (2€).
-- [Warung Ole](https://maps.app.goo.gl/zZU9GSdWqhezyxRZ9) (Amed). Totally family-owned, this place may be a bit slow since there are only two people cooking, and the place gets quite packed. But there’s a reason for this: the food is amazing, the prices are incredible (almost every dish is 30k IDR or 1.70€), and there is a really large variety of dishes. You can even have burgers or pasta there if you want, although, of course, we encourage you to try the authentic Balinese options.
-- [Warung Makan Pak Dikin](https://maps.app.goo.gl/5Jc6U5jE7n2xBu4cA) (Labuan Bajo). We found this place completely by chance when starving while going around. We stopped and found that here not only the Nasi Goreng was 15k IDR (0.85€, absurd), but also it was the best we had on our trip. The hygienic conditions of the place were not the best, but well… You can’t have it all!
-- [zZz Warung](https://maps.app.goo.gl/DEkUH1CPZey9ZSJx5) (Gili Air). Our favorite place in all of Indonesia. We went here like 5 times in 3 days. Almost every dish is 30k IDR (1.70€), and the food is OUTSTANDING. Shoutout to the chicken curry – one of the best we have had. Also, Gado Gado is a must-try! And you can wrap up your dinner with some nice Pisang Goreng.
+- [Sun Sun Warung](https://maps.app.goo.gl/Bvrp1xNpMNuLLAyv7) (Ubud). Definitely not an actual warung, but the food there was SO good that it earned a spot in this list. The place is beautiful too since it’s quite touristy. Nasi Campur is really good here (45k IDR or 2.5 EUR for the one with chicken), and also Dadar Gulung was really good.
+- [Murni's Warung](https://maps.app.goo.gl/xyiqw2BXmZS1L96G6) (Ubud). In theory the oldest warung in the city – although not very warung-like looking, and with the menu fully in English, so quite touristy. However, here we had Tipat Cantok. A must-try, hands down life-changing dish. And here it cost only 35k IDR (2 EUR).
+- [Warung Ole](https://maps.app.goo.gl/zZU9GSdWqhezyxRZ9) (Amed). Totally family-owned, this place may be a bit slow since there are only two people cooking, and the place gets quite packed. But there’s a reason for this: the food is amazing, the prices are incredible (almost every dish is 30k IDR or 1.70 EUR), and there is a really large variety of dishes. You can even have burgers or pasta there if you want, although, of course, we encourage you to try the authentic Balinese options.
+- [Warung Makan Pak Dikin](https://maps.app.goo.gl/5Jc6U5jE7n2xBu4cA) (Labuan Bajo). We found this place completely by chance when starving while going around. We stopped and found that here not only the Nasi Goreng was 15k IDR (0.85 EUR, absurd), but also it was the best we had on our trip. The hygienic conditions of the place were not the best, but well… You can’t have it all!
+- [zZz Warung](https://maps.app.goo.gl/DEkUH1CPZey9ZSJx5) (Gili Air). Our favorite place in all of Indonesia. We went here like 5 times in 3 days. Almost every dish is 30k IDR (1.70 EUR), and the food is OUTSTANDING. Shoutout to the chicken curry – one of the best we have had. Also, Gado Gado is a must-try! And you can wrap up your dinner with some nice Pisang Goreng.
 - [Mrs Widya's Campur-Campur](https://maps.app.goo.gl/3Z3ZAZFLkdLiKRPe9) (Uluwatu). This place, as its name hints, only sells Nasi Campur. But it is, by far, the best one we had while in Indonesia. It’s quite different from all other places since you can customize your dish as you want: you choose what kind of rice you want, and you add things (the “campur” part) to it, just like you would make your sandwich at Subway. The cost varies since it depends on what you choose, but the price was really fair, and the options were limitless and all of them were delicious. The owner of the place was also super kind, and he remains one of our favorite locals that we met throughout our journey!

@@ -44,8 +44,8 @@ places:
   - { name: "Arnarstapi", lat: 64.7670, lng: -23.6250, day: 8, type: "nature", note: "Start of the coastal walk to Hellnar, our best views of the week." }
   - { name: "Hellnar", lat: 64.7505, lng: -23.6450, day: 8, type: "nature", note: "End of the coastal walk from Arnarstapi." }
   - { name: "Reykjavík city centre", lat: 64.1466, lng: -21.9426, day: 9, type: "town", note: "Cosy cafés, concept and vintage stores. Just get lost." }
-  - { name: "Bæjarins Beztu Pylsur", lat: 64.1484, lng: -21.9391, day: 9, type: "food", note: "The famous Icelandic hot dog (~€6.50)." }
-  - { name: "Icelandic Street Food", lat: 64.1470, lng: -21.9370, day: 9, type: "food", note: "Lamb soup in a bread bowl with unlimited refills (~€23)." }
+  - { name: "Bæjarins Beztu Pylsur", lat: 64.1484, lng: -21.9391, day: 9, type: "food", note: "The famous Icelandic hot dog (~6.50 EUR)." }
+  - { name: "Icelandic Street Food", lat: 64.1470, lng: -21.9370, day: 9, type: "food", note: "Lamb soup in a bread bowl with unlimited refills (~23 EUR)." }
   - { name: "Íslenski Barinn", lat: 64.1474, lng: -21.9345, day: 9, type: "food", note: "Traditional Icelandic food. Try the plokkfiskur." }
   - { name: "Brauð & Co", lat: 64.1446, lng: -21.9265, day: 9, type: "food", note: "Top-3 cinnamon rolls of our lives." }
 ratings: {"budget": 2, "adventure": 5, "food": 1, "overall": 5}
@@ -66,7 +66,7 @@ Infinite panoramic roads, glaciers, waterfalls and volcanoes. When going around 
   We chose to rent a van in order to be completely free and decide day by day what itinerary to follow. It turned out pretty useful considering the volatility of the weather. Plus, we are van-life lovers!  
   There are several companies to rent the van from, but for us the best value for money was definitely [Kuku Campers](https://www.kukucampers.is/). It's a local company, our experience was great, and their marketing is absolutely the best: 10/10.  
   The van we chose was VERY basic, without bathrooms or comforts, but there are fancier options for sure.
-- **Campsites**: In recent years, it has become **mandatory** to sleep in a campsite; you can’t free-camp anymore. The cost varies between €10 and €20 per person per night.  
+- **Campsites**: In recent years, it has become **mandatory** to sleep in a campsite; you can’t free-camp anymore. The cost varies between 10 and 20 EUR per person per night.  
   You typically don't have to book them in advance, although it’s a good idea to book at least on the same day.
 
 ![On the trail above the Reykjadalur valley](/images/posts/9-days-van-trip-in-iceland-img-1.webp)
@@ -96,7 +96,7 @@ Of course, there are organized tours that take you to the main tourist spots, bu
 
 ### Money
 
-Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate. Cards are accepted everywhere.
+Always use your Wise or Revolut card for the best exchange rate. Cards are accepted everywhere.
 
 ### SIM card
 
@@ -116,7 +116,7 @@ Don't forget a windbreaker and rain jacket, since it’s windy most days!
 
 ### Parking
 
-Unfortunately, again due to overtourism, most tourist attractions in Iceland now have paid parking, a kind of “fee” in order to see natural beauty. They cost between €5 and €10.
+Unfortunately, again due to overtourism, most tourist attractions in Iceland now have paid parking, a kind of “fee” in order to see natural beauty. They cost between 5 and 10 EUR.
 
 Pay them! There are cameras everywhere and you will definitely get a fine if you don't, and Iceland’s fines are known for not being cheap at all.
 
@@ -258,7 +258,7 @@ Walking through downtown Reykjavík feels like exploring a living art gallery. W
 
 Iceland is not particularly famous for its gastronomy, yet there are some classic staples you need to try. Since we were on the road all the time, we were always eating in the van or in the middle of nowhere; hence, all the recommendations are in Reykjavík, which was the only time we actually spent time in a city with diverse restaurant options.
 
-- [Bæjarins Beztu Pylsur](https://maps.app.goo.gl/UyMiDR65ACkDL3wv8). The **Icelandic hot dog** is, for some reason, very famous. Also, for some reason, this spot is (by far) the most popular one. It's a good hot dog, but it’s just that… a hot dog. Also, you can likely find the same one for a lower price elsewhere (~€6.50 here). While the sauce and crispy onions in it are really, really good, probably that's just standard for the Icelandic style. Not really sure what’s the reason behind this spot’s massive hype, but it’s worth a try! (We didn’t have time to try other ones since we were in the city for a very short time, but it would be cool to compare different hot dogs for sure!)
-- [Icelandic Street Food](https://maps.app.goo.gl/JEuj3xE7yz12Jpej9). The price (~€23) is quite high for a **lamb soup**, but it becomes interesting when you learn that you get unlimited refills. Martín had 5 bowls, so ~€4.50 per bowl is actually quite good! And the soup is great: generous amounts of lamb, a tasty broth, and you even get it in a bread bowl. Fun fact: if you have 14 or more refills, you get your Polaroid picture taken and immortalized on the wall. Make sure to arrive hungry if you want to make it into the Hall of Fame!
-- [Íslenski Barinn - The Icelandic Bar](https://maps.app.goo.gl/HxjF83pttMQ4MMT59). The ultimate spot if you want to try anything from traditional Icelandic cuisine. You can find every single staple on their menu. Recommendation: the **plokkfiskur** (a popular Icelandic fish stew) for ~€29. Portions were very generous, and food was great. Of course, prices are kind of high but that's normal by Icelandic standards. A nice tip: you get tap water for free without even asking for it, and at the end, they gave us a small chocolate candy that was very tasty too, as a mini dessert, for free. Highly recommended restaurant!
-- [Brauð & Co](https://maps.app.goo.gl/zw3cpH2JU1o3dzGL6). A hyped bakery with what many consider the best cinnamon rolls in the world. And yes, the pastry lives up to the hype. It’s surely in the top 3 cinnamon rolls we’ve had in our lives ([number one was in Taiwan](/destinations/5-days-in-taiwan/)). Just incredible, although ~€6 seems a bit excessive for a pastry, but well that's how Icelandic prices go. The spot is small so just grab one to take away while walking around the beautiful city of Reykjavík. Definitely a must-try (and as a bonus, the facade of the building is super cool, too).
+- [Bæjarins Beztu Pylsur](https://maps.app.goo.gl/UyMiDR65ACkDL3wv8). The **Icelandic hot dog** is, for some reason, very famous. Also, for some reason, this spot is (by far) the most popular one. It's a good hot dog, but it’s just that… a hot dog. Also, you can likely find the same one for a lower price elsewhere (~6.50 EUR here). While the sauce and crispy onions in it are really, really good, probably that's just standard for the Icelandic style. Not really sure what’s the reason behind this spot’s massive hype, but it’s worth a try! (We didn’t have time to try other ones since we were in the city for a very short time, but it would be cool to compare different hot dogs for sure!)
+- [Icelandic Street Food](https://maps.app.goo.gl/JEuj3xE7yz12Jpej9). The price (~23 EUR) is quite high for a **lamb soup**, but it becomes interesting when you learn that you get unlimited refills. Martín had 5 bowls, so ~4.50 EUR per bowl is actually quite good! And the soup is great: generous amounts of lamb, a tasty broth, and you even get it in a bread bowl. Fun fact: if you have 14 or more refills, you get your Polaroid picture taken and immortalized on the wall. Make sure to arrive hungry if you want to make it into the Hall of Fame!
+- [Íslenski Barinn - The Icelandic Bar](https://maps.app.goo.gl/HxjF83pttMQ4MMT59). The ultimate spot if you want to try anything from traditional Icelandic cuisine. You can find every single staple on their menu. Recommendation: the **plokkfiskur** (a popular Icelandic fish stew) for ~29 EUR. Portions were very generous, and food was great. Of course, prices are kind of high but that's normal by Icelandic standards. A nice tip: you get tap water for free without even asking for it, and at the end, they gave us a small chocolate candy that was very tasty too, as a mini dessert, for free. Highly recommended restaurant!
+- [Brauð & Co](https://maps.app.goo.gl/zw3cpH2JU1o3dzGL6). A hyped bakery with what many consider the best cinnamon rolls in the world. And yes, the pastry lives up to the hype. It’s surely in the top 3 cinnamon rolls we’ve had in our lives ([number one was in Taiwan](/destinations/5-days-in-taiwan/)). Just incredible, although ~6 EUR seems a bit excessive for a pastry, but well that's how Icelandic prices go. The spot is small so just grab one to take away while walking around the beautiful city of Reykjavík. Definitely a must-try (and as a bonus, the facade of the building is super cool, too).

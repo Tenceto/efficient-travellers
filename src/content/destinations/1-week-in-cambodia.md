@@ -1,30 +1,30 @@
 ---
-title: "1 week in Cambodia"
+title: "5 days in Cambodia"
 region: "Asia"
 status: "published"
 date: "22 April 2025"
-description: "One-week Cambodia itinerary: Phnom Penh, Siem Reap and the temples of Angkor by scooter, sunrise at Angkor Wat, tuk-tuks, budget tips and Khmer food."
+description: "5-day Cambodia itinerary: Phnom Penh, Siem Reap and the temples of Angkor by scooter, sunrise at Angkor Wat, tuk-tuks, budget tips and Khmer food."
 author: "Carola & Martín"
 cardImage: "/images/cards/1-week-in-cambodia-card.webp"
 coverImage: "/images/posts/1-week-in-cambodia-cover.webp"
 highlights: ["Phnom Penh", "Siem Reap", "Angkor"]
 hasRatings: true
 places:
-  - { name: "Riverside", lat: 11.5700, lng: 104.9310, group: "Phnom Penh", type: "sight", note: "A walk along the Riverside area is one of our top picks in the city.", section: "itinerary" }
-  - { name: "Royal Palace", lat: 11.5637, lng: 104.9310, group: "Phnom Penh", type: "sight", note: "Recommended visit in the center, entrance around 8€.", section: "itinerary" }
-  - { name: "Central Market", lat: 11.5694, lng: 104.9211, group: "Phnom Penh", type: "sight", note: "Head to the markets to try some unique fruits and desserts.", section: "itinerary" }
-  - { name: "Russian Market (Toultumpong Market)", lat: 11.5408, lng: 104.9178, group: "Phnom Penh", type: "sight", note: "After days of searching, we finally found sankhya lapov (coconut-pumpkin custard) from a lady inside this market.", section: "itinerary" }
-  - { name: "Wat Phnom", lat: 11.5762, lng: 104.9230, group: "Phnom Penh", type: "sight", note: "Highly recommended outside the city center sights.", section: "itinerary" }
-  - { name: "Tuol Sleng Genocide Museum", lat: 11.5494, lng: 104.9176, group: "Phnom Penh", type: "sight", note: "Profoundly moving history of the Khmer Rouge; get the audio guide for context.", section: "itinerary" }
-  - { name: "Killing Fields (Choeung Ek)", lat: 11.4844, lng: 104.9019, group: "Phnom Penh", type: "sight", note: "A rarely known part of Cambodia's history; we strongly suggest the audio guide.", section: "itinerary" }
-  - { name: "David's Restaurant Homemade Noodles", lat: 11.5718, lng: 104.9268, group: "Phnom Penh", type: "food", note: "Heavenly handmade noodles, probably the best in Southeast Asia, and insanely good amok fish for around 5 USD a dish." }
-  - { name: "Siem Reap Old Market & Pub Street", lat: 13.3546, lng: 103.8546, group: "Siem Reap", type: "town", note: "Touristy but charming center with a big souvenir market; at night the bars come alive. Eat at street food carts, not tourist-trap restaurants.", section: "itinerary" }
-  - { name: "Angkor Wat", lat: 13.4125, lng: 103.8670, group: "Siem Reap", type: "sight", note: "Be there at 5 AM for sunrise, take a guided tour inside (we paid $20 for two) and come back for sunset when it's quieter.", section: "itinerary" }
-  - { name: "Ta Prohm", lat: 13.4349, lng: 103.8890, group: "Siem Reap", type: "sight", note: "The magical jungle temple, stone walls wrapped in massive tree roots, where Tomb Raider was filmed.", section: "itinerary" }
-  - { name: "Ta Keo", lat: 13.4444, lng: 103.8829, group: "Siem Reap", type: "sight", note: "An unfinished temple that feels like a climbable mountain; the climb is a workout but the view is worth it.", section: "itinerary" }
-  - { name: "Victory Gate", lat: 13.4468, lng: 103.8724, group: "Siem Reap", type: "sight", note: "We passed through this gate of Angkor Thom on the way to the Bayon.", section: "itinerary" }
-  - { name: "Bayon Temple", lat: 13.4412, lng: 103.8588, group: "Siem Reap", type: "sight", note: "54 towers with over 200 smiling stone faces that seem to follow you; surreal and unforgettable.", section: "itinerary" }
-  - { name: "Banteay Srei", lat: 13.5989, lng: 103.9628, group: "Siem Reap", type: "sight", note: "Small but stunning \"Citadel of Women\" in pink sandstone, away from the main circuits.", section: "itinerary" }
+  - { name: "Riverside", lat: 11.5700, lng: 104.9310, group: "Phnom Penh", type: "sight", note: "A walk along the Riverside area is one of our top picks in the city." }
+  - { name: "Royal Palace", lat: 11.5637, lng: 104.9310, group: "Phnom Penh", type: "sight", note: "Recommended visit in the center, entrance around 8 EUR." }
+  - { name: "Central Market", lat: 11.5694, lng: 104.9211, group: "Phnom Penh", type: "sight", note: "Head to the markets to try some unique fruits and desserts." }
+  - { name: "Russian Market (Toultumpong Market)", lat: 11.5408, lng: 104.9178, group: "Phnom Penh", type: "sight", note: "After days of searching, we finally found sankhya lapov (coconut-pumpkin custard) from a lady inside this market." }
+  - { name: "Wat Phnom", lat: 11.5762, lng: 104.9230, group: "Phnom Penh", type: "sight", note: "Highly recommended outside the city center sights." }
+  - { name: "Tuol Sleng Genocide Museum", lat: 11.5494, lng: 104.9176, group: "Phnom Penh", type: "sight", note: "Profoundly moving history of the Khmer Rouge; get the audio guide for context." }
+  - { name: "Killing Fields (Choeung Ek)", lat: 11.4844, lng: 104.9019, group: "Phnom Penh", type: "sight", note: "A rarely known part of Cambodia's history; we strongly suggest the audio guide." }
+  - { name: "David's Restaurant Homemade Noodles", lat: 11.5668, lng: 104.9293, group: "Phnom Penh", type: "food", note: "Heavenly handmade noodles, probably the best in Southeast Asia, and insanely good amok fish for around 5 USD a dish." }
+  - { name: "Siem Reap Old Market & Pub Street", lat: 13.3546, lng: 103.8546, group: "Siem Reap", type: "town", note: "Touristy but charming center with a big souvenir market; at night the bars come alive. Eat at street food carts, not tourist-trap restaurants." }
+  - { name: "Angkor Wat", lat: 13.4125, lng: 103.8670, group: "Siem Reap", type: "sight", note: "Be there at 5 AM for sunrise, take a guided tour inside (we paid $20 for two) and come back for sunset when it's quieter." }
+  - { name: "Ta Prohm", lat: 13.4349, lng: 103.8890, group: "Siem Reap", type: "sight", note: "The magical jungle temple, stone walls wrapped in massive tree roots, where Tomb Raider was filmed." }
+  - { name: "Ta Keo", lat: 13.4444, lng: 103.8829, group: "Siem Reap", type: "sight", note: "An unfinished temple that feels like a climbable mountain; the climb is a workout but the view is worth it." }
+  - { name: "Victory Gate", lat: 13.4468, lng: 103.8724, group: "Siem Reap", type: "sight", note: "We passed through this gate of Angkor Thom on the way to the Bayon." }
+  - { name: "Bayon Temple", lat: 13.4412, lng: 103.8588, group: "Siem Reap", type: "sight", note: "54 towers with over 200 smiling stone faces that seem to follow you; surreal and unforgettable." }
+  - { name: "Banteay Srei", lat: 13.5989, lng: 103.9628, group: "Siem Reap", type: "sight", note: "Small but stunning \"Citadel of Women\" in pink sandstone, away from the main circuits." }
   - { name: "Nak's Restaurant", lat: 13.3597, lng: 103.8621, group: "Siem Reap", type: "food", note: "Terrific amok fish for 3.50 USD and genuinely friendly staff; talk to Nak if you can!" }
   - { name: "The Brother Bong Restaurant", lat: 13.3528, lng: 103.8541, group: "Siem Reap", type: "food", note: "Family-run spot by the river with one of the best lok lak beef for just 2.50 USD." }
   - { name: "3 spoons restaurant", lat: 13.3576, lng: 103.8613, group: "Siem Reap", type: "food", note: "Every dish is 2.50 USD with big portions; the Khmer curry was amazing." }
@@ -40,14 +40,14 @@ Unfortunately, we didn’t have much time to spend there, so we could only visit
 
 That said, the **Angkor temple complex** is absolutely unmissable, one of the most incredible places we’ve ever seen in our lives.
 
-Despite only spending a week there, the Cambodian people left a strong impression on us with their purity and kindness. We felt something similar to what we experienced in Bali. Their hospitality is simply unmatched.
+Despite only spending five days there, the Cambodian people left a strong impression on us with their purity and kindness. We felt something similar to what we experienced in Bali. Their hospitality is simply unmatched.
 
 
 ### Before you go
 
 
 - **Vaccines**: No special vaccinations are required—just the standard ones.
-- **Visa**: You can do your e-visa [here](https://www.evisa.gov.kh/) at the cost of 27€. We arrived in the country by bus from Vietnam, and they asked for the visa at the border. Remember to print it. *Fees and requirements can change, so always check the official e-visa website for the latest information before applying.*
+- **Visa**: You can do your e-visa [here](https://www.evisa.gov.kh/) at the cost of 27 EUR. We arrived in the country by bus from Vietnam, and they asked for the visa at the border. Remember to print it. *Fees and requirements can change, so always check the official e-visa website for the latest information before applying.*
 - **Dengue**: Dengue fever is a real risk, and the consequences can be really bothersome, so always carry a reliable insect repellent.
 - **Stomach flu**: Just be cautious—always drink bottled water and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **Rainy season**: No need to stress! The weather can be super unpredictable, but (according to our experience) even when it rains, it’s usually just a quick storm that passes in about an hour.
@@ -60,7 +60,7 @@ Despite only spending a week there, the Cambodian people left a strong impressio
 
 
 - The most important thing about Cambodia is the people. They are incredibly kind and welcoming, with a warmth that reminded us of Bali—genuine smiles and unmatched hospitality.
-- Cambodia blew us away in just one week—Angkor’s temples are some of the most breathtaking places we’ve ever seen.
+- Cambodia blew us away in just five days—Angkor’s temples are some of the most breathtaking places we’ve ever seen.
 - Don’t miss sunrise AND sunset at Angkor Wat, explore the unique jungle-covered Ta Prohm, and lose yourself in the details of the Bayon temple.
 - Move around using tuk-tuks—not only are they unique, but also extremely cheap!
 - Visit some museums if you can, since the country’s history is very interesting and it’s fundamental to understand much of their culture and how the people live and behave.
@@ -74,14 +74,14 @@ Despite only spending a week there, the Cambodian people left a strong impressio
 
 This time we didn’t arrive by plane, so we don’t know how the transportation from the airport works.
 
-We took a 6-hour bus from Ho Chi Minh City to Phnom Penh for 17€ and did our visa online.
+We took a 6-hour bus from Ho Chi Minh City to Phnom Penh for 17 EUR and did our visa online.
 
 Watch out: the bus companies often offer the service of doing the visa with them, but it costs more than doing it yourself.
 
 
 ### Money
 
-Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange, but remember that they don’t accept cards in many places.
+Always use your Wise or Revolut card for the best exchange, but remember that they don’t accept cards in many places.
 
 All ATMs have a withdrawal fee, so we suggest exchanging large amounts or having cash of your currency with you to change.
 
@@ -92,14 +92,14 @@ Interestingly, Cambodia uses two coexisting currencies. You can pay in US dollar
 
 Don’t get the SIM card at the airport, which is super expensive.
 
-Go to the company [SMART](https://www.smart.com.kh/) that you find in several shops in every city and get the local package. It works perfectly and only costs €1.5 per month.
+Go to the company [SMART](https://www.smart.com.kh/) that you find in several shops in every city and get the local package. It works perfectly and only costs 1.5 EUR per month.
 
 
 ### Clothes
 
 Bring clothes that dry fast, and always have a pair of long trousers for the temples in your daily backpack.
 
-Laundry: it’s full of places. Just do a quick search on Google Maps. Prices could vary from €1 to €3 per kilo.
+Laundry: it’s full of places. Just do a quick search on Google Maps. Prices could vary from 1 to 3 EUR per kilo.
 
 ### Angkor ticket
 
@@ -134,9 +134,9 @@ As a result, we only managed to visit the more touristy spots and couldn’t exp
 
 <div data-trip-map></div>
 
-**Phnom Penh**
+### Phnom Penh
 
-We arrived in the city with a 6-hour bus from Ho Chi Minh City for €17.
+We arrived in the city with a 6-hour bus from Ho Chi Minh City for 17 EUR.
 
 Phnom Penh is a much more modern and “wealthy”-looking city than most non-center areas, so it may not feel like the “real” Cambodia one would expect.
 
@@ -145,15 +145,15 @@ Still, there are a few things in the city we definitely recommend:
 
 - A walk along the Riverside area
 - The Central and Russian Markets
-- The Royal Palace (entrance around €8)
+- The Royal Palace (entrance around 8 EUR)
 
 Apart from the city center, we highly recommend visiting **Wat Phnom**, the **Killing Fields**, and the **Tuol Sleng Genocide Museum**.
 
 These last two places tell a part of Cambodia’s history that is rarely known in the West, but it’s profoundly moving. We strongly suggest getting the audio guide to understand the historical context better.
 
-**Siem Reap**
+### Siem Reap
 
-We arrived in the city by minibus from Phnom Penh—it took about 6 hours and cost around €10.
+We arrived in the city by minibus from Phnom Penh—it took about 6 hours and cost around 10 EUR.
 
 The city center is very touristy, but still charming. Just be cautious with the restaurants in that area, as many are classic tourist traps. We highly recommend eating at the street food carts instead—they’re safe, authentic, and extremely cheap.
 

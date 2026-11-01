@@ -1,33 +1,33 @@
 ---
-title: "10 days in South Korea"
+title: "9 days in South Korea"
 region: "Asia"
 status: "published"
 date: "7 June 2025"
-description: "10-day South Korea itinerary: Seoul, Busan, Gyeongju and Hahoe village, with transport and app tips, street food, cozy cafés and budget advice."
+description: "9-day South Korea itinerary: Seoul, Busan, Gyeongju and Hahoe village, with transport and app tips, street food, cozy cafés and budget advice."
 author: "Carola & Martín"
 cardImage: "/images/cards/10-days-in-south-korea-card.webp"
 coverImage: "/images/posts/10-days-in-south-korea-cover.webp"
 highlights: ["Seoul", "Busan", "Gyeongju", "Hahoe"]
 hasRatings: true
 places:
-  - { name: "Insadong", lat: 37.5740, lng: 126.9850, group: "Seoul", type: "town", section: "itinerary", note: "One of our favourite areas in Seoul: stunning cafés and little shops with a traditional vibe between skyscrapers." }
-  - { name: "Ssamziegil", lat: 37.5743, lng: 126.9851, group: "Seoul", type: "sight", section: "itinerary", note: "Handicraft complex, perfect for souvenirs; we had a portrait done by a local painter." }
-  - { name: "Myeongdong", lat: 37.5636, lng: 126.9850, group: "Seoul", type: "town", section: "itinerary", note: "Touristy and less charming, but perfect for some serious shopping." }
+  - { name: "Insadong", lat: 37.5740, lng: 126.9850, group: "Seoul", type: "town", note: "One of our favourite areas in Seoul: stunning cafés and little shops with a traditional vibe between skyscrapers." }
+  - { name: "Ssamziegil", lat: 37.5743, lng: 126.9851, group: "Seoul", type: "sight", note: "Handicraft complex, perfect for souvenirs; we had a portrait done by a local painter." }
+  - { name: "Myeongdong", lat: 37.5636, lng: 126.9850, group: "Seoul", type: "town", note: "Touristy and less charming, but perfect for some serious shopping." }
   - { name: "Mangwon Market", lat: 37.5560, lng: 126.9060, group: "Seoul", type: "food", note: "We had dinner here on our first evening." }
-  - { name: "Hongdae", lat: 37.5563, lng: 126.9236, group: "Seoul", type: "town", section: "itinerary", note: "Student neighbourhood for a fun night out: noraebang, dance clubs and shopping." }
-  - { name: "Jongmyo Shrine", lat: 37.5744, lng: 126.9940, group: "Seoul", type: "sight", section: "itinerary", note: "Part of our royal palaces day; touristy but full of history." }
-  - { name: "Changgyeonggung Palace", lat: 37.5788, lng: 126.9950, group: "Seoul", type: "sight", section: "itinerary", note: "Part of our royal palaces day; touristy but super charming." }
-  - { name: "Changdeokgung Palace", lat: 37.5794, lng: 126.9910, group: "Seoul", type: "sight", section: "itinerary", note: "Royal palace, gateway to the Secret Garden." }
-  - { name: "Secret Garden (Huwon)", lat: 37.5830, lng: 126.9920, group: "Seoul", type: "nature", section: "itinerary", note: "By far our favourite part of the palaces day." }
-  - { name: "Gyeongbokgung Palace", lat: 37.5796, lng: 126.9770, group: "Seoul", type: "sight", section: "itinerary", note: "The grandest of the royal palaces, worth it despite the crowds." }
-  - { name: "Jogyesa Temple", lat: 37.5740, lng: 126.9817, group: "Seoul", type: "sight", section: "itinerary", note: "A really lovely temple, and the neighbourhood around it is worth a visit." }
-  - { name: "Starfield COEX Library", lat: 37.5100, lng: 127.0602, group: "Seoul", type: "sight", section: "itinerary", note: "Cool to see, but a little overhyped." }
-  - { name: "Bukchon Hanok Village", lat: 37.5826, lng: 126.9836, group: "Seoul", type: "town", section: "itinerary", note: "Super touristy but 100% worth it: beautiful hanok houses and great photos." }
-  - { name: "Ihwa Mural Village", lat: 37.5776, lng: 127.0068, group: "Seoul", type: "sight", section: "itinerary", note: "End point of our long city walk; the view from up there is amazing." }
-  - { name: "Dongmyo Flea Market", lat: 37.5732, lng: 127.0176, group: "Seoul", type: "sight", section: "itinerary", note: "Super local open-air market with vintage goods and snack carts; we had the best bungeoppang here." }
-  - { name: "Hapjeong Indie Street", lat: 37.5498, lng: 126.9170, group: "Seoul", type: "town", section: "itinerary", note: "Wausan-ro 3-gil is full of stylish cafés and local design shops." }
-  - { name: "Yeouido Park Natural Eco Forest", lat: 37.5233, lng: 126.9213, group: "Seoul", type: "nature", section: "itinerary", note: "A chill area by the river, perfect for a relaxed walk." }
-  - { name: "Cheonggyecheon Stream", lat: 37.5694, lng: 126.9780, group: "Seoul", type: "nature", section: "itinerary", note: "Peaceful evening walk and takeaway dinner with the city lights all around." }
+  - { name: "Hongdae", lat: 37.5563, lng: 126.9236, group: "Seoul", type: "town", note: "Student neighbourhood for a fun night out: noraebang, dance clubs and shopping." }
+  - { name: "Jongmyo Shrine", lat: 37.5744, lng: 126.9940, group: "Seoul", type: "sight", note: "Part of our royal palaces day; touristy but full of history." }
+  - { name: "Changgyeonggung Palace", lat: 37.5788, lng: 126.9950, group: "Seoul", type: "sight", note: "Part of our royal palaces day; touristy but super charming." }
+  - { name: "Changdeokgung Palace", lat: 37.5794, lng: 126.9910, group: "Seoul", type: "sight", note: "Royal palace, gateway to the Secret Garden." }
+  - { name: "Secret Garden (Huwon)", lat: 37.5830, lng: 126.9920, group: "Seoul", type: "nature", note: "By far our favourite part of the palaces day." }
+  - { name: "Gyeongbokgung Palace", lat: 37.5796, lng: 126.9770, group: "Seoul", type: "sight", note: "The grandest of the royal palaces, worth it despite the crowds." }
+  - { name: "Jogyesa Temple", lat: 37.5740, lng: 126.9817, group: "Seoul", type: "sight", note: "A really lovely temple, and the neighbourhood around it is worth a visit." }
+  - { name: "Starfield COEX Library", lat: 37.5100, lng: 127.0602, group: "Seoul", type: "sight", note: "Cool to see, but a little overhyped." }
+  - { name: "Bukchon Hanok Village", lat: 37.5826, lng: 126.9836, group: "Seoul", type: "town", note: "Super touristy but 100% worth it: beautiful hanok houses and great photos." }
+  - { name: "Ihwa Mural Village", lat: 37.5776, lng: 127.0068, group: "Seoul", type: "sight", note: "End point of our long city walk; the view from up there is amazing." }
+  - { name: "Dongmyo Flea Market", lat: 37.5732, lng: 127.0176, group: "Seoul", type: "sight", note: "Super local open-air market with vintage goods and snack carts; we had the best bungeoppang here." }
+  - { name: "Hapjeong Indie Street", lat: 37.5498, lng: 126.9170, group: "Seoul", type: "town", note: "Wausan-ro 3-gil is full of stylish cafés and local design shops." }
+  - { name: "Yeouido Park Natural Eco Forest", lat: 37.5233, lng: 126.9213, group: "Seoul", type: "nature", note: "A chill area by the river, perfect for a relaxed walk." }
+  - { name: "Cheonggyecheon Stream", lat: 37.5694, lng: 126.9780, group: "Seoul", type: "nature", note: "Peaceful evening walk and takeaway dinner with the city lights all around." }
   - { name: "Thanks, Oat", lat: 37.5788, lng: 126.9846, group: "Seoul", type: "food", note: "Very good breakfast spot, mainly for their savory and sweet bowls." }
   - { name: "Rami Scone Cafe", lat: 37.5739, lng: 126.9903, group: "Seoul", type: "food", note: "The best infusion drinks of our lives; try the lemon and raspberry ones." }
   - { name: "Cafe Onion Anguk", lat: 37.5776, lng: 126.9866, group: "Seoul", type: "food", note: "Made for Instagram, but very aesthetic and the food is good too." }
@@ -43,23 +43,23 @@ places:
   - { name: "Migadam", lat: 37.5424, lng: 127.0840, group: "Seoul", type: "food", note: "Extremely local and homemade; we ate a lot for very little, but ask for less spice." }
   - { name: "Sulbing", lat: 37.5577, lng: 126.9367, group: "Seoul", type: "food", note: "Famous bingsu chain; one portion is fine to share between two." }
   - { name: "Seoul Hotteok", lat: 37.5550, lng: 126.9380, group: "Seoul", type: "food", note: "This shop really nails the hotteok, the most important dessert to try." }
-  - { name: "Jagalchi Market", lat: 35.0966, lng: 129.0306, group: "Busan", type: "sight", section: "itinerary", note: "Fish market, a very nice local experience." }
-  - { name: "Gamcheon Culture Village", lat: 35.0975, lng: 129.0106, group: "Busan", type: "town", section: "itinerary", note: "Colorful houses; very touristy but still a fun and unique spot." }
-  - { name: "Seomyeon", lat: 35.1578, lng: 129.0600, group: "Busan", type: "town", section: "itinerary", note: "Lively downtown neighbourhood close to Jeonpo Cafe Street." }
-  - { name: "Jeonpo Cafe Street", lat: 35.1550, lng: 129.0640, group: "Busan", type: "town", section: "itinerary", note: "Cute café street right next to Seomyeon." }
-  - { name: "BIFF Square", lat: 35.0988, lng: 129.0280, group: "Busan", type: "sight", section: "itinerary", note: "Full of lights, food and local vibes in the evening." }
-  - { name: "Haedong Yonggungsa Temple", lat: 35.1883, lng: 129.2233, group: "Busan", type: "sight", section: "itinerary", note: "One of the highlights of our whole trip: a stunning temple right by the ocean, about 1h20 by local bus." }
-  - { name: "Haeundae", lat: 35.1587, lng: 129.1604, group: "Busan", type: "town", section: "itinerary", note: "The area and seaside walk are really cute and worth it." }
-  - { name: "Haeundae Sky Capsule", lat: 35.1614, lng: 129.1714, group: "Busan", type: "activity", section: "itinerary", note: "Totally a tourist trap (25 EUR for two), but very Korean-style and kind of fun." }
+  - { name: "Jagalchi Market", lat: 35.0966, lng: 129.0306, group: "Busan", type: "sight", note: "Fish market, a very nice local experience." }
+  - { name: "Gamcheon Culture Village", lat: 35.0975, lng: 129.0106, group: "Busan", type: "town", note: "Colorful houses; very touristy but still a fun and unique spot." }
+  - { name: "Seomyeon", lat: 35.1578, lng: 129.0600, group: "Busan", type: "town", note: "Lively downtown neighbourhood close to Jeonpo Cafe Street." }
+  - { name: "Jeonpo Cafe Street", lat: 35.1550, lng: 129.0640, group: "Busan", type: "town", note: "Cute café street right next to Seomyeon." }
+  - { name: "BIFF Square", lat: 35.0988, lng: 129.0280, group: "Busan", type: "sight", note: "Full of lights, food and local vibes in the evening." }
+  - { name: "Haedong Yonggungsa Temple", lat: 35.1883, lng: 129.2233, group: "Busan", type: "sight", note: "One of the highlights of our whole trip: a stunning temple right by the ocean, about 1h20 by local bus." }
+  - { name: "Haeundae", lat: 35.1587, lng: 129.1604, group: "Busan", type: "town", note: "The area and seaside walk are really cute and worth it." }
+  - { name: "Haeundae Sky Capsule", lat: 35.1614, lng: 129.1714, group: "Busan", type: "activity", note: "Totally a tourist trap (25 EUR for two), but very Korean-style and kind of fun." }
   - { name: "Bono Berry", lat: 35.1630, lng: 129.1625, group: "Busan", type: "food", note: "Try the matcha cookie that actually tastes like matcha." }
   - { name: "Woojung Dolsot Bibimbap", lat: 35.1562, lng: 129.0620, group: "Busan", type: "food", note: "Our pick for bibimbap: fair prices, generous portions, delicious food." }
   - { name: "Sundori Boribap", lat: 35.1627, lng: 129.1671, group: "Busan", type: "food", note: "Pure homemade food for an incredibly low price, and the sweetest ladies." }
-  - { name: "Daereungwon Tumuli Park", lat: 35.8380, lng: 129.2120, group: "Gyeongju", type: "sight", section: "itinerary", note: "A must-visit, all walkable together with the other central sights." }
-  - { name: "Gyochon Hanok Village", lat: 35.8297, lng: 129.2149, group: "Gyeongju", type: "town", section: "itinerary", note: "A must-visit traditional village close to the tumuli park." }
-  - { name: "Hwangnidan Street", lat: 35.8364, lng: 129.2097, group: "Gyeongju", type: "town", section: "itinerary", note: "A must-visit street, easy to combine on a long walk." }
-  - { name: "Donggung Palace and Wolji Pond", lat: 35.8346, lng: 129.2265, group: "Gyeongju", type: "sight", section: "itinerary", note: "Small entrance fee; way more beautiful at night when it is all lit up." }
+  - { name: "Daereungwon Tumuli Park", lat: 35.8380, lng: 129.2120, group: "Gyeongju", type: "sight", note: "A must-visit, all walkable together with the other central sights." }
+  - { name: "Gyochon Hanok Village", lat: 35.8297, lng: 129.2149, group: "Gyeongju", type: "town", note: "A must-visit traditional village close to the tumuli park." }
+  - { name: "Hwangnidan Street", lat: 35.8364, lng: 129.2097, group: "Gyeongju", type: "town", note: "A must-visit street, easy to combine on a long walk." }
+  - { name: "Donggung Palace and Wolji Pond", lat: 35.8346, lng: 129.2265, group: "Gyeongju", type: "sight", note: "Small entrance fee; way more beautiful at night when it is all lit up." }
   - { name: "Yangji Dabang", lat: 35.8373, lng: 129.2092, group: "Gyeongju", type: "food", note: "We came for the soufflé pancake, definitely worth trying." }
-  - { name: "Hahoe Folk Village", lat: 36.5390, lng: 128.5180, group: "Hahoe", type: "town", section: "itinerary", note: "Like stepping back in time; don't skip the Hahoe byeolsingut talnori mask dance, and stay the night in a hanok." }
+  - { name: "Hahoe Folk Village", lat: 36.5390, lng: 128.5180, group: "Hahoe", type: "town", note: "Like stepping back in time; don't skip the Hahoe byeolsingut talnori mask dance, and stay the night in a hanok." }
 ratings: {"budget": 3, "adventure": 3, "food": 4, "overall": 5}
 ---
 
@@ -75,9 +75,9 @@ In this post, we’ll share some must-have tools to make the most of your experi
 ### Before you go
 
 
-- <u>Vaccines</u>: No special vaccinations are required, just the standard ones.
-- <u>Visa</u>: EU citizens do not need a visa for tourist or short-term business visits lasting up to 90 days. Before arriving, though, you have to apply for the Korean Electronic Travel Authorization ([<u>K-ETA</u>](https://www.k-eta.go.kr/portal/newapply/index.do)), which costs around €5. *Rules and fees can change, so always check the official K-ETA website for the latest information before you travel.*
-- <u>When to visit</u>: The best time to visit South Korea is in the spring or autumn. Summer can get very hot and humid, while winter is rather freezing. We went in April, and the weather was absolutely perfect. We even got lucky and caught the cherry blossoms in bloom! (Not as epic as Japan’s, but still very pretty.)
+- **Vaccines**: No special vaccinations are required, just the standard ones.
+- **Visa**: EU citizens do not need a visa for tourist or short-term business visits lasting up to 90 days. Before arriving, though, you have to apply for the Korean Electronic Travel Authorization ([K-ETA](https://www.k-eta.go.kr/portal/newapply/index.do)), which costs around 5 EUR. *Rules and fees can change, so always check the official K-ETA website for the latest information before you travel.*
+- **When to visit**: The best time to visit South Korea is in the spring or autumn. Summer can get very hot and humid, while winter is rather freezing. We went in April, and the weather was absolutely perfect. We even got lucky and caught the cherry blossoms in bloom! (Not as epic as Japan’s, but still very pretty.)
 
 
 ![10-days-in-south-korea](/images/posts/10-days-in-south-korea-img-1.webp)
@@ -99,21 +99,21 @@ In this post, we’ll share some must-have tools to make the most of your experi
 
 ### Transportation from the airport
 
-The airport is seamlessly connected to the city center via a fast train, [<u>AREX</u>](http://www.arex.or.kr/main.do), at a cost of around €7.
+The airport is seamlessly connected to the city center via a fast train, [AREX](http://www.arex.or.kr/main.do), at a cost of around 7 EUR.
 
 
 ### Money
 
-Always use your Wise or [<u>Revolut</u>](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate.
+Always use your Wise or Revolut card for the best exchange rate.
 
 You will need cash only to buy and recharge the T-money card, but don’t worry, there are always currency exchanges right next to it.
 
 
 ### SIM card
 
-We used a local package from [<u>LG U+</u>](https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data). You can choose a package based on how many days you will stay there, at a fair price (we spent €25 for one month, but there was an ongoing offer, so make sure to check out what the best price is at the moment of your visit).
+We used a local package from [LG U+](https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data). You can choose a package based on how many days you will stay there, at a fair price (we spent 25 EUR for one month, but there was an ongoing offer, so make sure to check out what the best price is at the moment of your visit).
 
-You can get the SIM card at the airport, and it will also work as a T-money card, so you won’t have to purchase one (they even gift you something like €2/3 to use for transportation).
+You can get the SIM card at the airport, and it will also work as a T-money card, so you won’t have to purchase one (they even gift you something like 2/3 EUR to use for transportation).
 
 ### Public transport
 
@@ -121,7 +121,7 @@ Getting around in Korea is super easy and efficient, at least in big cities like
 
 You can buy and recharge the T-money only with cash, so always have some on you!
 
-The best way to move between cities is by train. Since they can get very busy, we suggest buying the tickets in advance through [<u>Korail</u>](https://www.korail.com/global/eng/intro).
+The best way to move between cities is by train. Since they can get very busy, we suggest buying the tickets in advance through [Korail](https://www.korail.com/global/eng/intro).
 
 ### Taxi and Uber
 
@@ -142,7 +142,7 @@ South Korea, like many Asian countries, feels like a whole different world to th
 
 
 1. Try all the street food in markets, but avoid the tourist traps!
-2. Go to a [<u>noraebang room</u>](https://www.bbc.com/travel/article/20231228-a-tour-of-seouls-five-best-karaoke-venues-with-singer-neon-bunny) for a K-pop night out
+2. Go to a [noraebang room](https://www.bbc.com/travel/article/20231228-a-tour-of-seouls-five-best-karaoke-venues-with-singer-neon-bunny) for a K-pop night out
 3. Sleep in a hanok (traditional house)
 4. Explore a tea house or themed café (and go to all the cafés in general, they are very cozy and probably the best ones you’ll see in your life!)
 5. Do some beauty shopping and try a facial treatment (or, for a cheap version, buy a DIY skin care kit to use at home)
@@ -155,7 +155,7 @@ South Korea, like many Asian countries, feels like a whole different world to th
 
 ## Itinerary
 
-South Korea is such a beautiful country that we think between 2 and 3 weeks are necessary to visit it properly. Unfortunately, we only had 10 days, so we tried to make the most out of it. Our itinerary was as follows:
+South Korea is such a beautiful country that we think between 2 and 3 weeks are necessary to visit it properly. Unfortunately, we only had 9 days, so we tried to make the most out of it. Our itinerary was as follows:
 
 
 - 4 days in Seoul
@@ -165,9 +165,9 @@ South Korea is such a beautiful country that we think between 2 and 3 weeks are 
 
 <div data-trip-map></div>
 
-**Seoul**
+### Seoul
 
-**DAY 1**
+#### Day 1
 
 On our first day, we explored some of the city’s most famous neighborhoods, including the shopping district of **Myeongdong** and the stunning streets of **Insadong**.
 
@@ -177,7 +177,7 @@ Myeongdong, on the other hand, is much more touristy and less charming, but it�
 
 In the evening, we had dinner at **Mangwon Market**, then headed over to **Hongdae**, a student-filled neighborhood that’s ideal for a fun night out. This is the place to go if you’re looking for some **noraebang** (karaoke) or a night out at a dance club!
 
-**DAY 2**
+#### Day 2
 
 We started the day with breakfast in Insadong again. It was close to our hotel, and honestly, the cafés in that area are just too pretty to resist.
 
@@ -185,7 +185,7 @@ Then we spent the whole day exploring the royal palaces: **Jongmyo Shrine, Chang
 
 Even though this area is pretty touristy, it’s totally worth it; it’s super charming and full of history.
 
-You can find all the info and ticket prices [<u>here</u>](https://www.kh.or.kr/cms/content/view/1315).
+You can find all the info and ticket prices [here](https://www.kh.or.kr/cms/content/view/1315).
 
 Also nearby is the **Jogyesa Temple**, which is really lovely, and the whole neighborhood around it is worth a visit.
 
@@ -193,7 +193,7 @@ In the afternoon, we checked out the famous **Starfield COEX Library**, cool to 
 
 We ended the day at **Namseong Sagye Market**, a very local, low-key spot for dinner (check out the “Food” section for more info!).
 
-**DAY 3**
+#### Day 3
 
 In the morning, we visited the traditional neighborhood of **Bukchon Hanok Village**. Yes, it’s super touristy… but 100% worth it. The vibe is very unique, the hanok houses are beautiful, and it’s the perfect spot to take some great photos.
 
@@ -201,7 +201,7 @@ In the afternoon, we went on a long walk, getting lost across the city, with **I
 
 On the way down, we stopped by the **Dongmyo Flea Market**: super local, full of character, and a great place to hunt for random things.
 
-**DAY 4**
+#### Day 4
 
 In the morning, we explored **Hapjeong**, especially the cute little Indie Street (Wausan-ro 3-gil), full of stylish cafés and local design shops.
 
@@ -209,9 +209,9 @@ Then we headed over to **Yeoui-dong**, a chill area by the river, perfect for a 
 
 At night, we ended the day with a peaceful walk and a takeaway dinner along the **Cheonggyecheon stream**, a really nice spot with the city lights all around.
 
-**Busan**
+### Busan
 
-**DAY 1**
+#### Day 1
 
 In the morning, we took the super-fast and comfy **KTX train to Busan**. The ride took about 3 hours and was super smooth.
 
@@ -223,7 +223,7 @@ In the afternoon, we wandered around **Seomyeon**, a lively downtown neighborhoo
 
 In the evening, we explored more of the city center, especially around **BIFF Square**: full of lights, food, and local vibes.
 
-**DAY 2**
+#### Day 2
 
 On our second day in Busan, we ventured a bit outside the city. We took a local bus (found on Kakao Maps) that took about 1 hour and 20 minutes to get to **Yonggungsa Temple**.
 
@@ -231,9 +231,9 @@ This was honestly one of the highlights of our whole trip. The temple is absolut
 
 The surrounding area of **Haeundae** and the seaside walk are also really cute and worth it.
 
-While we were there, we also decided to hop on the **Haeundae Sky Capsule** (€25 for two people). It’s totally a tourist trap, but it’s very Korean-style and kind of fun if you’re in the mood for something different.
+While we were there, we also decided to hop on the **Haeundae Sky Capsule** (25 EUR for two people). It’s totally a tourist trap, but it’s very Korean-style and kind of fun if you’re in the mood for something different.
 
-**Gyeongju**
+### Gyeongju
 
 We got to Gyeongju with a super quick and efficient 1-hour KTX train ride.
 
@@ -243,13 +243,13 @@ The must-visit spots are the **Daereungwon Tumuli Park**, the **Gyochon Hanok Vi
 
 In the evening, we went to **Donggung Palace** (there’s a small entrance fee). To be honest, it’s way more beautiful at night. The whole place is lit up, and it looks magical, so we totally recommend going when it gets dark!
 
-**Andong / Hahoe**
+### Andong / Hahoe
 
 To get to Andong, you can take a 1.5-hour train, and from the station, there’s a local bus that takes you straight to the village.
 
 **Hahoe Folk Village** is honestly one of the most unique places we’ve visited. It feels like stepping back in time and experiencing how people used to live in traditional Korea. The atmosphere is peaceful, authentic, and so different from anything we’re used to. Even though it has become a bit touristy, it still keeps its authentic charm. Make sure not to skip the Hahoe byeolsingut talnori: a traditional masked dance-drama that dates back centuries and mixes theatre, dance, music, and ritual. Hahoe is the birthplace of the tradition, so make sure to check it out!
 
-We highly recommend staying in this [<u>Airbnb</u>](https://it.airbnb.ch/rooms/719405451750514176?adults=2&check_in=2024-04-25&check_out=2024-04-26&source_impression_id=p3_1709490409_lA7kUAhYoFu4C%2F1f&previous_page_section_name=1000&federated_search_id=b4362e29-a70c-4168-9ce9-9524aa74408d&_set_bev_on_new_domain=1748338169_EAZGQyNzkzMGY3MT). It was hands down one of the most unforgettable experiences we had in Korea. We still can’t believe we got to stay there, even if just for a night. Such a unique experience, and the owners were lovely!
+We highly recommend staying in this [Airbnb](https://it.airbnb.ch/rooms/719405451750514176?adults=2&check_in=2024-04-25&check_out=2024-04-26&source_impression_id=p3_1709490409_lA7kUAhYoFu4C%2F1f&previous_page_section_name=1000&federated_search_id=b4362e29-a70c-4168-9ce9-9524aa74408d&_set_bev_on_new_domain=1748338169_EAZGQyNzkzMGY3MT). It was hands down one of the most unforgettable experiences we had in Korea. We still can’t believe we got to stay there, even if just for a night. Such a unique experience, and the owners were lovely!
 
 
 ## Food
@@ -259,42 +259,42 @@ First of all, you have to know that local people don’t usually use Google Maps
 Before talking about local dishes, as we always do, South Korea deserves a special mention for its beautiful cafés, which you can find all over the place. Wherever you are, you will probably be surrounded by incredible cozy spots that look so nice that you will want to try them all. These cafés are perfect for breakfast, sweets, snacks, or even just a coffee. The quality tends to be superb in any of them, but here is a list of those that we tried and can guarantee will make you fall in love.
 
 
-- [<u>Thanks, Oat</u>](https://maps.app.goo.gl/U14KZR2SZUNGjFX1A) (Seoul): Very good spot for breakfast, mainly for their bowls (both savory and sweet).
-- [<u>Rami Scone Cafe</u>](https://maps.app.goo.gl/P4PshEfkAgJt6KGy5) (Seoul): This place is stuck in our minds forever thanks to their fruit infusions. They are, without any doubt, the best infusion drinks we had in our lives (special recommendation for the lemon and raspberry ones!).
-- [<u>Cafe Onion</u>](https://maps.app.goo.gl/3H8JFcHuSrowa5AS8) (Seoul): Definitely a spot created for tourists to post on Instagram, but it’s very aesthetic, and the food is good, too.
-- [<u>Soha Salt Pond</u>](https://maps.app.goo.gl/fScVUfk4NcTAhdns7) (Seoul): A very uniquely decorated café, and kind of viral for their salt bread. As always, good bakery items.
-- [<u>보노베리 (Bono Berry)</u>](https://maps.app.goo.gl/BwamexphQhUYMBEL6) (Busan): This place had a particular item that didn’t seem as common to find around, a **matcha cookie** that actually tasted like matcha. Definitely not for everyone, but a must-try if you’re a matcha person!
-- [<u>Grain</u>](https://maps.app.goo.gl/PUxaoyP122oXBmSa8) (Seoul): Quite on the expensive side, but it had an amazing and vast list of Western-like dishes in case you need a break from trying local street food!
-- [<u>Fritz Coffee Company</u>](https://maps.app.goo.gl/4ZcXSQtfPnx13Kan6) (Seoul): Probably the place in this list that is the most attended by actual locals. Their coffee is excellent, and their bakery items are delicious. Definitely not a cozy spot like the others to hang out, but our top choice quality-wise.
-- [<u>Cafe Layered</u>](https://maps.app.goo.gl/xiqNnbYCxFSfBLaF7) (Seoul): Insanely good cakes. Very solid option for a sweet treat, or a powerful breakfast to start the morning full of energy!
+- [Thanks, Oat](https://maps.app.goo.gl/U14KZR2SZUNGjFX1A) (Seoul): Very good spot for breakfast, mainly for their bowls (both savory and sweet).
+- [Rami Scone Cafe](https://maps.app.goo.gl/P4PshEfkAgJt6KGy5) (Seoul): This place is stuck in our minds forever thanks to their fruit infusions. They are, without any doubt, the best infusion drinks we had in our lives (special recommendation for the lemon and raspberry ones!).
+- [Cafe Onion](https://maps.app.goo.gl/3H8JFcHuSrowa5AS8) (Seoul): Definitely a spot created for tourists to post on Instagram, but it’s very aesthetic, and the food is good, too.
+- [Soha Salt Pond](https://maps.app.goo.gl/fScVUfk4NcTAhdns7) (Seoul): A very uniquely decorated café, and kind of viral for their salt bread. As always, good bakery items.
+- [보노베리 (Bono Berry)](https://maps.app.goo.gl/BwamexphQhUYMBEL6) (Busan): This place had a particular item that didn’t seem as common to find around, a **matcha cookie** that actually tasted like matcha. Definitely not for everyone, but a must-try if you’re a matcha person!
+- [Grain](https://maps.app.goo.gl/PUxaoyP122oXBmSa8) (Seoul): Quite on the expensive side, but it had an amazing and vast list of Western-like dishes in case you need a break from trying local street food!
+- [Fritz Coffee Company](https://maps.app.goo.gl/4ZcXSQtfPnx13Kan6) (Seoul): Probably the place in this list that is the most attended by actual locals. Their coffee is excellent, and their bakery items are delicious. Definitely not a cozy spot like the others to hang out, but our top choice quality-wise.
+- [Cafe Layered](https://maps.app.goo.gl/xiqNnbYCxFSfBLaF7) (Seoul): Insanely good cakes. Very solid option for a sweet treat, or a powerful breakfast to start the morning full of energy!
 
 As in many Asian countries, street food is incredible in South Korea. There is a crazy amount of street markets you can go to. Here is our selection to see the most variety while keeping the to-do list short (all of them in Seoul and surroundings).
 
 
-- The [<u>Gwangjang Market</u>](https://maps.app.goo.gl/hDpHJBcNn76aPNHA9) is the most famous one. You can find a massive amount of options here, but it has become so touristy that the prices are quite high, and it’s as busy as it gets. In particular, it became very famous for its “[<u>Netflix stall</u>](https://maps.app.goo.gl/rE3LJc4ybw8qbpzh9)”. Probably your best choice if you care about posting on Instagram, but not for an authentic, local experience.
-- For a more authentic and local experience, we really liked [<u>Namseong Sagye Market</u>](https://maps.app.goo.gl/pcrJnonQsLFhPSRV8). It’s not as popular among tourists, and you can see a lot of locals doing their daily shopping here. Much cheaper than Gwangjang, you can find incredible street food snacks here. Hunt for **eomuk, tteokbokki, and Korean corn dogs**!
-- For an open-air, more generic market (not just food-oriented), [<u>Dongmyo Flea Market</u>](https://maps.app.goo.gl/j7jauxRQCWNuafpR8) is where to go. You can find whatever you want here; it’s filled with second-hand and vintage goods. It also has a lot of street snack carts, and we actually had the best bungeoppang here!
+- The [Gwangjang Market](https://maps.app.goo.gl/hDpHJBcNn76aPNHA9) is the most famous one. You can find a massive amount of options here, but it has become so touristy that the prices are quite high, and it’s as busy as it gets. In particular, it became very famous for its “[Netflix stall](https://maps.app.goo.gl/rE3LJc4ybw8qbpzh9)”. Probably your best choice if you care about posting on Instagram, but not for an authentic, local experience.
+- For a more authentic and local experience, we really liked [Namseong Sagye Market](https://maps.app.goo.gl/pcrJnonQsLFhPSRV8). It’s not as popular among tourists, and you can see a lot of locals doing their daily shopping here. Much cheaper than Gwangjang, you can find incredible street food snacks here. Hunt for **eomuk, tteokbokki, and Korean corn dogs**!
+- For an open-air, more generic market (not just food-oriented), [Dongmyo Flea Market](https://maps.app.goo.gl/j7jauxRQCWNuafpR8) is where to go. You can find whatever you want here; it’s filled with second-hand and vintage goods. It also has a lot of street snack carts, and we actually had the best bungeoppang here!
 
 Local food:
 
 
-- **Korean BBQ** is not just food, it’s a whole experience. You’ll find thousands of them. We don’t have a specific one to recommend, although we did go to [<u>DottyDeaga(KoreanBBQ)</u>](https://maps.app.goo.gl/AaqEdGdGKfQ56GZL7) (Seoul), and it was very good. In any case, as long as you have **bulgogi** and **kimchi**, you’ll be fine.
-- **Tteokbokki** is typically street food, but in [<u>Gossi Tteokbokki</u>](https://maps.app.goo.gl/s78iQBfvJmc3N2qP9) (Seoul), you will find a very local spot where you can get it in a restaurant fashion. The place was packed with locals, and the food was absolutely delicious. Super recommended!
-- [<u>LABAB ISU</u>](https://maps.app.goo.gl/TZ7sqSSV7BrtYoQt5) (Seoul): A very good quality-to-price ratio and lots of different meals to try. A very solid choice if you’re exploring Seoul and craving some tasty Korean favorites in a budget-friendly setting.
-- [<u>Woojung Dolsot Bibimbap</u>](https://maps.app.goo.gl/zWs88NaDmgDEjuAJ8) (Busan): You can’t visit South Korea without having a good **bibimbap**, and this is our choice to recommend where to try it. Fair prices, generous portions, and delicious food.
+- **Korean BBQ** is not just food, it’s a whole experience. You’ll find thousands of them. We don’t have a specific one to recommend, although we did go to [DottyDeaga(KoreanBBQ)](https://maps.app.goo.gl/AaqEdGdGKfQ56GZL7) (Seoul), and it was very good. In any case, as long as you have **bulgogi** and **kimchi**, you’ll be fine.
+- **Tteokbokki** is typically street food, but in [Gossi Tteokbokki](https://maps.app.goo.gl/s78iQBfvJmc3N2qP9) (Seoul), you will find a very local spot where you can get it in a restaurant fashion. The place was packed with locals, and the food was absolutely delicious. Super recommended!
+- [LABAB ISU](https://maps.app.goo.gl/TZ7sqSSV7BrtYoQt5) (Seoul): A very good quality-to-price ratio and lots of different meals to try. A very solid choice if you’re exploring Seoul and craving some tasty Korean favorites in a budget-friendly setting.
+- [Woojung Dolsot Bibimbap](https://maps.app.goo.gl/zWs88NaDmgDEjuAJ8) (Busan): You can’t visit South Korea without having a good **bibimbap**, and this is our choice to recommend where to try it. Fair prices, generous portions, and delicious food.
 
 Extremely local spots:
 
 
-- [<u>Migadam</u>](https://maps.app.goo.gl/4MAvpJwEoqBwYLAL6) (Seoul): Don’t even try speaking English; it will be useless. But language does not matter much when, regardless of what you eat, you’ll receive an incredibly homemade Korean dish! We ate a lot for very little money, and everything was delicious. It was very spicy, though, so you may want to ask them not to add too much spice (if you do hand gestures, you can probably get the message across!).
-- [<u>순돌이보리밥</u>](https://maps.app.goo.gl/FGsZ1DQJYHipxU4B9) (Busan): The pure taste of homemade food. The ladies working there were among the sweetest people we’ve encountered during our trip. We have no idea what we ordered (the language barrier here was quite intense), but it was a lot of food and for an incredibly low price. They even gifted us some dessert when we left because they wanted us to try something new (or at least that’s what we understood)! Definitely an authentic experience.
+- [Migadam](https://maps.app.goo.gl/4MAvpJwEoqBwYLAL6) (Seoul): Don’t even try speaking English; it will be useless. But language does not matter much when, regardless of what you eat, you’ll receive an incredibly homemade Korean dish! We ate a lot for very little money, and everything was delicious. It was very spicy, though, so you may want to ask them not to add too much spice (if you do hand gestures, you can probably get the message across!).
+- [순돌이보리밥](https://maps.app.goo.gl/FGsZ1DQJYHipxU4B9) (Busan): The pure taste of homemade food. The ladies working there were among the sweetest people we’ve encountered during our trip. We have no idea what we ordered (the language barrier here was quite intense), but it was a lot of food and for an incredibly low price. They even gifted us some dessert when we left because they wanted us to try something new (or at least that’s what we understood)! Definitely an authentic experience.
 
 Desserts:
 
 
-- [<u>Yangji Dabang</u>](https://maps.app.goo.gl/ma8EToyeNPGbLPGt5) (Gyeongju): We came here to try the popular **soufflé pancake**, which, despite being Japanese, is very popular here as well. It’s definitely worth trying!
-- [<u>Sulbing</u>](https://maps.app.goo.gl/qAgHFs5q7MMLa96K6) (Seoul): A famous chain specializing in **bingsu**. They have many options to choose from, and they’re indeed a must-try while you’re in Korea. The portion seems huge, but it’s shaved ice in the end, so it’s okay to share it between two people.
-- [<u>Seoul Hotteok</u>](https://maps.app.goo.gl/qnB6Fm6NHqPhbNVK9) (Seoul): This shop serves one of the most beloved street snacks: the **hotteok**. It’s probably the most important dessert to try while visiting this amazing country, and this shop really nails it!
+- [Yangji Dabang](https://maps.app.goo.gl/ma8EToyeNPGbLPGt5) (Gyeongju): We came here to try the popular **soufflé pancake**, which, despite being Japanese, is very popular here as well. It’s definitely worth trying!
+- [Sulbing](https://maps.app.goo.gl/qAgHFs5q7MMLa96K6) (Seoul): A famous chain specializing in **bingsu**. They have many options to choose from, and they’re indeed a must-try while you’re in Korea. The portion seems huge, but it’s shaved ice in the end, so it’s okay to share it between two people.
+- [Seoul Hotteok](https://maps.app.goo.gl/qnB6Fm6NHqPhbNVK9) (Seoul): This shop serves one of the most beloved street snacks: the **hotteok**. It’s probably the most important dessert to try while visiting this amazing country, and this shop really nails it!
 
 Some other random stuff:
 

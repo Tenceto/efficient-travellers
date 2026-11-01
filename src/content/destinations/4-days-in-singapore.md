@@ -10,39 +10,39 @@ coverImage: "/images/posts/4-days-in-singapore-cover.webp"
 highlights: []
 hasRatings: true
 places:
-  - { name: "CapsulePod@Aljunied", lat: 1.3155, lng: 103.8820, day: 1, type: "town", section: "where-to-sleep", note: "Cheap capsule hotel a bit out of the center, spotless rooms and great AC, but the shared bathroom gets warm." }
-  - { name: "Chinatown", lat: 1.2836, lng: 103.8443, day: 1, type: "town", section: "itinerary", note: "We started our first day walking around Chinatown." }
-  - { name: "Central Business District", lat: 1.2840, lng: 103.8514, day: 1, type: "town", section: "itinerary", note: "Wander through the CBD on your way to the river." }
-  - { name: "Boat Quay", lat: 1.2867, lng: 103.8490, day: 1, type: "sight", section: "itinerary", note: "Cute spot by the river, full of bars and chill vibes." }
-  - { name: "Clarke Quay", lat: 1.2906, lng: 103.8465, day: 1, type: "sight", section: "itinerary", note: "Riverside area full of bars and chill vibes." }
+  - { name: "CapsulePod@Aljunied", lat: 1.3155, lng: 103.8820, day: 1, type: "activity", section: "where-to-sleep", note: "Cheap capsule hotel a bit out of the center, spotless rooms and great AC, but the shared bathroom gets warm." }
+  - { name: "Chinatown", lat: 1.2836, lng: 103.8443, day: 1, type: "town", note: "We started our first day walking around Chinatown." }
+  - { name: "Central Business District", lat: 1.2840, lng: 103.8514, day: 1, type: "town", note: "Wander through the CBD on your way to the river." }
+  - { name: "Boat Quay", lat: 1.2867, lng: 103.8490, day: 1, type: "sight", note: "Cute spot by the river, full of bars and chill vibes." }
+  - { name: "Clarke Quay", lat: 1.2906, lng: 103.8465, day: 1, type: "sight", note: "Riverside area full of bars and chill vibes." }
   - { name: "Maxwell Food Centre", lat: 1.2803, lng: 103.8448, day: 1, type: "food", note: "Cheap, authentic hawker center packed with locals on their lunch break." }
   - { name: "Tian Tian Hainanese Chicken Rice", lat: 1.2805, lng: 103.8446, day: 1, type: "food", note: "Famous chicken rice stall inside Maxwell. We didn't like it much, but give it a try yourself!" }
-  - { name: "Flower Dome", lat: 1.2845, lng: 103.8645, day: 1, type: "sight", section: "itinerary", note: "We only saw it from outside (entry around €17), but it looked stunning." }
-  - { name: "Cloud Forest", lat: 1.2837, lng: 103.8659, day: 1, type: "sight", section: "itinerary", note: "Seen from outside only, check the official Gardens by the Bay website for current prices." }
-  - { name: "Supertree Grove", lat: 1.2819, lng: 103.8636, day: 1, type: "sight", section: "itinerary", note: "The free night light show is definitely a must!" }
-  - { name: "Helix Bridge", lat: 1.2876, lng: 103.8604, day: 1, type: "sight", section: "itinerary", note: "Beautiful bridge with a very cool design." }
-  - { name: "Marina Bay Sands (Spectra)", lat: 1.2836, lng: 103.8597, day: 1, type: "sight", section: "itinerary", note: "Catch Spectra, the free fountain light show, at night." }
+  - { name: "Flower Dome", lat: 1.2845, lng: 103.8645, day: 1, type: "sight", note: "We only saw it from outside (entry was around 17 EUR; check the official Gardens by the Bay website for current prices), but it looked stunning." }
+  - { name: "Cloud Forest", lat: 1.2837, lng: 103.8659, day: 1, type: "sight", note: "We only saw it from outside too (entry was around 17 EUR; check the official Gardens by the Bay website for current prices), but it looked stunning." }
+  - { name: "Helix Bridge", lat: 1.2876, lng: 103.8604, day: 1, type: "sight", note: "Beautiful bridge with a very cool design." }
+  - { name: "Supertree Grove", lat: 1.2819, lng: 103.8636, day: 1, type: "sight", note: "The free night light show is definitely a must!" }
+  - { name: "Marina Bay Sands (Spectra)", lat: 1.2836, lng: 103.8597, day: 1, type: "sight", note: "Catch Spectra, the free fountain light show, at night." }
   - { name: "Lau Pa Sat", lat: 1.2807, lng: 103.8504, day: 1, type: "food", note: "Cleaner and more touristy than Maxwell, but still very good. We came back on Day 2 too." }
-  - { name: "Singapore Botanic Gardens", lat: 1.3138, lng: 103.8159, day: 2, type: "nature", section: "itinerary", note: "Free and absolutely worth visiting. The Orchid Garden costs around €10." }
-  - { name: "Little India", lat: 1.3066, lng: 103.8518, day: 2, type: "town", section: "itinerary", note: "Super cool neighborhood, very fun to walk around." }
-  - { name: "Kampong Glam & Arab Street", lat: 1.3020, lng: 103.8597, day: 2, type: "town", section: "itinerary", note: "Colourful neighborhood around the Sultan Mosque, great for a stroll." }
-  - { name: "Singapore Zam Zam Restaurant", lat: 1.3025, lng: 103.8584, day: 2, type: "food", note: "The best spot for murtabak, near the Sultan Mosque. No more than €8 per person." }
-  - { name: "Orchard Road", lat: 1.3040, lng: 103.8318, day: 2, type: "sight", section: "itinerary", note: "Singapore's luxury shopping street." }
-  - { name: "Fort Canning Park", lat: 1.2948, lng: 103.8460, day: 2, type: "nature", section: "itinerary", note: "Walk through the park, then follow the river down to the Merlion." }
-  - { name: "Merlion", lat: 1.2868, lng: 103.8545, day: 2, type: "sight", section: "itinerary", note: "The whole area is stunning, especially around sunset." }
-  - { name: "Buddha Tooth Relic Temple", lat: 1.2814, lng: 103.8444, day: 3, type: "sight", section: "itinerary", note: "Free and very nice!" }
-  - { name: "Sri Mariamman Temple", lat: 1.2826, lng: 103.8452, day: 3, type: "sight", section: "itinerary", note: "Hindu temple just a short walk from the Buddha Tooth Relic Temple." }
-  - { name: "Singapore City Gallery", lat: 1.2795, lng: 103.8458, day: 3, type: "sight", section: "itinerary", note: "Cute little free museum about the city's development." }
-  - { name: "99 Old Trees Durian", lat: 1.2795, lng: 103.8394, day: 3, type: "food", note: "Try durian in many formats. We could barely swallow it, but some friends loved it!" }
+  - { name: "Singapore Botanic Gardens", lat: 1.3138, lng: 103.8159, day: 2, type: "nature", note: "Free and absolutely worth visiting. The Orchid Garden costs around 10 EUR." }
+  - { name: "Little India", lat: 1.3066, lng: 103.8518, day: 2, type: "town", note: "Super cool neighborhood, very fun to walk around." }
+  - { name: "Kampong Glam & Arab Street", lat: 1.3020, lng: 103.8597, day: 2, type: "town", note: "Colorful neighborhood around the Sultan Mosque, great for a stroll." }
+  - { name: "Singapore Zam Zam Restaurant", lat: 1.3025, lng: 103.8584, day: 2, type: "food", note: "The best spot for murtabak, near the Sultan Mosque. No more than 8 EUR per person." }
+  - { name: "Orchard Road", lat: 1.3040, lng: 103.8318, day: 2, type: "sight", note: "Singapore's luxury shopping street." }
+  - { name: "Fort Canning Park", lat: 1.2948, lng: 103.8460, day: 2, type: "nature", note: "Walk through the park, then follow the river down to the Merlion." }
+  - { name: "Merlion", lat: 1.2868, lng: 103.8545, day: 2, type: "sight", note: "The whole area is stunning, especially around sunset." }
+  - { name: "Buddha Tooth Relic Temple", lat: 1.2814, lng: 103.8444, day: 3, type: "sight", note: "Free and very nice!" }
+  - { name: "Sri Mariamman Temple", lat: 1.2826, lng: 103.8452, day: 3, type: "sight", note: "Hindu temple just a short walk from the Buddha Tooth Relic Temple." }
+  - { name: "Singapore City Gallery", lat: 1.2795, lng: 103.8458, day: 3, type: "sight", note: "Cute little free museum about the city's development." }
+  - { name: "99 Old Trees Durian", lat: 1.2804, lng: 103.8409, day: 3, type: "food", note: "Try durian in many formats. We could barely swallow it, but some friends loved it!" }
   - { name: "Toast Box (Nankin Row)", lat: 1.2848, lng: 103.8471, day: 4, type: "food", note: "Kaya toast with kopi and runny eggs, though we preferred Ya Kun." }
-  - { name: "Ya Kun Kaya Toast (Paya Lebar Square)", lat: 1.3183, lng: 103.8929, day: 4, type: "food", note: "Our favourite kaya toast breakfast, the full set is around €6." }
-  - { name: "Jewel Changi Airport", lat: 1.3602, lng: 103.9894, day: 4, type: "sight", section: "itinerary", note: "Massive indoor waterfall and gardens at Terminal 1, worth it even if you're not flying." }
+  - { name: "Ya Kun Kaya Toast (Paya Lebar Square)", lat: 1.3183, lng: 103.8929, day: 4, type: "food", note: "Our favorite kaya toast breakfast, the full set is around 6 EUR." }
+  - { name: "Jewel Changi Airport", lat: 1.3602, lng: 103.9894, day: 4, type: "sight", note: "Massive indoor waterfall and gardens connected to Terminal 1, worth it even if you're not flying." }
 ratings: {"budget": 2, "adventure": 1, "food": 2, "overall": 3}
 ---
 
 ## Let’s start
 
-Singapore was the first stop on our backpacking trip through Southeast Asia, and honestly, we were instantly fascinated. Even if maybe that happened because it was our first stop, Singapore is simply one of those places that just have to be seen at least once in a lifetime.
+Singapore was the first stop on our backpacking trip through Southeast Asia, and honestly, we were instantly fascinated. Maybe that’s partly because it was our first stop, but Singapore is simply one of those places that just have to be seen at least once in a lifetime.
 
 That said, between the really high prices, the crazy heat, and the number of things to do, we think 3 or 4 days is more than enough to get a good feel for the city.
 
@@ -53,7 +53,7 @@ There is a considerable contrast between the futuristic and highly aesthetic are
 
 
 - **Vaccines**: No special vaccinations are required, just the standard ones.
-- **Visa**: Italian citizens do not need a visa for tourist or short-term business visits lasting up to 90 days. Before arriving, you must fill in the **Singapore Arrival Card**, which you can find at this [<u>link</u>](https://eservices.ica.gov.sg/sgarrivalcard/fvipa).
+- **Visa**: Italian citizens do not need a visa for tourist or short-term business visits lasting up to 90 days. Before arriving, you must fill in the [**Singapore Arrival Card**](https://eservices.ica.gov.sg/sgarrivalcard/fvipa) online.
 - **Stomach flu**: Just be cautious, drink bottled water, and stick to well-cooked local food. If you do, you shouldn’t have any issues.
 - **When to visit**: Every season is great in Singapore because the temperature is stable. Be cautious because the weather is always very hot and humid. Remember to drink a lot of water and remain hydrated!
 
@@ -76,19 +76,19 @@ There is a considerable contrast between the futuristic and highly aesthetic are
 
 ### Transportation from the airport
 
-The airport is easily connected to the city center via metro for a super convenient price (around €2). You can buy the metro card or swipe your debit card for a simpler use.
+The airport is easily connected to the city center via metro for a super convenient price (around 2 EUR). You can buy the metro card or swipe your debit card for a simpler use.
 
 
 ### Money
 
-Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card for the best exchange rate, since you will need cash only in local markets.
+Always use your Wise or Revolut card for the best exchange rate, since you will need cash only in local markets.
 
 Fee-free ATMs: **UOB** or **OCBC**.
 
 
 ### SIM card
 
-We couldn’t find a cheap option for a SIM card in Singapore, so we bought one with unlimited data at the airport for €15 for one month. It also had some GB of roaming for other Southeast Asian countries, so we also used it in Indonesia.
+We couldn’t find a cheap option for a SIM card in Singapore, so we bought one with unlimited data at the airport for 15 EUR for one month. It also had a few GB of roaming for other Southeast Asian countries, so we also used it in Indonesia.
 
 
 ### Clothes
@@ -99,7 +99,7 @@ Bring clothes that dry fast and are very, VERY light. The heat and humidity are 
 ### Where to sleep
 
 You must sleep in a capsule hotel if you want a cheap option. There are both single and double capsules, and they are in shared spaces with shared bathrooms.
-We chose [<u>CapsulePod@Aljunied</u>](https://www.booking.com/Share-qGO7B4), cheaper than the other capsule hotels since it’s a bit out of the center, and the reviews were pretty good.
+We chose [CapsulePod@Aljunied](https://www.booking.com/Share-qGO7B4), cheaper than the other capsule hotels since it’s a bit out of the center, and the reviews were pretty good.
 The AC worked perfectly and the rooms were spotless. The bad part was that the bathroom was very warm and not very clean since many people used it.
 
 It’s a fun experience; you will spend much less than in any other hostel!
@@ -121,48 +121,48 @@ It’s a fun experience; you will spend much less than in any other hostel!
 
 <div data-trip-map></div>
 
-**DAY 1**
+### Day 1
 
-We started the day walking around **Chinatown**. Then we wandered through the **Central Business District** (CBD), **Boat Quay**, and **Clarke Quay**: cute spots by the river, full of bars and chill vibes. We went to **Maxwell Food Centre** for lunch, a cheap and authentic hawker center. Don’t expect fancy, but that’s part of the charm. After lunch, the jet lag hit us hard, so we crashed at the hostel for a quick nap.
+We started the day walking around **Chinatown**. Then we wandered through the **Central Business District** (CBD), **Boat Quay**, and **Clarke Quay**: cute spots by the river, full of bars and chill vibes. We went to **Maxwell Food Centre** for lunch, a cheap and authentic hawker center. Don’t expect anything fancy, but that’s part of the charm. After lunch, the jet lag hit us hard, so we crashed at the capsule hotel for a quick nap.
 
-In the afternoon, we headed to **Gardens by the Bay** and walked around the **Flower Dome** and **Cloud Forest**. We only saw them from the outside (the entrance was around €17, and we were rather budget-conscious about the following months of our backpacking trip), but they looked stunning. We also crossed the **Helix Bridge**, which is beautiful and has a very cool design. *Ticket prices change often, so always check the official Gardens by the Bay website for the latest prices.*
+In the afternoon, we headed to **Gardens by the Bay** and walked around the **Flower Dome** and **Cloud Forest**. We only saw them from the outside (the entrance was around 17 EUR, and we were rather budget-conscious about the following months of our backpacking trip), but they looked stunning. We also crossed the **Helix Bridge**, which is beautiful and has a very cool design. *Ticket prices change often, so always check the official Gardens by the Bay website for the latest prices.*
 
 At night, we caught the light show at the **Supertree Grove** (definitely a must!) and then walked over to **Marina Bay Sands** for Spectra, the fountain light show. We then had dinner at **Lau Pa Sat**, another food court. The vibe here is much more touristy than Maxwell Food Centre, but still very good!
 
-**DAY 2**
+### Day 2
 
-We started the morning at the **Singapore Botanic Gardens**. It’s free and absolutely worth visiting. We didn’t go into the **Orchid Garden** (around €10 per ticket), but we’ve heard it’s lovely if you’re into that.
+We started the morning at the **Singapore Botanic Gardens**. It’s free and absolutely worth visiting. We didn’t go into the **Orchid Garden** (around 10 EUR per ticket), but we’ve heard it’s lovely if you’re into that.
 
-After that, we made a few quick stops around **Little India, Arab Street, and Kampong Glam**. All super cool neighborhoods and very fun to walk around.
+After that, we made a few quick stops around **Little India, Arab Street, and Kampong Glam**. They’re all super cool neighborhoods, very fun to walk around.
 
 After a little “hotel” break (because the heat around lunchtime is deadly), we headed to **Orchard Road**, Singapore’s luxury shopping street. From there, we walked through **Fort Canning Park** and followed the river all the way to the **Merlion**. That whole area is just stunning, especially around sunset.
 
 We walked over to Lau Pa Sat again for dinner to wrap up our day. The walk there from the Merlion was charming too, especially with all the city lights coming on.
 
-**DAY 3**
+### Day 3
 
 We returned to Chinatown for one last stroll, then visited the **Buddha Tooth Relic Temple** (free and very nice!) and stopped by **Sri Mariamman**, a Hindu temple nearby. Then we checked out the **Singapore City Gallery**, a cute little museum with interesting info on the city’s development (also free).
 
-In the afternoon, we finally searched for a place to try the durian. We won’t spoil the experience, have fun! (You can check out the Food section to see where we went to try it.) Later, we joined a **free walking tour** through the city center, always a great way to learn a few fun facts.
+In the afternoon, we finally searched for a place to try the durian. We won’t spoil the experience. Have fun! (You can check out the Food section to see where we went to try it.) Later, we joined a **free walking tour** through the city center, always a great way to learn a few fun facts.
 
 We wrapped up the day at Marina Bay, where events were going on for Formula 1. The city was vibing, and the skyline at night was beautiful.
 
-**DAY 4**
+### Day 4
 
-The last day started with a Singaporean classic breakfast (go to the Food section for more info!). Afterwards, we headed to **Jewel**, the famous area in **Terminal 1** of Changi Airport. It’s honestly insane; there’s a massive indoor waterfall, loads of shops, and plants everywhere. Even if you’re not flying, it’s totally worth checking out. A **free internal shuttle** connects all terminals, so getting around is super easy.
+The last day started with a Singaporean classic breakfast (go to the Food section for more info!). Afterwards, we headed to **Jewel**, the famous complex connected to **Terminal 1** of Changi Airport. It’s honestly insane; there’s a massive indoor waterfall, loads of shops, and plants everywhere. Even if you’re not flying, it’s totally worth checking out. A **free internal shuttle** connects all terminals, so getting around is super easy.
 
 
 ## Food
 
-Singapore is such an international place that the amount of food from all over the world you can find is infinite. If you’re willing to pay, you can literally find whatever. However, this blog is all about efficient, budget-friendly travelling, so keep reading to find out where to try local dishes for affordable prices (which can be hard to find in such an expensive country!).
+Singapore is such an international place that the variety of food from all over the world you can find is endless. If you’re willing to pay, you can literally find anything. However, this blog is all about efficient, budget-friendly traveling, so keep reading to find out where to try local dishes for affordable prices (which can be hard to find in such an expensive country!).
 
-One of the most defining aspects of Singapore’s cuisine is its **hawker centers**. These are food courts where dozens of stalls sell affordable dishes. You can see them packed with locals. We visited the most popular ones: [<u>Lau Pa Sat</u>](https://maps.app.goo.gl/CWizSuuCWyTyCUq99) and [<u>Maxwell Food Centre</u>](https://maps.app.goo.gl/6s427ZnCskJiZUaV8). The former seemed much cleaner, better organized, and much more touristy. The latter felt much more local and authentic, and it was full of people having lunch during their work breaks on a weekday. You can find tons of options in both of them, and they’re definitely spots you should visit to eat like a true Singaporean! (In particular, Maxwell Food Centre is famous for [<u>Tian Tian Hainanese Chicken Rice</u>](https://maps.app.goo.gl/GnKPzGtcF6SNcK766). We didn’t like it much, but you should definitely give it a try yourself!)
+One of the most defining aspects of Singapore’s cuisine is its **hawker centers**. These are food courts where dozens of stalls sell affordable dishes. You can see them packed with locals. We visited the most popular ones: [Lau Pa Sat](https://maps.app.goo.gl/CWizSuuCWyTyCUq99) and [Maxwell Food Centre](https://maps.app.goo.gl/6s427ZnCskJiZUaV8). The former seemed much cleaner, better organized, and much more touristy. The latter felt much more local and authentic, and it was full of people having lunch during their work breaks on a weekday. You can find tons of options in both of them, and they’re definitely spots you should visit to eat like a true Singaporean! (In particular, Maxwell Food Centre is famous for [Tian Tian Hainanese Chicken Rice](https://maps.app.goo.gl/GnKPzGtcF6SNcK766). We didn’t like it much, but you should definitely give it a try yourself!)
 
-You can’t say you visited Singapore if you didn’t have a **kaya toast** for breakfast (served, of course, with **kopi** and eggs). The kopi is a coffee with condensed milk, and the kaya is a sweet spread made from coconut milk. To eat it like a local, order it with a pair of runny eggs and dip your kaya toast into them. We tried it in the leading chains: [<u>Toast Box (Nankin Row)</u>](https://maps.app.goo.gl/2e4kU1zp8CYWP8nV6) and [<u>Ya Kun Kaya Toast (Paya Lebar Square)</u>](https://maps.app.goo.gl/JP3g4EWxaK3pxHjS9). Ya Kun was much better than the other one, so we’d recommend trying that one! You can have the full breakfast set for around €6.
+You can’t say you visited Singapore if you didn’t have a **kaya toast** for breakfast (served, of course, with **kopi** and eggs). The kopi is a coffee with condensed milk, and the kaya is a sweet spread made from coconut milk. To eat it like a local, order it with a pair of runny eggs and dip your kaya toast into them. We tried it at the two leading chains: [Toast Box (Nankin Row)](https://maps.app.goo.gl/2e4kU1zp8CYWP8nV6) and [Ya Kun Kaya Toast (Paya Lebar Square)](https://maps.app.goo.gl/JP3g4EWxaK3pxHjS9). Ya Kun was much better than the other one, so we’d recommend trying that one! You can have the full breakfast set for around 6 EUR.
 
-To try some of the Indian Muslim side of Singapore’s cuisine, **murtabak** is a solid choice: a pan-fried bread filled with spiced minced meat. The best spot to try it is [<u>Singapore Zam Zam Restaurant</u>](https://maps.app.goo.gl/SGqxuNDPfuEBLexG7) near the Sultan Mosque. There are many sizes to share the dish in a group, and it’s affordable and delicious. You won’t spend more than €8 per person.
+To try some of the Indian Muslim side of Singapore’s cuisine, **murtabak** is a solid choice: a pan-fried bread filled with spiced minced meat. The best spot to try it is [Singapore Zam Zam Restaurant](https://maps.app.goo.gl/SGqxuNDPfuEBLexG7) near the Sultan Mosque. There are many sizes to share the dish in a group, and it’s affordable and delicious. You won’t spend more than 8 EUR per person.
 
-Last, if you are courageous enough, you must try **durian**. People here are obsessed with this fruit, and it’s famous for its potent smell. People either love it or can’t stand it. In fact, durian is banned in hotels and public transport in Singapore! A good place to try it is [<u>99 Old Trees Durian</u>](https://maps.app.goo.gl/sWuNYU9wwZi5CeyL9), where they sell it in many different formats. To be honest, we could barely swallow it, but some of our friends actually loved it. You will have to try it to see which side you’re on!
+Lastly, if you are courageous enough, you must try **durian**. People here are obsessed with this fruit, and it’s famous for its potent smell. People either love it or can’t stand it. In fact, durian is banned in hotels and public transport in Singapore! A good place to try it is [99 Old Trees Durian](https://maps.app.goo.gl/sWuNYU9wwZi5CeyL9), where they sell it in many different formats. To be honest, we could barely swallow it, but some of our friends actually loved it. You will have to try it to see which side you’re on!
 
 
 ![4-days-in-singapore](/images/posts/4-days-in-singapore-img-3.webp)

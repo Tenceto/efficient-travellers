@@ -3,11 +3,11 @@ title: "3 weeks in Vietnam"
 region: "Asia"
 status: "published"
 date: "16 May 2025"
-description: "Three-week Vietnam itinerary from Hanoi to Saigon: Sapa, the Ha Giang Loop by motorbike, Lan Ha Bay, Ninh Binh, Hue and Hoi An, with night bus and food tips."
+description: "Three-week Vietnam itinerary from Hanoi to Saigon: Sa Pa, the Ha Giang Loop by motorbike, Lan Ha Bay, Ninh Binh, Hue and Hoi An, with night bus and food tips."
 author: "Carola & Martín"
 cardImage: "/images/cards/3-weeks-in-vietnam-card.webp"
 coverImage: "/images/posts/3-weeks-in-vietnam-cover.webp"
-highlights: ["Hanoi", "Sapa", "Ha Giang Loop", "Lan Ha Bay", "Ninh Binh", "Hue / Hoi An", "Ho Chi Minh (Saigon)"]
+highlights: ["Hanoi", "Sa Pa", "Ha Giang Loop", "Lan Ha Bay", "Ninh Binh", "Hue / Hoi An", "Ho Chi Minh (Saigon)"]
 hasRatings: true
 places:
   - { name: "Hanoi Old Quarter", lat: 21.0340, lng: 105.8500, group: "Hanoi", type: "town", note: "A shopping paradise packed with shops and street food; wandering with no plan is the best way to experience Hanoi." }
@@ -16,24 +16,24 @@ places:
   - { name: "Mr Bảy Miền Tây - Bánh Xèo", lat: 21.0321, lng: 105.8469, group: "Hanoi", type: "food", note: "Among our best meals in Vietnam: out-of-this-world bánh xèo (145k VND); expect to queue." }
   - { name: "Phở Xào Phú Mỹ", lat: 21.0336, lng: 105.8466, group: "Hanoi", type: "food", note: "Hidden gem with a huge phở xào bò for 65k VND and absolutely no tourists." }
   - { name: "Sa Pa town", lat: 22.3364, lng: 103.8438, group: "Sa Pa", type: "town", note: "Nice mountain town with fresh air, but really just a stopover; one night is enough." }
-  - { name: "Muong Hoa Valley rice-field trek", lat: 22.3050, lng: 103.8750, group: "Sa Pa", type: "activity", note: "Trek through the rice fields with local Hmong guides; we recommend the 3-day homestay trek (around 80€). Best June to September." }
-  - { name: "Ha Giang City", lat: 22.8233, lng: 104.9836, group: "Ha Giang Loop", type: "town", note: "Nothing to do here, just a place to sleep the night before starting the loop and rent a semi-automatic bike (5-7€/day)." }
-  - { name: "Heaven's Gate (Quan Ba)", lat: 23.0660, lng: 104.9990, group: "Ha Giang Loop", type: "nature", note: "First big viewpoint on Day 1 of the loop, on a fully paved road.", section: "day-1--the-longest-but-most-stunning" }
+  - { name: "Muong Hoa Valley rice-field trek", lat: 22.3050, lng: 103.8750, group: "Sa Pa", type: "activity", note: "Trek through the rice fields with local Hmong guides; we recommend the 3-day homestay trek (around 80 EUR). Best June to September." }
+  - { name: "Ha Giang City", lat: 22.8233, lng: 104.9836, group: "Ha Giang Loop", type: "town", note: "Nothing to do here, just a place to sleep the night before starting the loop and rent a semi-automatic bike (5-7 EUR/day)." }
+  - { name: "Heaven's Gate (Quan Ba)", lat: 23.0493, lng: 104.9930, group: "Ha Giang Loop", type: "nature", note: "First big viewpoint on Day 1 of the loop, on a fully paved road.", section: "day-1--the-longest-but-most-stunning" }
   - { name: "Yen Minh", lat: 23.1210, lng: 105.1370, group: "Ha Giang Loop", type: "town", note: "The best part of the loop is the stretch from Yen Minh to Meo Vac.", section: "day-1--the-longest-but-most-stunning" }
   - { name: "Dong Van", lat: 23.2780, lng: 105.3610, group: "Ha Giang Loop", type: "town", note: "Our overnight stop after the longest but most stunning day of the loop.", section: "day-1--the-longest-but-most-stunning" }
   - { name: "Ma Pi Leng Pass", lat: 23.2390, lng: 105.4120, group: "Ha Giang Loop", type: "nature", note: "We drove down the pass and stopped for a long trek; then take the DT181 shortcut and avoid DT176.", section: "day-2" }
-  - { name: "Duong Thuong Eco House", lat: 23.0580, lng: 105.0730, group: "Ha Giang Loop", type: "town", note: "A random but super beautiful valley to spend the second night; bring repellent for the huge mosquitoes.", section: "day-2" }
+  - { name: "Duong Thuong Eco House", lat: 22.9761, lng: 105.1680, group: "Ha Giang Loop", type: "town", note: "A random but super beautiful valley to spend the second night; bring repellent for the huge mosquitoes.", section: "day-2" }
   - { name: "Cat Ba town", lat: 20.7230, lng: 107.0480, group: "Cat Ba", type: "town", note: "Mainly a jumping-off point for Lan Ha Bay tours; the island itself is nothing special." }
-  - { name: "Lan Ha Bay", lat: 20.7650, lng: 107.0900, group: "Cat Ba", type: "nature", note: "Day boat tour with Beka Travel (30€); kayaking was the highlight and there are far fewer boats than in Ha Long Bay." }
-  - { name: "Tam Coc", lat: 20.2160, lng: 105.9370, group: "Ninh Binh", type: "town", note: "Stay here rather than in Ninh Binh city, and rent a motorbike (4€/day) since everything is spread out." }
-  - { name: "Bai Dinh Pagoda", lat: 20.2750, lng: 105.8640, group: "Ninh Binh", type: "sight", note: "Massive Buddhist complex (5€), manageable on foot with the walking ticket; the mountain caves were the best part.", section: "day-1" }
-  - { name: "Mua Cave Viewpoint", lat: 20.2295, lng: 105.9320, group: "Ninh Binh", type: "nature", note: "500 steps (4€) to a touristy but definitely worth-it sunset view.", section: "day-1" }
+  - { name: "Lan Ha Bay", lat: 20.7650, lng: 107.0900, group: "Cat Ba", type: "nature", note: "Day boat tour with Beka Travel (30 EUR); kayaking was the highlight and there are far fewer boats than in Ha Long Bay." }
+  - { name: "Tam Coc", lat: 20.2160, lng: 105.9370, group: "Ninh Binh", type: "town", note: "Stay here rather than in Ninh Binh city, and rent a motorbike (4 EUR/day) since everything is spread out." }
+  - { name: "Bai Dinh Pagoda", lat: 20.2750, lng: 105.8640, group: "Ninh Binh", type: "sight", note: "Massive Buddhist complex (5 EUR), manageable on foot with the walking ticket; the mountain caves were the best part.", section: "day-1" }
+  - { name: "Mua Cave Viewpoint", lat: 20.2295, lng: 105.9320, group: "Ninh Binh", type: "nature", note: "500 steps (4 EUR) to a touristy but definitely worth-it sunset view.", section: "day-1" }
   - { name: "Van Long Wetland Reserve", lat: 20.3700, lng: 105.8700, group: "Ninh Binh", type: "nature", note: "Not special in itself, but riding through the non-touristy villages felt very authentic.", section: "day-2-1" }
-  - { name: "Trang An boat tour", lat: 20.2550, lng: 105.9150, group: "Ninh Binh", type: "activity", note: "River tour (10€); we chose the shorter Tour 2, with landscapes, caves and temples.", section: "day-2-1" }
+  - { name: "Trang An boat tour", lat: 20.2550, lng: 105.9150, group: "Ninh Binh", type: "activity", note: "River tour (10 EUR); we chose the shorter Tour 2, with landscapes, caves and temples.", section: "day-2-1" }
   - { name: "Bich Dong Pagoda", lat: 20.2160, lng: 105.9180, group: "Ninh Binh", type: "sight", note: "Small, charming pagoda with a lovely, peaceful atmosphere.", section: "day-3" }
   - { name: "Ninh Binh city", lat: 20.2539, lng: 105.9750, group: "Ninh Binh", type: "town", note: "Not great to stay in; we explored it on a rainy afternoon.", section: "day-3" }
   - { name: "Ninh Loan Rose Restaurant", lat: 20.2152, lng: 105.9359, group: "Ninh Binh", type: "food", note: "Eat in a family's living room and try the rare stuffed tofu with meat (đậu phụ nhồi thịt), 60k VND." }
-  - { name: "Hue Imperial City", lat: 16.4698, lng: 107.5786, group: "Hue", type: "sight", note: "Absolutely stunning (10€ entry); take a guided or free walking tour to understand its history." }
+  - { name: "Hue Imperial City", lat: 16.4698, lng: 107.5786, group: "Hue", type: "sight", note: "Absolutely stunning (10 EUR entry); take a guided or free walking tour to understand its history." }
   - { name: "Bún Bò Thủy", lat: 16.4713, lng: 107.5970, group: "Hue", type: "food", note: "Only locals and lightning-fast service: THE spot for traditional bún bò Huế at 50k VND." }
   - { name: "Hoi An Ancient Town riverside", lat: 15.8770, lng: 108.3275, group: "Hoi An", type: "town", note: "Get lost in the little streets on foot; the riverside is most beautiful at night. Great for a custom-made suit." }
   - { name: "The Seeds Plant-Based Foods & Desserts", lat: 15.8790, lng: 108.3300, group: "Hoi An", type: "food", note: "Great quality vegan food at fair prices; the entrance is hard to find, so check the Google Maps reviews." }
@@ -88,20 +88,20 @@ Beware: you can pay only with cash.
 
 ### Money
 
-Always use your Wise or [Revolut](https://revolut.com/referral/?referral-code=martin_qh_ww83!OCT1-26-AR-L1&geo-redirect) card to have the best exchange rate, but be aware that a lot of activities don’t accept cards. It's not convenient to exchange cash since there are ATMs with no withdrawal fees, like **TP Bank** and **VP Bank**.
+Always use your Wise or Revolut card to have the best exchange rate, but be aware that a lot of activities don’t accept cards. It's not convenient to exchange cash since there are ATMs with no withdrawal fees, like **TP Bank** and **VP Bank**.
 
 
 ### SIM card
 
 If you are looking for a company that is not a tourist trap, we strongly recommend **Viettel**.
-Don't do the SIM card in the airport but go to a Viettel shop in a big city and do the local package, it works perfectly and it’s 7€ for a month (they will try to sell you the tourist package but it’s not convenient).
+Don't do the SIM card in the airport but go to a Viettel shop in a big city and do the local package, it works perfectly and it’s 7 EUR for a month (they will try to sell you the tourist package but it’s not convenient).
 
 
 ### Clothes
 
 Take with you clothes that dry fast and always have in your daily backpack a pair of long trousers for the temples.
 
-Laundry: it's full of places around. Just do a quick search on Google Maps. Prices could vary from 1 to 3€ per kilo.
+Laundry: it's full of places around. Just do a quick search on Google Maps. Prices could vary from 1 to 3 EUR per kilo.
 
 ### Night buses
 
@@ -126,7 +126,7 @@ Always remember to bargain!
 3. Visit the most remote areas of northern Vietnam to really experience the local culture
 4. Learn about the war by visiting museums and talking to people
 5. Have a meal on a minuscule bench on the streets of Hanoi
-6. Get a haircut on the street for €2
+6. Get a haircut on the street for 2 EUR
 7. Visit Son Doong Cave, the largest in the world (we regret not doing it!)
 8. Join the Lantern Festival in Hoi An (every 14th of the lunar month)
 9. Get a tailor-made suit/dress in Hoi An for an incredibly cheap price
@@ -166,13 +166,13 @@ One place that totally lives up to the hype is **Train Street**—super cool and
 
 ### 2. Sa Pa
 
-To get there, we took a **sleeping bus** booked through our hotel for €10.
+To get there, we took a **sleeping bus** booked through our hotel for 10 EUR.
 
 Sa Pa town itself is nice, but really just a stopover—you don’t need more than one night. It’s a great place to escape Southeast Asia’s humidity and enjoy the fresh mountain air.
 
 The main activity here is **trekking** with local guides through the **rice fields** and visiting the Hmong people (DM us for the contact of Zu, our amazing guide).
 
-The tour is totally worth it—well-organized and an easy trek. We’d recommend the 3-day trek (around €80) to fully experience the local culture.
+The tour is totally worth it—well-organized and an easy trek. We’d recommend the 3-day trek (around 80 EUR) to fully experience the local culture.
 
 The landscape is beautiful, but not mind-blowing. Just a heads-up: in October, the rice fields are dry and yellow, so the best time to visit is from June to September.
 
@@ -187,7 +187,7 @@ Quick & Honest Guide:
 
 
 - Ha Giang City → nothing to do here, just useful to have a place to stay one night before starting the loop.
-- Motorbike rental → Get a semi-automatic (with gears) because of all the steep climbs and descents. We rented a 110cc for 5-7€/day.
+- Motorbike rental → Get a semi-automatic (with gears) because of all the steep climbs and descents. We rented a 110cc for 5-7 EUR/day.
 - International driving permit → fundamental, or you risk a $60 fine (police stopped us twice to ask for it).
 - Solo vs Group? → 100% Solo! It's absolutely worth doing it on your own. It’s not dangerous at all—just drive slowly and pay attention to your surroundings. However, do check the forecast before, since the bad weather may not only make it riskier but also ruin the sightseeing. Many people write that doing it solo is dangerous and stuff, but don’t let these blogs scare you! Check out this [Reddit post](https://www.reddit.com/r/VietNam/comments/1gqc23b/the_truth_about_the_ha_giang_loop/) to learn about our experience!
 
@@ -203,7 +203,7 @@ Since we were tired, we skipped Lung Cu Flag Point (doable if you wake up early)
 Route: drove down to Ma Pi Leng Pass, stopped for a long trek, then took a shortcut through the **DT181**.
 (**Warning: AVOID DT176 towards Du Gia—roads get bad!**).
 Road conditions: normal, not too bad.
-Stayed overnight in a random but super beautiful valley at **Duong Tong Eco House.** The number of huge mosquitoes here was overwhelming, since it was a deep rural area–remember to always have some repellent with you!
+Stayed overnight in a random but super beautiful valley at **Duong Thuong Eco House**. The number of huge mosquitoes here was overwhelming, since it was a deep rural area–remember to always have some repellent with you!
 
 
 #### Day 3 – Easy & Chill
@@ -218,7 +218,7 @@ Would we do it again? 100%.
 
 Cat Ba is mainly a jumping-off point for a Lan Ha Bay tour, the island itself is nothing special.
 
-We arrived there thanks to a night bus that we booked through the same agency as the tour (20€). The agency is **Beka Travel** and you can find the information about the tour [here](https://bekatravel.com/st_tour/from-hanoi-cat-ba-lan-ha-bay-full-day-boat-trip/) (30€ - later found also cheaper options). Some people stay overnight on the cruise, but honestly, once you’ve seen it, it’s not really worth it unless you just want to relax.
+We arrived there thanks to a night bus that we booked through the same agency as the tour (20 EUR). The agency is **Beka Travel** and you can find the information about the tour [here](https://bekatravel.com/st_tour/from-hanoi-cat-ba-lan-ha-bay-full-day-boat-trip/) (30 EUR - later found also cheaper options). Some people stay overnight on the cruise, but honestly, once you’ve seen it, it’s not really worth it unless you just want to relax.
 
 The tour was nice—kayaking was a highlight, and the bay has way fewer boats than Ha Long Bay. 
 The only downside was that we got back around 5 PM, before sunset (seems like all tours here do this). If you want a proper sunset view, Ha Long Bay might be a better option, though it’s way more touristy and annoyingly crowded.
@@ -226,23 +226,23 @@ The only downside was that we got back around 5 PM, before sunset (seems like al
 
 ### 5. Ninh Binh
 
-We took a 4-hour bus for €10. We suggest staying in **Tam Coc** instead of Ninh Binh city, which isn’t great.
+We took a 4-hour bus for 10 EUR. We suggest staying in **Tam Coc** instead of Ninh Binh city, which isn’t great.
 
-Here renting a motorbike is a must since everything is spread out—€4/day.
+Here renting a motorbike is a must since everything is spread out—4 EUR/day.
 
 
 #### Day 1
 
-We started with a visit to the **Bai Dinh Buddhist complex**, which cost us €5 for entry. We opted for the walking ticket; the complex is massive, but it's manageable to explore on foot. The best part was by far the mountain caves inside the complex.
+We started with a visit to the **Bai Dinh Buddhist complex**, which cost us 5 EUR for entry. We opted for the walking ticket; the complex is massive, but it's manageable to explore on foot. The best part was by far the mountain caves inside the complex.
 
-After that, we headed to **Mua Cave Viewpoint** to catch the sunset. Entry was €4, and there are 500 steps to climb (a bit tiring but totally doable). It’s pretty touristy, but the view is definitely worth the effort.
+After that, we headed to **Mua Cave Viewpoint** to catch the sunset. Entry was 4 EUR, and there are 500 steps to climb (a bit tiring but totally doable). It’s pretty touristy, but the view is definitely worth the effort.
 
 
 #### Day 2
 
 On the second day, we rode around the **Van Long Wetland Reserve**. While the place itself isn’t particularly special, it was really interesting to see the non-touristy villages. It gave us a glimpse into the local way of life, which felt very authentic.
 
-Later, we did the **Trang An river tour** (€10), choosing the shorter Tour 2, which combines a little bit of everything—landscapes, caves, and temples. It’s definitely touristy, but the scenery is pretty unique, making it well worth the experience.
+Later, we did the **Trang An river tour** (10 EUR), choosing the shorter Tour 2, which combines a little bit of everything—landscapes, caves, and temples. It’s definitely touristy, but the scenery is pretty unique, making it well worth the experience.
 
 
 #### Day 3
@@ -256,7 +256,7 @@ Afterwards, since it started raining, we spent the afternoon exploring Ninh Binh
 
 Unfortunately, we don’t have much to say about these two cities because we each caught a stomach bug and it was pouring rain, so we didn’t explore much.
 
-**Hue**: We took an overnight bus (€15), which was more affordable than the train, though the train ride could be a nice experience. In the morning, we walked around the city center, and in the afternoon, we visited the **Imperial City** (entry costs €10). It’s absolutely stunning, and we highly recommend taking a guided tour or joining a free walking tour to gain a deeper understanding of its history and significance.
+**Hue**: We took an overnight bus (15 EUR), which was more affordable than the train, though the train ride could be a nice experience. In the morning, we walked around the city center, and in the afternoon, we visited the **Imperial City** (entry costs 10 EUR). It’s absolutely stunning, and we highly recommend taking a guided tour or joining a free walking tour to gain a deeper understanding of its history and significance.
 
 **Hoi An**: The city is small, and it’s nice to just get lost in its little streets on foot. The most beautiful part is the riverside, especially at night.
 
@@ -308,11 +308,11 @@ Apart from the food listed above, you NEED to try the unusual Vietnamese coffees
 Regarding specific spots where to eat, these were our favorites (in no particular order):
 
 
-- [Cà Phê Lâm](https://maps.app.goo.gl/NCVx7d5vcz8egGsf7) (Hanoi): Classic old-school place to have the best, super creamy **cà phê trứng** you’ll find. There were no tourists when I went, just local guys enjoying their coffees. It has a fair price when compared to others in the area (40k VND or 1.30€).
-- [Mr Bảy Miền Tây - Bánh Xèo](https://maps.app.goo.gl/NKHuZaj5w4H8S5c5A) (Hanoi): Among the best meals we’ve had in Vietnam. Their **bánh xèo** is out of this world. It’s quite packed with tourists, and there are very few tables, so be ready to queue for a bit. It’s not very budget-friendly for Vietnamese standards (145k VND or 5€ for the chicken bánh xèo), but it’s totally worth it.
-- [Phở Xào Phú Mỹ](https://maps.app.goo.gl/NUQh5iAQXaCUJeu9A) (Hanoi): We found it recommended by a local on Reddit and it was glorious. The **phở xào bò** for 65k VND (2.20€) is just unbelievable: huge portion, massive amount of meat, and absolutely NO tourists. This place is the definition of a hidden gem.
-- [Ninh Loan Rose Restaurant](https://maps.app.goo.gl/d8ABQdLx1bGRJcw3A) (Tam Coc): Here you will find a rare dish that really blew Martín’s mind (meat again): stuffed tofu with meat (**đậu phụ nhồi thịt**) for 60k VND (2€). Apparently, it’s a classic in homemade food but really hard to find in restaurants. The place is aligned with this, as you basically eat in an extension of a family’s living room. Highly recommended.
-- [Bún Bò Thủy](https://maps.app.goo.gl/UtNVEDFxy5zx5aeu8) (Hue): You will find only locals eating here. The service is lightning fast. If you are looking for a traditional bún bò Huế at a local price (50k VND or 1.70€), this is THE spot.
+- [Cà Phê Lâm](https://maps.app.goo.gl/NCVx7d5vcz8egGsf7) (Hanoi): Classic old-school place to have the best, super creamy **cà phê trứng** you’ll find. There were no tourists when I went, just local guys enjoying their coffees. It has a fair price when compared to others in the area (40k VND or 1.30 EUR).
+- [Mr Bảy Miền Tây - Bánh Xèo](https://maps.app.goo.gl/NKHuZaj5w4H8S5c5A) (Hanoi): Among the best meals we’ve had in Vietnam. Their **bánh xèo** is out of this world. It’s quite packed with tourists, and there are very few tables, so be ready to queue for a bit. It’s not very budget-friendly for Vietnamese standards (145k VND or 5 EUR for the chicken bánh xèo), but it’s totally worth it.
+- [Phở Xào Phú Mỹ](https://maps.app.goo.gl/NUQh5iAQXaCUJeu9A) (Hanoi): We found it recommended by a local on Reddit and it was glorious. The **phở xào bò** for 65k VND (2.20 EUR) is just unbelievable: huge portion, massive amount of meat, and absolutely NO tourists. This place is the definition of a hidden gem.
+- [Ninh Loan Rose Restaurant](https://maps.app.goo.gl/d8ABQdLx1bGRJcw3A) (Tam Coc): Here you will find a rare dish that really blew Martín’s mind (meat again): stuffed tofu with meat (**đậu phụ nhồi thịt**) for 60k VND (2 EUR). Apparently, it’s a classic in homemade food but really hard to find in restaurants. The place is aligned with this, as you basically eat in an extension of a family’s living room. Highly recommended.
+- [Bún Bò Thủy](https://maps.app.goo.gl/UtNVEDFxy5zx5aeu8) (Hue): You will find only locals eating here. The service is lightning fast. If you are looking for a traditional bún bò Huế at a local price (50k VND or 1.70 EUR), this is THE spot.
 - [The Seeds Plant-Based Foods & Desserts/Tiệm Chay](https://maps.app.goo.gl/vQ54H6AXnGEJA1Xa6) (Hoi An): Not Vietnamese at all, but a really good place to eat vegan food if you need a break. It’s super good quality and really fair prices, too. The entrance is quite difficult to find, so check the reviews on Google Maps to get some instructions.
-- [Bánh Mì Huỳnh Hoa](https://maps.app.goo.gl/aZU5R7usxhNDjTod9) (Ho Chi Minh City): The bánh mì that makes all the rest we’ve tried before seem dull. This place has probably one of the best **bánh mì** in the country. They only sell one flavor (which is SUPER loaded with several types of meat and stuff that we couldn’t really identify). The sandwich is absurdly big despite the really low price (68k VND or 2.30€), so you’ll probably want to share it in two. The queue is quite long, but it advances really fast since they only do takeaway.
-- [Cộng Cà Phê](https://maps.app.goo.gl/y6ScMrXNHkQeAK9CA) (Ho Chi Minh City): It’s a chain so look for the one that is the closest to your position. Here we had our favorite **cà phê cốt dừa**, although this place violated our low-budget principles. It’s kind of on the pricey side since it’s kind of “instagrammable” (65k VND or 2.20€ for just one beverage–more expensive than most of our full meals!).
+- [Bánh Mì Huỳnh Hoa](https://maps.app.goo.gl/aZU5R7usxhNDjTod9) (Ho Chi Minh City): The bánh mì that makes all the rest we’ve tried before seem dull. This place has probably one of the best **bánh mì** in the country. They only sell one flavor (which is SUPER loaded with several types of meat and stuff that we couldn’t really identify). The sandwich is absurdly big despite the really low price (68k VND or 2.30 EUR), so you’ll probably want to share it in two. The queue is quite long, but it advances really fast since they only do takeaway.
+- [Cộng Cà Phê](https://maps.app.goo.gl/y6ScMrXNHkQeAK9CA) (Ho Chi Minh City): It’s a chain so look for the one that is the closest to your position. Here we had our favorite **cà phê cốt dừa**, although this place violated our low-budget principles. It’s kind of on the pricey side since it’s kind of “instagrammable” (65k VND or 2.20 EUR for just one beverage–more expensive than most of our full meals!).

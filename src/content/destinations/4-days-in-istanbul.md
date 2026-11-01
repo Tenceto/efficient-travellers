@@ -66,9 +66,7 @@ That being said, here’s our 4-day itinerary, which allowed us to cover pretty 
 
 ### Transportation from the airport
 
-To go from the airport to the city center, you can either take local buses or grab a taxi. Since we arrived really late at night when no more buses were running, we had no choice but to go with the latter.
-
-Just a heads up, though: based on our experience, be prepared for a bit of a scam attempt. We agreed on a price before getting in, but once we arrived at our destination, the driver suddenly pretended not to speak English and asked for more money for some random tolls during the trip, basically forcing us to pay extra.
+To go from the airport to the city center, we grabbed a taxi. Just a heads up, though: based on our experience, be prepared for a bit of a scam attempt. We agreed on a price before getting in, but once we arrived at our destination, the driver suddenly pretended not to speak English and asked for more money for some random tolls during the trip, basically forcing us to pay extra.
 
 
 ### Money

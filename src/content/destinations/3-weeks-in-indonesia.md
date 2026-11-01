@@ -134,7 +134,7 @@ Always get gas at gas stations (unless it's urgent), because buying gas from str
 5. Hike a volcano (**Bromo, Ijen, Batur,** or **Rinjani** - check the difficulty)
 6. Horseback riding on the beach in Gili Air
 7. Craft a personal silver ring in Sidemen
-8. Refresh in one of the thousands of waterfalls around Bali: Uman Anyar, Manuaba, Tukad Cepung (Ubud area), **Gembleng** (Sidemen), Sekumpul, Munduk (north Bali)
+8. Refresh in one of the thousands of waterfalls around Bali: Uma Anyar, Manuaba, Tukad Cepung (Ubud area), **Gembleng** (Sidemen), Sekumpul, Munduk (north Bali)
 
 
 ![3-weeks-in-indonesia](/images/posts/3-weeks-in-indonesia-img-2.webp)

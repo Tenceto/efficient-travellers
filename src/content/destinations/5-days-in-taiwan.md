@@ -171,6 +171,13 @@ We kept this day to revisit some of our favorite places, eat a lot of food that 
 Then, unfortunately, it was time to say goodbye to this beautiful island.
 
 
+<div class="post-gallery">
+  <img src="/images/posts/5-days-in-taiwan-img-3.webp" alt="5-days-in-taiwan photo" loading="lazy" />
+  <img src="/images/posts/5-days-in-taiwan-gallery-4.webp" alt="5-days-in-taiwan photo" loading="lazy" />
+  <img src="/images/posts/5-days-in-taiwan-gallery-5.webp" alt="5-days-in-taiwan photo" loading="lazy" />
+</div>
+
+
 ## Food
 
 If you like to get out of your (Western) comfort zone with food, you will lose your mind here. The number of options and variety of dishes and desserts Taiwan offers is crazy. There were so many things to try, and we spent so few days that we had to optimize as much as we could, not to lose the chance of eating anything. There must be several more things to try, so do not take this list as exhaustive, although it is undoubtedly quite solid.
@@ -214,6 +221,3 @@ The list above is already quite long, but we still have more information for our
 - **The boiled dumplings** (水餃) are also a classic, but we found the must-visit spot not in Taipei but in Jiufen. [安迪藥燉排骨/老街美食/小吃/restaurants/吃的/附近美食/推薦晚餐](https://maps.app.goo.gl/cizaq8y4Mj6wHJhd6) is the best place to have a homemade, cheap, and tasty meal in the area. We ordered 10 pork dumplings for 60 NTD (2 USD), while in any other place in the touristy street, the prices were double for even smaller portions. Apart from the price, the dumplings were heavenly. The place was full of locals, which is always the green flag we look for.
 
 - There is nothing typical about [Twin Brothers Coffee](https://maps.app.goo.gl/SwogfWarKzEehSsS6), but it’s too good to leave out. It’s hard to find words that describe how good this place is. First, the cinnamon roll (120 NTD or 4 USD) is just LEGENDARY, and they do a limited number per day. It is (for real) the best roll we have ever had (and Carola is a self-proclaimed cinnamon roll expert). Also, the size is enormous, so if you are not too hungry, you can probably share it in 2. We also had a cappuccino and a light coffee latte (80 NTD or 2.70 USD each), and they were delicious. Fast service, cozy vibe, and popular with locals. Undoubtedly an ideal spot for a non-typical breakfast in Taipei.
-
-
-![5-days-in-taiwan](/images/posts/5-days-in-taiwan-img-3.webp)

@@ -152,6 +152,13 @@ We wrapped up the day at Marina Bay, where events were going on for Formula 1. T
 The last day started with a Singaporean classic breakfast (go to the Food section for more info!). Afterwards, we headed to **Jewel**, the famous complex connected to **Terminal 1** of Changi Airport. It’s honestly insane; there’s a massive indoor waterfall, loads of shops, and plants everywhere. Even if you’re not flying, it’s totally worth checking out. A **free internal shuttle** connects all terminals, so getting around is super easy.
 
 
+<div class="post-gallery">
+  <img src="/images/posts/4-days-in-singapore-img-3.webp" alt="4-days-in-singapore photo" loading="lazy" />
+  <img src="/images/posts/4-days-in-singapore-gallery-4.webp" alt="4-days-in-singapore photo" loading="lazy" />
+  <img src="/images/posts/4-days-in-singapore-gallery-5.webp" alt="4-days-in-singapore photo" loading="lazy" />
+</div>
+
+
 ## Food
 
 Singapore is such an international place that the variety of food from all over the world you can find is endless. If you’re willing to pay, you can literally find anything. However, this blog is all about efficient, budget-friendly traveling, so keep reading to find out where to try local dishes for affordable prices (which can be hard to find in such an expensive country!).
@@ -163,6 +170,3 @@ You can’t say you visited Singapore if you didn’t have a **kaya toast** for 
 To try some of the Indian Muslim side of Singapore’s cuisine, **murtabak** is a solid choice: a pan-fried bread filled with spiced minced meat. The best spot to try it is [Singapore Zam Zam Restaurant](https://maps.app.goo.gl/SGqxuNDPfuEBLexG7) near the Sultan Mosque. There are many sizes to share the dish in a group, and it’s affordable and delicious. You won’t spend more than 8 EUR per person.
 
 Lastly, if you are courageous enough, you must try **durian**. People here are obsessed with this fruit, and it’s famous for its potent smell. People either love it or can’t stand it. In fact, durian is banned in hotels and public transport in Singapore! A good place to try it is [99 Old Trees Durian](https://maps.app.goo.gl/sWuNYU9wwZi5CeyL9), where they sell it in many different formats. To be honest, we could barely swallow it, but some of our friends actually loved it. You will have to try it to see which side you’re on!
-
-
-![4-days-in-singapore](/images/posts/4-days-in-singapore-img-3.webp)

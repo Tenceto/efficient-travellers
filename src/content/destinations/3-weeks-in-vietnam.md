@@ -280,6 +280,13 @@ We also highly recommend doing a free walking tour around Saigon, a really nice 
 Another must-do: the Củ Chi Tunnels tour. We booked it through GetYourGuide ([link here](https://www.getyourguide.com/ciudad-ho-chi-minh-l272/ciudad-de-ho-chi-minh-visita-a-los-tuneles-de-cu-chi-t195248/)), and our guide, Bao, was amazing! The war history and all the stories behind it are just mind-blowing.
 
 
+<div class="post-gallery">
+  <img src="/images/posts/3-weeks-in-vietnam-gallery-3.webp" alt="3-weeks-in-vietnam photo" loading="lazy" />
+  <img src="/images/posts/3-weeks-in-vietnam-gallery-4.webp" alt="3-weeks-in-vietnam photo" loading="lazy" />
+  <img src="/images/posts/3-weeks-in-vietnam-gallery-5.webp" alt="3-weeks-in-vietnam photo" loading="lazy" />
+</div>
+
+
 ## Food
 
 Vietnam is an incredible place to try outstanding food for absurdly low prices. Their cuisine is super rich in variety and really high-quality as well, so it’s hard to come up with a list of must-tries that wouldn’t take years to read. This is just a quick summary according to our criteria and experience:

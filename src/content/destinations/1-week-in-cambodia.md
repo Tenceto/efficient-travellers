@@ -189,7 +189,11 @@ Climbing to the top is a bit of a workout, but the panoramic view makes it total
 As you’ll see in other blogs, there are many more temples to explore, but in our experience, they start to feel quite similar after a while. It can be hard to notice their subtle differences unless you’re deeply passionate about history or architecture. The ones listed above are definitely the ones we found the most stunning and worth visiting.
 
 
-![1-week-in-cambodia](/images/posts/1-week-in-cambodia-img-3.webp)
+<div class="post-gallery">
+  <img src="/images/posts/1-week-in-cambodia-gallery-4.webp" alt="1-week-in-cambodia photo" loading="lazy" />
+  <img src="/images/posts/1-week-in-cambodia-gallery-5.webp" alt="1-week-in-cambodia photo" loading="lazy" />
+  <img src="/images/posts/1-week-in-cambodia-img-3.webp" alt="1-week-in-cambodia photo" loading="lazy" />
+</div>
 
 
 ## Food

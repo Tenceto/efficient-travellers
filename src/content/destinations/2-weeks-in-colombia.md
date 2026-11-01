@@ -267,6 +267,13 @@ To wrap up this amazing trip, we wanted to spend a couple of days with a local I
 We could write pages and pages about this experience, which would include both beautiful moments and some sketchy ones, since the area can be quite hot (and we're not talking about the weather). For that reason, we prefer not to share any public contacts here. However, if you'd like to have a similar experience, feel free to reach out to us privately!
 
 
+<div class="post-gallery">
+  <img src="/images/posts/2-weeks-in-colombia-gallery-4.webp" alt="2-weeks-in-colombia photo" loading="lazy" />
+  <img src="/images/posts/2-weeks-in-colombia-gallery-5.webp" alt="2-weeks-in-colombia photo" loading="lazy" />
+  <img src="/images/posts/2-weeks-in-colombia-img-3.webp" alt="2-weeks-in-colombia photo" loading="lazy" />
+</div>
+
+
 ## Food
 
 Colombian food isn't necessarily the country's biggest draw compared to, say, Peru or Mexico, but there's still a lot to love, especially the incredible street food and the coffee region's cafés. Here's a quick summary based on our own experience and criteria.
@@ -293,6 +300,3 @@ Additionally, there are a few things you should try that you'll find pretty much
 - **Arepas quesudas**: cheesy version of the classic Colombian arepa, dangerously addictive.
 - **Cholado**: a fruity, syrupy shaved-ice dessert, perfect for the heat.
 - **Chontaduro**: a fruit locals eat with sauces and salt; an acquired taste but worth trying once (we actually loved it even the first time!).
-
-
-![2-weeks-in-colombia](/images/posts/2-weeks-in-colombia-img-3.webp)

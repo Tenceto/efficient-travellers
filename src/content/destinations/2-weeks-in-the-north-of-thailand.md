@@ -296,6 +296,13 @@ For us, it was a pretty intense experience. The meditations aren’t guided, so 
 Still, it’s a very interesting experience, and the location is absolutely beautiful!
 
 
+<div class="post-gallery">
+  <img src="/images/posts/2-weeks-in-the-north-of-thailand-gallery-3.webp" alt="2-weeks-in-the-north-of-thailand photo" loading="lazy" />
+  <img src="/images/posts/2-weeks-in-the-north-of-thailand-gallery-4.webp" alt="2-weeks-in-the-north-of-thailand photo" loading="lazy" />
+  <img src="/images/posts/2-weeks-in-the-north-of-thailand-gallery-5.webp" alt="2-weeks-in-the-north-of-thailand photo" loading="lazy" />
+</div>
+
+
 ## Food
 
 Thai food is probably one of the most popular around the world. Since we spent most of our time in Northern Thailand, we got the opportunity to try dishes that are not typically found in the most touristy parts of the country in the south. The dishes we believe anyone in Thailand should try are:

@@ -252,6 +252,13 @@ To get to Andong, you can take a 1.5-hour train, and from the station, there’s
 We highly recommend staying in this [Airbnb](https://it.airbnb.ch/rooms/719405451750514176?adults=2&check_in=2024-04-25&check_out=2024-04-26&source_impression_id=p3_1709490409_lA7kUAhYoFu4C%2F1f&previous_page_section_name=1000&federated_search_id=b4362e29-a70c-4168-9ce9-9524aa74408d&_set_bev_on_new_domain=1748338169_EAZGQyNzkzMGY3MT). It was hands down one of the most unforgettable experiences we had in Korea. We still can’t believe we got to stay there, even if just for a night. Such a unique experience, and the owners were lovely!
 
 
+<div class="post-gallery">
+  <img src="/images/posts/10-days-in-south-korea-gallery-3.webp" alt="10-days-in-south-korea photo" loading="lazy" />
+  <img src="/images/posts/10-days-in-south-korea-gallery-4.webp" alt="10-days-in-south-korea photo" loading="lazy" />
+  <img src="/images/posts/10-days-in-south-korea-gallery-5.webp" alt="10-days-in-south-korea photo" loading="lazy" />
+</div>
+
+
 ## Food
 
 First of all, you have to know that local people don’t usually use Google Maps, but rather Kakao Maps. As a consequence, you may see that many places have very few reviews on Google Maps, or some of them are not even listed on the app. This is just a reminder for you not to follow Google Maps reviews so much while being in South Korea, since they are not representative of quality.

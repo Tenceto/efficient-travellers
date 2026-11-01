@@ -155,6 +155,13 @@ From there, we walked to **Fener**, the historic Greek neighborhood. It’s supe
 And last but not least, we ended up in **Balat**, our absolute favorite! It’s the old Jewish quarter, full of cute little cafés and really aesthetic corners. We loved the vibe there: cozy, local, and full of personality.
 
 
+<div class="post-gallery">
+  <img src="/images/posts/4-days-in-istanbul-img-3.webp" alt="4-days-in-istanbul photo" loading="lazy" />
+  <img src="/images/posts/4-days-in-istanbul-gallery-4.webp" alt="4-days-in-istanbul photo" loading="lazy" />
+  <img src="/images/posts/4-days-in-istanbul-gallery-5.webp" alt="4-days-in-istanbul photo" loading="lazy" />
+</div>
+
+
 ## Food
 
 Turkish cuisine is incredibly rich and varied, offering everything from grilled meats and fresh seafood to street food and sweet desserts. Whether you are looking for a quick bite on the go or a heavy meal in a restaurant, Istanbul has it all.
@@ -179,6 +186,3 @@ To taste them all without falling into tourist traps, here is a list of spots th
 - [Şehzade Cağ Kebap](https://maps.app.goo.gl/bJFpVFDKGu5ujLTd9): Can’t say you’ve visited Istanbul if you don’t get a kebab skewer. There are so many places to go and probably most of them are very good. We tried it here, and it didn’t disappoint, but not sure if there’s anything particular about this place.
 - [Lades Menemen](https://maps.app.goo.gl/2HUB9e3s7T53EXZ16): Menemen is a classic Turkish breakfast dish, but you can find it for lunch if you’re not used to having dishes like this for breakfast (like us). It’s a very famous and historic spot in Beyoğlu, and it’s renowned specifically for serving excellent versions of this dish. So good!
 - [Cafesehrengiz](https://maps.app.goo.gl/xgLMWtUw3wuK1M5n7): Located in the colorful neighborhood of Balat, this café is a great dedicated spot to stop and enjoy some traditional Turkish tea or coffee. The atmosphere inside the shop is awesome, making it a perfectly relaxing break from walking around the city.
-
-
-![4-days-in-istanbul](/images/posts/4-days-in-istanbul-img-3.webp)

@@ -19,7 +19,7 @@ places:
   - { name: "Guangzhou Street Night Market", lat: 25.0366, lng: 121.4978, day: 1, type: "sight", note: "Not touristy, full of people and packed with stalls of Taiwanese snacks.", section: "itinerary" }
   - { name: "Ningxia Night Market", lat: 25.0563, lng: 121.5155, day: 1, type: "sight", note: "One of Taipei's most popular street markets, where we wrapped up our first evening.", section: "itinerary" }
   - { name: "Shi Jia Gua Bao", lat: 25.0573, lng: 121.5165, day: 1, type: "food", note: "A local's tip and one of the best things we ate in Asia, for 65 NTD (not veggie-friendly)." }
-  - { name: "Sweet potato balls stall", lat: 25.0573, lng: 121.5163, day: 1, type: "food", note: "Trendy but disappointing: just fried dough with a long, slow line, 55 NTD. The stall has moved to Minsheng West Road 209." }
+  - { name: "Sweet potato balls stall", lat: 25.0573, lng: 121.5163, day: 1, type: "food", note: "Trendy but disappointing: just fried dough with a long, slow line, 55 NTD." }
   - { name: "Master An's Ice Fire Pineapple Bun", lat: 25.0559, lng: 121.5151, day: 1, type: "food", note: "Don't miss the cheese and butter bun for 55 NTD; the local queue moves fast." }
   - { name: "228 Peace Memorial Park", lat: 25.0402, lng: 121.5152, day: 2, type: "sight", note: "Start of our free Guruwalk Old Town tour, a great way to learn Taiwan's history.", section: "itinerary" }
   - { name: "Liu Shandong Beef Noodles", lat: 25.0457, lng: 121.5138, day: 2, type: "food", note: "Noodles on another level for 220 NTD; arrive early, we queued 15 minutes at 11.15 am." }

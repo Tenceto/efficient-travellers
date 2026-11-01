@@ -61,9 +61,7 @@ Infinite panoramic roads, glaciers, waterfalls and volcanoes. When going around 
 - **When to visit**: We decided to visit in June, when there’s a better chance of good weather without it being too crowded. Two magical things happen in Iceland during June:  
   - The Lupine Explosion that transforms the countryside into endless fields of purple lupine flowers.  
   - The Midnight Sun: you get around 21 hours of daylight, and it never really gets dark. You can use those endless hours of light to hike or explore waterfalls at midnight completely alone. You can make the absolute best out of every single day.
-
-While visiting in winter to see the Northern Lights must be an incredible experience, we truly feel that June is the ultimate month to maximize your time and see the island's raw nature at its finest. Even better than July or August, which are more crowded with tourists.
-
+  - While visiting in winter to see the Northern Lights must be an incredible experience, we truly feel that June is the ultimate month to maximize your time and see the island's raw nature at its finest. Even better than July or August, which are more crowded with tourists.
 - **Rent a car / van**: Renting a vehicle is a must in order to visit the whole island, since public transport outside the cities is very limited.  
   We chose to rent a van in order to be completely free and decide day by day what itinerary to follow. It turned out pretty useful considering the volatility of the weather. Plus, we are van-life lovers!  
   There are several companies to rent the van from, but for us the best value for money was definitely [Kuku Campers](https://www.kukucampers.is/). It's a local company, our experience was great, and their marketing is absolutely the best: 10/10.  
@@ -213,7 +211,7 @@ We started with **Dettifoss**, Europe’s second most powerful waterfall.
 
 Then we went to the horseshoe-shaped expanse of **Ásbyrgi Canyon**, which you can admire from the van, with a short walk at the end.
 
-Then, we passed by Húsavík where we enjoyed the thermal pools of **Geosea**. Of course very beautiful, but at the same time quite pricey, so we preferred the natural ones.
+Then, we passed by Húsavík where we enjoyed the thermal pools of **GeoSea**. Of course very beautiful, but at the same time quite pricey, so we preferred the natural ones.
 
 The next day the adventure continued around the otherworldly landscapes of **Lake Mývatn** and **Hverfjall** volcano.
 

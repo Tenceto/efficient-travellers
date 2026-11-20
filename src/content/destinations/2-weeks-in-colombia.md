@@ -71,6 +71,17 @@ Like in any good South American country, the vibes are unbeatable, and locals ar
 ![2-weeks-in-colombia](/images/posts/2-weeks-in-colombia-img-1.webp)
 
 
+## TL;DR
+
+
+- Colombia has incredible diversity packed into a small window: big cities, coffee-region palm trees, colonial towns, jungle, and Caribbean beaches. It's genuinely one of the most beautiful countries we've been to.
+- Cheap domestic flights make it easy to cover both the central coffee region and the Caribbean coast in just two weeks.
+- Be sure to include Medellín (don't miss the Comuna 13 walking tour), Tayrona and Salento (Cocora Valley hike is a must) in your trip. Cartagena is a bit overrated in our opinion.
+- Watch out for scams around the Rosario Islands boat tickets: only buy from an official counter behind glass, never from a street reseller.
+- The Tayrona National Park trek to Playa Brava is tough (humidity, not distance) but staying on that beach is one of the most magical experiences of the whole trip. We suggest starting from El Calabazo entrance!
+- We skipped Bogotá on purpose, but it could be worth adding if you're into museums and history.
+
+
 ## Efficiency tips
 
 
@@ -111,17 +122,6 @@ If you want to save as much as possible (as we did, of course), you can activate
 ### Clothes
 
 If you go into the jungle, bring long clothes that protect you from insects (and use a lot of repellent!), that dry fast, and that are VERY, VERY light. The heat can get really tough.
-
-
-## TL;DR
-
-
-- Colombia has incredible diversity packed into a small window: big cities, coffee-region palm trees, colonial towns, jungle, and Caribbean beaches. It's genuinely one of the most beautiful countries we've been to.
-- Cheap domestic flights make it easy to cover both the central coffee region and the Caribbean coast in just two weeks.
-- Be sure to include Medellín (don't miss the Comuna 13 walking tour), Tayrona and Salento (Cocora Valley hike is a must) in your trip. Cartagena is a bit overrated in our opinion.
-- Watch out for scams around the Rosario Islands boat tickets: only buy from an official counter behind glass, never from a street reseller.
-- The Tayrona National Park trek to Playa Brava is tough (humidity, not distance) but staying on that beach is one of the most magical experiences of the whole trip. We suggest starting from El Calabazo entrance!
-- We skipped Bogotá on purpose, but it could be worth adding if you're into museums and history.
 
 
 ![2-weeks-in-colombia](/images/posts/2-weeks-in-colombia-img-2.webp)

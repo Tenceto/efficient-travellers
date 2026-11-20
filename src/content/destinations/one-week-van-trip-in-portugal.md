@@ -46,7 +46,7 @@ places:
   - { name: "Arouca", lat: 40.9289, lng: -8.2442, group: "Arouca and the N222", type: "town", note: "Where we spent the night before driving the N222." }
   - { name: "N222: Peso da Régua", lat: 41.1631, lng: -7.7880, group: "Arouca and the N222", type: "nature", note: "Start of the best-known stretch of the N222 through the Douro Valley vineyards." }
   - { name: "N222: Pinhão", lat: 41.1905, lng: -7.5459, group: "Arouca and the N222", type: "nature", note: "End of the famous Douro stretch. Beautiful, if not quite 'the most beautiful road in the world'." }
-ratings: {"budget": 3, "adventure": 3, "food": 4, "overall": 4}
+ratings: {"budget": 4, "adventure": 3, "food": 4, "overall": 4}
 ---
 
 ## Let’s start
